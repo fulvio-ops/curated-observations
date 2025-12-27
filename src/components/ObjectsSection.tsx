@@ -1,3 +1,4 @@
+import { useLocale } from "@/i18n";
 import ObjectCard from "./ObjectCard";
 
 const objects = [
@@ -19,15 +20,17 @@ const objects = [
 ];
 
 const ObjectsSection = () => {
+  const { t, translateObjectName } = useLocale();
+
   return (
     <section id="objects" className="py-16 bg-card border-y border-border">
       <div className="container max-w-4xl mx-auto px-6">
         <div className="flex items-center justify-between mb-12">
           <h2 className="font-serif text-2xl font-medium text-foreground">
-            Objects that exist
+            {t('objectsTitle')}
           </h2>
           <span className="text-xs text-muted-foreground uppercase tracking-wider">
-            Purchasable
+            {t('purchasable')}
           </span>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -37,12 +40,16 @@ const ObjectsSection = () => {
               className="animate-fade-in"
               style={{ animationDelay: `${index * 100}ms` }}
             >
-              <ObjectCard {...object} />
+              <ObjectCard 
+                {...object}
+                name={translateObjectName(object.name)}
+                microJudgment={object.microJudgment ? t(object.microJudgment) : undefined}
+              />
             </div>
           ))}
         </div>
         <p className="text-xs text-muted-foreground text-center mt-12 max-w-md mx-auto">
-          Objects are selected for their observational value. Affiliate links help sustain this experiment.
+          {t('objectsDisclaimer')}
         </p>
       </div>
     </section>

@@ -1,3 +1,4 @@
+import { useLocale } from "@/i18n";
 import ObservationCard from "./ObservationCard";
 
 const observations = [
@@ -28,15 +29,17 @@ const observations = [
 ];
 
 const ObservationsSection = () => {
+  const { t, translateTitle } = useLocale();
+
   return (
     <section id="observations" className="py-16">
       <div className="container max-w-4xl mx-auto px-6">
         <div className="flex items-center justify-between mb-12">
           <h2 className="font-serif text-2xl font-medium text-foreground">
-            Recent observations
+            {t('recentObservations')}
           </h2>
           <span className="text-xs text-muted-foreground uppercase tracking-wider">
-            Filtered
+            {t('filtered')}
           </span>
         </div>
         <div className="divide-y divide-border border-t border-border">
@@ -46,7 +49,11 @@ const ObservationsSection = () => {
               className="animate-fade-in"
               style={{ animationDelay: `${index * 100}ms` }}
             >
-              <ObservationCard {...observation} />
+              <ObservationCard 
+                {...observation} 
+                title={translateTitle(observation.title)}
+                microJudgment={observation.microJudgment ? t(observation.microJudgment) : undefined}
+              />
             </div>
           ))}
         </div>
