@@ -1,4 +1,8 @@
+import { useLocale } from "@/i18n";
+
 const Header = () => {
+  const { t } = useLocale();
+
   return (
     <header className="py-8 border-b border-border">
       <div className="container max-w-4xl mx-auto px-6">
@@ -11,13 +15,13 @@ const Header = () => {
               href="#observations" 
               className="text-sm text-muted-foreground hover:text-foreground transition-colors duration-200"
             >
-              Observations
+              {t('observations')}
             </a>
             <a 
               href="#objects" 
               className="text-sm text-muted-foreground hover:text-foreground transition-colors duration-200"
             >
-              Objects
+              {t('objects')}
             </a>
           </nav>
         </div>

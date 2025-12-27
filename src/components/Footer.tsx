@@ -1,4 +1,8 @@
+import { useLocale } from "@/i18n";
+
 const Footer = () => {
+  const { t } = useLocale();
+
   return (
     <footer className="py-16">
       <div className="container max-w-4xl mx-auto px-6">
@@ -8,10 +12,10 @@ const Footer = () => {
             KETOGO
           </p>
           <p className="text-sm text-muted-foreground">
-            An editorial experiment by Fulvio Fugallo.
+            {t('footerByline')}
           </p>
           <p className="text-xs text-muted-foreground/60 max-w-sm mx-auto mt-8">
-            Selection over creation. Observation over opinion.
+            {t('footerTagline')}
           </p>
         </div>
       </div>
