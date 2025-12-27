@@ -14,7 +14,87 @@ export type Database = {
   }
   public: {
     Tables: {
-      [_ in never]: never
+      objects: {
+        Row: {
+          amazon_url_com: string | null
+          amazon_url_it: string | null
+          approved: boolean
+          created_at: string
+          id: string
+          image_url: string | null
+          micro_judgment_en: string | null
+          micro_judgment_it: string | null
+          name_en: string
+          name_it: string | null
+          price: string
+        }
+        Insert: {
+          amazon_url_com?: string | null
+          amazon_url_it?: string | null
+          approved?: boolean
+          created_at?: string
+          id?: string
+          image_url?: string | null
+          micro_judgment_en?: string | null
+          micro_judgment_it?: string | null
+          name_en: string
+          name_it?: string | null
+          price: string
+        }
+        Update: {
+          amazon_url_com?: string | null
+          amazon_url_it?: string | null
+          approved?: boolean
+          created_at?: string
+          id?: string
+          image_url?: string | null
+          micro_judgment_en?: string | null
+          micro_judgment_it?: string | null
+          name_en?: string
+          name_it?: string | null
+          price?: string
+        }
+        Relationships: []
+      }
+      observations: {
+        Row: {
+          approved: boolean
+          created_at: string
+          id: string
+          micro_judgment_en: string | null
+          micro_judgment_it: string | null
+          published_at: string
+          source: string
+          source_url: string | null
+          title_en: string
+          title_it: string | null
+        }
+        Insert: {
+          approved?: boolean
+          created_at?: string
+          id?: string
+          micro_judgment_en?: string | null
+          micro_judgment_it?: string | null
+          published_at?: string
+          source: string
+          source_url?: string | null
+          title_en: string
+          title_it?: string | null
+        }
+        Update: {
+          approved?: boolean
+          created_at?: string
+          id?: string
+          micro_judgment_en?: string | null
+          micro_judgment_it?: string | null
+          published_at?: string
+          source?: string
+          source_url?: string | null
+          title_en?: string
+          title_it?: string | null
+        }
+        Relationships: []
+      }
     }
     Views: {
       [_ in never]: never

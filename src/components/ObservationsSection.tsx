@@ -1,35 +1,110 @@
 import { useLocale } from "@/i18n";
+import { useEffect, useState } from "react";
+import { supabase } from "@/integrations/supabase/client";
 import ObservationCard from "./ObservationCard";
 
-const observations = [
+interface Observation {
+  id: string;
+  title_en: string;
+  title_it: string | null;
+  source: string;
+  source_url: string | null;
+  micro_judgment_en: string | null;
+  micro_judgment_it: string | null;
+  published_at: string;
+}
+
+// Fallback mock data in case no approved content yet
+const fallbackObservations = [
   {
-    title: "Man spends three years building spreadsheet to track every meal he's ever eaten",
+    id: "1",
+    title_en: "Man spends three years building spreadsheet to track every meal he's ever eaten",
+    title_it: "Uomo passa tre anni a costruire un foglio di calcolo per tracciare ogni pasto mai consumato",
     source: "Reddit",
-    microJudgment: "This exists.",
-    date: "Dec 26",
+    source_url: null,
+    micro_judgment_en: "This exists.",
+    micro_judgment_it: "Questo esiste.",
+    published_at: new Date().toISOString(),
   },
   {
-    title: "Town council votes to rename street after local cat who attended every meeting",
+    id: "2",
+    title_en: "Town council votes to rename street after local cat who attended every meeting",
+    title_it: "Il consiglio comunale vota per rinominare una via in onore del gatto locale che ha partecipato a ogni riunione",
     source: "Local news",
-    microJudgment: "Democracy works.",
-    date: "Dec 25",
+    source_url: null,
+    micro_judgment_en: "Democracy works.",
+    micro_judgment_it: "La democrazia funziona.",
+    published_at: new Date().toISOString(),
   },
   {
-    title: "Company introduces mandatory fun training for employees who seem too serious",
+    id: "3",
+    title_en: "Company introduces mandatory fun training for employees who seem too serious",
+    title_it: "Azienda introduce formazione obbligatoria sul divertimento per dipendenti che sembrano troppo seri",
     source: "LinkedIn",
-    microJudgment: "Someone approved this.",
-    date: "Dec 24",
-  },
-  {
-    title: "Study finds people who announce gym plans less likely to go",
-    source: "Science",
-    microJudgment: "And yet, here we are.",
-    date: "Dec 23",
+    source_url: null,
+    micro_judgment_en: "Someone approved this.",
+    micro_judgment_it: "Qualcuno ha approvato questo.",
+    published_at: new Date().toISOString(),
   },
 ];
 
 const ObservationsSection = () => {
-  const { t, translateTitle } = useLocale();
+  const { t, locale } = useLocale();
+  const [observations, setObservations] = useState<Observation[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchObservations = async () => {
+      const { data, error } = await supabase
+        .from('observations')
+        .select('*')
+        .eq('approved', true)
+        .order('published_at', { ascending: false })
+        .limit(10);
+
+      if (error) {
+        console.error('Error fetching observations:', error);
+        setObservations(fallbackObservations);
+      } else if (data && data.length > 0) {
+        setObservations(data);
+      } else {
+        setObservations(fallbackObservations);
+      }
+      setLoading(false);
+    };
+
+    fetchObservations();
+  }, []);
+
+  const formatDate = (dateStr: string) => {
+    const date = new Date(dateStr);
+    return date.toLocaleDateString(locale === 'it' ? 'it-IT' : 'en-US', { 
+      month: 'short', 
+      day: 'numeric' 
+    });
+  };
+
+  const getLocalizedTitle = (obs: Observation) => {
+    if (locale === 'it' && obs.title_it) return obs.title_it;
+    return obs.title_en;
+  };
+
+  const getLocalizedJudgment = (obs: Observation) => {
+    if (locale === 'it' && obs.micro_judgment_it) return obs.micro_judgment_it;
+    return obs.micro_judgment_en || undefined;
+  };
+
+  if (loading) {
+    return (
+      <section id="observations" className="py-16">
+        <div className="container max-w-4xl mx-auto px-6">
+          <div className="text-center text-muted-foreground">
+            {locale === 'it' ? 'Caricamento...' : 'Loading...'}
+          </div>
+        </div>
+      </section>
+    );
+  }
 
   return (
     <section id="observations" className="py-16">
@@ -45,14 +120,15 @@ const ObservationsSection = () => {
         <div className="divide-y divide-border border-t border-border">
           {observations.map((observation, index) => (
             <div
-              key={index}
+              key={observation.id}
               className="animate-fade-in"
               style={{ animationDelay: `${index * 100}ms` }}
             >
               <ObservationCard 
-                {...observation} 
-                title={translateTitle(observation.title)}
-                microJudgment={observation.microJudgment ? t(observation.microJudgment) : undefined}
+                title={getLocalizedTitle(observation)}
+                source={observation.source}
+                microJudgment={getLocalizedJudgment(observation)}
+                date={formatDate(observation.published_at)}
               />
             </div>
           ))}
