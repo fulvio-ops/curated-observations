@@ -5,11 +5,21 @@ const corsHeaders = {
   'Access-Control-Allow-Headers': 'authorization, x-client-info, apikey, content-type',
 }
 
-// RSS feeds to monitor (can be expanded)
+// RSS feeds to monitor - diversified sources
 const RSS_FEEDS = [
+  // Reddit quirky discoveries
   'https://www.reddit.com/r/mildlyinteresting/.rss',
   'https://www.reddit.com/r/oddlysatisfying/.rss',
   'https://www.reddit.com/r/ofcoursethatsathing/.rss',
+  // Product Hunt - new products
+  'https://www.producthunt.com/feed',
+  // Hacker News - tech discoveries
+  'https://hnrss.org/frontpage',
+  // ANSA.it - Italian news (curiosità section)
+  'https://www.ansa.it/sito/ansait_rss.xml',
+  // Design blogs
+  'https://www.designboom.com/feed/',
+  'https://www.yankodesign.com/feed/',
 ]
 
 interface RSSItem {
