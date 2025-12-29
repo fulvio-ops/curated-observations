@@ -2,6 +2,12 @@ import { useLocale } from "@/i18n";
 import { useEffect, useState } from "react";
 import { supabase } from "@/integrations/supabase/client";
 import ObservationCard from "./ObservationCard";
+import {
+  Accordion,
+  AccordionContent,
+  AccordionItem,
+  AccordionTrigger,
+} from "@/components/ui/accordion";
 
 interface Observation {
   id: string;
@@ -64,7 +70,7 @@ const ObservationsSection = () => {
         .select('*')
         .eq('approved', true)
         .order('published_at', { ascending: false })
-        .limit(100); // Fetch more for historical view
+        .limit(100);
 
       if (error) {
         console.error('Error fetching observations:', error);
@@ -149,39 +155,44 @@ const ObservationsSection = () => {
           </span>
         </div>
         
-        <div className="space-y-12">
+        <Accordion 
+          type="multiple" 
+          defaultValue={sortedDates.slice(0, 1)}
+          className="space-y-4"
+        >
           {sortedDates.map((date, dateIndex) => (
-            <div 
-              key={date}
-              className="animate-fade-in"
-              style={{ animationDelay: `${dateIndex * 150}ms` }}
+            <AccordionItem 
+              key={date} 
+              value={date}
+              className="border border-border rounded-lg px-4 animate-fade-in"
+              style={{ animationDelay: `${dateIndex * 100}ms` }}
             >
-              <div className="flex items-center gap-4 mb-6">
-                <h3 className="font-serif text-lg font-medium text-foreground whitespace-nowrap">
-                  {locale === 'it' ? 'News del' : 'News of'} {formatDateHeader(date)}
-                </h3>
-                <div className="flex-1 h-px bg-border"></div>
-              </div>
-              
-              <div className="divide-y divide-border border-t border-b border-border">
-                {groupedObservations[date].map((observation, index) => (
-                  <div
-                    key={observation.id}
-                    className="animate-fade-in"
-                    style={{ animationDelay: `${(dateIndex * 150) + (index * 50)}ms` }}
-                  >
+              <AccordionTrigger className="hover:no-underline py-4">
+                <div className="flex items-center gap-3">
+                  <span className="font-serif text-lg font-medium text-foreground">
+                    {locale === 'it' ? 'News del' : 'News of'} {formatDateHeader(date)}
+                  </span>
+                  <span className="text-xs text-muted-foreground bg-muted px-2 py-1 rounded-full">
+                    {groupedObservations[date].length}
+                  </span>
+                </div>
+              </AccordionTrigger>
+              <AccordionContent>
+                <div className="divide-y divide-border">
+                  {groupedObservations[date].map((observation) => (
                     <ObservationCard 
+                      key={observation.id}
                       title={getLocalizedTitle(observation)}
                       source={observation.source}
                       microJudgment={getLocalizedJudgment(observation)}
                       date={formatDate(observation.published_at)}
                     />
-                  </div>
-                ))}
-              </div>
-            </div>
+                  ))}
+                </div>
+              </AccordionContent>
+            </AccordionItem>
           ))}
-        </div>
+        </Accordion>
       </div>
     </section>
   );
