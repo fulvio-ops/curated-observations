@@ -180,7 +180,7 @@ Deno.serve(async (req) => {
             source_url: item.link,
             micro_judgment_en: judgment.en || null,
             micro_judgment_it: judgment.it || null,
-            approved: false // Requires manual approval
+            approved: true // Auto-approved for automatic daily updates
           })
         
         if (!error) {
