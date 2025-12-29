@@ -14,6 +14,10 @@ interface Observation {
   published_at: string;
 }
 
+interface GroupedObservations {
+  [date: string]: Observation[];
+}
+
 // Fallback mock data in case no approved content yet
 const fallbackObservations = [
   {
@@ -60,7 +64,7 @@ const ObservationsSection = () => {
         .select('*')
         .eq('approved', true)
         .order('published_at', { ascending: false })
-        .limit(10);
+        .limit(100); // Fetch more for historical view
 
       if (error) {
         console.error('Error fetching observations:', error);
@@ -75,6 +79,28 @@ const ObservationsSection = () => {
 
     fetchObservations();
   }, []);
+
+  const groupByDate = (obs: Observation[]): GroupedObservations => {
+    return obs.reduce((groups, observation) => {
+      const date = new Date(observation.published_at).toISOString().split('T')[0];
+      if (!groups[date]) {
+        groups[date] = [];
+      }
+      groups[date].push(observation);
+      return groups;
+    }, {} as GroupedObservations);
+  };
+
+  const formatDateHeader = (dateStr: string) => {
+    const date = new Date(dateStr);
+    const options: Intl.DateTimeFormatOptions = { 
+      weekday: 'long',
+      day: 'numeric', 
+      month: 'long',
+      year: 'numeric'
+    };
+    return date.toLocaleDateString(locale === 'it' ? 'it-IT' : 'en-US', options);
+  };
 
   const formatDate = (dateStr: string) => {
     const date = new Date(dateStr);
@@ -93,6 +119,11 @@ const ObservationsSection = () => {
     if (locale === 'it' && obs.micro_judgment_it) return obs.micro_judgment_it;
     return obs.micro_judgment_en || undefined;
   };
+
+  const groupedObservations = groupByDate(observations);
+  const sortedDates = Object.keys(groupedObservations).sort((a, b) => 
+    new Date(b).getTime() - new Date(a).getTime()
+  );
 
   if (loading) {
     return (
@@ -117,19 +148,37 @@ const ObservationsSection = () => {
             {t('filtered')}
           </span>
         </div>
-        <div className="divide-y divide-border border-t border-border">
-          {observations.map((observation, index) => (
-            <div
-              key={observation.id}
+        
+        <div className="space-y-12">
+          {sortedDates.map((date, dateIndex) => (
+            <div 
+              key={date}
               className="animate-fade-in"
-              style={{ animationDelay: `${index * 100}ms` }}
+              style={{ animationDelay: `${dateIndex * 150}ms` }}
             >
-              <ObservationCard 
-                title={getLocalizedTitle(observation)}
-                source={observation.source}
-                microJudgment={getLocalizedJudgment(observation)}
-                date={formatDate(observation.published_at)}
-              />
+              <div className="flex items-center gap-4 mb-6">
+                <h3 className="font-serif text-lg font-medium text-foreground whitespace-nowrap">
+                  {locale === 'it' ? 'News del' : 'News of'} {formatDateHeader(date)}
+                </h3>
+                <div className="flex-1 h-px bg-border"></div>
+              </div>
+              
+              <div className="divide-y divide-border border-t border-b border-border">
+                {groupedObservations[date].map((observation, index) => (
+                  <div
+                    key={observation.id}
+                    className="animate-fade-in"
+                    style={{ animationDelay: `${(dateIndex * 150) + (index * 50)}ms` }}
+                  >
+                    <ObservationCard 
+                      title={getLocalizedTitle(observation)}
+                      source={observation.source}
+                      microJudgment={getLocalizedJudgment(observation)}
+                      date={formatDate(observation.published_at)}
+                    />
+                  </div>
+                ))}
+              </div>
             </div>
           ))}
         </div>
