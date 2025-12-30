@@ -11,7 +11,7 @@ const Header = () => {
           <img 
             src={ketogoLogo} 
             alt="KETOGO" 
-            className="h-8 invert dark:invert-0"
+            className="h-16 md:h-20 brightness-0 dark:brightness-100"
           />
           <nav className="hidden sm:flex items-center gap-8">
             <a 
