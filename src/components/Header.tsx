@@ -1,4 +1,5 @@
 import { useLocale } from "@/i18n";
+import ketogoLogo from "@/assets/ketogo-logo.png";
 
 const Header = () => {
   const { t } = useLocale();
@@ -7,9 +8,11 @@ const Header = () => {
     <header className="py-8 border-b border-border">
       <div className="container max-w-4xl mx-auto px-6">
         <div className="flex items-center justify-between">
-          <h1 className="font-serif text-2xl font-medium tracking-wide text-foreground">
-            KETOGO
-          </h1>
+          <img 
+            src={ketogoLogo} 
+            alt="KETOGO" 
+            className="h-8 invert dark:invert-0"
+          />
           <nav className="hidden sm:flex items-center gap-8">
             <a 
               href="#observations" 
