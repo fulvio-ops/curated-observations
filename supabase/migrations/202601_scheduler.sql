@@ -17,9 +17,9 @@ select cron.schedule(
   '10 5 * * *',
   $$
   select net.http_post(
-    url := 'https://YOUR_PROJECT_ID.supabase.co/functions/v1/fetch-rss',
+    url := 'https://xzvebnanaaupgvbrzdyx.supabase.co/functions/v1/fetch-rss',
     headers := jsonb_build_object(
-      'Authorization', 'Bearer YOUR_SCHEDULER_SECRET'
+      'Authorization', 'Bearer ketogo_fughy-project-ops-skeduler2026'
     )
   );
   $$
