@@ -35,20 +35,27 @@ jobs:
 
       - name: Commit changes (if any)
         run: |
+          git config user.name "ketogo-bot"
+          git config user.email "ketogo-bot@users.noreply.github.com"
+
+          # 1) Sync to latest main BEFORE touching files
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+
+          # 2) Run the collector now (ensures changes are based on latest main)
+          npm run daily:run
+
+          # 3) Commit & push only if something changed
           if git diff --quiet; then
             echo "No changes to commit."
-          else
-            git config user.name "ketogo-bot"
-            git config user.email "ketogo-bot@users.noreply.github.com"
-
-            git add public/data/observations.json public/data/objects.json
-            git commit -m "Daily editorial update"
-
-            # Rebase on latest main to avoid non-fast-forward rejections
-            git pull --rebase origin main
-
-            git push origin main
+            exit 0
           fi
+
+          git add public/data/observations.json public/data/objects.json
+          git commit -m "Daily editorial update"
+          git push origin main
+
 
   build:
     needs: daily
