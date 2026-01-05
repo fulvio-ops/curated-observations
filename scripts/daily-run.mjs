@@ -35,6 +35,8 @@ const FEEDS = [
 ];
 
 const DATA_PATH = path.join(process.cwd(), "public", "data", "observations.json");
+const OBJECTS_PATH = path.join(process.cwd(), "public", "data", "objects.json");
+
 
 function sha1(input) {
   return crypto.createHash("sha1").update(input).digest("hex");
