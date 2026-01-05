@@ -1,201 +1,58 @@
-import { useLocale } from "@/i18n";
 import { useEffect, useState } from "react";
-import { supabase } from "@/integrations/supabase/client";
-import ObservationCard from "./ObservationCard";
-import {
-  Accordion,
-  AccordionContent,
-  AccordionItem,
-  AccordionTrigger,
-} from "@/components/ui/accordion";
+import { Card, CardContent } from "@/components/ui/card";
 
-interface Observation {
-  id: string;
-  title_en: string;
-  title_it: string | null;
+type Observation = {
+  fingerprint: string;
   source: string;
-  source_url: string | null;
-  micro_judgment_en: string | null;
-  micro_judgment_it: string | null;
+  title: string;
+  link: string;
   published_at: string;
-}
+  micro_judgment?: string | null;
+};
 
-interface GroupedObservations {
-  [date: string]: Observation[];
-}
-
-// Fallback mock data in case no approved content yet
-const fallbackObservations = [
-  {
-    id: "1",
-    title_en: "Man spends three years building spreadsheet to track every meal he's ever eaten",
-    title_it: "Uomo passa tre anni a costruire un foglio di calcolo per tracciare ogni pasto mai consumato",
-    source: "Reddit",
-    source_url: null,
-    micro_judgment_en: "This exists.",
-    micro_judgment_it: "Questo esiste.",
-    published_at: new Date().toISOString(),
-  },
-  {
-    id: "2",
-    title_en: "Town council votes to rename street after local cat who attended every meeting",
-    title_it: "Il consiglio comunale vota per rinominare una via in onore del gatto locale che ha partecipato a ogni riunione",
-    source: "Local news",
-    source_url: null,
-    micro_judgment_en: "Democracy works.",
-    micro_judgment_it: "La democrazia funziona.",
-    published_at: new Date().toISOString(),
-  },
-  {
-    id: "3",
-    title_en: "Company introduces mandatory fun training for employees who seem too serious",
-    title_it: "Azienda introduce formazione obbligatoria sul divertimento per dipendenti che sembrano troppo seri",
-    source: "LinkedIn",
-    source_url: null,
-    micro_judgment_en: "Someone approved this.",
-    micro_judgment_it: "Qualcuno ha approvato questo.",
-    published_at: new Date().toISOString(),
-  },
-];
-
-const ObservationsSection = () => {
-  const { t, locale } = useLocale();
-  const [observations, setObservations] = useState<Observation[]>([]);
-  const [loading, setLoading] = useState(true);
+export default function ObservationsSection() {
+  const [items, setItems] = useState<Observation[]>([]);
 
   useEffect(() => {
-    const fetchObservations = async () => {
-      const { data, error } = await supabase
-        .from('observations')
-        .select('*')
-        .eq('approved', true)
-        .order('published_at', { ascending: false })
-        .limit(100);
-
-      if (error) {
-        console.error('Error fetching observations:', error);
-        setObservations(fallbackObservations);
-      } else if (data && data.length > 0) {
-        setObservations(data);
-      } else {
-        setObservations(fallbackObservations);
-      }
-      setLoading(false);
-    };
-
-    fetchObservations();
+    fetch("/data/observations.json", { cache: "no-store" })
+      .then((r) => r.json())
+      .then((data) => setItems(Array.isArray(data) ? data : []))
+      .catch(() => setItems([]));
   }, []);
 
-  const groupByDate = (obs: Observation[]): GroupedObservations => {
-    return obs.reduce((groups, observation) => {
-      const date = new Date(observation.published_at).toISOString().split('T')[0];
-      if (!groups[date]) {
-        groups[date] = [];
-      }
-      groups[date].push(observation);
-      return groups;
-    }, {} as GroupedObservations);
-  };
-
-  const formatDateHeader = (dateStr: string) => {
-    const date = new Date(dateStr);
-    const options: Intl.DateTimeFormatOptions = { 
-      weekday: 'long',
-      day: 'numeric', 
-      month: 'long',
-      year: 'numeric'
-    };
-    return date.toLocaleDateString(locale === 'it' ? 'it-IT' : 'en-US', options);
-  };
-
-  const formatDate = (dateStr: string) => {
-    const date = new Date(dateStr);
-    return date.toLocaleDateString(locale === 'it' ? 'it-IT' : 'en-US', { 
-      month: 'short', 
-      day: 'numeric' 
-    });
-  };
-
-  const getLocalizedTitle = (obs: Observation) => {
-    if (locale === 'it' && obs.title_it) return obs.title_it;
-    return obs.title_en;
-  };
-
-  const getLocalizedJudgment = (obs: Observation) => {
-    if (locale === 'it' && obs.micro_judgment_it) return obs.micro_judgment_it;
-    return obs.micro_judgment_en || undefined;
-  };
-
-  const groupedObservations = groupByDate(observations);
-  const sortedDates = Object.keys(groupedObservations).sort((a, b) => 
-    new Date(b).getTime() - new Date(a).getTime()
-  );
-
-  if (loading) {
-    return (
-      <section id="observations" className="py-16">
-        <div className="container max-w-4xl mx-auto px-6">
-          <div className="text-center text-muted-foreground">
-            {locale === 'it' ? 'Caricamento...' : 'Loading...'}
-          </div>
-        </div>
-      </section>
-    );
-  }
-
   return (
-    <section id="observations" className="py-16">
-      <div className="container max-w-4xl mx-auto px-6">
-        <div className="flex items-center justify-between mb-12">
-          <h2 className="font-serif text-2xl font-medium text-foreground">
-            {t('recentObservations')}
-          </h2>
-          <span className="text-xs text-muted-foreground uppercase tracking-wider">
-            {t('filtered')}
-          </span>
-        </div>
-        
-        <Accordion 
-          type="multiple" 
-          defaultValue={sortedDates.slice(0, 1)}
-          className="space-y-4"
-        >
-          {sortedDates.map((date, dateIndex) => (
-            <AccordionItem 
-              key={date} 
-              value={date}
-              className="border border-border rounded-lg px-4 animate-fade-in"
-              style={{ animationDelay: `${dateIndex * 100}ms` }}
-            >
-              <AccordionTrigger className="hover:no-underline py-4">
-                <div className="flex items-center gap-3">
-                  <span className="font-serif text-lg font-medium text-foreground">
-                    {locale === 'it' ? 'News del' : 'News of'} {formatDateHeader(date)}
-                  </span>
-                  <span className="text-xs text-muted-foreground bg-muted px-2 py-1 rounded-full">
-                    {groupedObservations[date].length}
-                  </span>
+    <section className="py-12">
+      <div className="container mx-auto px-4">
+        <h2 className="text-2xl font-semibold mb-6">Observations</h2>
+        <div className="grid gap-4">
+          {items.map((it) => (
+            <Card key={it.fingerprint}>
+              <CardContent className="p-4">
+                <div className="flex items-center justify-between gap-3">
+                  <div className="text-sm opacity-70">{it.source}</div>
+                  <div className="text-sm opacity-70">
+                    {new Date(it.published_at).toLocaleDateString()}
+                  </div>
                 </div>
-              </AccordionTrigger>
-              <AccordionContent>
-                <div className="divide-y divide-border">
-                  {groupedObservations[date].map((observation) => (
-                    <ObservationCard 
-                      key={observation.id}
-                      title={getLocalizedTitle(observation)}
-                      source={observation.source}
-                      microJudgment={getLocalizedJudgment(observation)}
-                      date={formatDate(observation.published_at)}
-                    />
-                  ))}
-                </div>
-              </AccordionContent>
-            </AccordionItem>
+                <a
+                  href={it.link}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="block mt-2 text-lg font-medium hover:underline"
+                >
+                  {it.title}
+                </a>
+                {it.micro_judgment ? (
+                  <div className="mt-2 text-sm opacity-80">{it.micro_judgment}</div>
+                ) : null}
+              </CardContent>
+            </Card>
           ))}
-        </Accordion>
+          {items.length === 0 ? (
+            <div className="opacity-70 text-sm">Quiet week.</div>
+          ) : null}
+        </div>
       </div>
     </section>
   );
-};
-
-export default ObservationsSection;
+}
