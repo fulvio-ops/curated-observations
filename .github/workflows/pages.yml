@@ -2,7 +2,7 @@ name: Daily fetch + Deploy Pages
 
 on:
   schedule:
-    - cron: "10 5 * * *" # daily 05:10 UTC
+    - cron: "10 5 * * *"
   workflow_dispatch:
 
 permissions:
@@ -27,7 +27,7 @@ jobs:
           node-version: 20
           cache: npm
 
-      - run: npm ci
+      - run: npm install
 
       - name: Run daily collector
         run: npm run daily:run
@@ -49,15 +49,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
-
-      - run: npm ci
+      - run: npm install
       - run: npm run build
-
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
