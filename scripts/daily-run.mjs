@@ -67,8 +67,15 @@ function approveHeuristic({ title, link }) {
     "unexpected", "mildly", "satisfying", "design", "prototype", "invention", "product",
     "nobody asked", "this exists"
   ];
-  const ok = allow.some(k => t.includes(k));
-  if (!ok) return { ok: false, reason: "no_clear_fit" };
+
+const ok = allow.some(k => t.includes(k));
+  if (!ok) {
+    // fallback deterministico: 20% dei titoli "neutri" (non esplicitamente fuori manifesto)
+    // Questo evita la roulette: stesso input -> stessa selezione.
+    const h = parseInt(sha1(`${title || ""}|${link || ""}`).slice(0, 8), 16);
+    const pass = (h % 100) < 20; // <<< 20%
+    if (!pass) return { ok: false, reason: "no_clear_fit" };
+  }
 
   // final pass: must have link
   if (!link) return { ok: false, reason: "no_link" };
