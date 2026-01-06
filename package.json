@@ -10,7 +10,9 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "daily:run": "node scripts/daily-run.mjs"
+"weekly:amazon": "node scripts/amazon-objects-weekly.mjs"
   },
+  
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "^1.2.11",
