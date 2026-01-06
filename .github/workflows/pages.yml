@@ -29,24 +29,20 @@ jobs:
 
       - run: npm install
 
+      - name: Sync latest main (before generating)
+        run: |
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+
       - name: Run daily collector
         run: npm run daily:run
-
 
       - name: Commit changes (if any)
         run: |
           git config user.name "ketogo-bot"
           git config user.email "ketogo-bot@users.noreply.github.com"
 
-          # 1) Sync to latest main BEFORE touching files
-          git fetch origin main
-          git checkout main
-          git reset --hard origin/main
-
-          # 2) Run the collector now (ensures changes are based on latest main)
-          npm run daily:run
-
-          # 3) Commit & push only if something changed
           if git diff --quiet; then
             echo "No changes to commit."
             exit 0
@@ -56,18 +52,34 @@ jobs:
           git commit -m "Daily editorial update"
           git push origin main
 
-
   build:
     needs: daily
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync latest main (CRITICAL)
+        run: |
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+
       - uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
+
       - run: npm install
       - run: npm run build
+
+      - name: Ensure fresh JSON in dist (CRITICAL)
+        run: |
+          mkdir -p dist/data
+          cp -f public/data/observations.json dist/data/observations.json
+          cp -f public/data/objects.json dist/data/objects.json
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
@@ -81,3 +93,4 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
