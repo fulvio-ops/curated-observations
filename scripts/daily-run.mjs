@@ -122,7 +122,20 @@ function approvePreviewObject({ title, source }) {
 
   return false;
 }
+/* ---------- weekly---------- */
 
+function weekKey() {
+  const d = new Date();
+  const y = d.getUTCFullYear();
+
+  // ISO-ish week number (sufficiente per cap 3 oggetti/settimana)
+  const first = new Date(Date.UTC(y, 0, 1));
+  const day = new Date(Date.UTC(y, d.getUTCMonth(), d.getUTCDate()));
+  const days = Math.floor((day - first) / 86400000);
+
+  const week = Math.ceil((days + first.getUTCDay() + 1) / 7);
+  return `${y}-W${week}`;
+}
 
 /* ---------- MAIN ---------- */
 
