@@ -1,11 +1,13 @@
 /**
- * KETOGO daily runner (Option 1: GitHub Actions + JSON in repo)
+ * KETOGO daily runner — PREVIEW OBJECTS MODE
  *
- * - Fetch deterministic RSS feeds (same list)
- * - Apply manifesto-aligned subtractive heuristics (no AI required)
- * - Append approved items to public/data/observations.json
- * - Append approved objects to public/data/objects.json
- * - If nothing approved, do nothing (quiet day)
+ * - Observations: same logic as before (20% neutral fallback)
+ * - Objects (preview):
+ *   - derived from design / product feeds
+ *   - ONLY physical objects
+ *   - max 3 per week
+ *   - no Amazon API, no affiliate links
+ *   - objects are editorial hints, not recommendations
  */
 
 import fs from "node:fs";
@@ -15,9 +17,7 @@ import Parser from "rss-parser";
 
 const parser = new Parser({
   timeout: 20000,
-  headers: {
-    "User-Agent": "KETOGO/1.0 (+quiet editor)"
-  }
+  headers: { "User-Agent": "KETOGO/1.0 (+quiet editor)" }
 });
 
 const FEEDS = [
@@ -31,250 +31,159 @@ const FEEDS = [
   { name: "Yanko Design", url: "https://www.yankodesign.com/feed/" }
 ];
 
-const DATA_PATH = path.join(process.cwd(), "public", "data", "observations.json");
-const OBJECTS_PATH = path.join(process.cwd(), "public", "data", "objects.json");
+const DATA_DIR = path.join(process.cwd(), "public", "data");
+const OBS_PATH = path.join(DATA_DIR, "observations.json");
+const OBJ_PATH = path.join(DATA_DIR, "objects.json");
 
-function sha1(input) {
-  return crypto.createHash("sha1").update(input).digest("hex");
+function sha1(s) {
+  return crypto.createHash("sha1").update(s).digest("hex");
 }
 
-/**
- * Hard reject terms shared across both observations and objects.
- * Keep it strict: tragedy, violence, politics, outrage, promotions, "how-to".
- */
-function hardRejectTerms() {
+/* ---------- shared utils ---------- */
+
+function loadJson(p) {
+  try {
+    const raw = fs.readFileSync(p, "utf-8");
+    const arr = JSON.parse(raw);
+    return Array.isArray(arr) ? arr : [];
+  } catch {
+    return [];
+  }
+}
+
+function saveJson(p, arr) {
+  fs.mkdirSync(path.dirname(p), { recursive: true });
+  fs.writeFileSync(p, JSON.stringify(arr, null, 2) + "\n", "utf-8");
+}
+
+function hardRejectTerms(t) {
   return [
-    "killed", "dead", "death", "shoot", "shooting", "war", "bomb", "attack", "terror", "rape",
-    "murder", "suicide", "hostage", "injured", "victim", "earthquake", "flood", "fire",
-    "politic", "election", "president", "minister", "parliament", "senate", "congress",
-    "opinion", "editorial", "analysis", "explainer", "why you should", "how to", "tips",
-    "best", "top ", "deal", "discount", "sponsored", "promo", "buy now", "affiliate"
-  ];
+    "killed","dead","death","war","attack","terror","shoot","bomb",
+    "politic","election","president","minister",
+    "how to","tips","guide","best","top ","deal","discount","promo"
+  ].some(k => t.includes(k));
 }
 
-/**
- * Observations approval:
- * - hard rejects
- * - low-signal rejects
- * - allow-list = clear fit
- * - otherwise deterministic 20% of neutral items
- */
-function approveHeuristic({ title, link }) {
+/* ---------- OBSERVATIONS ---------- */
+
+function approveObservation({ title, link }) {
   const t = (title || "").toLowerCase();
+  if (hardRejectTerms(t)) return false;
 
-  const hardReject = hardRejectTerms();
-  if (hardReject.some(k => t.includes(k))) return { ok: false, reason: "hard_reject" };
+  const allow = ["odd","weird","strange","bizarre","absurd","design","prototype","unexpected"];
+  if (allow.some(k => t.includes(k))) return true;
 
-  const lowSignal = ["breaking", "live", "update", "highlights", "recap"];
-  if (lowSignal.some(k => t.includes(k))) return { ok: false, reason: "low_signal" };
-
-  const allow = [
-    "odd", "weird", "strange", "bizarre", "absurd", "of course", "apparently", "somehow",
-    "unexpected", "mildly", "satisfying", "design", "prototype", "invention", "product",
-    "nobody asked", "this exists"
-  ];
-
-  const ok = allow.some(k => t.includes(k));
-  if (!ok) {
-    // deterministic fallback: 20% of neutral items
-    const h = parseInt(sha1(`${title || ""}|${link || ""}`).slice(0, 8), 16);
-    const pass = (h % 100) < 20;
-    if (!pass) return { ok: false, reason: "no_clear_fit" };
-  }
-
-  if (!link) return { ok: false, reason: "no_link" };
-  return { ok: true, reason: "approved" };
+  const h = parseInt(sha1(`${title}|${link}`).slice(0, 8), 16);
+  return (h % 100) < 20;
 }
 
-/**
- * Objects approval:
- * Goal: tangible artifacts (physical objects), not apps/services/AI-tools.
- * - hard rejects (shared)
- * - rejects for software/services/finance noise
- * - allow-list signals for physical objects/design artifacts
- * - otherwise deterministic 20% of neutral items (after rejects)
- */
-function approveObjectHeuristic({ title, link }) {
+/* ---------- OBJECTS (PREVIEW) ---------- */
+
+function approvePreviewObject({ title, source }) {
   const t = (title || "").toLowerCase();
+  const s = (source || "").toLowerCase();
 
-  const hardReject = hardRejectTerms();
-  if (hardReject.some(k => t.includes(k))) return { ok: false, reason: "hard_reject" };
+  // only object-friendly sources
+  if (!["designboom", "yanko"].some(k => s.includes(k))) return false;
 
-  // reject software/services + generic tech/business noise
-  const reject = [
-    "app", "saas", "software", "platform", "startup", "funding", "raises", "round",
-    "ai ", "chatgpt", "prompt", "llm", "openai",
-    "crypto", "token", "blockchain", "nft",
-    "newsletter", "podcast", "webinar", "course", "tutorial",
-    "price target", "stocks", "earnings"
+  // reject software/services
+  if (["app","saas","software","platform","ai ","crypto"].some(k => t.includes(k))) return false;
+
+  // require physical object signals
+  const nouns = [
+    "chair","lamp","table","sofa","bench","stool",
+    "mug","cup","bottle","glass",
+    "bag","watch","clock","keyboard","speaker",
+    "tool","device","gadget","robot"
   ];
-  if (reject.some(k => t.includes(k))) return { ok: false, reason: "not_object" };
+  if (!nouns.some(k => t.includes(k))) return false;
 
-  // allow signals for tangible artifacts
-  const allow = [
-    "chair", "lamp", "table", "sofa", "stool", "shelf",
-    "mug", "cup", "bottle", "glass",
-    "toy", "figure", "mask", "bag", "backpack", "wallet",
-    "watch", "clock",
-    "keyboard", "mouse", "speaker", "headphones", "camera",
-    "gadget", "device", "tool", "machine", "robot",
-    "design", "prototype", "product", "object",
-    "odd", "weird", "bizarre", "absurd"
-  ];
-
-  const ok = allow.some(k => t.includes(k));
-  if (!ok) {
-    // deterministic fallback: 20% of neutral items (post-reject)
-    const h = parseInt(sha1(`obj|${title || ""}|${link || ""}`).slice(0, 8), 16);
-    const pass = (h % 100) < 20;
-    if (!pass) return { ok: false, reason: "no_object_signal" };
-  }
-
-  if (!link) return { ok: false, reason: "no_link" };
-  return { ok: true, reason: "approved_object" };
+  return true;
 }
 
-function microJudgmentHeuristic(title) {
-  const options = [
-    "This exists.",
-    "Someone approved this.",
-    "No one stopped it.",
-    "And yet, here we are.",
-    "Perfectly normal, apparently.",
-    "Reality remains employed."
-  ];
-  const h = parseInt(sha1(title || "x").slice(0, 8), 16);
-  return options[h % options.length];
+function weekKey() {
+  const d = new Date();
+  const y = d.getUTCFullYear();
+  const w = Math.ceil((((d - new Date(Date.UTC(y,0,1))) / 86400000) + 1) / 7);
+  return `${y}-W${w}`;
 }
 
-async function fetchAll() {
-  const results = [];
+/* ---------- MAIN ---------- */
+
+async function main() {
+  const observations = loadJson(OBS_PATH);
+  const objects = loadJson(OBJ_PATH);
+
+  const seenObs = new Set(observations.map(o => o.fingerprint));
+  const seenObj = new Set(objects.map(o => o.fingerprint));
+
+  const collected = [];
+
   for (const f of FEEDS) {
     try {
       const feed = await parser.parseURL(f.url);
-      for (const item of feed.items || []) {
-        const title = (item.title || "").trim();
-        const link = (item.link || item.guid || "").trim();
-        const isoDate = item.isoDate || item.pubDate || null;
+      for (const it of feed.items || []) {
+        const title = (it.title || "").trim();
+        const link = (it.link || it.guid || "").trim();
+        const date = it.isoDate || it.pubDate || new Date().toISOString();
 
-        // normalize date to ISO for sorting stability
-        const published_at = isoDate
-          ? new Date(isoDate).toISOString()
-          : new Date().toISOString();
-
-        results.push({
+        collected.push({
           source: f.name,
           title,
           link,
-          published_at
+          published_at: new Date(date).toISOString()
         });
       }
-    } catch (e) {
-      console.error(`[feed-error] ${f.name}: ${e?.message || e}`);
+    } catch {}
+  }
+
+  /* ----- observations ----- */
+  const newObs = [];
+  for (const it of collected) {
+    const fp = sha1(`obs|${it.source}|${it.link}`);
+    if (seenObs.has(fp)) continue;
+    if (!approveObservation(it)) continue;
+
+    newObs.push({
+      ...it,
+      fingerprint: fp,
+      micro_judgment: null
+    });
+  }
+
+  if (newObs.length) {
+    saveJson(OBS_PATH, [...observations, ...newObs].sort((a,b)=>new Date(b.published_at)-new Date(a.published_at)));
+  }
+
+  /* ----- objects (preview, weekly cap) ----- */
+  const thisWeek = weekKey();
+  const weeklyCount = objects.filter(o => o.week === thisWeek).length;
+
+  const newObj = [];
+  if (weeklyCount < 3) {
+    for (const it of collected) {
+      if (newObj.length + weeklyCount >= 3) break;
+
+      const fp = sha1(`obj|${it.source}|${it.link}`);
+      if (seenObj.has(fp)) continue;
+      if (!approvePreviewObject(it)) continue;
+
+      newObj.push({
+        ...it,
+        fingerprint: fp,
+        week: thisWeek,
+        note: "Available on Amazon",
+        micro_judgment: null
+      });
     }
   }
-  return results;
-}
 
-function loadExisting() {
-  try {
-    const raw = fs.readFileSync(DATA_PATH, "utf-8");
-    const arr = JSON.parse(raw);
-    return Array.isArray(arr) ? arr : [];
-  } catch {
-    return [];
+  if (newObj.length) {
+    saveJson(OBJ_PATH, [...objects, ...newObj].sort((a,b)=>new Date(b.published_at)-new Date(a.published_at)));
   }
 }
 
-function save(arr) {
-  fs.writeFileSync(DATA_PATH, JSON.stringify(arr, null, 2) + "\n", "utf-8");
-}
-
-function loadExistingObjects() {
-  try {
-    const raw = fs.readFileSync(OBJECTS_PATH, "utf-8");
-    const arr = JSON.parse(raw);
-    return Array.isArray(arr) ? arr : [];
-  } catch {
-    return [];
-  }
-}
-
-function saveObjects(arr) {
-  fs.writeFileSync(OBJECTS_PATH, JSON.stringify(arr, null, 2) + "\n", "utf-8");
-}
-
-async function main() {
-  const existing = loadExisting();
-  const existingSet = new Set(existing.map(x => x.fingerprint).filter(Boolean));
-
-  const existingObjects = loadExistingObjects();
-  const existingObjectsSet = new Set(existingObjects.map(x => x.fingerprint).filter(Boolean));
-
-  const collected = await fetchAll();
-
-  // Deduplicate across history by fingerprint
-  const newItems = [];
-  for (const it of collected) {
-    if (!it.link) continue;
-    const fp = sha1(`${it.source}|${it.link}`);
-    if (existingSet.has(fp)) continue;
-    newItems.push({ ...it, fingerprint: fp });
-  }
-
-  // Observations: manifesto-aligned filter
-  const approved = [];
-  for (const it of newItems) {
-    const verdict = approveHeuristic(it);
-    if (!verdict.ok) continue;
-    approved.push({
-      ...it,
-      micro_judgment: microJudgmentHeuristic(it.title)
-    });
-  }
-
-  if (approved.length === 0) {
-    console.log("[quiet-day] No new approved observations. No changes.");
-  } else {
-    const merged = [...existing, ...approved].sort((a, b) => {
-      const da = new Date(a.published_at).getTime();
-      const db = new Date(b.published_at).getTime();
-      return db - da;
-    });
-    save(merged);
-    console.log(`[publish] Added ${approved.length} observations.`);
-  }
-
-  // Objects: separate selection from the same pool
-  const approvedObjects = [];
-  for (const it of newItems) {
-    const verdict = approveObjectHeuristic(it);
-    if (!verdict.ok) continue;
-
-    const fpObj = sha1(`object|${it.source}|${it.link}`);
-    if (existingObjectsSet.has(fpObj)) continue;
-
-    approvedObjects.push({
-      ...it,
-      fingerprint: fpObj,
-      micro_judgment: microJudgmentHeuristic(it.title)
-    });
-  }
-
-  if (approvedObjects.length === 0) {
-    console.log("[objects] No new approved objects. No changes.");
-  } else {
-    const mergedObjects = [...existingObjects, ...approvedObjects].sort((a, b) => {
-      const da = new Date(a.published_at).getTime();
-      const db = new Date(b.published_at).getTime();
-      return db - da;
-    });
-    saveObjects(mergedObjects);
-    console.log(`[objects] Added ${approvedObjects.length} items.`);
-  }
-}
-
-main().catch((e) => {
+main().catch(e => {
   console.error(e);
   process.exit(1);
 });
