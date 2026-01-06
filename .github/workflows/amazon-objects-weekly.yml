@@ -1,0 +1,51 @@
+name: Weekly Amazon Objects
+
+on:
+  schedule:
+    - cron: "20 6 * * 1" # Monday 06:20 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm install
+
+      - name: Run weekly amazon selection
+        env:
+          AMAZON_PAAPI_ACCESS_KEY: ${{ secrets.AMAZON_PAAPI_ACCESS_KEY }}
+          AMAZON_PAAPI_SECRET_KEY: ${{ secrets.AMAZON_PAAPI_SECRET_KEY }}
+          AMAZON_PAAPI_PARTNER_TAG: ${{ secrets.AMAZON_PAAPI_PARTNER_TAG }}
+          AMAZON_PAAPI_HOST: ${{ secrets.AMAZON_PAAPI_HOST }}
+          AMAZON_PAAPI_REGION: ${{ secrets.AMAZON_PAAPI_REGION }}
+        run: npm run weekly:amazon
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name "ketogo-bot"
+          git config user.email "ketogo-bot@users.noreply.github.com"
+
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git add public/data/objects.json
+          git commit -m "Weekly objects"
+          git push origin main
