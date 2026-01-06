@@ -9,7 +9,7 @@
     "build:dev": "vite build --mode development",
     "lint": "eslint .",
     "preview": "vite preview",
-    "daily:run": "node scripts/daily-run.mjs"
+    "daily:run": "node scripts/daily-run.mjs",
 "weekly:amazon": "node scripts/amazon-objects-weekly.mjs"
   },
   
