@@ -83,30 +83,46 @@ function approvePreviewObject({ title, source }) {
   const t = (title || "").toLowerCase();
   const s = (source || "").toLowerCase();
 
-  // only object-friendly sources
-  if (!["designboom", "yanko"].some(k => s.includes(k))) return false;
+  // Fonti più adatte agli oggetti (aggiungo Reddit ofcoursethatsathing)
+  const sourceOk =
+    s.includes("designboom") ||
+    s.includes("yanko") ||
+    s.includes("reddit · ofcoursethatsathing");
 
-  // reject software/services
-  if (["app","saas","software","platform","ai ","crypto"].some(k => t.includes(k))) return false;
+  if (!sourceOk) return false;
 
-  // require physical object signals
+  // Reject software/services/finance
+  if (["app","saas","software","platform","ai ","crypto","funding","raises","earnings"].some(k => t.includes(k))) {
+    return false;
+  }
+
+  // Segnali oggetto fisico (più ampi)
   const nouns = [
-    "chair","lamp","table","sofa","bench","stool",
-    "mug","cup","bottle","glass",
-    "bag","watch","clock","keyboard","speaker",
-    "tool","device","gadget","robot"
+    "chair","stool","bench","sofa","table","desk","shelf","cabinet",
+    "lamp","light",
+    "mug","cup","bottle","glass","bowl",
+    "bag","backpack","wallet",
+    "watch","clock",
+    "keyboard","mouse","speaker","headphones",
+    "gadget","device","tool","kit","stand","holder","organizer",
+    "robot","machine",
+    "knife","spoon","fork","pan","pot"
   ];
-  if (!nouns.some(k => t.includes(k))) return false;
 
-  return true;
+  const physical = nouns.some(k => t.includes(k));
+
+  // Segnali “design/prodotto” (molti titoli li hanno)
+  const designSignals = ["design", "designed", "prototype", "concept", "product", "gadget", "device", "object"];
+  const hasDesign = designSignals.some(k => t.includes(k));
+
+  // Regola: passa se è chiaramente fisico, oppure se è design+oggetto implicito
+  // (per Yanko/Designboom spesso basta "concept/product/gadget/device")
+  if (physical) return true;
+  if (hasDesign) return true;
+
+  return false;
 }
 
-function weekKey() {
-  const d = new Date();
-  const y = d.getUTCFullYear();
-  const w = Math.ceil((((d - new Date(Date.UTC(y,0,1))) / 86400000) + 1) / 7);
-  return `${y}-W${w}`;
-}
 
 /* ---------- MAIN ---------- */
 
