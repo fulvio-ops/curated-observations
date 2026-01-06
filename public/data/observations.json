@@ -1,5 +1,61 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Oral microbiome sequencing after taking probiotics",
+    "link": "https://blog.booleanbiotech.com/oral-microbiome-biogaia",
+    "published_at": "2026-01-06T21:10:47.000Z",
+    "fingerprint": "c8b5cf9821e625c4452afbfe59dc24be3c781c3a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Symbolic Circuit Distillation: prove program to LLM circuit equivalence",
+    "link": "https://github.com/neelsomani/symbolic-circuit-distillation",
+    "published_at": "2026-01-06T20:57:06.000Z",
+    "fingerprint": "f535e1ac9e41c58828a77489bea6f8e6eb60c225",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'Ue rinforza la Pac per blindare il Mercosur. Roma 'ascoltata'",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/01/06/meloni-bene-la-commissione-ue-sullagricoltura-litalia-ascoltata_7020543c-b2a4-4883-aa5d-b45f4c6027f4.html",
+    "published_at": "2026-01-06T19:42:43.000Z",
+    "fingerprint": "9b2bad209a02720e239264c84661464a2f75e616",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Dal 2020 nessun controllo al Constellation di Crans-Montana",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/01/06/dal-2020-nessun-controllo-al-constellation-di-crans-montana_5308ec90-a97e-4f13-af0e-4674b861aa7c.html",
+    "published_at": "2026-01-06T19:24:56.000Z",
+    "fingerprint": "e152920cbbbd622c11e6bf9d669b63268f1383ce",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Venezuela, spari e tank, Caracas ripiomba nella repressione",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/01/06/il-regime-si-blinda-tank-e-militari-nelle-strade-di-caracas_a111ad87-bd6e-441a-a329-28f9194931e0.html",
+    "published_at": "2026-01-06T19:16:04.000Z",
+    "fingerprint": "2095c8ddbf6f12abb4c0e98047b2785b1fa63c06",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Locating a Photo of a Vehicle in 30 Seconds with GeoSpy",
+    "link": "https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy",
+    "published_at": "2026-01-06T18:00:27.000Z",
+    "fingerprint": "9567b7d6dd997c5b23fb73254593929980dc02db",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
+    "link": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
+    "published_at": "2026-01-06T17:45:37.000Z",
+    "fingerprint": "4b56fb2ea30e47c2a2e03c93820910cbeb4df913",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "A 40 chilometri dalla Russia, piovono razzi ma Kharkiv resiste",
     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/01/06/a-40-chilometri-dalla-russia-piovono-razzi-ma-kharkiv-resiste_c31d80a5-97c8-41cd-81a8-a7d038bc9054.html",
