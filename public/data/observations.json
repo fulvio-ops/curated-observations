@@ -1,5 +1,53 @@
 [
   {
+    "source": "Yanko Design",
+    "title": "8BitDo FlipPad controller for enjoying portrait games on Android and iOS",
+    "link": "https://www.yankodesign.com/2026/01/06/8bitdo-flippad-controller-for-enjoying-portrait-games-on-android-and-ios/?utm_source=rss&utm_medium=rss&utm_campaign=8bitdo-flippad-controller-for-enjoying-portrait-games-on-android-and-ios",
+    "published_at": "2026-01-07T04:00:22.000Z",
+    "fingerprint": "8a201b950f25b331d2a7e2e789c219498c67c8f7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "LEGO’s new ‘SMART brick’ is designed for interactive play without screens",
+    "link": "https://www.designboom.com/design/lego-smart-brick-interactive-play-screen-free-ces-01-07-2026/",
+    "published_at": "2026-01-07T02:15:39.000Z",
+    "fingerprint": "d564bdc55a1383b970fccfad570257337d787d99",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Words of encouragement from the start of a furniture assembly manual",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1q62ohe/words_of_encouragement_from_the_start_of_a/",
+    "published_at": "2026-01-07T02:10:46.000Z",
+    "fingerprint": "cd1e83840973b82e3e23846cd204e21bb14e4d9e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "PassSeeds – hijacking Passkeys to unlock new cryptographic use cases",
+    "link": "https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/",
+    "published_at": "2026-01-07T00:50:58.000Z",
+    "fingerprint": "54ff444964c066f99549af31d59d93f2bb2fb00a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Why the trans flag emoji is the 5-codepoint sequence it is",
+    "link": "https://hecate.pink/blog/2026/trans-flag-emoji/",
+    "published_at": "2026-01-07T00:22:06.000Z",
+    "fingerprint": "961b9d721519681eda04210109882a2531b25837",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "A massive log split perfectly",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1q5z1p8/a_massive_log_split_perfectly/",
+    "published_at": "2026-01-06T23:37:52.000Z",
+    "fingerprint": "c42d72ca83a35f500405abc3ec3d96e37e89060b",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Oral microbiome sequencing after taking probiotics",
     "link": "https://blog.booleanbiotech.com/oral-microbiome-biogaia",
@@ -117,6 +165,14 @@
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1q5k25f/mid_air_refueling_lets_aircraft_transfer_fuel/",
     "published_at": "2026-01-06T14:28:19.000Z",
     "fingerprint": "ffbbcfc917fdbe643a5f26a6590973912ec0143e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration",
+    "link": "https://vaultsandbox.com/",
+    "published_at": "2026-01-06T13:50:48.000Z",
+    "fingerprint": "a4786f26ea5ee67b400ded2bd59949d53ab5a5e7",
     "micro_judgment": null
   },
   {
