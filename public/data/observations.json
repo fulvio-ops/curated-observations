@@ -1,5 +1,213 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "The URL shortener that makes your links look as suspicious as possible",
+    "link": "https://creepylink.com/",
+    "published_at": "2026-01-15T03:28:20.000Z",
+    "fingerprint": "154e6db8294fc9b258a9ae334cd0e5409644b5bc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
+    "link": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/",
+    "published_at": "2026-01-15T01:45:22.000Z",
+    "fingerprint": "d2b27c61b966338988a3090978317cf4bc29c248",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My medication is mailed to me with ice packs. Oftentimes, one is rock-hard and the other is completely melted.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1qd5se1/my_medication_is_mailed_to_me_with_ice_packs/",
+    "published_at": "2026-01-15T01:22:50.000Z",
+    "fingerprint": "899fc4f816d741b1c1c17edd763297a100756dc0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Off-Grid Australian Tiny House Returns to the Movement’s Rustic Cabin Roots",
+    "link": "https://www.yankodesign.com/2026/01/14/this-off-grid-australian-tiny-house-returns-to-the-movements-rustic-cabin-roots/?utm_source=rss&utm_medium=rss&utm_campaign=this-off-grid-australian-tiny-house-returns-to-the-movements-rustic-cabin-roots",
+    "published_at": "2026-01-15T00:30:05.000Z",
+    "fingerprint": "c8f9f72261b3ddb19f5347442ae3f2e85bb1bf8c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Littlest snail friend while raspberry picking",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1qd4k4k/littlest_snail_friend_while_raspberry_picking/",
+    "published_at": "2026-01-15T00:29:27.000Z",
+    "fingerprint": "b9c26ffc1358da2039a9d2b602c8e1a8f7f923e7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "The Alien Church, downtown Los Angeles",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1qd35ne/the_alien_church_downtown_los_angeles/",
+    "published_at": "2026-01-14T23:31:23.000Z",
+    "fingerprint": "ba60eebb09744a069e034b2394b36d44a9c9d070",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "LEGO Pays Tribute To The 40+ Year Journey Of Apple Calculator Designs",
+    "link": "https://www.yankodesign.com/2026/01/14/lego-pays-tribute-to-the-40-year-journey-of-apple-calculator-designs/?utm_source=rss&utm_medium=rss&utm_campaign=lego-pays-tribute-to-the-40-year-journey-of-apple-calculator-designs",
+    "published_at": "2026-01-14T23:30:46.000Z",
+    "fingerprint": "9e672a265429f615be2a95cdbdb706969cf3d306",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "This is how your luggage is loaded inside an aircraft before takeoff",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qd2245/this_is_how_your_luggage_is_loaded_inside_an/",
+    "published_at": "2026-01-14T22:47:20.000Z",
+    "fingerprint": "7c1d38152387df1d8b65d8e9d35b3468a36de6c3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Ask HN: Weird archive.today behavior?",
+    "link": "https://news.ycombinator.com/item?id=46624740",
+    "published_at": "2026-01-14T22:30:40.000Z",
+    "fingerprint": "57d78b4ac5fa6d8c7c6cf103e0f0648a8c0e6d37",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "I 50 anni de La Repubblica, al via la mostra che celebra 'una storia di futuro'",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/01/14/mattarella-alla-mostra-de-la-repubblica-per-i-50-anni-del-quotidiano_8342ccf1-f400-4a1d-acd7-b82fe55ea0cb.html",
+    "published_at": "2026-01-14T20:25:44.000Z",
+    "fingerprint": "5287755e522f73d21c4008efb8f91253bb55d14a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Why Cadillac Designed Its F1 Camouflage to Actually Stand Out",
+    "link": "https://www.yankodesign.com/2026/01/14/why-cadillac-designed-its-f1-camouflage-to-actually-stand-out/?utm_source=rss&utm_medium=rss&utm_campaign=why-cadillac-designed-its-f1-camouflage-to-actually-stand-out",
+    "published_at": "2026-01-14T20:15:54.000Z",
+    "fingerprint": "78a0ae292545ab68cf3644cfd8443f1012a1d71c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Claude Cowork exfiltrates files",
+    "link": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+    "published_at": "2026-01-14T20:12:25.000Z",
+    "fingerprint": "8d75fc525d2dd023d65a4bffc7e8b7e176f8f2e6",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Milano Cortina, Salvini e Abodi: 'Ci aspettiamo vengano coinvolti gli atleti più rappresentativi'",
+    "link": "https://www.ansa.it/sito/notizie/sport/speciali/milano_cortina_2026/2026/01/14/milano-cortina-abodi-e-salvini-perplessi-su-tedofori-riunione-per-chiarire_9c43049d-453c-451d-918c-40fc4c1b3ff6.html",
+    "published_at": "2026-01-14T20:09:51.000Z",
+    "fingerprint": "84264e7761870f2da830ba5c33049510a93fe367",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Heart shaped bruise from delivery of my baby",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1qcwq2b/heart_shaped_bruise_from_delivery_of_my_baby/",
+    "published_at": "2026-01-14T19:25:20.000Z",
+    "fingerprint": "80dddb87ad0fc2bf2500df1bbb6bef0b5d847747",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Lotta fra cervi in pieno centro a Barrea",
+    "link": "https://www.ansa.it/sito/videogallery/short_video/2026/01/14/lotta-fra-cervi-in-pieno-centro-a-barrea_94df34bf-f9a4-472c-b596-d01f22782e46.html",
+    "published_at": "2026-01-14T19:07:37.000Z",
+    "fingerprint": "e5846203280ab88503e7999d07659a64a22470d1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Giovane ucciso da un vigile urbano, arrestato il presunto complice",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/01/14/giovane-ucciso-da-un-vigile-urbano-arrestato-il-presunto-complice_fdae46b6-1a0c-4496-bfcc-8ef664b0083c.html",
+    "published_at": "2026-01-14T18:50:20.000Z",
+    "fingerprint": "b510c793dc2bef5e082986b62b81b443621575fe",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La scomparsa di Annabella, ora si indaga per sequestro",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/01/14/la-scomparsa-di-annabella-ora-si-indaga-per-sequestro_851cd7a9-40e7-4b8c-b7a2-bbe847237708.html",
+    "published_at": "2026-01-14T18:46:50.000Z",
+    "fingerprint": "e52c1f21e2e2aaa3c1da299a54790b85b5dd5166",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'Al via la fase due', nasce il governo che amministrerà Gaza",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/01/14/witkoff-lancia-la-fase-due-del-piano-di-pace-per-gaza_7419468c-1212-4839-ae07-86788bcf551c.html",
+    "published_at": "2026-01-14T18:23:31.000Z",
+    "fingerprint": "399741b655d1222c3322362c5c8f56618dc7a044",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Ask HN: What did you find out or explore today?",
+    "link": "https://news.ycombinator.com/item?id=46619464",
+    "published_at": "2026-01-14T17:54:25.000Z",
+    "fingerprint": "9f5d7a6594c5fa09bb09f9afb1b9bd717e3606d0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My lavalamp kinda looks like a stripper",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1qctbah/my_lavalamp_kinda_looks_like_a_stripper/",
+    "published_at": "2026-01-14T17:23:03.000Z",
+    "fingerprint": "abdf9aa2aa5b0a3a1cf59652fa33a8feb6745fb9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Fishing Nets and Snack Wrappers Just Became Retaining Wall Blocks",
+    "link": "https://www.yankodesign.com/2026/01/14/fishing-nets-and-snack-wrappers-just-became-retaining-wall-blocks/?utm_source=rss&utm_medium=rss&utm_campaign=fishing-nets-and-snack-wrappers-just-became-retaining-wall-blocks",
+    "published_at": "2026-01-14T17:20:51.000Z",
+    "fingerprint": "a30aeb65c2d77215723420bd412f82bf985c067a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Bought a new circle jig for my router. The base looks like the Millennium Falcon.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1qcs4oc/bought_a_new_circle_jig_for_my_router_the_base/",
+    "published_at": "2026-01-14T16:40:01.000Z",
+    "fingerprint": "c466375e3f5fde2aae4e7c959ef24a2035255def",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "snøhetta plans spiraling galleries with curved glass facades for beijing art museum",
+    "link": "https://www.designboom.com/architecture/snohetta-spiraling-galleries-curved-glass-facades-beijing-art-museum-biad-china-01-14-2026/",
+    "published_at": "2026-01-14T15:51:40.000Z",
+    "fingerprint": "38c3e8344dc6f8a9c59cf74a54663bea593f7968",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "ZHA launches construction of 110-million-passenger airport near addis ababa",
+    "link": "https://www.designboom.com/architecture/zha-zaha-hadid-architects-construction-110-million-passenger-airport-addis-ababa-ethiopian-airlines-group/",
+    "published_at": "2026-01-14T14:45:43.000Z",
+    "fingerprint": "3b78bcb471a47bc6afad87fae983967e751972c1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Wikipedia spegne 25 candeline, ma deve guardarsi dai chatbot",
+    "link": "https://www.ansa.it/sito/videogallery/mondo/2026/01/14/wikipedia-spegne-25-candeline-ma-deve-guardarsi-dai-chatbot_08274712-c72f-4ce3-a08e-77d31500b4ee.html",
+    "published_at": "2026-01-14T09:51:17.000Z",
+    "fingerprint": "894147b6f337633318a918dfaeb0cd8a38556cb7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Sub arc welding Slag* removal.",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qciugf/sub_arc_welding_slag_removal/",
+    "published_at": "2026-01-14T09:22:08.000Z",
+    "fingerprint": "c2c23a30f98fe168ebe7d68a6de62313da48c4e2",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "This 20-Foot Shipping Container Fits a Complete Home for Two",
     "link": "https://www.yankodesign.com/2026/01/13/this-20-foot-shipping-container-fits-a-complete-home-for-two/?utm_source=rss&utm_medium=rss&utm_campaign=this-20-foot-shipping-container-fits-a-complete-home-for-two",
@@ -72,6 +280,14 @@
     "micro_judgment": null
   },
   {
+    "source": "ANSA",
+    "title": "Sanremo, droni e body cam per la sicurezza attorno all'Ariston",
+    "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/01/13/sanremo-droni-e-body-cam-per-la-sicurezza-attorno-allariston_82a2a1c0-a9ec-4dc7-81ca-652d36163c7f.html",
+    "published_at": "2026-01-13T17:57:23.000Z",
+    "fingerprint": "83f40ecbcd9ad8dc225f4802901c26c41c64bc51",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "new museum to reopen with OMA-designed expansion in march 2026",
     "link": "https://www.designboom.com/architecture/new-museum-oma-expansion-march-2026-nyc-cooper-robertson-sanaa-01-13-2026/",
@@ -88,11 +304,35 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "TabDog",
+    "link": "https://www.producthunt.com/products/tabdog",
+    "published_at": "2026-01-13T12:13:07.000Z",
+    "fingerprint": "3b1de31f41d593e10a4813cbe94dd889cb1cc5d3",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Wikipedia compie 25 anni, pericoli dall'IA e da Musk",
     "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/01/13/wikipedia-compie-25-anni-pericoli-dallia-e-da-musk_5e2974cf-70a3-4d80-8b26-1f18724da223.html",
     "published_at": "2026-01-13T11:23:54.000Z",
     "fingerprint": "9c974f9cbd345f20bd08bec9289cffdba837d227",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Lyra Music",
+    "link": "https://www.producthunt.com/products/lyra-music",
+    "published_at": "2026-01-13T11:02:58.000Z",
+    "fingerprint": "0baa5b36a30406815f968a0b7d218b6de5fef421",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "TransMov",
+    "link": "https://www.producthunt.com/products/transmov-video-animation-tool",
+    "published_at": "2026-01-13T09:48:20.000Z",
+    "fingerprint": "cda176375d23614ed7a84906ca6e85a5f8bebc03",
     "micro_judgment": null
   },
   {
@@ -1120,6 +1360,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "BlocPad - Project & Team Workspace",
+    "link": "https://www.producthunt.com/products/blocpad",
+    "published_at": "2026-01-07T06:27:28.000Z",
+    "fingerprint": "6ae180ae9bba2e62b7f9dce52187efd01d2ec6ed",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "8BitDo FlipPad controller for enjoying portrait games on Android and iOS",
     "link": "https://www.yankodesign.com/2026/01/06/8bitdo-flippad-controller-for-enjoying-portrait-games-on-android-and-ios/?utm_source=rss&utm_medium=rss&utm_campaign=8bitdo-flippad-controller-for-enjoying-portrait-games-on-android-and-ios",
@@ -2061,6 +2309,14 @@
     "link": "https://www.producthunt.com/products/incident-ops",
     "published_at": "2025-12-29T21:47:55.000Z",
     "fingerprint": "4c7887ec0cf5ed885f7f8bdf7c232ba38e9f831d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Unfriction",
+    "link": "https://www.producthunt.com/products/unfriction",
+    "published_at": "2025-12-29T05:07:06.000Z",
+    "fingerprint": "c2fe0886c66f4be2f34a3eb37d0edd1d5a1973e3",
     "micro_judgment": null
   },
   {
