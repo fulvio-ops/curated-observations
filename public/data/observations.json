@@ -1,5 +1,181 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "The Code-Only Agent",
+    "link": "https://rijnard.com/blog/the-code-only-agent",
+    "published_at": "2026-01-19T02:27:07.000Z",
+    "fingerprint": "7bac53d7889b355d895a875ad4a7ce8ed55f25b1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Due treni alta velocità deragliano in Spagna, almeno 24 morti e 100 feriti",
+    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/01/19/due-treni-alta-velocita-deragliano-in-spagna-almeno-24-morti-e-100-feriti_17ffd3a6-640c-4d6c-a268-9f172e0eae10.html",
+    "published_at": "2026-01-19T02:25:04.000Z",
+    "fingerprint": "368e8bb37cd05da7f8cf62ee23b61495356cabc2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: I quit coding years ago. AI brought me back",
+    "link": "https://calquio.com/finance/compound-interest",
+    "published_at": "2026-01-19T00:50:20.000Z",
+    "fingerprint": "50dffbf69c6840172c902dedefea4f1154f5d01c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Magazine in Doctor's Office is 26 years old.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1qgolnv/magazine_in_doctors_office_is_26_years_old/",
+    "published_at": "2026-01-19T00:03:16.000Z",
+    "fingerprint": "a0efe575ed46446f6d8c601d06cd46e7d2a8bcf3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My lizard’s hydrophobic skin when submerged in water",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1qgo55r/my_lizards_hydrophobic_skin_when_submerged_in/",
+    "published_at": "2026-01-18T23:43:29.000Z",
+    "fingerprint": "4fb6197dbdc037116a79bf1b99193a72bcc770c8",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Fullkrug entra e segna, 1-0 al Lecce e il Milan va a -3",
+    "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/01/18/fullkrug-entra-e-segna-1-0-al-lecce-e-il-milan-va-a-3_28d4da0f-4dfd-4a78-b136-76b3398e1bd5.html",
+    "published_at": "2026-01-18T22:04:02.000Z",
+    "fingerprint": "d7f98c3ecf51a28c661ed8f9eda3befafeb50b27",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My friend's glasses nose pads that she hasn't replaced in 7 years next to a pair of new ones",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1qgkk2b/my_friends_glasses_nose_pads_that_she_hasnt/",
+    "published_at": "2026-01-18T21:17:32.000Z",
+    "fingerprint": "c08190ecfb1ab2b3f31c86d834d8d7dcee9d6d42",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'Italia brilla agli Europei di short track, altro oro Fontana",
+    "link": "https://www.ansa.it/sito/notizie/sport/speciali/milano_cortina_2026/2026/01/18/europei-short-track-oro-per-arianna-fontana-nei-1500_d160fa1c-02f8-4359-9c85-36980242cfbb.html",
+    "published_at": "2026-01-18T20:18:53.000Z",
+    "fingerprint": "50551b34f8032d6cdf505e5a7f239005bb6feab0",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Paura in Iran per l'attivista Erfan, 'ucciso in carcere'. Ma per un'ong è vivo",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/01/18/giallo-sulla-sorte-delliraniano-erfan-per-unong-e-vivo_a0125437-ffff-47cd-9af4-5df1eea1d2d2.html",
+    "published_at": "2026-01-18T19:46:18.000Z",
+    "fingerprint": "bf3f70529eb97b6f5f9db4bf5432ed3c39243939",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il femminicidio di Federica Torzullo, il corpo sotterrato",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/01/18/il-femminicidio-di-federica-torzullo-il-corpo-sotterrato_965ba3cc-8239-42ac-b6e5-50e8716e6392.html",
+    "published_at": "2026-01-18T19:32:09.000Z",
+    "fingerprint": "58a77e451ca1dcf5f8a0e61138b2954d0972f7d7",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Alice Rohrwacher premiata agli Efa: 'Il mio futuro è un film muto'",
+    "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/01/18/alice-rohrwacher-premiata-agli-efa-il-mio-futuro-e-un-film-muto_063548a0-e3a4-4719-b61d-0addb0b6b6b5.html",
+    "published_at": "2026-01-18T18:19:52.000Z",
+    "fingerprint": "a6f09ca52e6908a078c5ec1529c32ed8bdebbd18",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Sins of the Children",
+    "link": "https://asteriskmag.com/issues/07/sins-of-the-children",
+    "published_at": "2026-01-18T17:08:58.000Z",
+    "fingerprint": "b01307b626ec397463a3e42218bed493b0b45e6e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "A kinetic sound sphere composed of 850 metal parts, each suspended from a wire",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qgdllj/a_kinetic_sound_sphere_composed_of_850_metal/",
+    "published_at": "2026-01-18T16:50:31.000Z",
+    "fingerprint": "1ec76dbe8351d60256d8fd1daf603536883b98b0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Painting wood different colors",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qgc160/painting_wood_different_colors/",
+    "published_at": "2026-01-18T15:51:23.000Z",
+    "fingerprint": "fcf2b889e68aa8b790ed39579d0fd5f3acba0e8a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "The difference between summer and winter coats in my GSD",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1qgbax2/the_difference_between_summer_and_winter_coats_in/",
+    "published_at": "2026-01-18T15:22:50.000Z",
+    "fingerprint": "3cbf7cc55cfca4e2c7da02933447d68962a9725a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Golden Dome, il super scudo spaziale capace di fermare ogni missile",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/01/18/golden-dome-il-super-scudo-spaziale-capace-di-fermare-ogni-missile_0a304725-495d-41e3-973a-6258dae4ed63.html",
+    "published_at": "2026-01-18T15:02:19.000Z",
+    "fingerprint": "3fa9d2001f64b36ab0166ef0d3ebade4037606aa",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "3D Printed Improved Plate Design",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qganos/3d_printed_improved_plate_design/",
+    "published_at": "2026-01-18T14:57:01.000Z",
+    "fingerprint": "24342240f65b9f84ca6ff36f5636fa348f5ed8cf",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "The cycle of a dandelion",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qg8yko/the_cycle_of_a_dandelion/",
+    "published_at": "2026-01-18T13:45:45.000Z",
+    "fingerprint": "f437ae3586c5f8893f30867fec1ac6af3a2b7d28",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Mud ripples in a puddles",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qg82pk/mud_ripples_in_a_puddles/",
+    "published_at": "2026-01-18T13:04:54.000Z",
+    "fingerprint": "8aeb3afbc4f7cff5954c9569d5122f1a37e24e99",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Relaxing origami",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qg7ys1/relaxing_origami/",
+    "published_at": "2026-01-18T12:59:51.000Z",
+    "fingerprint": "5f413b486613816dd0813cac8601b315b2e44e5d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Sulle tracce del Buen Camino di Zalone, l'esperienza di Santiago di Compostela",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/01/04/sulle-tracce-del-buen-camino-di-zalone-lesperienza-di-santiago-di-compostela_ab2fe404-0ae4-4f50-9663-5931323f658c.html",
+    "published_at": "2026-01-18T10:19:00.000Z",
+    "fingerprint": "a9fbd2fd2cd02262113a579916caa8c1a2c8e625",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
+    "link": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
+    "published_at": "2026-01-18T08:58:40.000Z",
+    "fingerprint": "d449f280c3e17d289bcc587bef062b3915771897",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · mildlyinteresting",
     "title": "Perfect frog skeleton I found in my attic",
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1qfxv9i/perfect_frog_skeleton_i_found_in_my_attic/",
@@ -101,6 +277,14 @@
     "link": "https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up",
     "published_at": "2026-01-17T18:29:00.000Z",
     "fingerprint": "43aa6f8b3c26d4ddc245af278660a29773fae274",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Cloudchipr",
+    "link": "https://www.producthunt.com/products/cloudchipr",
+    "published_at": "2026-01-17T17:44:01.000Z",
+    "fingerprint": "e6a0cfbb52cb6c5bbc7ed67045aa95713dbd913e",
     "micro_judgment": null
   },
   {
@@ -1493,6 +1677,14 @@
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/01/09/-psicoterapeuta-uccisa-nellaretino-ergastolo-per-amico-di-famiglia-_1130570a-f38f-4898-9389-2530057b6e45.html",
     "published_at": "2026-01-09T18:36:49.000Z",
     "fingerprint": "c110bf20332c19be9fb05f07690c46a5d0b0bec6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Purifai",
+    "link": "https://www.producthunt.com/products/purifai-smart-paste-for-mac",
+    "published_at": "2026-01-09T14:09:47.000Z",
+    "fingerprint": "df06001eb31da0ccccae98bab38ea341cb50326a",
     "micro_judgment": null
   },
   {
