@@ -1,6 +1,134 @@
 [
   {
     "source": "Hacker News · frontpage",
+    "title": "X algorithm has been open sourced",
+    "link": "https://github.com/xai-org/x-algorithm",
+    "published_at": "2026-01-20T05:16:14.000Z",
+    "fingerprint": "0b346cba1d46048af22f14c50bc7fec7e6a87b4e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars",
+    "link": "https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html",
+    "published_at": "2026-01-20T01:01:36.000Z",
+    "fingerprint": "e6fb5ad8d6d1512dc0e5d581330d3628e2479777",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Tiny Home Maximizes Space With An Extra-Wide Design",
+    "link": "https://www.yankodesign.com/2026/01/19/this-tiny-home-maximizes-space-with-an-extra-wide-design/?utm_source=rss&utm_medium=rss&utm_campaign=this-tiny-home-maximizes-space-with-an-extra-wide-design",
+    "published_at": "2026-01-20T00:30:00.000Z",
+    "fingerprint": "26ffd02e12153d3ff0c1ff44e84908d117647f72",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
+    "link": "https://github.com/jordanhubbard/nanolang",
+    "published_at": "2026-01-19T21:48:07.000Z",
+    "fingerprint": "78427db3944f00fc24961492e5f7149060461f45",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "wind activates pavilion’s permeable wooden grid producing layered soundscapes",
+    "link": "https://www.designboom.com/architecture/wind-pavilion-permeable-wooden-grid-layered-soundscapes-cappella-del-suono-studio-carraldo/",
+    "published_at": "2026-01-19T21:30:15.000Z",
+    "fingerprint": "bd94f75df42f4046cd905513cb58c0a8832022bd",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "FOCUS | Davos, su Groenlandia, Gaza e Ucraina le riunioni dei big per ora avvolte dal caos",
+    "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/01/19/focus-davos-su-groenlandia-gaza-e-ucraina-le-riunioni-dei-big-per-ora_ea355a50-6154-4bb8-9697-d20d2a56f990.html",
+    "published_at": "2026-01-19T21:02:41.000Z",
+    "fingerprint": "c79f80ee8c47520b947bc98c3613cf71adf42ea2",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "In Germania enormi blocchi di ghiaccio sul fiume Elba",
+    "link": "https://www.ansa.it/sito/videogallery/mondo/2026/01/19/in-germania-enormi-blocchi-di-ghiaccio-sul-fiume-elba_5767b758-9376-48fa-81b4-3b212e1225c5.html",
+    "published_at": "2026-01-19T20:17:36.000Z",
+    "fingerprint": "be6fa3140bb1fbf1d6d8012557be13d8da72286c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Addio a Valentino, l'imperatore della moda",
+    "link": "https://www.ansa.it/sito/videogallery/italia/2026/01/19/addio-a-valentino-limperatore-della-moda_2b5f7667-aaba-4ad4-80f4-9d3a2f0f74ad.html",
+    "published_at": "2026-01-19T20:17:32.000Z",
+    "fingerprint": "8a513ff2d468a0bda259924c45b2b8b5a5e29627",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "iPhone Fold Specs Leak Online: Aluminum + Titanium Body, A20 Chipset, and the Rebirth of TouchID",
+    "link": "https://www.yankodesign.com/2026/01/19/iphone-fold-specs-leak-online-aluminum-titanium-body-a20-chipset-and-the-rebirth-of-touchid/?utm_source=rss&utm_medium=rss&utm_campaign=iphone-fold-specs-leak-online-aluminum-titanium-body-a20-chipset-and-the-rebirth-of-touchid",
+    "published_at": "2026-01-19T20:15:21.000Z",
+    "fingerprint": "7792ad47420ed9f26c6aae37d61e093196fe38ac",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ragazzo accoltellato, Atif resta in carcere. Il gip: 'Ha ucciso con brutalità e disinvoltura'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/01/19/ragazzo-accoltellato-atif-resta-in-carcere.-il-gip-ha-ucciso-con-brutalita-e-disinvoltura_2cd5d0a0-a825-4cf0-82ab-cfbe2447fe77.html",
+    "published_at": "2026-01-19T20:05:45.000Z",
+    "fingerprint": "da6d1557c0011463dfdf891876839e34fa50e837",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il marito di Federica Torzullo era pronto a fuggire. 'Ha provato a fare a pezzi il corpo e bruciarlo'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/01/19/il-marito-di-federica-torzullo-era-pronto-a-fuggire.-ha-provato-a-fare-a-pezzi-il-corpo_9d85c9c3-ed80-4c70-a976-cea8b23782f7.html",
+    "published_at": "2026-01-19T18:42:47.000Z",
+    "fingerprint": "5652520f7025d7d3b54c8ae184698e9c5e852232",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Notes on Apple's Nano Texture (2025)",
+    "link": "https://jon.bo/posts/nano-texture/",
+    "published_at": "2026-01-19T18:15:48.000Z",
+    "fingerprint": "8625834ef52651887b40157bd17ecc3618fbc309",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Wear Your Real Watch: This Case Turns Apple Watch into a Mini Handheld",
+    "link": "https://www.yankodesign.com/2026/01/19/wear-your-real-watch-this-case-turns-apple-watch-into-a-mini-handheld/?utm_source=rss&utm_medium=rss&utm_campaign=wear-your-real-watch-this-case-turns-apple-watch-into-a-mini-handheld",
+    "published_at": "2026-01-19T17:20:51.000Z",
+    "fingerprint": "f1be662bca1e3a6823eabbc13186ff5d539dbba0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "SO arquitetos builds coastal ‘casa da rocha quebrada’ as a grid of framed views",
+    "link": "https://www.designboom.com/architecture/so-arquitetos-builds-coastal-casa-da-rocha-quebrada-as-a-grid-of-framed-views/",
+    "published_at": "2026-01-19T17:01:18.000Z",
+    "fingerprint": "16c99ca8e0d4afca68c10e61259daa855a55fd66",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Brick Light Turns Travel Memories Into Glowing Cubes",
+    "link": "https://www.yankodesign.com/2026/01/19/this-brick-light-turns-travel-memories-into-glowing-cubes/?utm_source=rss&utm_medium=rss&utm_campaign=this-brick-light-turns-travel-memories-into-glowing-cubes",
+    "published_at": "2026-01-19T16:20:02.000Z",
+    "fingerprint": "33affbd6e0953b57502ff384e531e9bef87be3f5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "BIG’s suzhou museum of contemporary art opens with ‘materialism’ exhibition",
+    "link": "https://www.designboom.com/architecture/big-bjarke-ingels-group-suzhou-museum-contemporary-art-completion-ribbon-roof-11-11-2025/",
+    "published_at": "2026-01-19T11:50:29.000Z",
+    "fingerprint": "13e4c400645e378c305f8b8607e3dc88b1382cf5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
     "title": "The Code-Only Agent",
     "link": "https://rijnard.com/blog/the-code-only-agent",
     "published_at": "2026-01-19T02:27:07.000Z",
@@ -13,6 +141,22 @@
     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/01/19/due-treni-alta-velocita-deragliano-in-spagna-almeno-24-morti-e-100-feriti_17ffd3a6-640c-4d6c-a268-9f172e0eae10.html",
     "published_at": "2026-01-19T02:25:04.000Z",
     "fingerprint": "368e8bb37cd05da7f8cf62ee23b61495356cabc2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "flins",
+    "link": "https://www.producthunt.com/products/flins",
+    "published_at": "2026-01-19T02:14:17.000Z",
+    "fingerprint": "26cde84af685b40316f9c5dcf82eddd353335ab0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Honter",
+    "link": "https://www.producthunt.com/products/honter",
+    "published_at": "2026-01-19T02:12:06.000Z",
+    "fingerprint": "030b683c88f9da8994cc6adb849cb43b936fa721",
     "micro_judgment": null
   },
   {
@@ -157,6 +301,14 @@
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qg7ys1/relaxing_origami/",
     "published_at": "2026-01-18T12:59:51.000Z",
     "fingerprint": "5f413b486613816dd0813cac8601b315b2e44e5d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Mac Cleanup Go",
+    "link": "https://www.producthunt.com/products/github-263",
+    "published_at": "2026-01-18T11:11:09.000Z",
+    "fingerprint": "ef94c89ea19f717f7ada2f6159072f4bf69d0cf9",
     "micro_judgment": null
   },
   {
@@ -2645,6 +2797,14 @@
     "link": "https://www.producthunt.com/products/freeupmymac",
     "published_at": "2026-01-05T18:03:45.000Z",
     "fingerprint": "25880b50e4df74c9029fb944dd561d36cf9bd17e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "OS Ninja",
+    "link": "https://www.producthunt.com/products/os-ninja",
+    "published_at": "2026-01-05T17:40:47.000Z",
+    "fingerprint": "ade49e2763d125b9a0706eb8c3c9021bece6e839",
     "micro_judgment": null
   },
   {
