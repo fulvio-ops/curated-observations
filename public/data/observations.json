@@ -1,5 +1,181 @@
 [
   {
+    "source": "Designboom",
+    "title": "atelier yokyok sculpts sphere land installation out of black schist and granite in portugal",
+    "link": "https://www.designboom.com/art/atelier-yokyok-sphere-land-installation-black-schist-granite-portugal-ninho-globo/",
+    "published_at": "2026-01-24T05:01:37.000Z",
+    "fingerprint": "239fd720578af1c75751e2d7623dce4f6ad7e538",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Even with the 14 inches of snow coming tomorrow, people would rather have no water than drink Dasani",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1qlbpqi/even_with_the_14_inches_of_snow_coming_tomorrow/",
+    "published_at": "2026-01-24T03:14:35.000Z",
+    "fingerprint": "fb03cafb36cc308a5e4a2838aa5b56d7072beb2a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Noora Health (YC W14) Is Hiring AI/ML Engineer",
+    "link": "https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer",
+    "published_at": "2026-01-24T01:00:48.000Z",
+    "fingerprint": "ce5ad296aba2b752d215c2cc9ff2f47b65e322a6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Two cars with their alarm thingies perfectly synchronized.",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1ql7f2j/two_cars_with_their_alarm_thingies_perfectly/",
+    "published_at": "2026-01-24T00:04:06.000Z",
+    "fingerprint": "f45f04312e0e37e3cae90ec694d54bb30aede9fe",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Wilson Lin on FastRender: a browser built by parallel agents",
+    "link": "https://simonwillison.net/2026/Jan/23/fastrender/",
+    "published_at": "2026-01-23T22:28:01.000Z",
+    "fingerprint": "3e02831ec899816a11a6472a720a1ffdf99b0bb5",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Scontro Usa-Canada, Trump revoca l'invito al Board of peace a Carney",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/01/23/scontro-usa-canada-a-davos-trump-revoca-linvito-al-board-of-peace-a-carney_f008dcee-e943-4854-91f1-cf1355c8bac5.html",
+    "published_at": "2026-01-23T22:14:29.000Z",
+    "fingerprint": "c73fbbf7a10540f3571b9a0fdf4aa2a5930239e0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "TrueVault (YC W14) is hiring a Growth Lead to test different growth channels",
+    "link": "https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead",
+    "published_at": "2026-01-23T21:01:34.000Z",
+    "fingerprint": "ca3666a338c713c125e4cba8bbfd6ea3930e326d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ucraina-Russia-Ue: si tratta ad Abu Dhabi, braccio di ferro sul Donbass",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/01/23/ucraina-russia-ue-si-tratta-ad-abu-dhabi-braccio-di-ferro-sul-donbass_99e5b80e-88c8-4001-bee3-40e3b146cbfd.html",
+    "published_at": "2026-01-23T20:05:38.000Z",
+    "fingerprint": "cb1e8b7068ad2bec90a7a9eccd149fd0eaa7371f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Proposta Santanchè per il turismo, cambiare il calendario scolastico'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/01/23/proposta-santanche-per-il-turismo-cambiare-il-calendario-scolastico_d2c39989-d52d-466c-966b-7b4a7024e749.html",
+    "published_at": "2026-01-23T19:12:49.000Z",
+    "fingerprint": "022fa968e09cc7ed0ca991a1045e645b3c345be4",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "I funerali di Valentino Garavani, davanti a dio nel segno della bellezza",
+    "link": "https://www.ansa.it/sito/notizie/cultura/2026/01/23/a-roma-lultimo-saluto-a-valentino-e-il-giorno-dei-funerali_1a950b4f-c979-45fb-a139-d1f08770b634.html",
+    "published_at": "2026-01-23T18:57:11.000Z",
+    "fingerprint": "cef096c91641affce4c2f315589503a0acdb1e61",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Alda Fendi: 'Valentino e la sua perfezione vicina agli dei'",
+    "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/01/23/alda-fendi-valentino-e-la-sua-perfezione-vicina-agli-dei_5645cc90-83f8-477c-a561-07a2359f4bde.html",
+    "published_at": "2026-01-23T18:38:29.000Z",
+    "fingerprint": "4905864e80152e09d697e9c694dfdbefce282a19",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Bustine di ketchup e maionese vietate, le nuove regole Ue",
+    "link": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/01/23/bustine-di-ketchup-e-maionese-vietate-le-nuove-regole-ue_b872993d-9619-4bd7-853e-9f354a2f3db0.html",
+    "published_at": "2026-01-23T17:30:48.000Z",
+    "fingerprint": "79489ab182f93591d3d5f198533c58fa759a4f8f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Notes on the Intel 8086 processor's arithmetic-logic unit",
+    "link": "https://www.righto.com/2026/01/notes-on-intel-8086-processors.html",
+    "published_at": "2026-01-23T17:26:27.000Z",
+    "fingerprint": "d158718da3eb8c4577e547125789b74b94306dfa",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
+    "link": "https://maggieappleton.com/gastown",
+    "published_at": "2026-01-23T16:19:18.000Z",
+    "fingerprint": "b76c2cc41a99b7a26099713d3c6c4de141e48099",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Per ogni pacchetto di sigarette 5 euro in più, al via la raccolta firme",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/01/23/al-via-la-campagna-per-aumentare-di-5-euro-il-prezzo-delle-sigarette_ecd41604-1b6e-4d8e-b701-3855e18f5462.html",
+    "published_at": "2026-01-23T16:15:51.000Z",
+    "fingerprint": "3c48449f21ead581c6b204a17444f4ed433afaa2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The tech monoculture is finally breaking",
+    "link": "http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/",
+    "published_at": "2026-01-23T15:26:33.000Z",
+    "fingerprint": "2e928a946ac37d063a9033136638326fd8cfc3ce",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My cat has adopted this unique sitting position, I'm thinking she is mimicking us",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1qkskxf/my_cat_has_adopted_this_unique_sitting_position/",
+    "published_at": "2026-01-23T14:41:34.000Z",
+    "fingerprint": "a36dbadc733d3c39cfa34730030a7dd439acd342",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Laying reflective road markers",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qkpb83/laying_reflective_road_markers/",
+    "published_at": "2026-01-23T12:19:19.000Z",
+    "fingerprint": "4d31f5577043cd45666199bd446a4b803a87e5c8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go",
+    "link": "https://github.com/ramonvermeulen/whosthere",
+    "published_at": "2026-01-23T11:54:53.000Z",
+    "fingerprint": "fe74dfc1aa1e5143a8afdd9d5abc98b6ec6c0a3e",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Arte come pratica: riflessioni tra spazio pubblico e sfera pubblica. Il punto di vista di Lisa Parola",
+    "link": "https://www.ansa.it/sito/podcast/una_cura_per_arte/2026/01/23/arte-come-pratica-riflessioni-tra-spazio-pubblico-e-sfera-pubblica.-il-punto_181891d2-de06-4a2a-958a-449272b86945.html",
+    "published_at": "2026-01-23T11:21:34.000Z",
+    "fingerprint": "8b077c7481a2151cf9a5a4fe6229a1c18031e4fb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "penthouse residence by metaphors blends neo-classical detail with brutalist geometry",
+    "link": "https://www.designboom.com/architecture/penthouse-residence-metaphors-neo-classical-detail-brutalist-geometry/",
+    "published_at": "2026-01-23T10:30:04.000Z",
+    "fingerprint": "46a21d4e896ea3c392fee5565c366fdd0f55de29",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "suspended colored discs move through daxing jizi design’s faceted installation in beijing",
+    "link": "https://www.designboom.com/art/suspended-colored-discs-daxing-jizi-design-folded-installation-beijing/",
+    "published_at": "2026-01-23T10:00:12.000Z",
+    "fingerprint": "28a76f82d731428e6d000369c3af4df1c9245678",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · oddlysatisfying",
     "title": "snow wisps at sunset",
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qkib39/snow_wisps_at_sunset/",
@@ -213,6 +389,14 @@
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qjmwee/matchstick_making_in_india/",
     "published_at": "2026-01-22T06:15:25.000Z",
     "fingerprint": "85d1b7d8ed49d799dee85c4c50a9b6b5a0b6717d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "PayPing",
+    "link": "https://www.producthunt.com/products/payping",
+    "published_at": "2026-01-22T05:43:44.000Z",
+    "fingerprint": "db312a83817ad8b465cfa511559f1503ba147157",
     "micro_judgment": null
   },
   {
@@ -645,6 +829,14 @@
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/01/19/ragazzo-accoltellato-atif-resta-in-carcere.-il-gip-ha-ucciso-con-brutalita-e-disinvoltura_2cd5d0a0-a825-4cf0-82ab-cfbe2447fe77.html",
     "published_at": "2026-01-19T20:05:45.000Z",
     "fingerprint": "da6d1557c0011463dfdf891876839e34fa50e837",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Edge Light for video calls",
+    "link": "https://www.producthunt.com/products/edge-light-for-video-calls",
+    "published_at": "2026-01-19T19:27:51.000Z",
+    "fingerprint": "81cd9da1824b93d2eb7b9d8f959f0455bbc3daab",
     "micro_judgment": null
   },
   {
