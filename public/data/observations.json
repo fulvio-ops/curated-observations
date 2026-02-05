@@ -1,5 +1,133 @@
 [
   {
+    "source": "Reddit · mildlyinteresting",
+    "title": "The way the melting snow is slowly ribboning off my neighbors roof",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1qwae5c/the_way_the_melting_snow_is_slowly_ribboning_off/",
+    "published_at": "2026-02-05T03:36:17.000Z",
+    "fingerprint": "0aa35d2857bec6cc6259645e4b9a3ad0565ef1a8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "A tale of two flows: Metaflow and Kubeflow",
+    "link": "https://blog.kubeflow.org/metaflow/",
+    "published_at": "2026-02-05T03:06:32.000Z",
+    "fingerprint": "9777cc3e3cb1cc2084087767370c300302cbf0b1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Luxury GT Concept Speaks Every Electric Luxury Design Language at Once",
+    "link": "https://www.yankodesign.com/2026/02/04/this-luxury-gt-concept-speaks-every-electric-luxury-design-language-at-once/?utm_source=rss&utm_medium=rss&utm_campaign=this-luxury-gt-concept-speaks-every-electric-luxury-design-language-at-once",
+    "published_at": "2026-02-04T21:30:06.000Z",
+    "fingerprint": "fb18ac0496e9b5d91b8b110e3105ecdf5c0bb061",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Chopard and Zagato collaborate for the breathtaking Lab One Concept watch, limited to just 19 examples",
+    "link": "https://www.yankodesign.com/2026/02/04/chopard-and-zagato-collaborate-for-the-breathtaking-lab-one-concept-watch-limited-to-just-19-examples/?utm_source=rss&utm_medium=rss&utm_campaign=chopard-and-zagato-collaborate-for-the-breathtaking-lab-one-concept-watch-limited-to-just-19-examples",
+    "published_at": "2026-02-04T20:15:35.000Z",
+    "fingerprint": "f2a72ff06cbdf13cfdcde2b3d38648c2141db535",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Con Milano Cortina, il curling torna sul palcoscenico che conta",
+    "link": "https://www.ansa.it/sito/videogallery/sport/2026/02/04/con-milano-cortina-il-curling-torna-sul-palcoscenico-che-conta_1b12044f-e683-4eb0-8bf9-c5e24d069cfd.html",
+    "published_at": "2026-02-04T18:53:49.000Z",
+    "fingerprint": "8b5d8b98d7e7ce82ab75336d8de170508611cefd",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "È morto Paolo Di Tullio, una vita all'ANSA",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/04/e-morto-paolo-di-tullio-una-vita-allansa_0cd497c4-bc39-4354-848d-29c0a8477e71.html",
+    "published_at": "2026-02-04T18:51:27.000Z",
+    "fingerprint": "57a43cf4a16fe30e8d074839507c59498dc2eb71",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Facebook compie 22 anni, Zuckerberg posta la foto del primo sito",
+    "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/02/04/facebook-compie-22-anni-gli-auguri-di-mark-zuckerberg_45b75a32-e5ab-4530-84e3-846bb5288bb8.html",
+    "published_at": "2026-02-04T18:17:54.000Z",
+    "fingerprint": "93eddfde3894e6f0ab0a879cbf8293bd1d45e27e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Building a 24-bit arcade CRT display adapter from scratch",
+    "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
+    "published_at": "2026-02-04T17:35:05.000Z",
+    "fingerprint": "1809e07c39f012185f66a3b445b6c64fa650fa99",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Postgres Postmaster does not scale",
+    "link": "https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
+    "published_at": "2026-02-04T16:30:51.000Z",
+    "fingerprint": "11fae19a1b2d5e0db56b2405146c36c2139ae9a8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Sony WF-1000XM6 earbuds leak reveals pill-shaped design and angular case",
+    "link": "https://www.yankodesign.com/2026/02/04/sony-wf-1000xm6-earbuds-leak-reveals-pill-shaped-design-and-angular-case/?utm_source=rss&utm_medium=rss&utm_campaign=sony-wf-1000xm6-earbuds-leak-reveals-pill-shaped-design-and-angular-case",
+    "published_at": "2026-02-04T16:20:33.000Z",
+    "fingerprint": "4f327ebfc574606139bbd3e539785588d4540ced",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'La gelosia non può mai essere un'attenuante', a ribadirlo è la Cassazione",
+    "link": "https://www.ansa.it/donne/notizie/2026/02/04/la-gelosia-non-puo-mai-essere-unattenuante-a-ribadirlo-e-la-cassazione_a48d643e-58cc-4373-8049-ad1ce9da703f.html",
+    "published_at": "2026-02-04T16:11:21.000Z",
+    "fingerprint": "0d748d136a71809eded7229c3fed40428796e5f5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This shadow on my wall looks exactly like the Grandpa from “Hey Arnold!”",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1qvsigx/this_shadow_on_my_wall_looks_exactly_like_the/",
+    "published_at": "2026-02-04T16:04:27.000Z",
+    "fingerprint": "483cfcbed9d47a77d92753e804930435842df6ff",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Voxtral Transcribe 2",
+    "link": "https://mistral.ai/news/voxtral-transcribe-2",
+    "published_at": "2026-02-04T15:08:17.000Z",
+    "fingerprint": "01b75240a345d7d92d3e2f6b19207142703d9133",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "reflective metal facade wraps another side funeral home’s elevated volume in san francisco",
+    "link": "https://www.designboom.com/readers/reflective-metal-facade-another-side-funeral-home-elevated-volume-san-francisco-hanqin-tang/",
+    "published_at": "2026-02-04T14:00:44.000Z",
+    "fingerprint": "8ef72f36f88d3cb2eae1c974acffb95cccf0c274",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "zaha hadid architects to design series of cultural buildings along canal in hangzhou, china",
+    "link": "https://www.designboom.com/architecture/zaha-hadid-architects-zha-series-cultural-buildings-canal-qiantang-bay-hangzhou-china/",
+    "published_at": "2026-02-04T11:50:10.000Z",
+    "fingerprint": "8c98b8564a3a6b7c8476fe00c6bb67dc8bf2db09",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "from gaming production to live worlds, spark 2026 signals a new chapter for ISE in barcelona",
+    "link": "https://www.designboom.com/technology/from-gaming-production-to-live-worlds-spark-2026-signals-a-new-chapter-for-ise-in-barcelona/",
+    "published_at": "2026-02-04T11:01:12.000Z",
+    "fingerprint": "69233d2f9d86602d9211e289fd14f280fce205bf",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "recontextualizing human hair waste as potential raw material for design",
     "link": "https://www.designboom.com/design/human-hair-waste-potential-raw-material-design-laura-oliveira/",
@@ -120,6 +248,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Multitui",
+    "link": "https://www.producthunt.com/products/multitui",
+    "published_at": "2026-02-03T12:49:26.000Z",
+    "fingerprint": "11a607d445613c20b63b00c33b461191adfc77f3",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Gimbe, ancora nessun beneficio per i cittadini dal Dl liste d'attesa",
     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/02/03/gimbe-ancora-nessun-beneficio-per-i-cittadini-dal-dl-liste-dattesa_8fe007cd-5704-4876-9765-630f245c6c07.html",
@@ -153,10 +289,26 @@
   },
   {
     "source": "Product Hunt",
+    "title": "Beni AI",
+    "link": "https://www.producthunt.com/products/beni-ai-video-call-ai-companion",
+    "published_at": "2026-02-03T09:32:08.000Z",
+    "fingerprint": "a5c87b204c3e1c9299571f09093c9fb293927f8d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
     "title": "Paso",
     "link": "https://www.producthunt.com/products/paso",
     "published_at": "2026-02-03T07:33:07.000Z",
     "fingerprint": "8fa9f57eda3f344241530404f09dee1a502ef464",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Camzy",
+    "link": "https://www.producthunt.com/products/camzy",
+    "published_at": "2026-02-03T05:50:21.000Z",
+    "fingerprint": "092e806d565c86afa75d6ac1ac63e52f4fd1c4c8",
     "micro_judgment": null
   },
   {
@@ -365,6 +517,14 @@
     "link": "https://www.designboom.com/design/tiny-multicolor-windows-hours-luca-nichetto-watch-unimatic/",
     "published_at": "2026-02-02T16:01:50.000Z",
     "fingerprint": "2b0e4d92bbff22dc7ecdd66a3256198284154bc5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Bunny Database",
+    "link": "https://www.producthunt.com/products/bunny-net",
+    "published_at": "2026-02-02T13:18:15.000Z",
+    "fingerprint": "1aad373e34dc708f30f594b2492d72b6ed63d6ad",
     "micro_judgment": null
   },
   {
@@ -877,6 +1037,14 @@
     "link": "https://www.designboom.com/architecture/continuous-steel-rail-shanghai-showroom-sculptural-interior-freehand-drawing-yearly-plan-shisuo/",
     "published_at": "2026-01-30T06:45:01.000Z",
     "fingerprint": "fb294eb4f99e7d0837f6f9e747613cd0326f599f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "CatchBack Cards",
+    "link": "https://www.producthunt.com/products/catchback-cards",
+    "published_at": "2026-01-30T04:51:19.000Z",
+    "fingerprint": "24ac164155d737908abff29cbf0a155c46646e58",
     "micro_judgment": null
   },
   {
@@ -6245,6 +6413,14 @@
     "link": "https://www.producthunt.com/products/basehub",
     "published_at": "2025-07-30T16:49:49.000Z",
     "fingerprint": "c85acbfe8714b2ec2956d79df245da975d8c48e9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Candle (YC F24)",
+    "link": "https://www.producthunt.com/products/candle-4",
+    "published_at": "2025-06-23T22:51:44.000Z",
+    "fingerprint": "950738dd99332830439e9fac2509bde56d7056f6",
     "micro_judgment": null
   },
   {
