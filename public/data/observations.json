@@ -1,5 +1,133 @@
 [
   {
+    "source": "Designboom",
+    "title": "a perforated, fluted facade peels away from TAOA-designed hangzhou empathy museum",
+    "link": "https://www.designboom.com/architecture/perforated-fluted-facade-taoa-hangzhou-empathy-museum-china/",
+    "published_at": "2026-02-10T04:01:43.000Z",
+    "fingerprint": "039c4aa7286c31ccbb381ae88a973267eaaaf225",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Titaner’s Magnetic Ring Ruler Clicks Every 10cm While It Measures Curves",
+    "link": "https://www.yankodesign.com/2026/02/09/titaners-magnetic-ring-ruler-clicks-every-10cm-while-it-measures-curves/?utm_source=rss&utm_medium=rss&utm_campaign=titaners-magnetic-ring-ruler-clicks-every-10cm-while-it-measures-curves",
+    "published_at": "2026-02-10T02:45:36.000Z",
+    "fingerprint": "d40c88531ce03bc11fcdce0b9f2d1f0324f545c0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "5 Sushi-Inspired Designs For Japanese Product Fans That Look So Realistic You’ll Want to Eat Them",
+    "link": "https://www.yankodesign.com/2026/02/09/5-sushi-inspired-designs-for-japanese-product-fans-that-look-so-realistic-youll-want-to-eat-them/?utm_source=rss&utm_medium=rss&utm_campaign=5-sushi-inspired-designs-for-japanese-product-fans-that-look-so-realistic-youll-want-to-eat-them",
+    "published_at": "2026-02-10T00:30:37.000Z",
+    "fingerprint": "c3a84feca7a37caeb18d9dc9b92b53763b2d22fe",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Milano Cortina: doppio intervento chirurgico per Vonn. 'Il mio sogno olimpico non si è concluso come avevo sperato'",
+    "link": "https://www.ansa.it/sito/notizie/sport/speciali/milano_cortina_2026/2026/02/09/milano-cortina-doppio-intervento-chirurgico-per-vonn-il-padre-questa-e-la-fine_8e3530f4-386f-4c1e-9244-fa8a0d8aac05.html",
+    "published_at": "2026-02-09T22:35:55.000Z",
+    "fingerprint": "aa39ee873caf0561101ceccdc44031000e517bd2",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Caso Epstein, re Carlo pronto a collaborare con la polizia su Andrea. Ghislaine Maxwell non parla senza grazia",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/09/caso-epstein-re-carlo-pronto-a-collaborare-con-la-polizia-su-andrea_b6993d6f-5068-4434-bf8c-2119e138a791.html",
+    "published_at": "2026-02-09T22:34:28.000Z",
+    "fingerprint": "ffd85c17e5a19d76916294b52852a40d9699d313",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Milano Cortina: curling amaro, per Constantini e Mosaner niente finale e dubbi sul futuro",
+    "link": "https://www.ansa.it/sito/notizie/sport/speciali/milano_cortina_2026/2026/02/09/milano-cortina-gli-azzurri-del-curling-sconfitti-usa-in-finale_f157bcc7-541f-4e1a-8496-322f81077006.html",
+    "published_at": "2026-02-09T20:54:50.000Z",
+    "fingerprint": "b304a1168128015d88a8c743549481b92927ba73",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'Crescere con l’Intelligenza Artificiale', focus di Telefono Azzurro",
+    "link": "https://www.ansa.it/sito/notizie/eventi/2026/02/09/crescere-con-lintelligenza-artificiale-focus-di-telefono-azzurro_34364220-da78-4e86-a718-3dbbe7249945.html",
+    "published_at": "2026-02-09T20:42:14.000Z",
+    "fingerprint": "fab74830001ca4908e3b60ebd3357c784883546c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'Il caccia franco-tedesco al collasso', i timori di Macron",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/09/il-caccia-franco-tedesco-al-collasso-i-timori-di-macron-_ef687cf4-d4be-42ac-86cd-008f1f34a4e4.html",
+    "published_at": "2026-02-09T20:14:22.000Z",
+    "fingerprint": "1adfaf43d9fcf99934aebd5446239291f3267fc3",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Insider trading, dirigente del Mef e consigliere di Mps indagato a Milano",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/09/insider-trading-dirigente-mef-e-consigliere-mps-indagato-a-milano_7be216f4-538e-4efb-91df-e5af4e6e2778.html",
+    "published_at": "2026-02-09T20:02:59.000Z",
+    "fingerprint": "f7d92ece74d88c522aa6247cb32f3ea07b204512",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'Sfruttati 40mila rider di Glovo', pagati 2,5 euro a consegna",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/09/rider-sfruttati-controllo-giudiziario-per-foodinho-glovo-_924b4a8b-33a6-4561-91fa-0c7d5549fc8a.html",
+    "published_at": "2026-02-09T17:47:10.000Z",
+    "fingerprint": "4551ea9d005955e7bb85cd18dbddc84ad4b4b1f8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Game Boy Advance Audio Interpolation",
+    "link": "https://jsgroth.dev/blog/posts/gba-audio-interpolation/",
+    "published_at": "2026-02-09T17:44:10.000Z",
+    "fingerprint": "e714fb37ba9f26850769a5ccd55c1ad685659b3a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Hard-braking events as indicators of road segment crash risk",
+    "link": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
+    "published_at": "2026-02-09T17:09:37.000Z",
+    "fingerprint": "f79c3a6703ce89a9c3483876ffeebcbed802b3b0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "Cj hendry and tony’s chocolonely fill all-red valentine’s popup with mystery boxes in NYC",
+    "link": "https://www.designboom.com/art/cj-hendry-tonys-chocolonely-red-valentines-popup-mystery-boxes-new-york/",
+    "published_at": "2026-02-09T17:01:17.000Z",
+    "fingerprint": "12eb1a3d7d3dfe4e9b062ce32d041a6eded11ab5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Why Your Boring Black TV Deserves This Retro Wooden Upgrade",
+    "link": "https://www.yankodesign.com/2026/02/09/why-your-boring-black-tv-deserves-this-retro-wooden-upgrade/?utm_source=rss&utm_medium=rss&utm_campaign=why-your-boring-black-tv-deserves-this-retro-wooden-upgrade",
+    "published_at": "2026-02-09T15:20:36.000Z",
+    "fingerprint": "97b55e1a25cf04659843062a5e79109c4e104bba",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "timber garden folly pavilion transitions between resting shelter and planted patio",
+    "link": "https://www.designboom.com/readers/timber-garden-folly-pavilion-resting-shelter-planted-patio-soares-jaquier-architects/",
+    "published_at": "2026-02-09T14:30:37.000Z",
+    "fingerprint": "8877e951c6335f1a595624c15c14ea412f38a249",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "peter zumthor’s fluid concrete david geffen galleries to open at LACMA in april 2026",
+    "link": "https://www.designboom.com/architecture/peter-zumthor-lacma-expansion-completion-opening-phases-summer-2025-03-13-2025/",
+    "published_at": "2026-02-09T10:00:01.000Z",
+    "fingerprint": "4b0872dfcb84b55d385bbda24e8f1229263fbaa7",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · oddlysatisfying",
     "title": "Walking down a hall with mirrors with an infinite recursion effect",
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qzw74e/walking_down_a_hall_with_mirrors_with_an_infinite/",
@@ -528,6 +656,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Afterpage",
+    "link": "https://www.producthunt.com/products/afterpage",
+    "published_at": "2026-02-06T16:45:45.000Z",
+    "fingerprint": "408a7f649fd106df67429312e8139a0115517b36",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Streetwear, lo stile urbano sta cambiando pelle",
     "link": "https://www.ansa.it/sito/notizie/magazine/numeri/2026/02/04/streetwear-lo-stile-urbano-sta-cambiando-pelle_fa51d005-023f-4bc8-a28a-f9faae248af1.html",
@@ -797,6 +933,14 @@
     "link": "https://www.yankodesign.com/2026/02/04/chopard-and-zagato-collaborate-for-the-breathtaking-lab-one-concept-watch-limited-to-just-19-examples/?utm_source=rss&utm_medium=rss&utm_campaign=chopard-and-zagato-collaborate-for-the-breathtaking-lab-one-concept-watch-limited-to-just-19-examples",
     "published_at": "2026-02-04T20:15:35.000Z",
     "fingerprint": "f2a72ff06cbdf13cfdcde2b3d38648c2141db535",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "DubStream by CAMB.AI",
+    "link": "https://www.producthunt.com/products/dubstream-by-camb",
+    "published_at": "2026-02-04T19:22:17.000Z",
+    "fingerprint": "c536d7afd2792cd8ca6a64ed26ff313d0ff001f2",
     "micro_judgment": null
   },
   {
@@ -4629,6 +4773,14 @@
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qdkgyk/a_dog_sliding_down_ice_and_enjoying/",
     "published_at": "2026-01-15T14:08:08.000Z",
     "fingerprint": "53130f444c4482bb1eb413e601582f4c589a92de",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Bezel",
+    "link": "https://www.producthunt.com/products/bezel-2",
+    "published_at": "2026-01-15T10:32:17.000Z",
+    "fingerprint": "36c3c9dd78c2ccd2fd18ccfd90110cd643ca789b",
     "micro_judgment": null
   },
   {
