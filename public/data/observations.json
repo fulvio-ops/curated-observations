@@ -1,10 +1,114 @@
 [
   {
+    "source": "Yanko Design",
+    "title": "The Joystick-shaped Screwdriver That Makes Repairing/DIY Projects Fun and Intuitive",
+    "link": "https://www.yankodesign.com/2026/02/11/the-joystick-shaped-screwdriver-that-makes-repairing-diy-projects-fun-and-intuitive/?utm_source=rss&utm_medium=rss&utm_campaign=the-joystick-shaped-screwdriver-that-makes-repairing-diy-projects-fun-and-intuitive",
+    "published_at": "2026-02-11T23:30:53.000Z",
+    "fingerprint": "f719a443891a6327628d9cf39cb811ba806e0c2e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Discord/Twitch/Snapchat age verification bypass",
+    "link": "https://age-verifier.kibty.town/",
+    "published_at": "2026-02-11T22:56:41.000Z",
+    "fingerprint": "6e0d8a5488d14954602c7270bdf92ec5ba7519d9",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "È morto James Van Der Beek, la star di Dawson's Creek",
+    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/02/11/e-morto-james-van-der-beek-la-star-di-dawsons-creek_a17a86db-1dab-4b08-bf18-387c51f047e9.html",
+    "published_at": "2026-02-11T21:38:37.000Z",
+    "fingerprint": "42e61dc4d34ab5e57ff7dd425fb7e47f68f1e7cd",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Gli azzurri in gara il 12 febbraio, occhi puntati su Brignone e Goggia",
+    "link": "https://www.ansa.it/sito/notizie/sport/speciali/milano_cortina_2026/2026/02/11/gli-azzurri-in-gara-il-12-febbraio-occhi-puntati-su-brignone-e-goggia_e890c6f9-8acd-4145-9c07-c255d63787b9.html",
+    "published_at": "2026-02-11T21:29:25.000Z",
+    "fingerprint": "6271ec00533c18589b048394e00e8da4a9a15d4e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "herzog & de meuron arrives in dubai with lush, mixed-use tower for aman group",
+    "link": "https://www.designboom.com/architecture/herzog-de-meuron-janu-dubai-mixed-use-tower-hh-aman-group/",
+    "published_at": "2026-02-11T20:45:16.000Z",
+    "fingerprint": "78b74194c2a20acd3f311601a71f510924c13945",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums",
+    "link": "https://agentalcove.ai",
+    "published_at": "2026-02-11T20:15:21.000Z",
+    "fingerprint": "1c412697dbdf8a2540b08602da2b57a65c0980c4",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Terzo intervento chirurgico alla gamba per Lindsay Vonn: 'Faccio progressi'",
+    "link": "https://www.ansa.it/sito/notizie/sport/speciali/milano_cortina_2026/2026/02/11/terzo-intervento-chirurgico-alla-gamba-per-lindsay-vonn-faccio-progressi_d5b9dc19-ecce-4c15-a776-ddf227f2d080.html",
+    "published_at": "2026-02-11T18:52:11.000Z",
+    "fingerprint": "ac2c086c26f5f069e7375cad857e66f9136da6a8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "sculptural installations animate zU-studio’s hotel redesign in spain",
+    "link": "https://www.designboom.com/readers/sculptural-installations-zu-studio-lasala-plaza-hotel-redesign-spain/",
+    "published_at": "2026-02-11T18:50:33.000Z",
+    "fingerprint": "fec178037700fa8967a085097e1b4d36f5e5c9d7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "When Zoo Design Tells the Story of Life Itself",
+    "link": "https://www.yankodesign.com/2026/02/11/when-zoo-design-tells-the-story-of-life-itself/?utm_source=rss&utm_medium=rss&utm_campaign=when-zoo-design-tells-the-story-of-life-itself",
+    "published_at": "2026-02-11T18:20:48.000Z",
+    "fingerprint": "b60c0b40d8230b09a223c06ee02f94a8f42edb01",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La crociata di Trump sul gender, rimossa la bandiera allo Stonewall",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/11/la-crociata-di-trump-sul-gender-rimossa-la-bandiera-allo-stonewall_e7517776-9647-4e2c-8409-25eabc518194.html",
+    "published_at": "2026-02-11T17:40:47.000Z",
+    "fingerprint": "f4489d0b8ba7254162f8628c16a3a85b563bef27",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Bernini e i Barberini, in mostra il genio del barocco e il suo mecenate Urbano VIII",
+    "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/02/11/bernini-e-i-barberini-in-mostra-il-genio-del-barocco-e-il-suo-mecenate-urbano-viii_ed9cabe2-add3-4b28-807d-1d8d98470a37.html",
+    "published_at": "2026-02-11T16:57:07.000Z",
+    "fingerprint": "3f3070fb071dc38ce5a05c0c8a81e599e43f8e53",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "pitched thatched roof tops conical white-bricked sarchina villa",
+    "link": "https://www.designboom.com/architecture/pitched-thatched-roof-sarchina-villa-cone-white-brick-columns-shomali-design/",
+    "published_at": "2026-02-11T11:10:58.000Z",
+    "fingerprint": "06e7447561e148d47c5b4c06273e0fed6b0f94a0",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "A simpler way to remove explicit images from Search",
     "link": "https://blog.google/products-and-platforms/products/search/remove-explicit-images/",
     "published_at": "2026-02-11T04:15:24.000Z",
     "fingerprint": "c902e3f419fabaa8ce10bf296fbea0cf16fbdeb3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "On-Call Health",
+    "link": "https://www.producthunt.com/products/on-call-health",
+    "published_at": "2026-02-11T03:07:18.000Z",
+    "fingerprint": "00e87705d0c5846f7b75d61b5997121ee465bf98",
     "micro_judgment": null
   },
   {
@@ -37,6 +141,14 @@
     "link": "https://www.ansa.it/sito/notizie/sport/speciali/milano_cortina_2026/2026/02/10/milano-cortina-laegreid-in-lacrime-dopo-il-bronzo-confessa-un-tradimento_91bd1ea9-c9d8-44af-84ee-2415eb60a0e4.html",
     "published_at": "2026-02-10T19:33:14.000Z",
     "fingerprint": "8349e926eebeefb861f85ab2dd650be782b51de7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Observational Memory by Mastra",
+    "link": "https://www.producthunt.com/products/mastra",
+    "published_at": "2026-02-10T18:56:42.000Z",
+    "fingerprint": "02e0428cb07e74758b609c1ee86d873cc08aab4e",
     "micro_judgment": null
   },
   {
@@ -104,6 +216,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Ordo",
+    "link": "https://www.producthunt.com/products/ordo",
+    "published_at": "2026-02-10T08:27:50.000Z",
+    "fingerprint": "ce367537cea714a5432a4b5f0784275f946604c5",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "a perforated, fluted facade peels away from TAOA-designed hangzhou empathy museum",
     "link": "https://www.designboom.com/architecture/perforated-fluted-facade-taoa-hangzhou-empathy-museum-china/",
@@ -141,6 +261,14 @@
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/09/caso-epstein-re-carlo-pronto-a-collaborare-con-la-polizia-su-andrea_b6993d6f-5068-4434-bf8c-2119e138a791.html",
     "published_at": "2026-02-09T22:34:28.000Z",
     "fingerprint": "ffd85c17e5a19d76916294b52852a40d9699d313",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "0xAudit",
+    "link": "https://www.producthunt.com/products/0xaudit",
+    "published_at": "2026-02-09T21:46:54.000Z",
+    "fingerprint": "371b7b764000e190e16b1f4c2510e94cf431da3b",
     "micro_judgment": null
   },
   {
@@ -221,6 +349,14 @@
     "link": "https://www.yankodesign.com/2026/02/09/why-your-boring-black-tv-deserves-this-retro-wooden-upgrade/?utm_source=rss&utm_medium=rss&utm_campaign=why-your-boring-black-tv-deserves-this-retro-wooden-upgrade",
     "published_at": "2026-02-09T15:20:36.000Z",
     "fingerprint": "97b55e1a25cf04659843062a5e79109c4e104bba",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Antal.Ai",
+    "link": "https://www.producthunt.com/products/antal-ai",
+    "published_at": "2026-02-09T15:10:37.000Z",
+    "fingerprint": "26e1a885f4ac7a698350aa32b676bd223cfafbb2",
     "micro_judgment": null
   },
   {
@@ -333,6 +469,14 @@
     "link": "https://odd-lots-books.netlify.app/",
     "published_at": "2026-02-08T23:27:59.000Z",
     "fingerprint": "4170dfe4f181ff29a61b4508c18706d1008dc28c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Migma AI",
+    "link": "https://www.producthunt.com/products/migma-ai",
+    "published_at": "2026-02-08T23:19:46.000Z",
+    "fingerprint": "071c6e5362b77dd6107467c72fcb317468269fcf",
     "micro_judgment": null
   },
   {
