@@ -1,5 +1,141 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "What dating apps are optimizing. Hint: It isn't love",
+    "link": "https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html",
+    "published_at": "2026-02-14T01:27:28.000Z",
+    "fingerprint": "6202b3996b13b7cd402bc5e8c7356414f61a7e82",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
+    "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+    "published_at": "2026-02-14T00:37:53.000Z",
+    "fingerprint": "ba9b34a55bfd539c3d00f65ad54af3b3fa462840",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Serie A: Il Milan supera il Pisa a fatica, decisiva una perla di Modric",
+    "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/02/13/serie-a-pisa-milan-1-2-_48d2c1e6-a6a9-489b-9ab9-6de1d65b20ce.html",
+    "published_at": "2026-02-13T22:18:47.000Z",
+    "fingerprint": "c1d5607f476c59ae02997ca190e8348ba460ee74",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Resa dei conti Usa-Europa, Merz: 'Ormai c'è una frattura'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/13/resa-dei-conti-usa-europa-merz-ormai-ce-una-frattura_8c7611e8-ee16-44f7-b7ea-0f7087f790b9.html",
+    "published_at": "2026-02-13T20:54:24.000Z",
+    "fingerprint": "4bd1fe9bbc7a5643b99fe64b3baafa5e87eb2d5e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The EU moves to kill infinite scrolling",
+    "link": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
+    "published_at": "2026-02-13T20:52:11.000Z",
+    "fingerprint": "57996dd4051da382479f321070563efe592f1459",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "marc fornes / THEVERYMANY lands fuselage-like louis vuitton café and store at heathrow",
+    "link": "https://www.designboom.com/architecture/marc-fornes-theverymany-fuselage-louis-vuitton-cafe-store-heathrow-airport/",
+    "published_at": "2026-02-13T20:45:02.000Z",
+    "fingerprint": "311d3a5c4d202eda8c005d74741d63414c0c7375",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Salvini precetta, i sindacati rinviano lo sciopero degli aerei al 26 febbraio",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/02/13/salvini-precetta-i-sindacati-rinviano-lo-sciopero-degli-aerei-al-26-febbraio_9e68fe9c-7894-47f8-a5ec-fac8b2efc56f.html",
+    "published_at": "2026-02-13T20:40:44.000Z",
+    "fingerprint": "8a081d9961e742f6d0a044f19b542a3296fde5ba",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Awaken RV’s MorningStar camper blends dual-hull fiberglass design with all-weather durability",
+    "link": "https://www.yankodesign.com/2026/02/13/awaken-rvs-morningstar-camper-blends-dual-hull-fiberglass-design-with-all-weather-durability/?utm_source=rss&utm_medium=rss&utm_campaign=awaken-rvs-morningstar-camper-blends-dual-hull-fiberglass-design-with-all-weather-durability",
+    "published_at": "2026-02-13T20:15:00.000Z",
+    "fingerprint": "9b128d3b0d349314d2f7d8d429f9d16bfbfe76b4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "I'm not worried about AI job loss",
+    "link": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
+    "published_at": "2026-02-13T19:13:04.000Z",
+    "fingerprint": "a1e63cd81a4a83ddb273a32049f9659fdfe2147a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "In Gran Bretagna si potrà scegliere l'attribuzione di genere a 4 anni, è polemica",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/13/in-gran-bretagna-i-bambini-potranno-cambiare-lattribuzione-di-genere-a-scuola_c881f696-2a24-4c43-9362-4ca470064cd0.html",
+    "published_at": "2026-02-13T18:51:54.000Z",
+    "fingerprint": "0f01428afecc9df4e082c5f48ae45387936c5ead",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Torna il maltempo, un morto e zone isolate nel Centro-Sud",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/13/torna-il-maltempo-un-morto-e-zone-isolate-nel-centro-sud_b1bf6862-5ad8-4286-bdea-379643b5bd55.html",
+    "published_at": "2026-02-13T18:48:16.000Z",
+    "fingerprint": "b61ec9a8ed74a138c27d3eb2e5d1430c35be748c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "OLOID ergonomic mouse is designed for hassle-free ambidextrous switching",
+    "link": "https://www.yankodesign.com/2026/02/13/oloid-ergonomic-mouse-is-designed-for-hassle-free-ambidextrous-switching/?utm_source=rss&utm_medium=rss&utm_campaign=oloid-ergonomic-mouse-is-designed-for-hassle-free-ambidextrous-switching",
+    "published_at": "2026-02-13T16:20:24.000Z",
+    "fingerprint": "6165c1ec67d5dd011193e4d26201e6f985589a6e",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Kennedy jr: 'Non temo i germi, sniffavo cocaina sulla tavoletta del water'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/13/kennedy-jr-non-temo-i-germi-sniffavo-cocaina-sulla-tavoletta-del-water_9c118e8f-6df0-4988-8fe2-0f8daa59432d.html",
+    "published_at": "2026-02-13T13:00:31.000Z",
+    "fingerprint": "85964cce538975710946374e23b1a46badc8e1d2",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'esercizio fisico sviluppa il cervello, non solo i muscoli",
+    "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/02/13/lesercizio-fisico-sviluppa-il-cervello-non-solo-i-muscoli-_ca856f0d-730d-472d-ab20-6ab068bf43f5.html",
+    "published_at": "2026-02-13T12:18:34.000Z",
+    "fingerprint": "af85a4eaefe13bdb29b51f80c61e2341a0d1e590",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC",
+    "link": "https://www.workatastartup.com/companies/govdash",
+    "published_at": "2026-02-13T12:01:11.000Z",
+    "fingerprint": "a20281d2bdb53ec99953ef86d11c0a121123b635",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "light sculptures preserve ancestral designs through antique doilies and lace textiles",
+    "link": "https://www.designboom.com/design/light-sculptures-preserve-ancestral-designs-antique-doilies-lace-textile-lana-launay-kinship/",
+    "published_at": "2026-02-13T11:00:48.000Z",
+    "fingerprint": "63eabc287f1ea14422c5039108af7bff04a6b098",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "WolfSSL sucks too, so now what?",
+    "link": "https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/",
+    "published_at": "2026-02-13T10:18:56.000Z",
+    "fingerprint": "b47d35a285d95d2f8c2550ea9a45ba1be37472e2",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "origami G-SHOCK watches by casio let users feel washi paper texture around bezel",
     "link": "https://www.designboom.com/design/origami-g-shock-watches-casio-washi-paper-texture-bezel/",
@@ -109,6 +245,14 @@
     "link": "https://www.ansa.it/sito/podcast/ansa_voice_magazine/2026/02/12/la-storia-nellarmadio-la-tuta_c4a75cb8-93d5-4e6f-a6c2-dff1ac2da019.html",
     "published_at": "2026-02-12T11:01:45.000Z",
     "fingerprint": "a452862b7b57054b8380dfb36a9bcc9d36dd8e0c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "MyBikeFitting",
+    "link": "https://www.producthunt.com/products/mybikefitting",
+    "published_at": "2026-02-12T08:48:33.000Z",
+    "fingerprint": "16e49b0580f389dea4cca3632fa925ee145c01c8",
     "micro_judgment": null
   },
   {
@@ -7597,6 +7741,14 @@
     "link": "https://www.producthunt.com/products/incident-ops",
     "published_at": "2025-12-29T21:47:55.000Z",
     "fingerprint": "4c7887ec0cf5ed885f7f8bdf7c232ba38e9f831d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Kasbu.bio",
+    "link": "https://www.producthunt.com/products/kasbu-bio",
+    "published_at": "2025-12-29T17:50:27.000Z",
+    "fingerprint": "3a9856b698c6ba89fbdf75114ccd14bd3838f952",
     "micro_judgment": null
   },
   {
