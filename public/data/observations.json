@@ -1,6 +1,78 @@
 [
   {
     "source": "Hacker News · frontpage",
+    "title": "Linear Representations and Superposition",
+    "link": "http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html",
+    "published_at": "2026-02-15T04:29:44.000Z",
+    "fingerprint": "6941683616292f8629cab7714a9c800334cf13c1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Camprit Just Solved Camping’s Bulkiest Problem With 5 Titanium Pieces",
+    "link": "https://www.yankodesign.com/2026/02/14/camprit-just-solved-campings-bulkiest-problem-with-5-titanium-pieces/?utm_source=rss&utm_medium=rss&utm_campaign=camprit-just-solved-campings-bulkiest-problem-with-5-titanium-pieces",
+    "published_at": "2026-02-15T00:30:14.000Z",
+    "fingerprint": "dad30386b9f313e0468bd7cee5d62db76556de4d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Nordio attacca il Csm: 'Espressioni contorte su Gratteri'",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/02/14/nordio-dal-csm-espressioni-contorte-su-gratteri-credibilita-minima_e78cf42b-bef1-40be-a704-8470a05f641f.html",
+    "published_at": "2026-02-14T19:33:43.000Z",
+    "fingerprint": "58ad5a4fef254fcd9dd755f0bb19693a966840a0",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Incidente in A1, riaperto dopo tre ore il tratto tra Firenze sud e Incisa",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/14/incidente-in-a1-autostrada-chiusa-tra-firenze-sud-e-incisa_ce8f96c5-aaf5-4ea8-b0e6-c608a9df78a5.html",
+    "published_at": "2026-02-14T18:57:26.000Z",
+    "fingerprint": "05ffdf3daf4d23a979972171e47e52f2aa053bf0",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'Italia sferzata dal maltempo, stato d'emergenza in Calabria",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/14/maltempo-oltre-2mila-interventi-al-sud-e-nelle-isole.-evacuazioni-a-fiumicino_3d652851-7d7f-4636-90a0-9f6cb0214d02.html",
+    "published_at": "2026-02-14T18:39:25.000Z",
+    "fingerprint": "b24b69a417ad28026434a128cb1d0a89d00b92a9",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Nuove accuse a Petrecca, a Bulbarelli il finale dei Giochi",
+    "link": "https://www.ansa.it/sito/notizie/sport/speciali/milano_cortina_2026/2026/02/14/nuove-accuse-a-petrecca-a-bulbarelli-il-finale-dei-giochi_203ebaf4-ea6c-4364-949a-7ae7eeef81ad.html",
+    "published_at": "2026-02-14T18:17:47.000Z",
+    "fingerprint": "ab5a91be349f3aa474d37a1d0e563b9d9ff4296f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "uBlock filter list to hide all YouTube Shorts",
+    "link": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+    "published_at": "2026-02-14T17:36:45.000Z",
+    "fingerprint": "56cd6d683e97d6e3e6308b820094e9bb84dbe377",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "5 Design Products Made in Germany That Made Modern Design Look Cheap",
+    "link": "https://www.yankodesign.com/2026/02/14/5-design-products-made-in-germany-that-made-modern-design-look-cheap/?utm_source=rss&utm_medium=rss&utm_campaign=5-design-products-made-in-germany-that-made-modern-design-look-cheap",
+    "published_at": "2026-02-14T16:20:43.000Z",
+    "fingerprint": "7461b76110da4660a90569e20f7dac1d665e9fda",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Ooh.directory: a place to find good blogs that interest you",
+    "link": "https://ooh.directory/",
+    "published_at": "2026-02-14T13:40:20.000Z",
+    "fingerprint": "b22691e586b607d5e966933ed918c7219826fcb7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
     "title": "What dating apps are optimizing. Hint: It isn't love",
     "link": "https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html",
     "published_at": "2026-02-14T01:27:28.000Z",
@@ -13,6 +85,14 @@
     "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
     "published_at": "2026-02-14T00:37:53.000Z",
     "fingerprint": "ba9b34a55bfd539c3d00f65ad54af3b3fa462840",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "How often do full-body MRIs find cancer?",
+    "link": "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/",
+    "published_at": "2026-02-13T22:21:55.000Z",
+    "fingerprint": "c7cb96c85fbaeba5aee3331aed39727e53eb7e15",
     "micro_judgment": null
   },
   {
@@ -117,6 +197,14 @@
     "link": "https://www.workatastartup.com/companies/govdash",
     "published_at": "2026-02-13T12:01:11.000Z",
     "fingerprint": "a20281d2bdb53ec99953ef86d11c0a121123b635",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Scoperto un sistema planetario a rovescio, sovverte le regole",
+    "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/02/13/scoperto-un-sistema-planetario-a-rovescio-sovverte-le-regole-_bbf4cce2-489a-4e25-aff7-0f452fd654ab.html",
+    "published_at": "2026-02-13T11:54:27.000Z",
+    "fingerprint": "e3e62554260425df61a28af5c59a2e09f34fe3bc",
     "micro_judgment": null
   },
   {
@@ -245,6 +333,14 @@
     "link": "https://www.ansa.it/sito/podcast/ansa_voice_magazine/2026/02/12/la-storia-nellarmadio-la-tuta_c4a75cb8-93d5-4e6f-a6c2-dff1ac2da019.html",
     "published_at": "2026-02-12T11:01:45.000Z",
     "fingerprint": "a452862b7b57054b8380dfb36a9bcc9d36dd8e0c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Elebean",
+    "link": "https://www.producthunt.com/products/elebean",
+    "published_at": "2026-02-12T10:56:28.000Z",
+    "fingerprint": "9d1ac8caaff964069fc95f19b4808f72f20c8df8",
     "micro_judgment": null
   },
   {
@@ -1157,6 +1253,14 @@
     "link": "https://www.designboom.com/design/all-eyes-uniform-designs-milano-cortina-2026-winter-olympics-mongolia-haiti/",
     "published_at": "2026-02-06T20:45:33.000Z",
     "fingerprint": "b47bc832f6b62974abf1e0cd0d43fb9cf3c9e42f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "SnapPoint",
+    "link": "https://www.producthunt.com/products/snappoint",
+    "published_at": "2026-02-06T19:44:15.000Z",
+    "fingerprint": "f76e192f1d5d0c2f68f60c8c4908df7b5e33f0e1",
     "micro_judgment": null
   },
   {
