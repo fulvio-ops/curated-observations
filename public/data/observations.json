@@ -1,6 +1,158 @@
 [
   {
     "source": "Hacker News · frontpage",
+    "title": "Thinking Hard Burns Almost No Calories–But Destroys Your Next Workout",
+    "link": "https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout",
+    "published_at": "2026-02-17T01:55:50.000Z",
+    "fingerprint": "8a0430e388934d38394d7f198abab75dc9339185",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+    "link": "https://www.bbc.com/news/articles/cx2gn239exlo",
+    "published_at": "2026-02-17T01:01:00.000Z",
+    "fingerprint": "64838e8512b1427be127629810cf06bf95ac9079",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Building for an audience of one: starting and finishing side projects with AI",
+    "link": "https://codemade.net/blog/building-for-one/",
+    "published_at": "2026-02-17T00:00:03.000Z",
+    "fingerprint": "cef942c00447876c5edbc364a3b9480d349ab12e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Rise of the Triforce",
+    "link": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+    "published_at": "2026-02-16T21:24:04.000Z",
+    "fingerprint": "bb5c535062660e6c1924193d08f9a3862854317a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "SkillsBench: Benchmarking how well agent skills work across diverse tasks",
+    "link": "https://arxiv.org/abs/2602.12670",
+    "published_at": "2026-02-16T21:15:56.000Z",
+    "fingerprint": "f0cfdb8803b884459d5c4d751b7801d7465f0283",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Turing Labs (YC W20) Is Hiring – Founding GTM Sales Hacker",
+    "link": "https://news.ycombinator.com/item?id=47040268",
+    "published_at": "2026-02-16T21:00:13.000Z",
+    "fingerprint": "e970439fadfc69a614dfd9e0a606601fad94f824",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Nordio chiede la lista dei donatori del comitato del no, scontro con l'Anm",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/02/16/nordio-chiede-la-lista-dei-donatori-del-comitato-del-no-scontro-con_a777f9d9-f654-4ee9-aa87-ff855c2cb0da.html",
+    "published_at": "2026-02-16T20:28:21.000Z",
+    "fingerprint": "284615854f0630a5b5f119e2a6c57cbd9651e87d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Wingcube transforms from compact box trailer into spacious family camper",
+    "link": "https://www.yankodesign.com/2026/02/16/wingcube-transforms-from-compact-box-trailer-into-spacious-family-camper/?utm_source=rss&utm_medium=rss&utm_campaign=wingcube-transforms-from-compact-box-trailer-into-spacious-family-camper",
+    "published_at": "2026-02-16T20:15:29.000Z",
+    "fingerprint": "5ff1c70a5dfae47fe731949ff70e831ab2f351e7",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Milano Cortina: Meillard oro nello slalom, McGrath inforca e si dispera nel bosco",
+    "link": "https://www.ansa.it/sito/notizie/sport/speciali/milano_cortina_2026/2026/02/16/milano-cortina-meillard-oro-nello-slalom-mcgrath-inforca-e-si-dispera-nel_d1cf656f-6f5f-46f5-a139-d772465952c9.html",
+    "published_at": "2026-02-16T19:13:26.000Z",
+    "fingerprint": "506406f85896bf1f04f6bcbda30302d5fac39944",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Neurons outside the brain",
+    "link": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
+    "published_at": "2026-02-16T18:54:37.000Z",
+    "fingerprint": "3a3f678c0aa50b6e4aeb8c111d1d23be786def1a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Due anni fa la morte di Navalny, Mosca respinge le accuse",
+    "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/02/16/due-anni-fa-la-morte-delloppositore-russo-alexei-navalny.-il-cremlino-senza-fondamento_987df127-c75c-49b0-9704-c3605fbaafd4.html",
+    "published_at": "2026-02-16T18:37:20.000Z",
+    "fingerprint": "c2497839f9d82498675dc43b898a5598c5470f63",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "\"Token anxiety\", a slot machine by any other name",
+    "link": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
+    "published_at": "2026-02-16T18:23:36.000Z",
+    "fingerprint": "ed615a313f51bea71a7d827daa86ce097826b08b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Milano Cortina: Achille Lauro protagonista della cerimonia di chiusura",
+    "link": "https://www.ansa.it/sito/notizie/sport/speciali/milano_cortina_2026/2026/02/16/milano-cortina-achille-lauro-protagonista-della-cerimonia-di-chiusura_9a08a27b-f6d6-4628-bead-9aa65910aca9.html",
+    "published_at": "2026-02-16T16:00:31.000Z",
+    "fingerprint": "3a2a1c830ba0c5245ecd5ebdaa4dfa1fb7b1d76f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Twist This Minimalist Side Table’s Handle, and It Becomes the Lamp",
+    "link": "https://www.yankodesign.com/2026/02/16/twist-this-minimalist-side-tables-handle-and-it-becomes-the-lamp/?utm_source=rss&utm_medium=rss&utm_campaign=twist-this-minimalist-side-tables-handle-and-it-becomes-the-lamp",
+    "published_at": "2026-02-16T15:20:55.000Z",
+    "fingerprint": "da33d4ccc7a75ead690e08fe6eef4f4f982b85e0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "industrial components assemble glowing clock-house by drawing architecture studio in china",
+    "link": "https://www.designboom.com/architecture/industrial-components-glowing-clock-house-drawing-architecture-studio-china/",
+    "published_at": "2026-02-16T11:00:33.000Z",
+    "fingerprint": "0575cb79b4f644ee9a6e4cce214da162c7fb0a80",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Addio alla giornalista dell'ANSA Laura Masiello, una vita per lo sport",
+    "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/02/16/giornalisti-addio-a-laura-masiello-una-vita-per-lo-sport_250b87ad-2277-4e1a-9775-9d60b3435a88.html",
+    "published_at": "2026-02-16T09:49:14.000Z",
+    "fingerprint": "6cc13c6b7b156493d88dbe002da6cbc3ae2b7e7b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "at the edge of lake como, casa punta spartivento frames views through exposed concrete",
+    "link": "https://www.designboom.com/architecture/ceresa-grandis-architetti-lake-como-casa-punta-spartivento-exposed-concrete-house-italy/",
+    "published_at": "2026-02-16T08:01:29.000Z",
+    "fingerprint": "8056b1c1704a431dbe46adee87752754004dfd02",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "chowder.dev",
+    "link": "https://www.producthunt.com/products/chowder-2",
+    "published_at": "2026-02-16T07:53:50.000Z",
+    "fingerprint": "3931bd300430b421c36512ebb52d66b0ae02e77c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "CoThou Autonomous Superagent",
+    "link": "https://www.producthunt.com/products/seamlessity",
+    "published_at": "2026-02-16T06:04:28.000Z",
+    "fingerprint": "5b6460d3dae558dad6cab7fe8308b401e9a3711d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
     "title": "Arm wants a bigger slice of the chip business",
     "link": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
     "published_at": "2026-02-16T02:36:14.000Z",
@@ -117,6 +269,14 @@
     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/02/14/luomo-di-ghiaccio-serbo-che-medita-in-costume-nella-neve_9bfc6208-3cc3-450b-960d-6307eb2823a5.html",
     "published_at": "2026-02-15T09:24:44.000Z",
     "fingerprint": "8f4263a3ea4acda1ee85c6fd319f8a2325a1cf3e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "PenguinBot AI",
+    "link": "https://www.producthunt.com/products/penguinbot-ai",
+    "published_at": "2026-02-15T07:59:40.000Z",
+    "fingerprint": "117c0efaf97219bc6f758e9bebd4a92a98024b40",
     "micro_judgment": null
   },
   {
