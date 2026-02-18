@@ -1,6 +1,174 @@
 [
   {
     "source": "Hacker News · frontpage",
+    "title": "It's not just you, YouTube is partially down in outage",
+    "link": "https://9to5google.com/2026/02/17/youtube-outage-february-2026/",
+    "published_at": "2026-02-18T02:00:52.000Z",
+    "fingerprint": "2282a5bec43081c5be97d110c416a2dc89e01a1a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il bimbo di Napoli, possibile nuovo cuore per il piccolo",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/17/il-bimbo-di-napoli-possibile-nuovo-cuore-per-il-piccolo_547515f6-c6f3-4fde-81ec-dcd446a55aeb.html",
+    "published_at": "2026-02-17T23:41:56.000Z",
+    "fingerprint": "37c282d90a4d2d3e4a60b5473675fdcfb021c100",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia (2025)",
+    "link": "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/",
+    "published_at": "2026-02-17T23:06:51.000Z",
+    "fingerprint": "3880056ec338510c79fab9f46cec3da0fe957256",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Structured AI (YC F25) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern",
+    "published_at": "2026-02-17T21:00:30.000Z",
+    "fingerprint": "0f1589da24eaa79215c12491599beb6d8b41b001",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "fran silvestre arquitectos develops timber-and-steel home conceived for dismantling in spain",
+    "link": "https://www.designboom.com/architecture/fran-silvestre-arquitectos-timber-steel-home-dismantling-spain/",
+    "published_at": "2026-02-17T20:45:08.000Z",
+    "fingerprint": "2aafcff12d1af515b85be716e4dcb30891b3df3c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Claudia Squitieri sulla Cardinale: \"Fino all'ultimo in lei l'indomabilita'\"",
+    "link": "https://www.ansa.it/sito/videogallery/mondo/2026/02/17/claudia-squitieri-sulla-cardinale-fino-allultimo-in-lei-lindomabilita_69b746c5-d563-461a-9226-264fd7b62ad0.html",
+    "published_at": "2026-02-17T19:59:41.000Z",
+    "fingerprint": "cbacd4cb9d0b1b99d803dbe0e64ba9f2af522382",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+    "link": "https://asteroidos.org/news/2-0-release/index.html",
+    "published_at": "2026-02-17T19:24:55.000Z",
+    "fingerprint": "d149c53fd9d3fd52d1b076d103b4d5b063db23b0",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La mostra sugli schiavi si fa: 'Trump non cambia la storia'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/17/la-mostra-sugli-schiavi-si-fa-trump-non-cambia-la-storia_981ffe6c-4b76-4423-a9cc-e14ce3b69a20.html",
+    "published_at": "2026-02-17T19:22:14.000Z",
+    "fingerprint": "f760d3d677c35e4a973a5c9b8c626f9665ffe11b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Deputato iraniano strappa la foto di Mattarella, Roma protesta",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/17/foto-di-mattarella-strappata-tajani-convoca-lambasciatore-iraniano_308960fa-604a-47ea-a8c0-4f0480b665dd.html",
+    "published_at": "2026-02-17T19:15:15.000Z",
+    "fingerprint": "62e33ac79dc35ca2c25aa2525dbfeca969fed364",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This House-Sized Clock Glows and Chimes Every 15 Minutes",
+    "link": "https://www.yankodesign.com/2026/02/17/this-house-sized-clock-glows-and-chimes-every-15-minutes/?utm_source=rss&utm_medium=rss&utm_campaign=this-house-sized-clock-glows-and-chimes-every-15-minutes",
+    "published_at": "2026-02-17T18:20:46.000Z",
+    "fingerprint": "6a358d1f1885e7c033ac6b392fb9667ce7356bca",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
+    "link": "https://github.com/n-e/pg-typesafe",
+    "published_at": "2026-02-17T18:15:36.000Z",
+    "fingerprint": "d4ae465d207ad1e678fd6fef689f7c06944e2987",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Gentoo on Codeberg",
+    "link": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+    "published_at": "2026-02-17T17:21:04.000Z",
+    "fingerprint": "81d00eaba29f0c4ce72596a97e6b2c9340f27319",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Usa: 'progressi con l'Iran, tra due settimane torneranno con proposte'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/17/usa-progressi-con-liran-tra-due-settimane-torneranno-con-proposte_4d2aa237-570f-46ea-8331-ac0cccea30bd.html",
+    "published_at": "2026-02-17T17:21:02.000Z",
+    "fingerprint": "2823ae7866acee26a2c3dbcd04aed7c2bff3b81a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Wi-Fi Router Looks Like an Incense Burner and Scents Your Room",
+    "link": "https://www.yankodesign.com/2026/02/17/this-wi-fi-router-looks-like-an-incense-burner-and-scents-your-room/?utm_source=rss&utm_medium=rss&utm_campaign=this-wi-fi-router-looks-like-an-incense-burner-and-scents-your-room",
+    "published_at": "2026-02-17T17:20:43.000Z",
+    "fingerprint": "db77faef3acbc89dc723df3e8ad8addb44fd8983",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "So you want to build a tunnel",
+    "link": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
+    "published_at": "2026-02-17T16:59:34.000Z",
+    "fingerprint": "24e50f1b2064942515601280498a535518b025b7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "When Light Learns to Dance: A Sculpture That Moves on Purpose",
+    "link": "https://www.yankodesign.com/2026/02/17/when-light-learns-to-dance-a-sculpture-that-moves-on-purpose/?utm_source=rss&utm_medium=rss&utm_campaign=when-light-learns-to-dance-a-sculpture-that-moves-on-purpose",
+    "published_at": "2026-02-17T16:20:12.000Z",
+    "fingerprint": "d8bf1e3a122b22dca265ee4ac94a6dc7e20ca2a7",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Premio Biagio Agnes 2026, tutti i vincitori",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/02/17/premio-biagio-agnes-2026-tutti-i-vincitori_f95436f5-611a-484f-b149-4bace499af75.html",
+    "published_at": "2026-02-17T14:45:58.000Z",
+    "fingerprint": "ed423fc0b2f279df039b4f037956a5c0c4585453",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "E' febbre dell'oro, la gioia degli atleti e l'ironia sui social",
+    "link": "https://www.ansa.it/sito/videogallery/sport/speciali/milano_cortina_2026/2026/02/17/e-febbre-delloro-la-gioia-degli-atleti-e-lironia-sui-social_c03324eb-2027-46d9-9048-ef2e837a63b9.html",
+    "published_at": "2026-02-17T11:38:37.000Z",
+    "fingerprint": "2d664a0b5f863f297830f90963ad1e5d53fd6236",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "manufactura blends corn and lime composites for robotic 3D printed construction",
+    "link": "https://www.designboom.com/technology/manufactura-corn-lime-composites-robotic-3d-printed-construction-corncretl/",
+    "published_at": "2026-02-17T10:00:25.000Z",
+    "fingerprint": "d5104e276fa84c894818837e3ded275f89dd2399",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "explore a rare ‘type E’ duplex apartment at le corbusier’s cité radieuse",
+    "link": "https://www.designboom.com/architecture/explore-rare-type-e-duplex-apartment-le-corbusier-cite-radieuse-marseille-france/",
+    "published_at": "2026-02-17T08:01:14.000Z",
+    "fingerprint": "0a254dff7935f8649b948b81c581d93a666ff05d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "MetMe",
+    "link": "https://www.producthunt.com/products/metme",
+    "published_at": "2026-02-17T04:53:00.000Z",
+    "fingerprint": "c3e30078e23206f15cebc83503d75ce2c4916131",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
     "title": "Thinking Hard Burns Almost No Calories–But Destroys Your Next Workout",
     "link": "https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout",
     "published_at": "2026-02-17T01:55:50.000Z",
@@ -112,6 +280,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "VidClaw",
+    "link": "https://www.producthunt.com/products/vidclaw",
+    "published_at": "2026-02-16T13:29:35.000Z",
+    "fingerprint": "2fb904d831246c78d8ae4422d4e879d19ef916eb",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "industrial components assemble glowing clock-house by drawing architecture studio in china",
     "link": "https://www.designboom.com/architecture/industrial-components-glowing-clock-house-drawing-architecture-studio-china/",
@@ -157,6 +333,14 @@
     "link": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
     "published_at": "2026-02-16T02:36:14.000Z",
     "fingerprint": "17e91f99f37f6b4b75dd2d18bbceeeb5b33f46f7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Vela",
+    "link": "https://www.producthunt.com/products/vela-4",
+    "published_at": "2026-02-16T01:47:04.000Z",
+    "fingerprint": "e4e678987b6bcad857a29e8f8481cb7d617adf30",
     "micro_judgment": null
   },
   {
@@ -261,6 +445,14 @@
     "link": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
     "published_at": "2026-02-15T16:19:51.000Z",
     "fingerprint": "17c8bbfc95c01eced668029479bebef1b5e08a51",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Auden",
+    "link": "https://www.producthunt.com/products/auden",
+    "published_at": "2026-02-15T10:48:48.000Z",
+    "fingerprint": "336405cd33ed104c63c4d6ccf8f5dfb70c88e24b",
     "micro_judgment": null
   },
   {
@@ -757,6 +949,14 @@
     "link": "https://www.designboom.com/architecture/pitched-thatched-roof-sarchina-villa-cone-white-brick-columns-shomali-design/",
     "published_at": "2026-02-11T11:10:58.000Z",
     "fingerprint": "06e7447561e148d47c5b4c06273e0fed6b0f94a0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Boost.space v5",
+    "link": "https://www.producthunt.com/products/boost-space",
+    "published_at": "2026-02-11T09:45:53.000Z",
+    "fingerprint": "9543c5bb848c6b0999a2797857cff22dd744708e",
     "micro_judgment": null
   },
   {
