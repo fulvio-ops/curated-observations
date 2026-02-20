@@ -1,5 +1,77 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+    "link": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+    "published_at": "2026-02-20T01:28:47.000Z",
+    "fingerprint": "935b053447bd23d1451ce45dba9f3c301d00a556",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il pusher ucciso a Rogoredo, i poliziotti interrogati rafforzano l'ipotesi di omicidio",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/19/il-pusher-ucciso-a-rogoredo-i-poliziotti-interrogati-rafforzano-lipotesi-di-omicidio_2f7cb3a1-ead7-4ab1-9b58-40cfef1f947a.html",
+    "published_at": "2026-02-19T23:28:40.000Z",
+    "fingerprint": "d8ece00b368e85dcd725628f6f991e57521dd8ec",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'ex principe Andrea arrestato per il caso Epstein. Carlo lo scarica",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/19/lex-principe-andrea-arrestato-per-il-caso-epstein.-carlo-lo-scarica_8790a19e-5c85-49ca-930e-8c17cc589010.html",
+    "published_at": "2026-02-19T22:04:30.000Z",
+    "fingerprint": "cdad21b377cc31cb8b94c51b25999f79d05183c4",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Sospeso il fermo della Sea Watch, nuovo scontro sui migranti",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/19/sospeso-il-fermo-della-sea-watch-nuovo-scontro-sui-migranti_c5c191b5-275b-41cc-bf86-efbb8f892622.html",
+    "published_at": "2026-02-19T21:12:19.000Z",
+    "fingerprint": "2b4e26b7732be0a370e1469a14771766053fe6e9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Hermès x Bialetti Moka Pot Concept Has No Business Looking This Good",
+    "link": "https://www.yankodesign.com/2026/02/19/this-hermes-x-bialetti-moka-pot-concept-has-no-business-looking-this-good/?utm_source=rss&utm_medium=rss&utm_campaign=this-hermes-x-bialetti-moka-pot-concept-has-no-business-looking-this-good",
+    "published_at": "2026-02-19T18:20:54.000Z",
+    "fingerprint": "5deaff4e510754025a09e6b06a6823cb93928e09",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La sorella di Vonn perde la testa per i medici italiani",
+    "link": "https://www.ansa.it/sito/videogallery/short_video/2026/02/19/la-sorella-di-vonn-perde-la-testa-per-i-medici-italiani_a193f8ef-29e4-49cb-b077-ad145cd67202.html",
+    "published_at": "2026-02-19T18:14:11.000Z",
+    "fingerprint": "23cd9ca3547692aa15b099401c71eaeb0ad5b96a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "naf architect & design peels back the perimeter of tokyo house to reveal curved inner facade",
+    "link": "https://www.designboom.com/architecture/naf-architect-design-naf-aad-perimeter-tokyo-house-curved-inner-facade/",
+    "published_at": "2026-02-19T16:30:58.000Z",
+    "fingerprint": "d83630dbaefcb08e15f48586217445e7259304b8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "America vs. Singapore: You can't save your way out of economic shocks",
+    "link": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+    "published_at": "2026-02-19T14:52:18.000Z",
+    "fingerprint": "153b39b659a4fe4f6e3272c9d1ecb7533c519cb4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Paged Out Issue #8 [pdf]",
+    "link": "https://pagedout.institute/download/PagedOut_008.pdf",
+    "published_at": "2026-02-19T12:13:44.000Z",
+    "fingerprint": "ce2337bd0d4d4f15c59a3213cd35ab6d8c1aa23f",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "snøhetta drops monumental mirrored bowl over gardened metro station in riyadh",
     "link": "https://www.designboom.com/architecture/snohetta-mirrored-bowl-metro-station-qasr-alhokm-riyadh-saudi-arabia/",
@@ -105,6 +177,22 @@
   },
   {
     "source": "Product Hunt",
+    "title": "Feedix",
+    "link": "https://www.producthunt.com/products/feedix",
+    "published_at": "2026-02-18T08:14:01.000Z",
+    "fingerprint": "4f657fa9a2ac9cf2a0520df55e4e496fc08c4860",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Reloop",
+    "link": "https://www.producthunt.com/products/reloop",
+    "published_at": "2026-02-18T07:49:43.000Z",
+    "fingerprint": "612b97189f59184634efc960b83a16754967d7a7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
     "title": "Open blivz",
     "link": "https://www.producthunt.com/products/blivz",
     "published_at": "2026-02-18T04:33:19.000Z",
@@ -141,6 +229,14 @@
     "link": "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/",
     "published_at": "2026-02-17T23:06:51.000Z",
     "fingerprint": "3880056ec338510c79fab9f46cec3da0fe957256",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "FF Designer",
+    "link": "https://www.producthunt.com/products/flutterflow",
+    "published_at": "2026-02-17T21:45:11.000Z",
+    "fingerprint": "6547f3cab1e07196b03cc984953abbeb534bcebf",
     "micro_judgment": null
   },
   {
@@ -4381,6 +4477,14 @@
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1ql7f2j/two_cars_with_their_alarm_thingies_perfectly/",
     "published_at": "2026-01-24T00:04:06.000Z",
     "fingerprint": "f45f04312e0e37e3cae90ec694d54bb30aede9fe",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Ningenie",
+    "link": "https://www.producthunt.com/products/ningenie",
+    "published_at": "2026-01-23T22:44:58.000Z",
+    "fingerprint": "2795aca46e237cfcd730403ec2adca600c92296c",
     "micro_judgment": null
   },
   {
