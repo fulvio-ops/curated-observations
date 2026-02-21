@@ -1,5 +1,61 @@
 [
   {
+    "source": "Yanko Design",
+    "title": "Roland’s $299 Pocket-Sized Audio Interface Was Designed Specifically For TikTok and Instagram Music Creators",
+    "link": "https://www.yankodesign.com/2026/02/20/rolands-299-pocket-sized-audio-interface-was-designed-specifically-for-tiktok-and-instagram-music-creators/?utm_source=rss&utm_medium=rss&utm_campaign=rolands-299-pocket-sized-audio-interface-was-designed-specifically-for-tiktok-and-instagram-music-creators",
+    "published_at": "2026-02-20T21:45:24.000Z",
+    "fingerprint": "830b03126c6b56ca62ecf75580420fb608c98261",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Non solo gli Epstein file dietro l'indagine su Andrea, la monarchia trema",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/20/i-media-non-solo-gli-epstein-file-dietro-le-accuse-ad-andrea.-a-londra_0611f2fe-8ab2-415f-b4ff-7c4c9a132b10.html",
+    "published_at": "2026-02-20T18:23:14.000Z",
+    "fingerprint": "88bffd5cd43a69a5387b61c0d3b383021c995bd9",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "A Barcellona la Sagrada Familia raggiunge la sua altezza massima",
+    "link": "https://www.ansa.it/sito/videogallery/mondo/2026/02/20/a-barcellona-la-sagrada-familia-raggiunge-la-sua-altezza-massima_00224b6f-7b0b-4012-b8d9-b8642bee460e.html",
+    "published_at": "2026-02-20T17:48:45.000Z",
+    "fingerprint": "abdfcd560887f37fc7d607f74e7f99896b892a40",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Legion Health (YC) Is Hiring Cracked SWEs for Autonomous Mental Health",
+    "link": "https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424",
+    "published_at": "2026-02-20T17:02:15.000Z",
+    "fingerprint": "2493d7a7ff98a3ac48db55ba71d32693d40c4b61",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Uno studio identifica venti nuove opere di Michelangelo",
+    "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/02/20/uno-studio-identifica-venti-nuove-opere-di-michelangelo_157a92c3-b31d-4a7e-8b19-07f17af9f946.html",
+    "published_at": "2026-02-20T16:51:46.000Z",
+    "fingerprint": "c2a10b2f2b58b80a88759a09d71669388535ecb3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "stickers with seeds regenerate snow in mountain areas as the board glides through",
+    "link": "https://www.designboom.com/design/stickers-seeds-regenerate-snow-mountain-areas-tanay-wadodkar/",
+    "published_at": "2026-02-20T11:00:25.000Z",
+    "fingerprint": "d09d7a9c35d83a027723c5ac4a7223854983bd9c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "rainbow dreams maps the spectrum of contemporary art in 200 works of color and light",
+    "link": "https://www.designboom.com/art/rainbow-dreams-spectrum-contemporary-art-200-works-color-light-olga-rei-valentine-uhovski-monacelli-press-phaidon/",
+    "published_at": "2026-02-20T10:00:16.000Z",
+    "fingerprint": "94d905312c459f66b5197e0970bb0229d07cd0ae",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
     "link": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
@@ -45,6 +101,14 @@
     "link": "https://www.ansa.it/sito/videogallery/short_video/2026/02/19/la-sorella-di-vonn-perde-la-testa-per-i-medici-italiani_a193f8ef-29e4-49cb-b077-ad145cd67202.html",
     "published_at": "2026-02-19T18:14:11.000Z",
     "fingerprint": "23cd9ca3547692aa15b099401c71eaeb0ad5b96a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "A Lucca in mostra le 'vite parallele' di Frida Kahlo e Marilyn Monroe",
+    "link": "https://www.ansa.it/donne/notizie/2026/02/19/a-lucca-in-mostra-le-vite-parallele-di-frida-kahlo-e-marilyn-monroe_2d60443c-e96c-4826-b587-ed565b937117.html",
+    "published_at": "2026-02-19T16:46:58.000Z",
+    "fingerprint": "d13bec8a66a7eed157441f9f9afc62c0c3a2a018",
     "micro_judgment": null
   },
   {
@@ -1048,6 +1112,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Merge",
+    "link": "https://www.producthunt.com/products/merge-connect-apple-watch-to-android",
+    "published_at": "2026-02-12T12:14:48.000Z",
+    "fingerprint": "e905976d43c87d602b50b94e63542c8351a2cd77",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "stainless steel and concrete build futuristic backdrop for tbilisi flower shop and cafe",
     "link": "https://www.designboom.com/design/stainless-steel-concrete-futuristic-backdrop-delicate-flower-shop-cafe-tbilisi/",
@@ -1125,6 +1197,14 @@
     "link": "https://www.producthunt.com/products/real-identity-mcp",
     "published_at": "2026-02-11T21:18:14.000Z",
     "fingerprint": "ab02f5bda64872c27931fa759ccf7766197c3ea9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "UI Inspector",
+    "link": "https://www.producthunt.com/products/ui-inspector",
+    "published_at": "2026-02-11T21:01:30.000Z",
+    "fingerprint": "8a6303230518184337766138f2ff97884ece550e",
     "micro_judgment": null
   },
   {
