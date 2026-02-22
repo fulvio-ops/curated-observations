@@ -1,5 +1,109 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Japanese Woodblock Print Search",
+    "link": "https://ukiyo-e.org/",
+    "published_at": "2026-02-22T03:18:36.000Z",
+    "fingerprint": "be81ce09c24583ed347ed5f861403395f2e58d4a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "ROOVICE revives mid-century japan home through layered wooden interiors",
+    "link": "https://www.designboom.com/architecture/roovice-mid-century-japan-home-layered-wooden-interiors-kajiwara/",
+    "published_at": "2026-02-22T02:01:18.000Z",
+    "fingerprint": "2478c3e97b99d0cd9aba787d70cfc15bd62232e3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "How I use Claude Code: Separation of planning and execution",
+    "link": "https://boristane.com/blog/how-i-use-claude-code/",
+    "published_at": "2026-02-22T00:29:05.000Z",
+    "fingerprint": "74974c781b3d85b533ff70dea312923d0563de9e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Designer Concept Is the First Portable Charger You’d Wear",
+    "link": "https://www.yankodesign.com/2026/02/21/this-designer-concept-is-the-first-portable-charger-youd-wear/?utm_source=rss&utm_medium=rss&utm_campaign=this-designer-concept-is-the-first-portable-charger-youd-wear",
+    "published_at": "2026-02-21T21:45:18.000Z",
+    "fingerprint": "a7d6f9f263e123fab6eb3b84e0a235b62599f526",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Milano Cortina: gli azzurri in gara il 22 febbraio,  Baumgartner cerca la rimonta nel bob a 4",
+    "link": "https://www.ansa.it/sito/notizie/sport/speciali/milano_cortina_2026/2026/02/21/milano-cortina-gli-azzurri-in-gara-il-22-febbraio-baumgartner-cerca-la-rimonta-nel_abf561b7-2a5c-465d-9d23-153db5d962b7.html",
+    "published_at": "2026-02-21T21:08:22.000Z",
+    "fingerprint": "75423475c836d9da6025c1a5545a9b0912dfce56",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Alla Berlinale che guarda a Gaza vince il tedesco Catak",
+    "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/02/21/berlinale-orso-doro-a-yellow-letters-del-regista-tedesco-catak_fafade77-19f2-45e8-be19-72e9fb9b2782.html",
+    "published_at": "2026-02-21T20:06:29.000Z",
+    "fingerprint": "77477022fccab6b2da4a89b6ae48dce4763a80e0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+    "link": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+    "published_at": "2026-02-21T19:40:06.000Z",
+    "fingerprint": "7680b72a5957079bb5c152e8b8220fd0445a6073",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Svastiche sui muri del cortile di 'C'è ancora domani'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/21/imbrattato-con-simboli-fascisti-il-cortile-dove-fu-girato-ce-ancora-domani_410161b0-b525-4a85-aaa4-01a4a99aa15b.html",
+    "published_at": "2026-02-21T19:06:13.000Z",
+    "fingerprint": "a91fc86239efe7ef095971d03c6c532e9ef75f77",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "ocular anatomy informs optical salon’s interior in poland",
+    "link": "https://www.designboom.com/architecture/ocular-anatomy-optical-salon-interior-poland-auga-znamy-sie/",
+    "published_at": "2026-02-21T17:30:46.000Z",
+    "fingerprint": "b80691945db7449e2473b5779a49bc7f94df9df8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "What not to write on your security clearance form (1988)",
+    "link": "https://milk.com/wall-o-shame/security_clearance.html",
+    "published_at": "2026-02-21T17:08:12.000Z",
+    "fingerprint": "ed66484475f747c48f3f85431d249bc212df16ff",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The Human Root of Trust – public domain framework for agent accountability",
+    "link": "https://humanrootoftrust.org/",
+    "published_at": "2026-02-21T14:01:45.000Z",
+    "fingerprint": "1b62397af6cd88e91f04e475df421e8f08de5a12",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "dongqi design wraps shanghai mixed-use complex in steel frames and shifting facades",
+    "link": "https://www.designboom.com/architecture/dongqi-design-shanghai-mixed-use-complex-steel-frames-shifting-facades/",
+    "published_at": "2026-02-21T11:45:13.000Z",
+    "fingerprint": "a9cc21b0063ffe83ff7850cd279191fd2d9fdfbd",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il trapianto di Domenico, una sequenza di errori e due mesi di agonia",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/21/il-trapianto-di-domenico-una-sequenza-di-errori-e-due-mesi-di-agonia_2e304984-7800-4cba-a00b-20728773140a.html",
+    "published_at": "2026-02-21T09:15:47.000Z",
+    "fingerprint": "1ea35b76bf9027ba134f3f78d73ef89f8fdb1514",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "Roland’s $299 Pocket-Sized Audio Interface Was Designed Specifically For TikTok and Instagram Music Creators",
     "link": "https://www.yankodesign.com/2026/02/20/rolands-299-pocket-sized-audio-interface-was-designed-specifically-for-tiktok-and-instagram-music-creators/?utm_source=rss&utm_medium=rss&utm_campaign=rolands-299-pocket-sized-audio-interface-was-designed-specifically-for-tiktok-and-instagram-music-creators",
@@ -597,6 +701,14 @@
     "link": "https://www.producthunt.com/products/vidclaw",
     "published_at": "2026-02-16T13:29:35.000Z",
     "fingerprint": "2fb904d831246c78d8ae4422d4e879d19ef916eb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Woise",
+    "link": "https://www.producthunt.com/products/woise-2",
+    "published_at": "2026-02-16T11:41:30.000Z",
+    "fingerprint": "ec66c0fd4424deba7f36a8c2073565cd5a1a90c5",
     "micro_judgment": null
   },
   {
