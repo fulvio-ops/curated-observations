@@ -1,5 +1,85 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts",
+    "link": "https://github.com/Zyora-Dev/zse",
+    "published_at": "2026-02-26T01:15:25.000Z",
+    "fingerprint": "b2f6543f7c7211e6a836dcf80bf8a626b08111c2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Tech companies shouldn't be bullied into doing surveillance",
+    "link": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
+    "published_at": "2026-02-26T00:37:32.000Z",
+    "fingerprint": "a5ca3653e055b8fd537d76157b87ffa4be65c1c4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "dimmable ‘sun’ surrounds spherical bulb in frank buchwald’s machine light with MB&F",
+    "link": "https://www.designboom.com/technology/dimmable-sun-spherical-bulb-frank-buchwald-machine-light-mbf-madgallery-ml15-helios/",
+    "published_at": "2026-02-26T00:15:44.000Z",
+    "fingerprint": "4b08d808dbcae9c6ea9b4eae5e64fe5c59666848",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "A Water Heater That Doubles as a Data Center – and Cuts Your Energy Bill",
+    "link": "https://www.yankodesign.com/2026/02/25/a-water-heater-that-doubles-as-a-data-center-and-cuts-your-energy-bill/?utm_source=rss&utm_medium=rss&utm_campaign=a-water-heater-that-doubles-as-a-data-center-and-cuts-your-energy-bill",
+    "published_at": "2026-02-25T23:30:44.000Z",
+    "fingerprint": "ed9961639228689d15e6bd323ab43f67d0770419",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "How will OpenAI compete?",
+    "link": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+    "published_at": "2026-02-25T22:29:25.000Z",
+    "fingerprint": "c05f2451b8e5663fd0dc2c30773856f92dd363c4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Nothing Phone (4a) Is the Most Confident Phone Nothing Has Ever Made",
+    "link": "https://www.yankodesign.com/2026/02/25/nothing-phone-4a-is-the-most-confident-phone-nothing-has-ever-made/?utm_source=rss&utm_medium=rss&utm_campaign=nothing-phone-4a-is-the-most-confident-phone-nothing-has-ever-made",
+    "published_at": "2026-02-25T21:30:32.000Z",
+    "fingerprint": "68b250ec139cb2af01c2718b0fc3a0365a87cf02",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "An autopsy of AI-generated 3D slop",
+    "link": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
+    "published_at": "2026-02-25T21:05:15.000Z",
+    "fingerprint": "6205d729a6e62f36e8874147c3f33f1a19f4b020",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Comizio fiume di Trump in Congresso, 'la rinascita dell'America'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/02/25/trump-difende-la-sua-economia-e-i-dazi-iran-non-avra-il-nucleare_8231da03-475a-41a7-bda9-a4877e87b9cd.html",
+    "published_at": "2026-02-25T20:38:45.000Z",
+    "fingerprint": "4826a6e832fc3c223777660ca576525e5999f4f1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "PA bench: Evaluating web agents on real world personal assistant workflows",
+    "link": "https://vibrantlabs.com/blog/pa-bench",
+    "published_at": "2026-02-25T20:11:37.000Z",
+    "fingerprint": "27114b70e5ac197f1b4e061b8ee32981552f0926",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "diesel unearths 50,000 old props, inflatables and memorabilia for FW 2026 runway set",
+    "link": "https://www.designboom.com/design/thousands-repurposed-props-inflatables-memorabilia-diesel-runway-show-milan-fw2026/",
+    "published_at": "2026-02-25T10:30:49.000Z",
+    "fingerprint": "1dff3edb04a48ecd540e4be2136411a51a247f8c",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "Forget Smart Pens. This Titanium Fidget Pen Writes, Clicks, Spins, and Delights.",
     "link": "https://www.yankodesign.com/2026/02/24/forget-smart-pens-this-titanium-fidget-pen-writes-clicks-spins-and-delights/?utm_source=rss&utm_medium=rss&utm_campaign=forget-smart-pens-this-titanium-fidget-pen-writes-clicks-spins-and-delights",
@@ -61,6 +141,14 @@
     "link": "https://www.sbcl.org/",
     "published_at": "2026-02-24T18:24:17.000Z",
     "fingerprint": "e58ed18e50e7e5a699f7949a764ece1f9123f6fa",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Ask Fellow",
+    "link": "https://www.producthunt.com/products/fellow-app",
+    "published_at": "2026-02-24T14:53:03.000Z",
+    "fingerprint": "cd532d74ba099373f87dd9522511149cf4cbdefe",
     "micro_judgment": null
   },
   {
@@ -1237,6 +1325,14 @@
     "link": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
     "published_at": "2026-02-15T16:19:51.000Z",
     "fingerprint": "17c8bbfc95c01eced668029479bebef1b5e08a51",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Thinglo",
+    "link": "https://www.producthunt.com/products/thinglo-save-anything-lose-nothing",
+    "published_at": "2026-02-15T12:26:48.000Z",
+    "fingerprint": "bd9d93d9f948e12b6d5e89408cbb1138a707319c",
     "micro_judgment": null
   },
   {
