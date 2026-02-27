@@ -1,6 +1,94 @@
 [
   {
     "source": "Hacker News · frontpage",
+    "title": "The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?",
+    "link": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
+    "published_at": "2026-02-27T03:49:48.000Z",
+    "fingerprint": "de59c8efe652f80a751f977f335767f2d4df325e",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "A Mogol il premio alla carriera, standing ovation all'Ariston",
+    "link": "https://www.ansa.it/sito/notizie/cultura/musica/speciali/sanremo_2026/2026/02/26/a-mogol-il-premio-alla-carriera-standing-ovation-allariston_bc9bcf6c-256e-4e41-9d7e-d5e8049af8d9.html",
+    "published_at": "2026-02-27T01:05:40.000Z",
+    "fingerprint": "b626078681d13160a7e31ec04fa0e5b38c68397f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'Ue apre all'uso dei fondi per l'aborto, 'ma no a nuovi strumenti'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/26/lue-apre-alluso-dei-fondi-per-laborto-ma-no-a-nuovi-strumenti_8a839fcc-25d1-41a9-b967-76b84bf8b898.html",
+    "published_at": "2026-02-26T20:04:00.000Z",
+    "fingerprint": "80fa3a0f8e8686eeb52cbca7842b66d1d432b792",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La famiglia di Mansouri, 'Cinturrino confessi tutto il male'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/26/la-famiglia-di-mansouri-cinturrino-confessi-tutto-il-male_c6ddcd34-2d06-41b0-ba7d-fb56f2a59732.html",
+    "published_at": "2026-02-26T19:02:58.000Z",
+    "fingerprint": "91e6a436ddfdaba7977c99e063fd3096dd12d27d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Trump vuole una moneta d'oro col suo ritratto",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/26/trump-vuole-una-moneta-doro-col-suo-ritratto_e0af5ef3-df0b-42fd-ab13-bb152f453b7e.html",
+    "published_at": "2026-02-26T19:02:14.000Z",
+    "fingerprint": "19cba6862bb7a567eb8b038d5d4a1f3cd4f0a9ff",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "layered floral stickers transform paper into 3D modular bouquet letter set",
+    "link": "https://www.designboom.com/design/layered-floral-stickers-paper-3d-modular-bouquet-letter-set-okunote/",
+    "published_at": "2026-02-26T18:30:36.000Z",
+    "fingerprint": "8c1657a1ff9d1951bba8ee69d2f081a503764f7c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Nano Banana 2: Google's latest AI image generation model",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+    "published_at": "2026-02-26T16:02:37.000Z",
+    "fingerprint": "c51972500dab7cb4cfbb553d86e9ef2f37579438",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+    "link": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+    "published_at": "2026-02-26T15:55:48.000Z",
+    "fingerprint": "51ff86d6b7020d38fd69ed8be01d5475f115bcf0",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La probabilità di fumare meno è legata a una variante genetica",
+    "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/02/25/la-probabilita-di-fumare-meno-e-legata-a-una-variante-genetica_6f29abf7-82ff-44b2-b976-0a9f4865017d.html",
+    "published_at": "2026-02-26T12:55:25.000Z",
+    "fingerprint": "c17af98efb52f4f12b5549d1697109375a8c5d03",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "exutoire shifts the core of 1990s tube house to form studio-home in hanoi",
+    "link": "https://www.designboom.com/architecture/exutoire-core-1990s-tube-house-studio-home-hanoi/",
+    "published_at": "2026-02-26T11:00:01.000Z",
+    "fingerprint": "6072c71105daf5938007ab80ac12323340407b6e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "astronomy-inspired watch by ressence and terumasa ikeda has dials that move like planets",
+    "link": "https://www.designboom.com/design/astronomy-inspired-watch-ressence-terumasa-ikeda-dials-move-planets-type-9-ike/",
+    "published_at": "2026-02-26T10:15:19.000Z",
+    "fingerprint": "d26a0c769ef1b5057b959dd950de909ddc023606",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
     "title": "Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts",
     "link": "https://github.com/Zyora-Dev/zse",
     "published_at": "2026-02-26T01:15:25.000Z",
@@ -13,6 +101,14 @@
     "link": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
     "published_at": "2026-02-26T00:37:32.000Z",
     "fingerprint": "a5ca3653e055b8fd537d76157b87ffa4be65c1c4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "IronClaw",
+    "link": "https://www.producthunt.com/products/ironclaw",
+    "published_at": "2026-02-26T00:17:12.000Z",
+    "fingerprint": "b8ec94442b11bf3caf45afcaaeae333fd12b84f1",
     "micro_judgment": null
   },
   {
@@ -69,6 +165,14 @@
     "link": "https://vibrantlabs.com/blog/pa-bench",
     "published_at": "2026-02-25T20:11:37.000Z",
     "fingerprint": "27114b70e5ac197f1b4e061b8ee32981552f0926",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "DeltaMemory",
+    "link": "https://www.producthunt.com/products/deltamemory",
+    "published_at": "2026-02-25T16:01:31.000Z",
+    "fingerprint": "8df5e25a3127df8f6bae14dedb73b13f2f51030e",
     "micro_judgment": null
   },
   {
@@ -229,6 +333,14 @@
     "link": "https://github.com/vignesh07/babyshark",
     "published_at": "2026-02-23T20:45:34.000Z",
     "fingerprint": "33d56f84db7bff19567d00d1c7c73f576b39234a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "gpt-realtime-1.5 by OpenAI",
+    "link": "https://www.producthunt.com/products/openai",
+    "published_at": "2026-02-23T20:07:44.000Z",
+    "fingerprint": "27f894ee2eed440f0b7e0455cde0bbfd23b177ba",
     "micro_judgment": null
   },
   {
@@ -4613,6 +4725,14 @@
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qojstx/fluffy_soufflé_cheesecakes_wiggle/",
     "published_at": "2026-01-27T17:09:32.000Z",
     "fingerprint": "77ba6f333488517a0b29c76a7b908ccec668a4f1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Zavi AI - Voice to Action OS",
+    "link": "https://www.producthunt.com/products/zavi-ai-voice-talk-to-text",
+    "published_at": "2026-01-27T16:44:06.000Z",
+    "fingerprint": "c6149fec71f751203fffb4853361819ccaef07ef",
     "micro_judgment": null
   },
   {
