@@ -1,6 +1,78 @@
 [
   {
     "source": "Hacker News · frontpage",
+    "title": "Bootc and OSTree: Modernizing Linux System Deployment",
+    "link": "https://a-cup-of.coffee/blog/ostree-bootc/",
+    "published_at": "2026-02-28T02:55:29.000Z",
+    "fingerprint": "f2b3a3949084133bd816a994b57923ed3ef3e1e9",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Sanremo 2026, Ditonellapiaga e TonyPitony vincono la serata delle cover",
+    "link": "https://www.ansa.it/sito/notizie/cultura/musica/speciali/sanremo_2026/2026/02/28/sanremo-2026-ditonellapiaga-e-tonypitony-vincono-la-serata-delle-cover_766ff9ca-3d07-47c5-8deb-a61c13bf77e1.html",
+    "published_at": "2026-02-28T01:31:37.000Z",
+    "fingerprint": "00dba26f0be8da9e49f7e47d07e417b3a49ecc07",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Svolta nei colloqui, 'Teheran smantellerà il suo uranio arricchito'. Trump: 'Non ho deciso ma a volte la forza serve'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/02/27/svolta-nei-colloqui-teheran-smantellera-il-suo-uranio-arricchito.-trump-non_bb01626e-eb08-4c0c-b8f9-b86261fb8988.html",
+    "published_at": "2026-02-27T22:57:36.000Z",
+    "fingerprint": "d5e2d5c2da3f53f8476807ff43cc6cc860d3c9b1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "What If Artists Designed Wi-Fi Routers?",
+    "link": "https://www.yankodesign.com/2026/02/27/what-if-artists-designed-wi-fi-routers/?utm_source=rss&utm_medium=rss&utm_campaign=what-if-artists-designed-wi-fi-routers",
+    "published_at": "2026-02-27T22:30:23.000Z",
+    "fingerprint": "b299873612443c56facff747435c42be9adae418",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Let's discuss sandbox isolation",
+    "link": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
+    "published_at": "2026-02-27T18:49:50.000Z",
+    "fingerprint": "617a28456c02a331a8e5e3a27f1b05a1e7a55a4a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "2026 Escape Pod is more powerful, comfortable, and all set for escaping into the wilderness",
+    "link": "https://www.yankodesign.com/2026/02/27/2026-escape-pod-is-more-powerful-comfortable-and-all-set-for-escaping-into-the-wilderness/?utm_source=rss&utm_medium=rss&utm_campaign=2026-escape-pod-is-more-powerful-comfortable-and-all-set-for-escaping-into-the-wilderness",
+    "published_at": "2026-02-27T16:20:42.000Z",
+    "fingerprint": "8e8ee331eb748076fefa08d461db71bde45cb566",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "OpenAI raises $110B on $730B pre-money valuation",
+    "link": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+    "published_at": "2026-02-27T14:56:05.000Z",
+    "fingerprint": "1befe4a4c72eb84f6db28f671cea5586734c286d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Btp Valore, la nuova emissione da lunedì: il tasso parte dal 2,5%",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/02/27/btp-valore-la-nuova-emissione-da-lunedi-il-tasso-parte-dal-25_fd94a763-3605-46e0-8b5b-934f49b819c6.html",
+    "published_at": "2026-02-27T13:33:43.000Z",
+    "fingerprint": "1fb0ac367d4a2f5b6fc9c89bbfc27efe00fe274b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "simran boparai completes prabh-te-ras residence balancing marble, murals and modernity",
+    "link": "https://www.designboom.com/architecture/simran-boparai-prabh-te-ras-residence-marble-murals-modernity/",
+    "published_at": "2026-02-27T11:45:04.000Z",
+    "fingerprint": "8ad5003c26d5c5c359a2b0ec346de6a4f59f46de",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
     "title": "The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?",
     "link": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
     "published_at": "2026-02-27T03:49:48.000Z",
@@ -21,6 +93,14 @@
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/26/lue-apre-alluso-dei-fondi-per-laborto-ma-no-a-nuovi-strumenti_8a839fcc-25d1-41a9-b967-76b84bf8b898.html",
     "published_at": "2026-02-26T20:04:00.000Z",
     "fingerprint": "80fa3a0f8e8686eeb52cbca7842b66d1d432b792",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Nix Capture",
+    "link": "https://www.producthunt.com/products/nix-capture",
+    "published_at": "2026-02-26T20:01:02.000Z",
+    "fingerprint": "a499910ce2f2659494540420225eba99a3be655b",
     "micro_judgment": null
   },
   {
@@ -64,6 +144,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Musikey",
+    "link": "https://www.producthunt.com/products/musikey-music-auth",
+    "published_at": "2026-02-26T15:39:56.000Z",
+    "fingerprint": "ef1ebe65bb5b18010cd4a7a75f4631218feb7a8a",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "La probabilità di fumare meno è legata a una variante genetica",
     "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/02/25/la-probabilita-di-fumare-meno-e-legata-a-una-variante-genetica_6f29abf7-82ff-44b2-b976-0a9f4865017d.html",
@@ -85,6 +173,14 @@
     "link": "https://www.designboom.com/design/astronomy-inspired-watch-ressence-terumasa-ikeda-dials-move-planets-type-9-ike/",
     "published_at": "2026-02-26T10:15:19.000Z",
     "fingerprint": "d26a0c769ef1b5057b959dd950de909ddc023606",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "mvntSTUDIO",
+    "link": "https://www.producthunt.com/products/mvntstudio",
+    "published_at": "2026-02-26T09:25:28.000Z",
+    "fingerprint": "4b6cd096ae3a04afd5c1c7ba4151ea1d6428f137",
     "micro_judgment": null
   },
   {
@@ -165,6 +261,22 @@
     "link": "https://vibrantlabs.com/blog/pa-bench",
     "published_at": "2026-02-25T20:11:37.000Z",
     "fingerprint": "27114b70e5ac197f1b4e061b8ee32981552f0926",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "ShowcasePro",
+    "link": "https://www.producthunt.com/products/showcasepro",
+    "published_at": "2026-02-25T17:16:48.000Z",
+    "fingerprint": "167c7467df437f5ae9b7f389c04ce7d3ef297c3e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Perplexity Computer",
+    "link": "https://www.producthunt.com/products/perplexity-ai",
+    "published_at": "2026-02-25T16:49:41.000Z",
+    "fingerprint": "fea098422e27bc44fbd6054e1df5a3418b57e62d",
     "micro_judgment": null
   },
   {
@@ -613,6 +725,14 @@
     "link": "https://milk.com/wall-o-shame/security_clearance.html",
     "published_at": "2026-02-21T17:08:12.000Z",
     "fingerprint": "ed66484475f747c48f3f85431d249bc212df16ff",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "HelixDB",
+    "link": "https://www.producthunt.com/products/helixdb",
+    "published_at": "2026-02-21T15:31:24.000Z",
+    "fingerprint": "27a0b1233d10679eb766373cbd54c1650cd7f51f",
     "micro_judgment": null
   },
   {
