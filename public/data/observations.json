@@ -1,6 +1,110 @@
 [
   {
     "source": "Hacker News · frontpage",
+    "title": "Microgpt",
+    "link": "http://karpathy.github.io/2026/02/12/microgpt/",
+    "published_at": "2026-03-01T01:39:26.000Z",
+    "fingerprint": "ecaea6e3d2747781ff1665ce9937bb91330e5ae0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
+    "link": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
+    "published_at": "2026-03-01T01:24:54.000Z",
+    "fingerprint": "d230b11de3aed47e6eeecd2c93e6450ad1c26b16",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The First Screwdriver With an Open-Source Handle You Redesign Yourself",
+    "link": "https://www.yankodesign.com/2026/02/28/the-first-screwdriver-with-an-open-source-handle-you-redesign-yourself/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-screwdriver-with-an-open-source-handle-you-redesign-yourself",
+    "published_at": "2026-02-28T23:30:39.000Z",
+    "fingerprint": "8f2666bd65d22c88ee7eba6cd00827a1d561491a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Building a Minimal Transformer for 10-digit Addition",
+    "link": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
+    "published_at": "2026-02-28T22:10:21.000Z",
+    "fingerprint": "aa34a1dda202c9a7ca35859f892f6ef73101faac",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Anziana morta colpita da auto in fuga da Carabinieri, arrestato un 20enne",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/02/28/anziana-morta-colpita-da-auto-in-fuga-da-carabinieri-arrestato-un-20enne_a1f15334-7b0b-413c-99f6-69de9b045dcb.html",
+    "published_at": "2026-02-28T21:53:31.000Z",
+    "fingerprint": "ac2a68cf16178b35d68ee63fe5f22d2712b14748",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "We do not think Anthropic should be designated as a supply chain risk",
+    "link": "https://twitter.com/OpenAI/status/2027846016423321831",
+    "published_at": "2026-02-28T21:24:16.000Z",
+    "fingerprint": "d151278ce0d3ded588b9a24b14eeb5e7fa1a603e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
+    "link": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+    "published_at": "2026-02-28T20:20:00.000Z",
+    "fingerprint": "fd37dd72168be387fff6ec3b71bab043cc4b50f2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Redmi Buds 8 Pro Review: This €69.90 Earbud Punches Way Above Its Weight",
+    "link": "https://www.yankodesign.com/2026/02/28/redmi-buds-8-pro-review-this-e69-90-earbud-punches-way-above-its-weight/?utm_source=rss&utm_medium=rss&utm_campaign=redmi-buds-8-pro-review-this-e69-90-earbud-punches-way-above-its-weight",
+    "published_at": "2026-02-28T18:00:35.000Z",
+    "fingerprint": "9e42dbf99ecc2e1a7520a1731e26df17e47000c8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Verified Spec-Driven Development (VSDD)",
+    "link": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
+    "published_at": "2026-02-28T16:58:54.000Z",
+    "fingerprint": "7e4974c912b3f7398c3b79d53c6b72603b64d8fc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Obsidian Sync now has a headless client",
+    "link": "https://help.obsidian.md/sync/headless",
+    "published_at": "2026-02-28T16:31:53.000Z",
+    "fingerprint": "47c17be25002b9e22be1756b46e69e9fffa96d98",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
+    "link": "https://nowigetit.us",
+    "published_at": "2026-02-28T13:29:36.000Z",
+    "fingerprint": "cf7302c3e2a65c03ff6fdfe0ef5cc1bb29e9dae4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "cast in red-pigmented concrete, la cacaotera museum celebrates cacao heritage in mexico",
+    "link": "https://www.designboom.com/architecture/red-pigmented-concrete-la-cacaotera-museum-cacao-heritage-mexico/",
+    "published_at": "2026-02-28T08:01:55.000Z",
+    "fingerprint": "c4276519d75337371dfd1e117d328f75483730a0",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Febbraio si chiude con una parata dei pianeti",
+    "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/02/28/febbraio-si-chiude-con-una-parata-dei-pianeti-_99a8bf81-8c40-4545-950c-57e7034d7d95.html",
+    "published_at": "2026-02-28T07:42:49.000Z",
+    "fingerprint": "4178f5ef6eccdf8ebe11cf7495f839bbb1d3b605",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
     "title": "Bootc and OSTree: Modernizing Linux System Deployment",
     "link": "https://a-cup-of.coffee/blog/ostree-bootc/",
     "published_at": "2026-02-28T02:55:29.000Z",
@@ -69,6 +173,14 @@
     "link": "https://www.designboom.com/architecture/simran-boparai-prabh-te-ras-residence-marble-murals-modernity/",
     "published_at": "2026-02-27T11:45:04.000Z",
     "fingerprint": "8ad5003c26d5c5c359a2b0ec346de6a4f59f46de",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "The Claw News",
+    "link": "https://www.producthunt.com/products/the-claw-news",
+    "published_at": "2026-02-27T08:33:14.000Z",
+    "fingerprint": "3ca14c31f266397943c06b466164e3fae00b425b",
     "micro_judgment": null
   },
   {
