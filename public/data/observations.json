@@ -1,6 +1,78 @@
 [
   {
     "source": "Hacker News · frontpage",
+    "title": "Computer-generated dream world: Virtual reality for a 286 processor",
+    "link": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
+    "published_at": "2026-03-02T04:23:53.000Z",
+    "fingerprint": "b6a6484d1690150b746e4ba9e0bc8c339e873a70",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This AI Desk Terminal Has a Screen, Knob, and Voice Control",
+    "link": "https://www.yankodesign.com/2026/03/01/this-ai-desk-terminal-has-a-screen-knob-and-voice-control/?utm_source=rss&utm_medium=rss&utm_campaign=this-ai-desk-terminal-has-a-screen-knob-and-voice-control",
+    "published_at": "2026-03-02T02:45:34.000Z",
+    "fingerprint": "3db8603e76c773586a0a1b1921760f8638285bc3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The $5 Billion Sphere That Wants to Put the Moon in Your Backyard",
+    "link": "https://www.yankodesign.com/2026/03/01/the-5-billion-sphere-that-wants-to-put-the-moon-in-your-backyard/?utm_source=rss&utm_medium=rss&utm_campaign=the-5-billion-sphere-that-wants-to-put-the-moon-in-your-backyard",
+    "published_at": "2026-03-01T21:45:26.000Z",
+    "fingerprint": "3eb79e4f4bb36ef2ad2b1617ece328e06fa02fdd",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Italiani bloccati a Dubai, tra loro 200 studenti. La Farnesina crea la 'Task Force Golfo'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/01/italiani-bloccati-a-dubai-tra-loro-200-studenti.-la-farnesina-crea-la-task_9c4682fe-3b21-4603-b289-cc30ff61ea25.html",
+    "published_at": "2026-03-01T19:54:07.000Z",
+    "fingerprint": "f82358db241956e4fe77ab0964157957b292fb66",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il governo con Usa e Israele: la guerra perché l'Iran non si è fermato",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/03/01/il-governo-con-usa-e-israele-la-guerra-perche-liran-non-si-e-fermato_0e3cdcd8-a56e-4766-9d95-a25bed88ea95.html",
+    "published_at": "2026-03-01T19:43:12.000Z",
+    "fingerprint": "2be18639ff481c5595596b4eac30c2b445e9a000",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "I complimenti di Verdone a Sal Da Vinci: \"Oggi Troppo Forte sei tu\"",
+    "link": "https://www.ansa.it/sito/notizie/cultura/musica/speciali/sanremo_2026/2026/03/01/i-complimenti-di-verdone-a-sal-da-vinci-oggi-troppo-forte-sei-tu_aff236dd-ac8b-41db-8757-acf028e0661c.html",
+    "published_at": "2026-03-01T17:08:02.000Z",
+    "fingerprint": "f4a5e3ea4bb171856f5b0bf7895cd4f1776d60a9",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Fulco Pratesi, in mostra alla Camera il suo sguardo sulla natura",
+    "link": "https://www.ansa.it/canale_viaggi/notizie/news/2026/02/28/fulco-pratesi-in-mostra-alla-camera-il-suo-sguardo-sulla-natura_2ae8689d-e31b-4e69-8cd7-e73c23c46c4c.html",
+    "published_at": "2026-03-01T13:00:55.000Z",
+    "fingerprint": "842941f3c3ee9c030aaeb10714585c12a9d0fba9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "designboom radar: exhibitions to see around the world this march",
+    "link": "https://www.designboom.com/art/designboom-radar-exhibitions-to-see-around-the-world-this-march/",
+    "published_at": "2026-03-01T11:50:46.000Z",
+    "fingerprint": "84029d7fa0b5656f6ae6ef5dbf669f467281c62b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Flightradar24 for Ships",
+    "link": "https://atlas.flexport.com/",
+    "published_at": "2026-03-01T11:01:17.000Z",
+    "fingerprint": "9084d238e30403273989558c03ba552e2101794a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
     "title": "Microgpt",
     "link": "http://karpathy.github.io/2026/02/12/microgpt/",
     "published_at": "2026-03-01T01:39:26.000Z",
@@ -477,6 +549,14 @@
     "link": "https://www.producthunt.com/products/fellow-app",
     "published_at": "2026-02-24T14:53:03.000Z",
     "fingerprint": "cd532d74ba099373f87dd9522511149cf4cbdefe",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "OpenAI WebSocket Mode for Responses API",
+    "link": "https://www.producthunt.com/products/openai-websocket-mode-for-responses-api",
+    "published_at": "2026-02-24T14:27:11.000Z",
+    "fingerprint": "20dad939e34335f755587ddbf992c08b6a32617b",
     "micro_judgment": null
   },
   {
