@@ -1,5 +1,125 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Speculative Speculative Decoding (SSD)",
+    "link": "https://arxiv.org/abs/2603.03251",
+    "published_at": "2026-03-04T03:24:20.000Z",
+    "fingerprint": "de8c7608e60652b22cc42d9be954e96d7bf5d8b3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Mac external displays for designers and developers, part 2 (2022)",
+    "link": "https://bjango.com/articles/macexternaldisplays2/",
+    "published_at": "2026-03-04T02:43:05.000Z",
+    "fingerprint": "743384829a69d5b6932d12e01f8e0673ad0de4ec",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Number Research Inc",
+    "link": "https://numberresearch.xyz/",
+    "published_at": "2026-03-04T02:34:06.000Z",
+    "fingerprint": "79cb8d653caea7194f6e3a82365ac0dadee1aa36",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
+    "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
+    "published_at": "2026-03-04T01:31:05.000Z",
+    "fingerprint": "06cb69657705e62c0466a4f1f6dd456539c9fd98",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "130k Lines of Formal Topology: Simple and Cheap Autoformalization for Everyone?",
+    "link": "https://arxiv.org/abs/2601.03298",
+    "published_at": "2026-03-03T23:17:24.000Z",
+    "fingerprint": "378815b9db5d39a00c175552b39450db7a2142ce",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Borsa, l'Europa in picchiata con la guerra in Medio Oriente. Milano chiude in forte calo, -3,92%",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/03/03/borsa-leuropa-in-picchiata-con-la-guerra-in-medio-oriente.-milano-chiude-in-forte_3937ebb5-f705-4cfb-8713-93ddc6a4788b.html",
+    "published_at": "2026-03-03T22:46:44.000Z",
+    "fingerprint": "d48e9997e2f0f8f6f55a458bff869aacf22c96be",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ddl antisemitismo al voto, Pd avanti diviso",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/03/03/ddl-antisemitismo-domani-al-voto-pd-avanti-diviso-_2b2735c7-4d4d-41e7-a12e-2ff3660d69f8.html",
+    "published_at": "2026-03-03T22:26:28.000Z",
+    "fingerprint": "0a85401f19b9e8e560c8cd849ea0e296d4f3a5bc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "We've freed Cookie's Bustle from copyright hell",
+    "link": "https://gamehistory.org/cookies-bustle/",
+    "published_at": "2026-03-03T20:14:18.000Z",
+    "fingerprint": "7b44966f2af1643a3c93138eea3d3c344a7403b4",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Doppio trapianto rene e pancreas con un robot libera paziente da diabete e dialisi",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/diabete/2026/03/03/doppio-trapianto-rene-e-pancreas-con-un-robot-libera-paziente-da-diabete-e-dialisi_d636d193-6640-45f5-9d86-ba727cb33da8.html",
+    "published_at": "2026-03-03T18:19:34.000Z",
+    "fingerprint": "59ce3356747cdb6888bdbf7319eed8d524343220",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Si addormenta sul tram, 17enne trascinato fuori e violentato",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/03/si-addormenta-sul-tram-17enne-trascinato-fuori-e-violentato-_3dbf5290-b16d-41c7-a20c-8acd8957782a.html",
+    "published_at": "2026-03-03T18:15:28.000Z",
+    "fingerprint": "3f553e60a241822b1609b241c7cd22b4cb95315f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "GPT‑5.3 Instant",
+    "link": "https://openai.com/index/gpt-5-3-instant/",
+    "published_at": "2026-03-03T17:57:33.000Z",
+    "fingerprint": "d6086fbc41e68ccfb09944349a3bfe5d39a48245",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Samurai Jay domina classifiche e streaming, Ossessione la più ascoltata di Sanremo",
+    "link": "https://www.ansa.it/sito/notizie/cultura/musica/speciali/sanremo_2026/2026/03/03/samurai-jay-domina-classifiche-e-streaming-ossessione-la-piu-ascoltata-di-sanremo_f7f87dc2-af52-4eb7-852c-8d0796f24495.html",
+    "published_at": "2026-03-03T17:32:35.000Z",
+    "fingerprint": "4d88d617e70aedd41158c3be1638555482500bba",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ballerina Sanremo a Conti: 'Siamo parte violenza di genere anche senza accorgercene'",
+    "link": "https://www.ansa.it/sito/notizie/cultura/musica/speciali/sanremo_2026/2026/03/03/ballerina-sanremo-a-conti-siamo-parte-violenza-di-genere-anche-senza-accorgercene_f686ce52-6d02-4b41-b06b-e2c091f824d8.html",
+    "published_at": "2026-03-03T17:28:17.000Z",
+    "fingerprint": "e7599a335016952ad73dad31ee170a6a81d2f590",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Melania Trump presiede il Consiglio di Sicurezza dell'Onu",
+    "link": "https://www.ansa.it/sito/videogallery/mondo/2026/03/03/melania-trump-presiede-il-consiglio-di-sicurezza-dellonu_3b2c6ce7-db66-4329-8bb2-fac339ff632b.html",
+    "published_at": "2026-03-03T14:20:35.000Z",
+    "fingerprint": "5f63d3e462748d8ba1daaea9b201ef435fd0f260",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "RayNeo Just Put Batman on $299 AR Glasses (And They’re Brilliant)",
+    "link": "https://www.yankodesign.com/2026/03/03/rayneo-just-put-batman-on-299-ar-glasses-and-theyre-brilliant/?utm_source=rss&utm_medium=rss&utm_campaign=rayneo-just-put-batman-on-299-ar-glasses-and-theyre-brilliant",
+    "published_at": "2026-03-03T09:45:03.000Z",
+    "fingerprint": "cb16f36c818daec13429bf4c8c1ca83b32caf465",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · oddlysatisfying",
     "title": "Kinetic Wave Sculpture by Ross McSweeney",
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1rjd45u/kinetic_wave_sculpture_by_ross_mcsweeney/",
@@ -21,6 +141,22 @@
     "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
     "published_at": "2026-03-03T01:12:30.000Z",
     "fingerprint": "5b1da1ee5921a41d3bc219591b19d850ac876eb8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Better Clipboard",
+    "link": "https://www.producthunt.com/products/better-clipboard",
+    "published_at": "2026-03-02T23:28:28.000Z",
+    "fingerprint": "473b73b85fdb9b59cb27eaee7adaf34385d3dbc7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "MonoDesk",
+    "link": "https://www.producthunt.com/products/monodesk-workspace-for-creative-pros",
+    "published_at": "2026-03-02T22:55:08.000Z",
+    "fingerprint": "da09d19dddf9f2dc183ffce113f6eff5a904f767",
     "micro_judgment": null
   },
   {
@@ -352,6 +488,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Skyvern MCP & Skills",
+    "link": "https://www.producthunt.com/products/skyvern",
+    "published_at": "2026-02-28T04:39:25.000Z",
+    "fingerprint": "54c0c52c519d13dc9c7f533658bd79b231f1c561",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Bootc and OSTree: Modernizing Linux System Deployment",
     "link": "https://a-cup-of.coffee/blog/ostree-bootc/",
@@ -493,6 +637,14 @@
     "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
     "published_at": "2026-02-26T16:02:37.000Z",
     "fingerprint": "c51972500dab7cb4cfbb553d86e9ef2f37579438",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Krisp Accent Conversion",
+    "link": "https://www.producthunt.com/products/krisp",
+    "published_at": "2026-02-26T15:58:59.000Z",
+    "fingerprint": "16af307370ecf804e113f18a9430101aba16c5a6",
     "micro_judgment": null
   },
   {
