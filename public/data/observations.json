@@ -1,6 +1,102 @@
 [
   {
     "source": "Hacker News · frontpage",
+    "title": "Relicensing with AI-Assisted Rewrite",
+    "link": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+    "published_at": "2026-03-05T05:07:33.000Z",
+    "fingerprint": "d816c60d440bd47b37f4dfb330c0f56e34a36429",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "What Python's asyncio primitives get wrong about shared state",
+    "link": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
+    "published_at": "2026-03-05T02:55:57.000Z",
+    "fingerprint": "9667659a114e927703fbc10938ef706e09ca6151",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "‘ridiculously good-looking saunas’ showcases 36 design-led thermal retreats worldwide",
+    "link": "https://www.designboom.com/architecture/ridiculously-good-looking-saunas-36-design-thermal-retreats-worldwide-christopher-selman-gestalten/",
+    "published_at": "2026-03-05T01:30:55.000Z",
+    "fingerprint": "1b303278d68e8bbfe837a83f78575dc07a9aa57a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Did Apple’s $599 MacBook Neo just paint a target on the Google Chromebook’s back?",
+    "link": "https://www.yankodesign.com/2026/03/04/did-apples-599-macbook-neo-just-paint-a-target-on-the-google-chromebooks-back/?utm_source=rss&utm_medium=rss&utm_campaign=did-apples-599-macbook-neo-just-paint-a-target-on-the-google-chromebooks-back",
+    "published_at": "2026-03-04T23:30:54.000Z",
+    "fingerprint": "7baebfc3ed4f6932213785f7f23466d0f8a348f6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "NRC issues first commercial reactor construction approval in 10 years [pdf]",
+    "link": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
+    "published_at": "2026-03-04T21:56:20.000Z",
+    "fingerprint": "4b2eef4ae9f4f46d4b4d86c063645547d36eb948",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Was Windows 1.0's lack of overlapping windows a legal or a technical matter?",
+    "link": "https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter",
+    "published_at": "2026-03-04T20:15:06.000Z",
+    "fingerprint": "8f11846c9030d2440f4f6be29fbd42a2d4d19501",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "nubia Neo 5 GT: €399 Gaming Phone With a Built-In Cooling Fan",
+    "link": "https://www.yankodesign.com/2026/03/04/nubia-neo-5-gt-e399-gaming-phone-with-a-built-in-cooling-fan/?utm_source=rss&utm_medium=rss&utm_campaign=nubia-neo-5-gt-e399-gaming-phone-with-a-built-in-cooling-fan",
+    "published_at": "2026-03-04T18:20:34.000Z",
+    "fingerprint": "c5e9f23d958b4c2c9b58256a2ce30f46c13eeb05",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Infinix and Pininfarina Phone: Flush Camera, Hidden Display",
+    "link": "https://www.yankodesign.com/2026/03/04/infinix-and-pininfarina-phone-flush-camera-hidden-display/?utm_source=rss&utm_medium=rss&utm_campaign=infinix-and-pininfarina-phone-flush-camera-hidden-display",
+    "published_at": "2026-03-04T17:00:47.000Z",
+    "fingerprint": "6d64065bff322e5c04c61595b153a346701ec475",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "TAO shapes this rural art center with a fanning floor plan to frame wetland views",
+    "link": "https://www.designboom.com/architecture/tao-art-center-fanning-wetland-views-trace-chenhu-wuhan-china/",
+    "published_at": "2026-03-04T16:16:50.000Z",
+    "fingerprint": "a55f6c85ae9fd32cb90fa9f9d0df439aac95809f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "modern audio player restores the physical form of music using disc-shaped cartridges",
+    "link": "https://www.designboom.com/technology/modern-audio-player-restores-physical-form-music-disc-cartridges-vladimir-dubrovin-ensa-p1/",
+    "published_at": "2026-03-04T16:00:42.000Z",
+    "fingerprint": "19198a826f70c21ff7f60d81968fcdba5e16c603",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "art paris 2026 returns to grand palais exploring language and reparation in modern art",
+    "link": "https://www.designboom.com/art/art-paris-2026-grand-palais-language-reparation-modern-art/",
+    "published_at": "2026-03-04T11:55:12.000Z",
+    "fingerprint": "c2fcfbe7629d6edf30255f0d941663a15dd9b635",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Vocova",
+    "link": "https://www.producthunt.com/products/vocova",
+    "published_at": "2026-03-04T04:12:49.000Z",
+    "fingerprint": "f4e8fec8d2787f59adbdc791d2a78bd0a4f25c45",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
     "title": "Speculative Speculative Decoding (SSD)",
     "link": "https://arxiv.org/abs/2603.03251",
     "published_at": "2026-03-04T03:24:20.000Z",
@@ -53,6 +149,14 @@
     "link": "https://www.ansa.it/sito/notizie/politica/2026/03/03/ddl-antisemitismo-domani-al-voto-pd-avanti-diviso-_2b2735c7-4d4d-41e7-a12e-2ff3660d69f8.html",
     "published_at": "2026-03-03T22:26:28.000Z",
     "fingerprint": "0a85401f19b9e8e560c8cd849ea0e296d4f3a5bc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Gemini Code Harvester",
+    "link": "https://www.producthunt.com/products/gemini-code-harvester",
+    "published_at": "2026-03-03T22:01:28.000Z",
+    "fingerprint": "c6f631764ef59f2ead3e62388bd27cf9ebb27d57",
     "micro_judgment": null
   },
   {
@@ -109,6 +213,14 @@
     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/03/03/melania-trump-presiede-il-consiglio-di-sicurezza-dellonu_3b2c6ce7-db66-4329-8bb2-fac339ff632b.html",
     "published_at": "2026-03-03T14:20:35.000Z",
     "fingerprint": "5f63d3e462748d8ba1daaea9b201ef435fd0f260",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "ScreenTranslate",
+    "link": "https://www.producthunt.com/products/screentranslate",
+    "published_at": "2026-03-03T10:11:39.000Z",
+    "fingerprint": "79da3982b336c065b94541b728877ff8c4673c13",
     "micro_judgment": null
   },
   {
@@ -1013,6 +1125,14 @@
     "link": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/",
     "published_at": "2026-02-23T17:20:25.000Z",
     "fingerprint": "9594546808e1e2e028f35445dacad0ad4ef07a99",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Projekt",
+    "link": "https://www.producthunt.com/products/projekt-design-engineered",
+    "published_at": "2026-02-23T17:19:42.000Z",
+    "fingerprint": "e292ae89e9175a00cbcb07f36ce83d770a3199a3",
     "micro_judgment": null
   },
   {
