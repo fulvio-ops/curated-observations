@@ -1,6 +1,150 @@
 [
   {
     "source": "Hacker News · frontpage",
+    "title": "System76 on Age Verification Laws",
+    "link": "https://blog.system76.com/post/system76-on-age-verification/",
+    "published_at": "2026-03-06T04:12:26.000Z",
+    "fingerprint": "f7aed86cf9d2dbf2923dc07369ee69e3ac2b2883",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages",
+    "link": "https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/",
+    "published_at": "2026-03-06T03:56:52.000Z",
+    "fingerprint": "d2d8dd329eb63e095fde774330bd3bd4e6cc646a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Giovane accoltellato a Milano, 4 minorenni in carcere",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/05/ventenne-accoltellato-a-milano-4-minori-in-carcere-per-tentato-omicidio_151903cf-6b34-4c9f-aaae-c80c2cb52c22.html",
+    "published_at": "2026-03-05T22:05:44.000Z",
+    "fingerprint": "ffb4896ecbdf89c76366f67113bc960694198f5a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+    "link": "https://406.fail/",
+    "published_at": "2026-03-05T22:04:59.000Z",
+    "fingerprint": "5418d779298f319a4ab2034cf85dce3da592e6b1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Trump licenzia Kristi Noem, l'annuncio in un post sul suo social Truth",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/05/trump-licenzia-kristi-noem-lannuncio-in-un-post-sul-suo-social-truth_66151e96-dd6c-4c64-a3e6-5060d53cbaa4.html",
+    "published_at": "2026-03-05T21:33:09.000Z",
+    "fingerprint": "c6a02921b9d48db344dc533131c8362136c9b362",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Structured AI (YC F25) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant",
+    "published_at": "2026-03-05T21:01:30.000Z",
+    "fingerprint": "d69b64a4e91634d2b3d66ca0e76c3f0c67afa33d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Lo stretto di Hormuz 'zona di guerra', mille navi bloccate",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/05/lo-stretto-di-hormuz-zona-di-guerra-mille-navi-bloccate_f363a3e7-a3d5-4de9-95e0-0ccca2c4d44e.html",
+    "published_at": "2026-03-05T20:48:56.000Z",
+    "fingerprint": "12362aab41b60efd1e9d7aa8c445aebe1a27ab67",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Al Cnel incontro di studio su università e carcere",
+    "link": "https://www.ansa.it/sito/notizie/eventi/2026/03/04/al-cnel-incontro-di-studio-su-universita-e-carcere_12bf3ba3-8c64-4c53-83e9-a39aff363b2d.html",
+    "published_at": "2026-03-05T20:41:27.000Z",
+    "fingerprint": "7b8328fe064e274c8bc93dd083701bd0e39b880a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Caso Paragon, l'atto di accusa dei pm 'spiati tre telefoni'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/05/caso-paragon-latto-di-accusa-dei-pm-spiati-tre-telefoni_cb83ed31-752c-4ad5-b6a0-0a384cbd841e.html",
+    "published_at": "2026-03-05T20:35:34.000Z",
+    "fingerprint": "9e0437b4fd5acd9712a439c3e9fee4c9e7cd1726",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Remotely unlocking an encrypted hard disk",
+    "link": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
+    "published_at": "2026-03-05T18:43:59.000Z",
+    "fingerprint": "3b04b54ca38cfc5f17e39b33e0dfbdaa3e36d823",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "abin design studio’s ‘unscripted pavilion’ is an ethereal grid in mumbai",
+    "link": "https://www.designboom.com/architecture/abin-design-studio-unscripted-pavilion-grid-mumbai-india/",
+    "published_at": "2026-03-05T18:30:14.000Z",
+    "fingerprint": "c6783fdf6808d10e76ece0acf8ab8f83ec2e2532",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "compostable bicycle seat takes shape as mycelium grows around the wooden saddle",
+    "link": "https://www.designboom.com/design/compostable-bicycle-seat-shape-mycelium-wooden-saddle-grown-bio-ludwig-eder-myco-seat/",
+    "published_at": "2026-03-05T16:00:58.000Z",
+    "fingerprint": "9a1b0f57a92abcd6ca0d2bdb566d302b52450b25",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "EntoPedia magnetic camera turns insect encounters into digital specimens without capture",
+    "link": "https://www.designboom.com/technology/entopedia-magnetic-camera-insect-encounters-digital-specimens-junfei-teng/",
+    "published_at": "2026-03-05T15:30:51.000Z",
+    "fingerprint": "f9f4c114e4e9b5cbbdcb1f7bf6ac8c1a4e58792a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "thousands of glass beads form delicate blossoms that never wilt in henri purnell’s sculptures",
+    "link": "https://www.designboom.com/art/thousands-glass-beads-delicate-blossoms-henri-purnell-sculptures/",
+    "published_at": "2026-03-05T11:30:33.000Z",
+    "fingerprint": "f6f366e3e5123ab702dfb589a419b57a6a89103b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "studio RE+N turns abandoned planter into floating yellow stage in shanghai neighborhood",
+    "link": "https://www.designboom.com/architecture/studio-re-n-abandoned-planter-floating-yellow-stage-shanghai-neighborhood/",
+    "published_at": "2026-03-05T11:00:48.000Z",
+    "fingerprint": "f54d6671e12e78396aba8be723081bc0fd7e806a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "curved twin volumes shape the risonare shimonoseki hotel along japan’s kanmon strait",
+    "link": "https://www.designboom.com/architecture/curved-twin-volumes-risonare-shimonoseki-hotel-japan-kanmon-strait-nihon-sekkei-klein-dytham-architecture/",
+    "published_at": "2026-03-05T10:00:24.000Z",
+    "fingerprint": "0de662e07dbacacfa807c4ee4e307b30b1faa8f0",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Aumenta la spesa per la cultura, cinema e attività dal vivo a livello pre-Covid",
+    "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/03/04/aumenta-la-spesa-per-la-cultura-cinema-e-attivita-dal-vivo-a-livello-pre_3885e881-1e46-44f3-b35b-684704782741.html",
+    "published_at": "2026-03-05T08:50:20.000Z",
+    "fingerprint": "3634c53fe679bc0e6c47eff4b71014ff546cee40",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La ChatGpt del Dna per trovare mutazioni pericolose e terapie su misura",
+    "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/03/05/la-chatgpt-del-dna-per-trovare-mutazioni-pericolose-e-terapie-su-misura_7a357f4c-df7a-4fa6-abc3-151ba0dc9602.html",
+    "published_at": "2026-03-05T07:21:21.000Z",
+    "fingerprint": "13b2a35536e7c76a23dff47aceaeac04c3dd7557",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
     "title": "Relicensing with AI-Assisted Rewrite",
     "link": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
     "published_at": "2026-03-05T05:07:33.000Z",
@@ -29,6 +173,14 @@
     "link": "https://www.yankodesign.com/2026/03/04/did-apples-599-macbook-neo-just-paint-a-target-on-the-google-chromebooks-back/?utm_source=rss&utm_medium=rss&utm_campaign=did-apples-599-macbook-neo-just-paint-a-target-on-the-google-chromebooks-back",
     "published_at": "2026-03-04T23:30:54.000Z",
     "fingerprint": "7baebfc3ed4f6932213785f7f23466d0f8a348f6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Itchy",
+    "link": "https://www.producthunt.com/products/itchy-2",
+    "published_at": "2026-03-04T22:25:22.000Z",
+    "fingerprint": "0ccf0859e21496b3722d3aa553797483cccea39f",
     "micro_judgment": null
   },
   {
