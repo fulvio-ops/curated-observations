@@ -1,6 +1,62 @@
 [
   {
     "source": "Hacker News · frontpage",
+    "title": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
+    "link": "https://news.ycombinator.com/item?id=47282777",
+    "published_at": "2026-03-07T00:05:06.000Z",
+    "fingerprint": "9930647471d7c70e2c3e0e2a3f28061bde187046",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Mamma Catherine allontanata dai figli, Meloni attacca le toghe",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/06/mamma-catherine-allontanata-dai-figli-meloni-attacca-le-toghe_70c6daed-3508-4c9c-b978-ace633f0d517.html",
+    "published_at": "2026-03-06T19:16:00.000Z",
+    "fingerprint": "fb9f1578dcce255382b63cf74f93d5154a9d21b9",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Le Borse europee bruciano 918 miliardi in una settimana",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/03/06/borsa-milano-chiude-in-calo_81740880-00e2-4799-a6b3-47436b79ba7f.html",
+    "published_at": "2026-03-06T18:26:01.000Z",
+    "fingerprint": "fb6891d0dd79109374ec6e7ccf2908a941d48d79",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il legame emotivo con i capelli, l'impatto sull'autostima",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/03/06/il-legame-emotivo-con-i-capelli-limpatto-sullautostima_8adb06cf-489d-4995-8d9f-acf0d13eb65a.html",
+    "published_at": "2026-03-06T17:22:53.000Z",
+    "fingerprint": "f14857966c6566025d92708e85fd8c6b4c89fd02",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Multifactor (YC F25) Is Hiring an Engineering Lead",
+    "link": "https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead",
+    "published_at": "2026-03-06T17:00:38.000Z",
+    "fingerprint": "2339111493df8737e8e2dee427a87310f93d02dc",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Alla scoperta di The Letdown, The Night Manager e La vita accanto",
+    "link": "https://www.ansa.it/sito/podcast/siamo_serie/2026/03/06/alla-scoperta-di-the-letdown-the-night-manager-e-la-vita-accanto_bf748be2-11fd-4579-bbd3-c653a7e9d0e1.html",
+    "published_at": "2026-03-06T12:35:27.000Z",
+    "fingerprint": "1176c8b948921233725d3d64336c52869d90237f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Captato il fantasma di una potente esplosione cosmica",
+    "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/03/06/captato-il-fantasma-di-una-potente-esplosione-cosmica_8b759bb5-7696-497f-84d0-44b5fd8b2012.html",
+    "published_at": "2026-03-06T10:24:03.000Z",
+    "fingerprint": "c0ecd917b6c78478dc7d736626536379f17f723d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
     "title": "System76 on Age Verification Laws",
     "link": "https://blog.system76.com/post/system76-on-age-verification/",
     "published_at": "2026-03-06T04:12:26.000Z",
@@ -13,6 +69,14 @@
     "link": "https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/",
     "published_at": "2026-03-06T03:56:52.000Z",
     "fingerprint": "d2d8dd329eb63e095fde774330bd3bd4e6cc646a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "ChatGPT for Excel",
+    "link": "https://www.producthunt.com/products/chatgpt",
+    "published_at": "2026-03-05T23:51:05.000Z",
+    "fingerprint": "66e2e00740eac7d2088070e9515a96fd02e023f7",
     "micro_judgment": null
   },
   {
@@ -101,6 +165,22 @@
     "link": "https://www.designboom.com/technology/entopedia-magnetic-camera-insect-encounters-digital-specimens-junfei-teng/",
     "published_at": "2026-03-05T15:30:51.000Z",
     "fingerprint": "f9f4c114e4e9b5cbbdcb1f7bf6ac8c1a4e58792a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Cockpit",
+    "link": "https://www.producthunt.com/products/cockpit-3",
+    "published_at": "2026-03-05T13:30:51.000Z",
+    "fingerprint": "ef984e83175bad5864040fb4cbc64272313998a9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Saydi",
+    "link": "https://www.producthunt.com/products/saydi",
+    "published_at": "2026-03-05T11:36:20.000Z",
+    "fingerprint": "b63bceb9baf7649eeb4f8bb9cbf3e3091ac66609",
     "micro_judgment": null
   },
   {
@@ -237,6 +317,14 @@
     "link": "https://www.designboom.com/art/art-paris-2026-grand-palais-language-reparation-modern-art/",
     "published_at": "2026-03-04T11:55:12.000Z",
     "fingerprint": "c2fcfbe7629d6edf30255f0d941663a15dd9b635",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Context Gateway",
+    "link": "https://www.producthunt.com/products/context-gateway",
+    "published_at": "2026-03-04T04:44:04.000Z",
+    "fingerprint": "125bae9b6708cd61bed1ae09bd403b57e3bf4cc8",
     "micro_judgment": null
   },
   {
@@ -1037,6 +1125,14 @@
     "link": "https://vibrantlabs.com/blog/pa-bench",
     "published_at": "2026-02-25T20:11:37.000Z",
     "fingerprint": "27114b70e5ac197f1b4e061b8ee32981552f0926",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Imbue",
+    "link": "https://www.producthunt.com/products/imbue-7",
+    "published_at": "2026-02-25T19:29:34.000Z",
+    "fingerprint": "79f1874f764d2c58a099cd5345d05079ef1b4618",
     "micro_judgment": null
   },
   {
