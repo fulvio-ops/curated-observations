@@ -1,5 +1,117 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Thermal Grizzly was scammed twice on raw materials worth €40k",
+    "link": "https://videocardz.com/newz/der8auer-explains-thermal-grizzly-delays-after-company-was-scammed-twice-on-raw-materials-worth-e40000",
+    "published_at": "2026-03-09T04:38:03.000Z",
+    "fingerprint": "016b11fefefa22a2ab20d3e7ff658861ac2c3b83",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "molded carpet series melts discarded fiber remnants into sculptural furniture skins",
+    "link": "https://www.designboom.com/design/molded-carpet-series-discarded-fiber-remnants-sculptural-furniture-skins-jack-craig/",
+    "published_at": "2026-03-09T02:01:35.000Z",
+    "fingerprint": "c6d497ce8bdd7e3f5cda1800df7338b2704c42aa",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Tennis: Sinner batte Shapovalov e vola agli ottavi degli Indian Wells",
+    "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/09/tennis-sinner-batte-shapovalov-e-vola-agli-ottavi-degli-indian-wells_1ac355e1-561b-44bf-a97f-fd14a6abb813.html",
+    "published_at": "2026-03-09T01:05:27.000Z",
+    "fingerprint": "7b5e54c9a455f5cbc7e35a36e6d76ca7ff645ba5",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La guerra in Medio Oriente - La cronaca dell'8 e 9 marzo LIVEBLOG",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/08/la-guerra-in-medio-oriente-la-cronaca-dell8-e-9-marzo-liveblog_64e619a7-d13d-49ab-8c86-0ca1d65a9ea9.html",
+    "published_at": "2026-03-08T23:43:53.000Z",
+    "fingerprint": "22b77a9c4ab80e534ae3da7170be10b8e36dd8b1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Due ordigni vicino casa di Mamdani: ' Non c'è posto per l'odio a New York'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/08/due-ordigni-vicino-casa-di-mamdani-non-ce-posto-per-lodio-a-new_877fd8ca-6ba1-4158-bc86-cc072d17d203.html",
+    "published_at": "2026-03-08T22:35:29.000Z",
+    "fingerprint": "e418b03c4696f4ceeb398b59fcea31a872a9cf68",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Chair doubles as a Floor Lamp for quirky, multipurpose furniture for tiny homes",
+    "link": "https://www.yankodesign.com/2026/03/08/this-chair-doubles-as-a-floor-lamp-for-quirky-multipurpose-furniture-for-tiny-homes/?utm_source=rss&utm_medium=rss&utm_campaign=this-chair-doubles-as-a-floor-lamp-for-quirky-multipurpose-furniture-for-tiny-homes",
+    "published_at": "2026-03-08T22:30:20.000Z",
+    "fingerprint": "ca1f69649bfefca11fc444a7544847ee3bc2d641",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Blacksky AppView",
+    "link": "https://github.com/blacksky-algorithms/atproto",
+    "published_at": "2026-03-08T21:40:35.000Z",
+    "fingerprint": "e940063b4ee8f45fe5c89de5037717576e74f48c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
+    "link": "https://github.com/BigBodyCobain/Shadowbroker",
+    "published_at": "2026-03-08T19:07:33.000Z",
+    "fingerprint": "befa4ce0539387b4f3ee45841ebc31fa0b959151",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ancora scioperi a marzo, il 9 disagi per scuola e sanita'",
+    "link": "https://www.ansa.it/sito/videogallery/italia/2026/03/08/ancora-scioperi-a-marzo-il-9-disagi-per-scuola-e-sanita_aa7a875b-d200-48ba-838f-0e37ba230c27.html",
+    "published_at": "2026-03-08T18:51:33.000Z",
+    "fingerprint": "54576eaa9a5c516cd2f722ebffe1782e1518582b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Mojtaba, il falco della teocrazia alleato dei pasdaran",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/08/mojtaba-il-falco-della-teocrazia-alleato-dei-pasdaran_04e891ce-e528-468e-beac-2836ff5d0b94.html",
+    "published_at": "2026-03-08T18:42:16.000Z",
+    "fingerprint": "d1694b99566c75ceb2d77536894e591e97f16fae",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "My Homelab Setup",
+    "link": "https://bryananthonio.com/blog/my-homelab-setup/",
+    "published_at": "2026-03-08T16:46:10.000Z",
+    "fingerprint": "54772ab7f4b6bd0c47a6226bf96b7813b3561c1b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Referendum: Forum ANSA con i Comitati del Sì",
+    "link": "https://www.ansa.it/sito/notizie/eventi/2026/03/08/referendum-forum-ansa-con-i-comitati-del-si_0fff5c4c-f71c-41aa-8691-c1cc80aaadee.html",
+    "published_at": "2026-03-08T15:26:24.000Z",
+    "fingerprint": "6676ac07a720f6838a60d57ad4dee81185f0da90",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "ferréol babin renders french countryside on hand-carved furniture for friedman benda show",
+    "link": "https://www.designboom.com/design/ferreol-babin-french-countryside-hand-carved-furniture-friedman-benda-exhibition-landscape/",
+    "published_at": "2026-03-08T14:45:28.000Z",
+    "fingerprint": "3126d257bdadf2925061e8fc734e7278092ceb28",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "5 Solar Panel Designs So Beautiful You’d Never Know They’re Generating Power",
+    "link": "https://www.yankodesign.com/2026/03/08/5-solar-panel-designs-so-beautiful-youd-never-know-theyre-generating-power/?utm_source=rss&utm_medium=rss&utm_campaign=5-solar-panel-designs-so-beautiful-youd-never-know-theyre-generating-power",
+    "published_at": "2026-03-08T11:40:56.000Z",
+    "fingerprint": "5c09cb86af8debc3419ef019fd2797f49bc0aa5e",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "3D printed street furniture recycles concrete and brick waste from demolished urban villages",
     "link": "https://www.designboom.com/design/3d-printed-street-furniture-concrete-brick-waste-demolished-urban-villages-inorganic-growth-bentu-design/",
@@ -205,6 +317,14 @@
     "link": "https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/",
     "published_at": "2026-03-06T03:56:52.000Z",
     "fingerprint": "d2d8dd329eb63e095fde774330bd3bd4e6cc646a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Song Sweeper",
+    "link": "https://www.producthunt.com/products/song-sweeper",
+    "published_at": "2026-03-06T00:52:22.000Z",
+    "fingerprint": "a0f152d84e8e5327340f11a30377cf3b1c506cec",
     "micro_judgment": null
   },
   {
