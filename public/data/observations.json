@@ -1,6 +1,118 @@
 [
   {
     "source": "Hacker News · frontpage",
+    "title": "Windows: Microsoft broke the only thing that mattered",
+    "link": "https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/",
+    "published_at": "2026-03-10T04:48:52.000Z",
+    "fingerprint": "9d66398ee411d04ba12cd74a5879a7c87e77500c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This $37.5 Clip-On EDC Flashlight Does Something a $200 Olight Still Cannot… Measure Distances",
+    "link": "https://www.yankodesign.com/2026/03/09/this-37-5-clip-on-edc-flashlight-does-something-a-200-olight-still-cannot-measure-distances/?utm_source=rss&utm_medium=rss&utm_campaign=this-37-5-clip-on-edc-flashlight-does-something-a-200-olight-still-cannot-measure-distances",
+    "published_at": "2026-03-10T01:45:59.000Z",
+    "fingerprint": "6be35ef6bcb4f60fc04adbf75038e5dd532f297c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The “JVG algorithm” only wins on tiny numbers",
+    "link": "https://scottaaronson.blog/?p=9615",
+    "published_at": "2026-03-10T00:35:19.000Z",
+    "fingerprint": "bc14a68ead997d81ee89fe25426e3a04a9ed23d8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Google Pixel 11 Pro Fold Leaks Early With a Familiar Design and One Noticeable Change",
+    "link": "https://www.yankodesign.com/2026/03/09/google-pixel-11-pro-fold-leaks-early-with-a-familiar-design-and-one-noticeable-change/?utm_source=rss&utm_medium=rss&utm_campaign=google-pixel-11-pro-fold-leaks-early-with-a-familiar-design-and-one-noticeable-change",
+    "published_at": "2026-03-10T00:30:06.000Z",
+    "fingerprint": "89fde8c9f637a42aa190317e3abfe14e3524ff6f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
+    "link": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+    "published_at": "2026-03-10T00:16:44.000Z",
+    "fingerprint": "b64bf074cf75461c94c193343517e91e0d6a92a9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "a series of movable cylindrical cushions reposition to form modular column chair",
+    "link": "https://www.designboom.com/readers/movable-cylindrical-cushions-modular-column-chair-yuhan-ivan-gu/",
+    "published_at": "2026-03-09T22:55:51.000Z",
+    "fingerprint": "c79d5dd38f30fb88b97c2ef4562a771d5a68e7cd",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'Col sì togliamo di mezzo i magistrati', bufera sulla Bartolozzi",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/03/09/col-si-togliamo-di-mezzo-i-magistrati-bufera-sulla-bartolozzi_f2c6f446-8360-4dc4-ab50-a87d6f9f705c.html",
+    "published_at": "2026-03-09T21:30:32.000Z",
+    "fingerprint": "7c601764c8d9e4a40f1eb7ff9092d5f7709f5127",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La guerra lunga agita i mercati, il petrolio sfonda i 100 dollari",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/03/09/borsa-wall-street-apre-debole-europa-riduce-il-calo.-greggio-usa_a8a2e2a9-cd8f-4cba-af92-d7a9bbe9c982.html",
+    "published_at": "2026-03-09T20:29:37.000Z",
+    "fingerprint": "d01097a5f178017c9179189bb5e466cb8d415d15",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This ring-like wearable speaker has integrated magnetic earbuds for on-demand personal audio",
+    "link": "https://www.yankodesign.com/2026/03/09/this-ring-like-wearable-speaker-has-integrated-magnetic-earbuds-for-on-demand-personal-audio/?utm_source=rss&utm_medium=rss&utm_campaign=this-ring-like-wearable-speaker-has-integrated-magnetic-earbuds-for-on-demand-personal-audio",
+    "published_at": "2026-03-09T19:15:37.000Z",
+    "fingerprint": "cf8765c8aa09a3e2426e2755a4add131bae7f517",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "hollow-core door waste finds new life as luminous design object",
+    "link": "https://www.designboom.com/design/hollow-core-door-waste-luminous-design-object-ooooolamp-tobia-zambotti-hildiberg/",
+    "published_at": "2026-03-09T16:30:04.000Z",
+    "fingerprint": "efd06777ea0abad97d552f05901e352d72235dc5",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Stefano Massini racconta Putin: \"E' la storia di una zona d'ombra\"",
+    "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/03/09/stefano-massini-racconta-putin-e-la-storia-di-una-zona-dombra_44405ac3-5a82-4be5-b56b-3981490cadb6.html",
+    "published_at": "2026-03-09T15:45:29.000Z",
+    "fingerprint": "3ede0332bf636e8dd6e5c42b302a1836ad046552",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+    "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+    "published_at": "2026-03-09T15:12:53.000Z",
+    "fingerprint": "eb6e697f504b4078c9a76b48d51b7a3e328d430e",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Eurostat, le mamme italiane restano le più anziane in Ue con primo figlio a 31,9 anni",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/03/09/eurostat-le-mamme-italiane-restano-le-piu-anziane-in-ue-con-primo-figlio-a-319_3ca12cce-1dbb-4c32-94c0-47dc495a6242.html",
+    "published_at": "2026-03-09T14:25:10.000Z",
+    "fingerprint": "9890ca17734513c532b2405868e73e84d8de318a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "six designers redefine outdoor living with unopiù at milan design week 2026",
+    "link": "https://www.designboom.com/design/outdoor-furniture-unopiu-milan-design-week-2026/",
+    "published_at": "2026-03-09T11:30:22.000Z",
+    "fingerprint": "a3e1a8eebdeafe8d765692116083d8971e32c9c8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
     "title": "Thermal Grizzly was scammed twice on raw materials worth €40k",
     "link": "https://videocardz.com/newz/der8auer-explains-thermal-grizzly-delays-after-company-was-scammed-twice-on-raw-materials-worth-e40000",
     "published_at": "2026-03-09T04:38:03.000Z",
@@ -45,6 +157,14 @@
     "link": "https://www.yankodesign.com/2026/03/08/this-chair-doubles-as-a-floor-lamp-for-quirky-multipurpose-furniture-for-tiny-homes/?utm_source=rss&utm_medium=rss&utm_campaign=this-chair-doubles-as-a-floor-lamp-for-quirky-multipurpose-furniture-for-tiny-homes",
     "published_at": "2026-03-08T22:30:20.000Z",
     "fingerprint": "ca1f69649bfefca11fc444a7544847ee3bc2d641",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Hannah & Co",
+    "link": "https://www.producthunt.com/products/hannah-co-your-ai-marketing-coworkers",
+    "published_at": "2026-03-08T22:24:47.000Z",
+    "fingerprint": "8cbd7198f9c7a6d1f5d97188a4d89ea9b23d3106",
     "micro_judgment": null
   },
   {
@@ -101,6 +221,14 @@
     "link": "https://www.designboom.com/design/ferreol-babin-french-countryside-hand-carved-furniture-friedman-benda-exhibition-landscape/",
     "published_at": "2026-03-08T14:45:28.000Z",
     "fingerprint": "3126d257bdadf2925061e8fc734e7278092ceb28",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Flowripple",
+    "link": "https://www.producthunt.com/products/flowripple-2",
+    "published_at": "2026-03-08T12:42:58.000Z",
+    "fingerprint": "bfcf978b60fa3915c3792cddec9f78219f75f252",
     "micro_judgment": null
   },
   {
@@ -392,6 +520,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Unite Pro for macOS",
+    "link": "https://www.producthunt.com/products/unite-for-macos",
+    "published_at": "2026-03-05T19:50:53.000Z",
+    "fingerprint": "a37f70e682d2bd3bcf11f5b97b2ca0eec861dede",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Remotely unlocking an encrypted hard disk",
     "link": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
@@ -509,6 +645,14 @@
     "link": "https://www.yankodesign.com/2026/03/04/did-apples-599-macbook-neo-just-paint-a-target-on-the-google-chromebooks-back/?utm_source=rss&utm_medium=rss&utm_campaign=did-apples-599-macbook-neo-just-paint-a-target-on-the-google-chromebooks-back",
     "published_at": "2026-03-04T23:30:54.000Z",
     "fingerprint": "7baebfc3ed4f6932213785f7f23466d0f8a348f6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Reflct",
+    "link": "https://www.producthunt.com/products/reflct",
+    "published_at": "2026-03-04T22:42:58.000Z",
+    "fingerprint": "5f54207a436359833eb63e9439b5325fbad77d1f",
     "micro_judgment": null
   },
   {
