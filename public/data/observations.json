@@ -1,5 +1,133 @@
 [
   {
+    "source": "Designboom",
+    "title": "this ‘underground house of the future’ revisits ancient chinese cave dwellings",
+    "link": "https://www.designboom.com/architecture/this-underground-house-of-the-future-revisits-ancient-chinese-cave-dwellings/",
+    "published_at": "2026-03-11T05:30:49.000Z",
+    "fingerprint": "677a4ded73ecf754692f5004090e70c7c756c865",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Writing my own text editor, and daily-driving it",
+    "link": "https://blog.jsbarretto.com/post/text-editor",
+    "published_at": "2026-03-11T02:04:22.000Z",
+    "fingerprint": "40ca912629d336d4108475f89bf5c0c63ecca8c8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Zig – Type Resolution Redesign and Language Changes",
+    "link": "https://ziglang.org/devlog/2026/#2026-03-10",
+    "published_at": "2026-03-11T01:24:47.000Z",
+    "fingerprint": "0e92850fe047d864965393d4b1939937847edaba",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Caterham Seven HWM Edition celebrates British racing heritage with a limited-run lightweight sports car",
+    "link": "https://www.yankodesign.com/2026/03/10/caterham-seven-hwm-edition-celebrates-british-racing-heritage-with-a-limited-run-lightweight-sports-car/?utm_source=rss&utm_medium=rss&utm_campaign=caterham-seven-hwm-edition-celebrates-british-racing-heritage-with-a-limited-run-lightweight-sports-car",
+    "published_at": "2026-03-11T00:30:07.000Z",
+    "fingerprint": "6447d32f458ce81ea9a7844c2b7369fb5b85345a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Champions: League: Bayern troppo forte fa 6-1, è notte fonda Atalanta",
+    "link": "https://www.ansa.it/sito/notizie/sport/2026/03/10/champions-league-bayern-troppo-forte-fa-6-1-e-notte-fonda-atalanta_15a611e7-863a-4b21-b910-534f1ae452e4.html",
+    "published_at": "2026-03-10T22:24:40.000Z",
+    "fingerprint": "8515c489436e852c35dddda7622f06df4974cd97",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Nintendo Patented a Dual-Screen Switch and Never Made It. Here’s What It Looked Like.",
+    "link": "https://www.yankodesign.com/2026/03/10/nintendo-patented-a-dual-screen-switch-and-never-made-it-heres-what-it-looked-like/?utm_source=rss&utm_medium=rss&utm_campaign=nintendo-patented-a-dual-screen-switch-and-never-made-it-heres-what-it-looked-like",
+    "published_at": "2026-03-10T20:45:41.000Z",
+    "fingerprint": "9fcdcc76f11ad50dac03fbe4231fd9838a6990ff",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "The Donald assediato, anche i suoi vogliono una exit strategy",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/10/the-donald-assediato-anche-i-suoi-vogliono-una-exit-strategy_8924c660-4e4c-4310-9a3c-48ba8ace3942.html",
+    "published_at": "2026-03-10T19:25:18.000Z",
+    "fingerprint": "dd0169b09961d8b98e43a8799cf221513badb1ba",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "I cristiani del sud del Libano: 'Non vogliamo andare via'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/10/i-cristiani-del-sud-del-libano-non-vogliamo-andare-via_1345dce3-eb83-4e24-9f6d-f8d23b2dfeae.html",
+    "published_at": "2026-03-10T16:08:44.000Z",
+    "fingerprint": "dd3b09390d30f6b8a24dd32d5bf966fb2bf8d44f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This titanium ‘Spork’ multitool packs 6 functions in a single unibody design",
+    "link": "https://www.yankodesign.com/2026/03/10/this-titanium-spork-multitool-packs-6-functions-in-a-single-unibody-design/?utm_source=rss&utm_medium=rss&utm_campaign=this-titanium-spork-multitool-packs-6-functions-in-a-single-unibody-design",
+    "published_at": "2026-03-10T15:20:32.000Z",
+    "fingerprint": "8145129ab0aa132096ff76221695b79755119f2a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Tony Hoare has died",
+    "link": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+    "published_at": "2026-03-10T14:50:16.000Z",
+    "fingerprint": "2f7a3ff1ced92a17260fd47ea7e24f772c3bf46c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
+    "link": "https://dnhkng.github.io/posts/rys/",
+    "published_at": "2026-03-10T13:18:55.000Z",
+    "fingerprint": "3d6e7a31d03736b73c5f5cb630929e3588ccda39",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Intel Demos Chip to Compute with Encrypted Data",
+    "link": "https://spectrum.ieee.org/fhe-intel",
+    "published_at": "2026-03-10T13:10:48.000Z",
+    "fingerprint": "6773b26c3b2795ebf1b5dfb1ecf3695303132a2b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "asia’s leading international design show returns to the historic shanghai exhibition centre",
+    "link": "https://www.designboom.com/design/asia-leading-international-design-show-historic-shanghai-exhibition-centre/",
+    "published_at": "2026-03-10T11:45:24.000Z",
+    "fingerprint": "d0f864ddcc809ef6cc554e51b900ec85c1571ffa",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "sponge filter inspired by sea urchin absorbs oil spills from oceans using microscopic spikes",
+    "link": "https://www.designboom.com/technology/sponge-filter-sea-urchin-absorbs-oil-spills-oceans-microscopic-spikes-minibot-rmit-university/",
+    "published_at": "2026-03-10T11:10:50.000Z",
+    "fingerprint": "44c5759680c39ac1b45893bbf96795a84801996d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "neiheiser argyros’ london pavilion combines storage cabinet and garden canopy in one",
+    "link": "https://www.designboom.com/architecture/neiheiser-argyros-london-exeter-road-pavilion-storage-cabinet-garden-canopy-one-structure/",
+    "published_at": "2026-03-10T10:30:56.000Z",
+    "fingerprint": "d68710f75563ecbd286d0e5ce851294b0ae36f40",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "towering cranes turn the grand palais into construction site for chanel FW26 runway",
+    "link": "https://www.designboom.com/design/towering-cranes-grand-palais-construction-site-chanel-fw26-runway-bureau-betak/",
+    "published_at": "2026-03-10T10:00:59.000Z",
+    "fingerprint": "529861277609addec8a73da257d0ce1b652ed325",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Windows: Microsoft broke the only thing that mattered",
     "link": "https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/",
@@ -64,6 +192,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Refero MCP",
+    "link": "https://www.producthunt.com/products/refero",
+    "published_at": "2026-03-09T20:10:55.000Z",
+    "fingerprint": "259f7704afca05d2df96ac9a7d48a7903c6ce378",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "This ring-like wearable speaker has integrated magnetic earbuds for on-demand personal audio",
     "link": "https://www.yankodesign.com/2026/03/09/this-ring-like-wearable-speaker-has-integrated-magnetic-earbuds-for-on-demand-personal-audio/?utm_source=rss&utm_medium=rss&utm_campaign=this-ring-like-wearable-speaker-has-integrated-magnetic-earbuds-for-on-demand-personal-audio",
@@ -109,6 +245,14 @@
     "link": "https://www.designboom.com/design/outdoor-furniture-unopiu-milan-design-week-2026/",
     "published_at": "2026-03-09T11:30:22.000Z",
     "fingerprint": "a3e1a8eebdeafe8d765692116083d8971e32c9c8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Contentdrips Design Agent",
+    "link": "https://www.producthunt.com/products/contentdrips",
+    "published_at": "2026-03-09T08:17:50.000Z",
+    "fingerprint": "6e189c5f964e30ad4afd53681ee37d5cd95ca69d",
     "micro_judgment": null
   },
   {
@@ -237,6 +381,14 @@
     "link": "https://www.yankodesign.com/2026/03/08/5-solar-panel-designs-so-beautiful-youd-never-know-theyre-generating-power/?utm_source=rss&utm_medium=rss&utm_campaign=5-solar-panel-designs-so-beautiful-youd-never-know-theyre-generating-power",
     "published_at": "2026-03-08T11:40:56.000Z",
     "fingerprint": "5c09cb86af8debc3419ef019fd2797f49bc0aa5e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "MacQuit",
+    "link": "https://www.producthunt.com/products/macquit",
+    "published_at": "2026-03-08T03:55:47.000Z",
+    "fingerprint": "5840bbb843c1b5b48e82a8789f2fe256f3b00971",
     "micro_judgment": null
   },
   {
@@ -429,6 +581,14 @@
     "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/03/06/captato-il-fantasma-di-una-potente-esplosione-cosmica_8b759bb5-7696-497f-84d0-44b5fd8b2012.html",
     "published_at": "2026-03-06T10:24:03.000Z",
     "fingerprint": "c0ecd917b6c78478dc7d736626536379f17f723d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "sitefire.ai",
+    "link": "https://www.producthunt.com/products/sitefire-ai",
+    "published_at": "2026-03-06T06:05:15.000Z",
+    "fingerprint": "539fe3402f7415f4fa46593223a44d547441668a",
     "micro_judgment": null
   },
   {
