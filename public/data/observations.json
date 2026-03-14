@@ -1,10 +1,98 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Optimizing Content for Agents",
+    "link": "https://cra.mr/optimizing-content-for-agents/",
+    "published_at": "2026-03-14T02:27:00.000Z",
+    "fingerprint": "4d677a5b35b9c4eb6504314dc205f32398b9c57d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Ex-BlackBerry Designer Is Calling Out Everything That’s Wrong With Modern Phones",
+    "link": "https://www.yankodesign.com/2026/03/13/ex-blackberry-designer-is-calling-out-everything-thats-wrong-with-modern-phones/?utm_source=rss&utm_medium=rss&utm_campaign=ex-blackberry-designer-is-calling-out-everything-thats-wrong-with-modern-phones",
+    "published_at": "2026-03-13T20:45:00.000Z",
+    "fingerprint": "554b8eff9e329c99e0837231958dcb1df9060abb",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Referendum, torna in scena Bartolozzi, è polemica fra Nordio e Lo Voi",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/03/13/referendum-lo-voi-chi-definisce-il-csm-paramafioso-non-capisce-di-magistratura.-nordio_e90f9a9b-8efb-48d3-a2c2-d1b572c12d24.html",
+    "published_at": "2026-03-13T19:12:59.000Z",
+    "fingerprint": "f02c6e64d02c287b0023339b48f7ec48c687a387",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ecco chi sta fermando René Redzepi, dentro le proteste di Los Angeles",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/13/ecco-chi-sta-fermando-rene-redzepi-dentro-le-proteste-di-los-angeles_e246ee36-9df4-4ca2-bf5c-a450e6e28831.html",
+    "published_at": "2026-03-13T18:43:42.000Z",
+    "fingerprint": "90309419697f2135338fd3783bddf451936dbe23",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Bolsonaro ricoverato in ospedale dopo essersi sentito male in cella, è in terapia intensiva",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/13/bolsonaro-ricoverato-in-ospedale-dopo-essersi-sentito-male-in-cella-e-in-terapia-intensiva_dd63336d-53e1-47d8-b2b7-d81c4f4b02db.html",
+    "published_at": "2026-03-13T17:32:21.000Z",
+    "fingerprint": "d72dc513996ef8c435d313524fac4f40bbe78e7b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+    "link": "https://claude.com/blog/1m-context-ga",
+    "published_at": "2026-03-13T17:19:01.000Z",
+    "fingerprint": "fba38dc57d56c79c9635d8020703d3de8419cf4a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Leggo celebra 25 anni di informazione al Teatro Brancaccio di Roma",
+    "link": "https://www.ansa.it/sito/notizie/cultura/2026/03/13/leggo-celebra-25-anni-di-informazione-al-teatro-brancaccio-di-roma_7636dee1-dd87-44c2-bd4b-c8bdd9be427f.html",
+    "published_at": "2026-03-13T13:14:20.000Z",
+    "fingerprint": "5717e9f5c6331258b632934424a7af31b12b4ca3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+    "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+    "published_at": "2026-03-13T12:31:09.000Z",
+    "fingerprint": "06e5568deec5c2ac405964f7b3dd68a1b397d35c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "el departamento stages berlin nightlife inside nude project’s flagship store",
+    "link": "https://www.designboom.com/architecture/el-departamento-berlin-nightlife-nude-project-flagship-store/",
+    "published_at": "2026-03-13T10:00:59.000Z",
+    "fingerprint": "ea0637c5211df7a3bf1a9918fb8cb32a69a9113c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "WPCursor",
+    "link": "https://www.producthunt.com/products/wpcursor",
+    "published_at": "2026-03-13T02:53:18.000Z",
+    "fingerprint": "af1c910335d2b515c32618a0c11f4dfdca3afb70",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "red balloons lift flowing fabric into a wedding playground by suki+partners in china",
     "link": "https://www.designboom.com/art/red-balloons-flowing-fabric-wedding-playground-sukipartners-china/",
     "published_at": "2026-03-13T01:50:39.000Z",
     "fingerprint": "f0cc7637d740018b7c0c066e196516b6c2ae37d9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Mozzie",
+    "link": "https://www.producthunt.com/products/mozzie",
+    "published_at": "2026-03-12T23:41:10.000Z",
+    "fingerprint": "5563beba0e13c4bfcdd8652b5882dfb591a67725",
     "micro_judgment": null
   },
   {
@@ -24,11 +112,43 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Hyper",
+    "link": "https://www.producthunt.com/products/hyper-10",
+    "published_at": "2026-03-12T22:11:21.000Z",
+    "fingerprint": "17eac8baf1560a2d0dc598a447b99b8c8d3850b8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Perfectly",
+    "link": "https://www.producthunt.com/products/perfectly",
+    "published_at": "2026-03-12T22:08:51.000Z",
+    "fingerprint": "58874cca5e31519d3ea8761b75f545228adee724",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Scindo",
+    "link": "https://www.producthunt.com/products/scindo",
+    "published_at": "2026-03-12T21:59:39.000Z",
+    "fingerprint": "6bc553d7874bb8f960f4f4677b0598e49466d5b2",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "This Bio-mimicking Safari Deck Is Designed to Look Exactly Like a Rhino",
     "link": "https://www.yankodesign.com/2026/03/12/this-bio-mimicking-safari-deck-is-designed-to-look-exactly-like-a-rhino/?utm_source=rss&utm_medium=rss&utm_campaign=this-bio-mimicking-safari-deck-is-designed-to-look-exactly-like-a-rhino",
     "published_at": "2026-03-12T21:30:40.000Z",
     "fingerprint": "9b3a7f64512caa78a93cdd37f89c701fe9e3a9a8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "ClawMote",
+    "link": "https://www.producthunt.com/products/clawmote-one-hand-openclaw-wispr-flow",
+    "published_at": "2026-03-12T20:43:36.000Z",
+    "fingerprint": "df97b5486a37977eb5d932e67682b0f001a19946",
     "micro_judgment": null
   },
   {
@@ -113,10 +233,34 @@
   },
   {
     "source": "Product Hunt",
+    "title": "LocalPDF.io",
+    "link": "https://www.producthunt.com/products/localpdf-io",
+    "published_at": "2026-03-12T09:19:12.000Z",
+    "fingerprint": "d863c5614a8ba178d17a68f14d105430c0062383",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "GStack",
+    "link": "https://www.producthunt.com/products/gstack",
+    "published_at": "2026-03-12T08:56:03.000Z",
+    "fingerprint": "f278649983182be3162fa04dd82d9e0cc5e0ab22",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
     "title": "A Bit Differently",
     "link": "https://www.producthunt.com/products/a-bit-differently",
     "published_at": "2026-03-12T06:56:43.000Z",
     "fingerprint": "889a70b92552010092c055a62c42027b6e2390a2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Studio by HarnessGG",
+    "link": "https://www.producthunt.com/products/studio-by-harnessgg",
+    "published_at": "2026-03-12T06:51:59.000Z",
+    "fingerprint": "8608158de08bf6a7886b17a1a4eec132f45abfe8",
     "micro_judgment": null
   },
   {
@@ -984,6 +1128,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "BurnLink",
+    "link": "https://www.producthunt.com/products/burnlink",
+    "published_at": "2026-03-05T19:07:04.000Z",
+    "fingerprint": "2d6e835abcc39900b6c4ad34f63469670fd56580",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Remotely unlocking an encrypted hard disk",
     "link": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
@@ -1549,6 +1701,14 @@
     "link": "https://www.ansa.it/sito/notizie/politica/2026/03/01/il-governo-con-usa-e-israele-la-guerra-perche-liran-non-si-e-fermato_0e3cdcd8-a56e-4766-9d95-a25bed88ea95.html",
     "published_at": "2026-03-01T19:43:12.000Z",
     "fingerprint": "2be18639ff481c5595596b4eac30c2b445e9a000",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "deepidv",
+    "link": "https://www.producthunt.com/products/deepidv",
+    "published_at": "2026-03-01T18:07:13.000Z",
+    "fingerprint": "31565bdbf169206d39a15f94c78e946478b82463",
     "micro_judgment": null
   },
   {
