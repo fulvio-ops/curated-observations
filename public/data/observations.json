@@ -1,5 +1,141 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "ASCII and Unicode quotation marks (2007)",
+    "link": "https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html",
+    "published_at": "2026-03-16T04:09:50.000Z",
+    "fingerprint": "52ee61accac82056b800e99a4016850c248a8e06",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Covering The Whole Car with Some Soap",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1ruy5vr/covering_the_whole_car_with_some_soap/",
+    "published_at": "2026-03-16T03:05:14.000Z",
+    "fingerprint": "1b3f5afe2dd698d7efdda27c684c64a3caa1246b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "I found this old Leonard Nimoy LP while cleaning out the basement",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1ruutls/i_found_this_old_leonard_nimoy_lp_while_cleaning/",
+    "published_at": "2026-03-16T00:32:13.000Z",
+    "fingerprint": "342c77a0f086b849e8fc51d70f22ec7d14ad1e95",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The Linux Programming Interface as a university course text",
+    "link": "https://man7.org/tlpi/academic/index.html",
+    "published_at": "2026-03-15T23:51:26.000Z",
+    "fingerprint": "346a218a5290fd33b76748bd71c99d51584efe5f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "I got a fun size Kit Kat with no wafer inside it",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1rupdon/i_got_a_fun_size_kit_kat_with_no_wafer_inside_it/",
+    "published_at": "2026-03-15T20:50:04.000Z",
+    "fingerprint": "5e2585c90e173b3177b0d764422e26a8ba804a93",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ennesima Pasqua di rincari, dalle uova ai voli prezzi al top",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/03/15/ennesima-pasqua-di-rincari-dalle-uova-ai-voli-prezzi-al-top_f80a0d0d-dd5d-4f07-8fdf-6f82b2d8879b.html",
+    "published_at": "2026-03-15T20:00:59.000Z",
+    "fingerprint": "c678e4cdb212dec710f13f58dfd9010b4d0b795b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "AI Earbuds Designed Like Fine Jewelry, Not Consumer Electronics",
+    "link": "https://www.yankodesign.com/2026/03/15/ai-earbuds-designed-like-fine-jewelry-not-consumer-electronics/?utm_source=rss&utm_medium=rss&utm_campaign=ai-earbuds-designed-like-fine-jewelry-not-consumer-electronics",
+    "published_at": "2026-03-15T19:15:54.000Z",
+    "fingerprint": "80181ba33c8266c0bc5a0fe21d1ec3f73ff1db5c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Referendum, Valditara richiama le scuole alla par condicio",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/03/15/referendum-valditara-richiama-le-scuole-alla-par-condicio_94611f0c-55a0-41d9-ab92-1bdc685905a5.html",
+    "published_at": "2026-03-15T18:46:51.000Z",
+    "fingerprint": "d7113335ca880297ac9e586f76a7474f56c55489",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Making a giant sesame dumpling",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1rulc80/making_a_giant_sesame_dumpling/",
+    "published_at": "2026-03-15T18:16:48.000Z",
+    "fingerprint": "d1131e91dc6a59ad0d0dc6323bd0a3db5979cf3d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Crumbling Kyoto Home Was Rebuilt as a Wabi-Sabi Sanctuary – and Every Detail Is Intentional",
+    "link": "https://www.yankodesign.com/2026/03/15/this-crumbling-kyoto-home-was-rebuilt-as-a-wabi-sabi-sanctuary-and-every-detail-is-intentional/?utm_source=rss&utm_medium=rss&utm_campaign=this-crumbling-kyoto-home-was-rebuilt-as-a-wabi-sabi-sanctuary-and-every-detail-is-intentional",
+    "published_at": "2026-03-15T17:20:59.000Z",
+    "fingerprint": "cccd856e1a8af8168aabda001ce18c41eeb073a3",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Petrolio alle stelle e prezzi, le banche centrali fanno il punto sulla guerra",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/03/15/petrolio-alle-stelle-e-prezzi-le-banche-centrali-fanno-il-punto-sulla-guerra_2f590eaf-f099-4f11-83d5-7dfa94def6c0.html",
+    "published_at": "2026-03-15T16:08:02.000Z",
+    "fingerprint": "8b65eefaca4d87d7f92bc3190c94677534f1b719",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "What makes Intel Optane stand out (2023)",
+    "link": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
+    "published_at": "2026-03-15T15:09:41.000Z",
+    "fingerprint": "a9ff82784a6fb0492277c45d8b25fc449eddaf89",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This tiny hammer that came with my bookshelf.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1ruchvw/this_tiny_hammer_that_came_with_my_bookshelf/",
+    "published_at": "2026-03-15T12:12:55.000Z",
+    "fingerprint": "c05b87817f008f3d6b444662939b006036855f8e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "5 Greenhouse-Based Designs That Use 90% Less Water Than Yours",
+    "link": "https://www.yankodesign.com/2026/03/15/5-greenhouse-based-designs-that-use-90-less-water-than-yours/?utm_source=rss&utm_medium=rss&utm_campaign=5-greenhouse-based-designs-that-use-90-less-water-than-yours",
+    "published_at": "2026-03-15T11:40:49.000Z",
+    "fingerprint": "323b988937c895a78cc5361817df80f7e3deb61a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "A Visual Introduction to Machine Learning (2015)",
+    "link": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+    "published_at": "2026-03-15T10:47:35.000Z",
+    "fingerprint": "e8e2234b8da0dff71e4c92d2d625d80f12c71842",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Formula 1: in Cina trionfa Kimi Antonelli, il primo italiano da 20 anni",
+    "link": "https://www.ansa.it/sito/videogallery/sport/2026/03/15/formula-1-in-cina-trionfa-kimi-antonelli-il-primo-italiano-da-20-anni_415d03ee-213d-4189-a00d-db12ea1625d6.html",
+    "published_at": "2026-03-15T10:06:51.000Z",
+    "fingerprint": "d20dd9eabed6964252cdb43639d0f322348773b8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My pupils became asymmetrical during a cluster headache",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1ru6yvc/my_pupils_became_asymmetrical_during_a_cluster/",
+    "published_at": "2026-03-15T06:37:11.000Z",
+    "fingerprint": "7a9d329033342c7866a852eb936c42e0fdf60526",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "5 Cabin Designs in 2026 That Are Too Beautiful to Be Real",
     "link": "https://www.yankodesign.com/2026/03/14/5-cabin-designs-in-2026-that-are-too-beautiful-to-be-real/?utm_source=rss&utm_medium=rss&utm_campaign=5-cabin-designs-in-2026-that-are-too-beautiful-to-be-real",
@@ -64,11 +200,43 @@
     "micro_judgment": null
   },
   {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Guy \"reloading\" random objects",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1rtsx0f/guy_reloading_random_objects/",
+    "published_at": "2026-03-14T19:46:55.000Z",
+    "fingerprint": "43f2cfbf874390383843919c922cd6aaed860a93",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Satisfying ice carving",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1rtss7c/satisfying_ice_carving/",
+    "published_at": "2026-03-14T19:41:27.000Z",
+    "fingerprint": "8c1ab55e46bc01b8d896a42e8bc8e988e34faf95",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "These pies by Artist/Baker Lauren Ko",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1rtkzvu/these_pies_by_artistbaker_lauren_ko/",
+    "published_at": "2026-03-14T14:34:59.000Z",
+    "fingerprint": "faede7cd673746407b6f4abc792e97fde874a44a",
+    "micro_judgment": null
+  },
+  {
     "source": "Product Hunt",
     "title": "AI Website Redesign by Shuffle",
     "link": "https://www.producthunt.com/products/ai-website-redesign",
     "published_at": "2026-03-14T06:10:48.000Z",
     "fingerprint": "e8ee715a74ff29397fe2bbc5dcd8d935aeca25d4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Underwater cake complete with fish",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1rt7z93/underwater_cake_complete_with_fish/",
+    "published_at": "2026-03-14T02:51:24.000Z",
+    "fingerprint": "32a6bc6cb358e936ddb4ffdadd02674d9ab51f86",
     "micro_judgment": null
   },
   {
@@ -149,6 +317,14 @@
     "link": "https://www.designboom.com/architecture/el-departamento-berlin-nightlife-nude-project-flagship-store/",
     "published_at": "2026-03-13T10:00:59.000Z",
     "fingerprint": "ea0637c5211df7a3bf1a9918fb8cb32a69a9113c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "DynamicLake",
+    "link": "https://www.producthunt.com/products/dynamiclake",
+    "published_at": "2026-03-13T09:58:01.000Z",
+    "fingerprint": "38948ccb1fdb1d66c31d43cb922ba573753c4e25",
     "micro_judgment": null
   },
   {
@@ -285,6 +461,14 @@
     "link": "https://github.com/jrswab/axe",
     "published_at": "2026-03-12T13:49:12.000Z",
     "fingerprint": "010dd469efd891dedba49a6a9299ee61dbfde505",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "ClawSecure",
+    "link": "https://www.producthunt.com/products/clawsecure",
+    "published_at": "2026-03-12T13:27:17.000Z",
+    "fingerprint": "96b9393215d5297731be21f4bee604bd420c28c3",
     "micro_judgment": null
   },
   {
@@ -477,6 +661,14 @@
     "link": "https://sitespy.app",
     "published_at": "2026-03-11T16:21:06.000Z",
     "fingerprint": "0f2c1dc9a4688023024c4b2b1df9b682e037e79f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · ofcoursethatsathing",
+    "title": "Reese‘s-flavored OREOs / OREO-flavored Reese’s",
+    "link": "https://www.reddit.com/r/ofcoursethatsathing/comments/1rqu7v0/reesesflavored_oreos_oreoflavored_reeses/",
+    "published_at": "2026-03-11T13:47:24.000Z",
+    "fingerprint": "b86891552415872e9d5d5a28ceb2624db0aab04d",
     "micro_judgment": null
   },
   {
@@ -2293,6 +2485,14 @@
     "link": "https://www.producthunt.com/products/deltamemory",
     "published_at": "2026-02-25T16:01:31.000Z",
     "fingerprint": "8df5e25a3127df8f6bae14dedb73b13f2f51030e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "The Banana App",
+    "link": "https://www.producthunt.com/products/the-banana-app",
+    "published_at": "2026-02-25T12:32:45.000Z",
+    "fingerprint": "3fd804b313d5869fbf57f381aee3a50a3095c025",
     "micro_judgment": null
   },
   {
