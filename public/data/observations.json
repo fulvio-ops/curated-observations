@@ -1,6 +1,230 @@
 [
   {
     "source": "Designboom",
+    "title": "wallmakers rethinks tropical design through reused shipping containers and poured earth",
+    "link": "https://www.designboom.com/architecture/wallmakers-tropical-reused-shipping-containers-poured-earth-petti-restaurant-india/",
+    "published_at": "2026-03-18T04:30:43.000Z",
+    "fingerprint": "4dca9a23eb0f2d7aec46e07b6cb2d5a03e319068",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The $199 VITA RING Wakes You Up Mid-Apnea Before You Ever Know It Happened Thanks To AI Health Tracking",
+    "link": "https://www.yankodesign.com/2026/03/17/the-199-vita-ring-wakes-you-up-mid-apnea-before-you-ever-know-it-happened-thanks-to-ai-health-tracking/?utm_source=rss&utm_medium=rss&utm_campaign=the-199-vita-ring-wakes-you-up-mid-apnea-before-you-ever-know-it-happened-thanks-to-ai-health-tracking",
+    "published_at": "2026-03-18T01:46:43.000Z",
+    "fingerprint": "d888d558f4cfe7a8b81a27b3cea08dd09c871f3d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This gradient in the overcast night sky of miami beach. Extreme light pollution meets zero light pollution over the ocean (i assume)",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1rwpql7/this_gradient_in_the_overcast_night_sky_of_miami/",
+    "published_at": "2026-03-18T01:09:50.000Z",
+    "fingerprint": "184fa799b36ad9a7700e3d5b9acc8cdbe8a7363b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The pleasures of poor product design",
+    "link": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
+    "published_at": "2026-03-18T01:00:45.000Z",
+    "fingerprint": "82c1cc5b3ad3c467bbf171abe87dd2592e5df2ed",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "I’ve been told my pastel drawing of a maned wolf looks like embroidery",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1rwo8n1/ive_been_told_my_pastel_drawing_of_a_maned_wolf/",
+    "published_at": "2026-03-18T00:06:49.000Z",
+    "fingerprint": "77751a52da533ad726150336c983de7d6d821f11",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Maria De Filippi convoca Gigi D'Alessio tra i giudici del serale di Amici",
+    "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/03/17/maria-de-filippi-convoca-gigi-dalessio-tra-i-giudici-del-serale-di-amici_d7770d04-ef06-4188-adad-84bb13b19e04.html",
+    "published_at": "2026-03-17T22:49:41.000Z",
+    "fingerprint": "cc1edfe7369717ead74cee75df494fe6187a61ff",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "brick and concrete sculpt elevated riverfront residence in thailand by bodinchapa architects",
+    "link": "https://www.designboom.com/architecture/brick-concrete-elevated-riverfront-residence-thailand-bodinchapa-architects-baan-sudsaensuk/",
+    "published_at": "2026-03-17T22:30:12.000Z",
+    "fingerprint": "74ad3ad77b22c0d65b1b03ea27c13173d62071bb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Mistral AI Releases Forge",
+    "link": "https://mistral.ai/news/forge",
+    "published_at": "2026-03-17T21:04:26.000Z",
+    "fingerprint": "bd1ae0d27b4427a62fbe095cbafb44770549cfcc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
+    "link": "https://github.com/gsd-build/get-shit-done",
+    "published_at": "2026-03-17T20:23:39.000Z",
+    "fingerprint": "541226c35338ddcdd7400a34e0a47a303c5349a3",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La Corte d'appello vaticana: il processo Becciu è da rifare",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/17/chiesti-atti-al-pg-riparte-il-dibattimento-sul-processo-becciu_755343b2-4d9d-42c9-810c-4fd327ac1610.html",
+    "published_at": "2026-03-17T19:51:46.000Z",
+    "fingerprint": "d5604a91db4d728ebf8b9ae5a2084229e2c9f956",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "A Decade of Slug",
+    "link": "https://terathon.com/blog/decade-slug.html",
+    "published_at": "2026-03-17T18:59:50.000Z",
+    "fingerprint": "6762886918dfee12c9cbd37764eb043d7dba520c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Meloni ospite del podcast di Fedez, 'non si vota sul governo'",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/03/17/meloni-al-pulp-podcast-di-fedez-non-si-vota-su-di-me-e-sul-governo_4771e3e3-f2b6-4847-bbba-e6547daadae6.html",
+    "published_at": "2026-03-17T18:57:29.000Z",
+    "fingerprint": "484a5ffee2fbac65fd41d7cbfdda704f6c7d4d5f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "I took a pic of a church with power lines alignin' perfectly",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1rwflqs/i_took_a_pic_of_a_church_with_power_lines_alignin/",
+    "published_at": "2026-03-17T18:51:47.000Z",
+    "fingerprint": "755d927a26b0f71ba8a3405abe06d81edc49dbf1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Maltempo da Nord a Sud, allagamenti ed evacuazioni in Calabria",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/17/lallerta.-una-perturbazione-dalleuropa-orientale-porta-neve-e-una-coda-dinverno_848492c3-84ed-4512-8b51-9c88fb7ddb61.html",
+    "published_at": "2026-03-17T18:22:14.000Z",
+    "fingerprint": "4ee65ecddd97c0f575a151a99ba10e4390f662ba",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La torta nazista, svastica e simbolo SS per il compleanno del figlio",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/17/torta-di-compleanno-con-una-svastica-il-padre-voleva-fare-uno-scherzo_f39189da-4a5e-402a-8913-b5c0b1ca834a.html",
+    "published_at": "2026-03-17T18:02:42.000Z",
+    "fingerprint": "bbc175479323b522d240cfeaa0fd6b18f2bacd11",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Where math meets art and craftsmanship: Iranian architectural mastery",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1rwcy8o/where_math_meets_art_and_craftsmanship_iranian/",
+    "published_at": "2026-03-17T17:21:16.000Z",
+    "fingerprint": "e6feafff81c7ecf3fa1cfd403c440cfd0fe16e4b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "San Patrizio, Kate Middleton alla parata delle Irish Guards",
+    "link": "https://www.ansa.it/sito/videogallery/mondo/2026/03/17/san-patrizio-kate-middleton-alla-parata-delle-irish-guards_bbb5c616-b919-48d4-8a2d-8328900abea7.html",
+    "published_at": "2026-03-17T16:41:36.000Z",
+    "fingerprint": "29c0aaed220fe4f884d87c093bc0afd6931d25c3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My flight leaves 3 minutes before it boards",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1rwb127/my_flight_leaves_3_minutes_before_it_boards/",
+    "published_at": "2026-03-17T16:14:23.000Z",
+    "fingerprint": "13aa4f16aad724a2b48754de34b035be0354ab97",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Making a glass strawberry (oc)",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1rwazw2/making_a_glass_strawberry_oc/",
+    "published_at": "2026-03-17T16:13:12.000Z",
+    "fingerprint": "ae2bd0c4a80faae6ae68c98858fb32062e231a14",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Maxi tamponamento in galleria sull'A20, coinvolti 80 mezzi. Ci sono diversi feriti",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/17/maxi-tamponamento-in-galleria-sulla20-coinvolti-80-mezzi.-ci-sono-diversi-feriti_f99af137-63e4-48a2-8d9b-63aca68c5885.html",
+    "published_at": "2026-03-17T15:43:27.000Z",
+    "fingerprint": "251a1e6df365cb3f6bc064ecffa4efb2bdacd689",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Caos a scuola, 11enne autistico vittima della guerra dei ricorsi",
+    "link": "https://www.ansa.it/campania/notizie/2026/03/17/caos-a-scuola-undicenne-autistico-vittima-della-guerra-dei-ricorsi_88c4b8e1-c1b0-4a1d-817b-42e550a8f53c.html",
+    "published_at": "2026-03-17T15:38:54.000Z",
+    "fingerprint": "0d8282e3b3a5d0581016e51cdd498643a55354b6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "The way this gentleman perfectly rolls these bumper plates into the storage rack",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1rw6jum/the_way_this_gentleman_perfectly_rolls_these/",
+    "published_at": "2026-03-17T13:29:00.000Z",
+    "fingerprint": "aaeac077b84ddd602fcffdae29e6259e46337741",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Vent'anni fa il primo tweet, dalla primavera araba a Elon Musk",
+    "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/03/17/ventanni-fa-il-primo-tweet-dalla-primavera-araba-a-elon-musk_d2316669-c15c-461e-8914-c064f5a8fed2.html",
+    "published_at": "2026-03-17T13:12:41.000Z",
+    "fingerprint": "7ec980b15bb77f32ea613aacda596a27633c1654",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "critical futures: how superflux draws upon speculative designs to transform our present",
+    "link": "https://www.designboom.com/design/critical-futures-how-superflux-draws-upon-speculative-designs-transform-present/",
+    "published_at": "2026-03-17T11:50:09.000Z",
+    "fingerprint": "e7886ffe8fd6c600832c6dc6866fbb5a85b1d2fc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "An Armadillo having fun",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1rw45h6/an_armadillo_having_fun/",
+    "published_at": "2026-03-17T11:41:47.000Z",
+    "fingerprint": "5bbcaaa016fd410636cb174316eceb6350b7996c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "elevate the all-new nissan MICRA global design competition reveals the finalists",
+    "link": "https://www.designboom.com/design/elevate-the-all-new-nissan-micra-global-design-competition-finalists/",
+    "published_at": "2026-03-17T11:00:44.000Z",
+    "fingerprint": "afea646ac426de30f0e02ff9ac523caefc3844dc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "I irritated my eye yesterday evening and now I have a weird square on my eye",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1rvzast/i_irritated_my_eye_yesterday_evening_and_now_i/",
+    "published_at": "2026-03-17T06:51:22.000Z",
+    "fingerprint": "e172ec766269913ee81344e3eda2a63052e47ee1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Vanity sizing on my skirt",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1rvxv4d/vanity_sizing_on_my_skirt/",
+    "published_at": "2026-03-17T05:26:25.000Z",
+    "fingerprint": "335a92cd0db69a3ea69c4378c63daaafc2e41f93",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
     "title": "walk through the fantastical world of david hockney’s immersive opera stage designs",
     "link": "https://www.designboom.com/design/walk-through-world-david-hockney-immersive-opera-stage-designs/",
     "published_at": "2026-03-17T04:30:49.000Z",
@@ -21,6 +245,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1rvvv0b/this_was_removed_from_the_salivary_duct_under_my/",
     "published_at": "2026-03-17T03:41:38.000Z",
     "fingerprint": "6589ac681f9ab5cbda140c0e06b2a3533caea23d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "DLSS 5",
+    "link": "https://www.producthunt.com/products/nvidia",
+    "published_at": "2026-03-17T02:09:57.000Z",
+    "fingerprint": "076a877b838b8a3087090f683ec6679b318792cd",
     "micro_judgment": null
   },
   {
@@ -176,6 +408,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Ocean Orchestrator",
+    "link": "https://www.producthunt.com/products/ocean-orchestrator",
+    "published_at": "2026-03-16T15:03:04.000Z",
+    "fingerprint": "2b99d042f63e617a77337ba06ea395f570b653b8",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Nè rocciosi nè gassosi, scoperti i pianeti fusi con oceani di magma",
     "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/03/16/ne-rocciosi-ne-gassosi-scoperti-i-pianeti-fusi-con-oceani-di-magma_8bf4dafa-a862-429c-9cf6-5e82c9a8af8d.html",
@@ -237,6 +477,14 @@
     "link": "https://www.designboom.com/readers/localloopbkk-participatory-ai-tool-community-led-public-space-design-bangkok-prapawit-intun-participatory-citizen-lab/",
     "published_at": "2026-03-16T08:25:55.000Z",
     "fingerprint": "eabd2cc69e3a06b2941a1dc6d181f85bef777260",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "dropadoo",
+    "link": "https://www.producthunt.com/products/dropadoo-send-files-via-drop-macos",
+    "published_at": "2026-03-16T07:28:39.000Z",
+    "fingerprint": "b120478b4a67fc13ce85355acb0a6f68d4938c45",
     "micro_judgment": null
   },
   {
@@ -597,6 +845,14 @@
     "link": "https://www.producthunt.com/products/wpcursor",
     "published_at": "2026-03-13T02:53:18.000Z",
     "fingerprint": "af1c910335d2b515c32618a0c11f4dfdca3afb70",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "AgreeGuard",
+    "link": "https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer",
+    "published_at": "2026-03-13T02:04:33.000Z",
+    "fingerprint": "e8e87878b1686dcadd9c5684a0c875cbdea4452a",
     "micro_judgment": null
   },
   {
