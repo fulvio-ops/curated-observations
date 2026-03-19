@@ -1,5 +1,109 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Conway's Game of Life, in real life",
+    "link": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+    "published_at": "2026-03-19T03:55:03.000Z",
+    "fingerprint": "eb613397287b52ca68e98778cc8a48c30506ae7e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Mozilla to launch free built-in VPN in upcoming Firefox 149",
+    "link": "https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/",
+    "published_at": "2026-03-19T03:31:01.000Z",
+    "fingerprint": "8301b9140a844cf063c4feeafbcd923fad7b844b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Philips Moving Sound line-up impresses with retro chunky form and peppy colors",
+    "link": "https://www.yankodesign.com/2026/03/18/philips-moving-sound-line-up-impresses-with-retro-chunky-form-and-peppy-colors/?utm_source=rss&utm_medium=rss&utm_campaign=philips-moving-sound-line-up-impresses-with-retro-chunky-form-and-peppy-colors",
+    "published_at": "2026-03-18T23:30:16.000Z",
+    "fingerprint": "3c4c620eda902070b0b84215cdcd46cd77d86684",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "OMA’s new museum expansion completes in NYC as space for ‘new humans’",
+    "link": "https://www.designboom.com/architecture/oma-new-museum-expansion-opens-nyc-humans-merories-future-massimiliano-gioni-shohei-shigematsu/",
+    "published_at": "2026-03-18T23:15:44.000Z",
+    "fingerprint": "ccdc9077dc3fc3f7258013b76f398513ca531934",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This classic 1979 LEGO computer brick hides a fully functional Mac mini workstation inside",
+    "link": "https://www.yankodesign.com/2026/03/18/this-classic-1979-lego-computer-brick-hides-a-fully-functional-mac-mini-workstation-inside/?utm_source=rss&utm_medium=rss&utm_campaign=this-classic-1979-lego-computer-brick-hides-a-fully-functional-mac-mini-workstation-inside",
+    "published_at": "2026-03-18T19:15:40.000Z",
+    "fingerprint": "0126dc2650942af5bf13061b6ea25f072c74d958",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Playing LongTurn FreeCiv with Friends",
+    "link": "https://github.com/ndroo/freeciv.andrewmcgrath.info",
+    "published_at": "2026-03-18T19:01:54.000Z",
+    "fingerprint": "04d501fe4c6d87e26ffbd8596283cf81a1b881d5",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Scoppia il caso Gabbard, smentisce Trump sul nucleare iraniano",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/18/gabbard-liran-non-ha-tentato-di-ricostruire-impianti-nucleari-dopo-attacchi-giugno_0a445519-dbb3-452d-8a84-c1a170555911.html",
+    "published_at": "2026-03-18T18:49:07.000Z",
+    "fingerprint": "9c3a83b3ae0c53ae1c4208317f58ea7592d808e7",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Bonus per moto e motorini, già impegnate tutte le risorse",
+    "link": "https://www.ansa.it/canale_motori/notizie/due_ruote/2026/03/18/bonus-per-moto-e-motorini-gia-impegnate-tutte-le-risorse_d146a8cd-3ec6-4ca8-bb80-3d3cbaa5310e.html",
+    "published_at": "2026-03-18T18:35:25.000Z",
+    "fingerprint": "8a6b3c0412086ab347d3b15e2ba5cb31e514564c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "cake-like layers stack into a shared motion installation in china, bringing strangers into sync",
+    "link": "https://www.designboom.com/art/cake-like-layers-shared-motion-installation-china-strangers-sync-daxing-jizi-design/",
+    "published_at": "2026-03-18T17:00:52.000Z",
+    "fingerprint": "49a1b401fb5684939e4ecfefa890d8fc7e7c1aae",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ancona sarà Capitale italiana della Cultura 2028",
+    "link": "https://www.ansa.it/sito/notizie/cultura/2026/03/18/ancona-sara-capitale-italiana-della-cultura-2028-_4544a7c3-ff45-4b75-9df3-7e7173c42c80.html",
+    "published_at": "2026-03-18T16:57:32.000Z",
+    "fingerprint": "5dcacf7601bfecfbf318c922fa8d9542bc77b266",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
+    "link": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
+    "published_at": "2026-03-18T15:50:44.000Z",
+    "fingerprint": "06c8694f85bbba65a97afa6ad0e73e798c112e37",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Nvidia NemoClaw",
+    "link": "https://github.com/NVIDIA/NemoClaw",
+    "published_at": "2026-03-18T15:31:07.000Z",
+    "fingerprint": "9250f8d214ae97c62eae1014634dbc8a01a0fc28",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "I figli di tutti noi. Crans-Montana, una tragedia evitabile",
+    "link": "https://www.ansa.it/sito/podcast/ansa_voice_magazine/2026/03/18/i-figli-di-tutti-noi.-crans-montana-una-tragedia-evitabile_074909d7-da3d-4fbe-aba0-aab633392ee8.html",
+    "published_at": "2026-03-18T09:25:58.000Z",
+    "fingerprint": "2e632be48bdf47c9e8bec68ba7a8c68be9f6f164",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "wallmakers rethinks tropical design through reused shipping containers and poured earth",
     "link": "https://www.designboom.com/architecture/wallmakers-tropical-reused-shipping-containers-poured-earth-petti-restaurant-india/",
@@ -73,6 +177,14 @@
   },
   {
     "source": "ANSA",
+    "title": "10 anni senza Bud, tributo a cielo aperto per Bud Spencer a giugno",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/03/17/10-anni-senza-bud-tributo-a-cielo-aperto-per-bud-spencer-a-giugno_7e4e1a7b-280c-47f5-945a-86e13685ec17.html",
+    "published_at": "2026-03-17T20:02:05.000Z",
+    "fingerprint": "ce7b0d5a0404183cc40c6181de19b6ef17e5e835",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "La Corte d'appello vaticana: il processo Becciu è da rifare",
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/17/chiesti-atti-al-pg-riparte-il-dibattimento-sul-processo-becciu_755343b2-4d9d-42c9-810c-4fd327ac1610.html",
     "published_at": "2026-03-17T19:51:46.000Z",
@@ -101,6 +213,14 @@
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1rwflqs/i_took_a_pic_of_a_church_with_power_lines_alignin/",
     "published_at": "2026-03-17T18:51:47.000Z",
     "fingerprint": "755d927a26b0f71ba8a3405abe06d81edc49dbf1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "ArticleBack",
+    "link": "https://www.producthunt.com/products/articleback",
+    "published_at": "2026-03-17T18:33:03.000Z",
+    "fingerprint": "1ecbad9b6ac0d4e2dc3555cf7aec3c8746ad4634",
     "micro_judgment": null
   },
   {
@@ -205,6 +325,14 @@
     "link": "https://www.designboom.com/design/elevate-the-all-new-nissan-micra-global-design-competition-finalists/",
     "published_at": "2026-03-17T11:00:44.000Z",
     "fingerprint": "afea646ac426de30f0e02ff9ac523caefc3844dc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "CursorTalk",
+    "link": "https://www.producthunt.com/products/cursortalk-for-macos",
+    "published_at": "2026-03-17T06:58:51.000Z",
+    "fingerprint": "9803a8b414974537461a7a4742450d09732a929a",
     "micro_judgment": null
   },
   {
