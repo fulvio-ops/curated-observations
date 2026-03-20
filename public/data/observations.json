@@ -1,6 +1,174 @@
 [
   {
     "source": "Hacker News · frontpage",
+    "title": "Physicists Trace Sun's Magnetic Engine, 200k Kilometers Below Surface",
+    "link": "https://news.njit.edu/njit-physicists-trace-sun%E2%80%99s-magnetic-engine-200000-kilometers-below-surface",
+    "published_at": "2026-03-20T02:12:41.000Z",
+    "fingerprint": "1e9f971117b8d42f65a160f6c8c28de8389c5e49",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "stretchable robotic fingers for surgery decomposes in soil and becomes fertilizer",
+    "link": "https://www.designboom.com/technology/stretchable-soft-robotic-fingers-surgery-decomposes-soil-fertilizer-snu/",
+    "published_at": "2026-03-20T00:30:13.000Z",
+    "fingerprint": "082dbd617f028a4f6caecf1f92949cb3812b778c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Wood Greenhouse Solves the Biggest Problem Backyard Gardeners Face",
+    "link": "https://www.yankodesign.com/2026/03/19/this-wood-greenhouse-solves-the-biggest-problem-backyard-gardeners-face/?utm_source=rss&utm_medium=rss&utm_campaign=this-wood-greenhouse-solves-the-biggest-problem-backyard-gardeners-face",
+    "published_at": "2026-03-19T23:30:30.000Z",
+    "fingerprint": "e3c74c0a261480d0f33ceda154467e6d4cb7b2c6",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Europa League: il Bologna affonda la Roma ai supplementari e vola ai quarti.",
+    "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/19/europa-league-il-bologna-affonda-la-roma-ai-supplementari-e-vola-ai-quarti._be67c29d-a72a-4d9e-8ea7-495cb57154b4.html",
+    "published_at": "2026-03-19T22:49:01.000Z",
+    "fingerprint": "65c1f644ae5c19ad26bd1db6e9499e8e669d4256",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Fläkt Just Redesigned the Air Purifier as Furniture",
+    "link": "https://www.yankodesign.com/2026/03/19/flakt-just-redesigned-the-air-purifier-as-furniture/?utm_source=rss&utm_medium=rss&utm_campaign=flakt-just-redesigned-the-air-purifier-as-furniture",
+    "published_at": "2026-03-19T22:30:35.000Z",
+    "fingerprint": "fab7d42bfdcbb5283b9ec97df51f1f5b071b6225",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "existing residential spaces reconfigure as a flexible community art network in china",
+    "link": "https://www.designboom.com/architecture/existing-residential-spaces-flexible-community-art-network-china-jiadu-art-center-minor-lab/",
+    "published_at": "2026-03-19T22:00:57.000Z",
+    "fingerprint": "0176fdab06c5244c51437065f0450b682e5640c3",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "È morto Umberto Bossi, il fondatore della Lega aveva 84 anni",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/03/19/morto-umberto-bossi_64dc1fe5-f2cd-4073-aa4d-018506a35b85.html",
+    "published_at": "2026-03-19T21:47:44.000Z",
+    "fingerprint": "1cb03a4cee134ce260af6426012edbe8ed59683f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Be intentional about how AI changes your codebase",
+    "link": "https://aicode.swerdlow.dev",
+    "published_at": "2026-03-19T21:23:24.000Z",
+    "fingerprint": "f57f20dc14b05e37e2505fc5996fcf9dcdc4029f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Maroni e Salvini, quando Bossi dovette cedere la guida",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/03/19/maroni-e-salvini-quando-bossi-dovette-cedere-la-guida_a8bdd163-7f4a-4003-81ff-1a549681c20e.html",
+    "published_at": "2026-03-19T21:02:16.000Z",
+    "fingerprint": "090de73ec4aea01919b82e956181deaa14738bc3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
+    "link": "https://esolang-bench.vercel.app/",
+    "published_at": "2026-03-19T21:01:03.000Z",
+    "fingerprint": "9372d92b30b5c1a38764f6e9ef88272770d853dd",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'Umbertone e Berluskaiser', 30 anni di liti e alleanze",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/03/19/umbertone-e-berluskaiser30-anni-di-liti-e-alleanze_782523f8-c0c3-4f93-a67a-8d7bf1a4e4bc.html",
+    "published_at": "2026-03-19T20:56:46.000Z",
+    "fingerprint": "10f6ea1d5f6773d1d6330db8647928a619029bf4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Cockpit is a web-based graphical interface for servers",
+    "link": "https://github.com/cockpit-project/cockpit",
+    "published_at": "2026-03-19T20:33:02.000Z",
+    "fingerprint": "d33da809d983f8362a1578e6475de280a83c3898",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Trump striglia Netanyahu, 'basta raid sul petrolio'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/19/trump-gli-alleati-piu-disponibili-su-hormuz-ma-e-troppo-tardi_2bf97e67-0fe0-4abe-a727-b642b2e2cef7.html",
+    "published_at": "2026-03-19T20:31:36.000Z",
+    "fingerprint": "e531e2031bc7586fa7020b5971e35003acdcbc04",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Nike x Powerbeats Pro 2 earbuds promise great design, super secure fit, and impressive audio",
+    "link": "https://www.yankodesign.com/2026/03/19/nike-x-powerbeats-pro-2-earbuds-promise-great-design-super-secure-fit-and-impressive-audio/?utm_source=rss&utm_medium=rss&utm_campaign=nike-x-powerbeats-pro-2-earbuds-promise-great-design-super-secure-fit-and-impressive-audio",
+    "published_at": "2026-03-19T19:15:14.000Z",
+    "fingerprint": "5721b75c92cfbecad28fe6a12c52a8c0cde9869e",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Trump gela Takaichi: \"Perche' non ci avete detto di Pearl Harbor?\"",
+    "link": "https://www.ansa.it/sito/videogallery/mondo/2026/03/19/trump-gela-takaichi-perche-non-ci-avete-detto-di-pearl-harbor_ffb86af2-1775-497c-9259-dd933ced8252.html",
+    "published_at": "2026-03-19T18:59:44.000Z",
+    "fingerprint": "b219e6e08b0b6980820ba61aa55ced84f26b6a3e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
+    "link": "https://qlabs.sh/10x",
+    "published_at": "2026-03-19T18:51:25.000Z",
+    "fingerprint": "aeea87c63b43f4fe771d388aec34dd794c2391e9",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'Italia candida a patrimonio Unesco il presepe, le uve della Valpolicella e il patrimonio alimentare alpino",
+    "link": "https://www.ansa.it/canale_terraegusto/notizie/istituzioni/2026/03/19/unesco-litalia-candida-presepe-uve-valpolicella-e-patrimonio-alimentare-alpino_d3184638-b54e-47ca-86e4-a324a4139b86.html",
+    "published_at": "2026-03-19T17:53:36.000Z",
+    "fingerprint": "19ce376da855f137a227c79ecd5c48a91e174517",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "$73 Lenovo Gamepad Turns the Legion Y700 Into a Switch Lite Rival",
+    "link": "https://www.yankodesign.com/2026/03/19/73-lenovo-gamepad-turns-the-legion-y700-into-a-switch-lite-rival/?utm_source=rss&utm_medium=rss&utm_campaign=73-lenovo-gamepad-turns-the-legion-y700-into-a-switch-lite-rival",
+    "published_at": "2026-03-19T17:20:51.000Z",
+    "fingerprint": "a877a44df1e1b5bea70e2ceb28261ea1f3350a46",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "kosuke tsumura’s 44-pocket parka explores survival through wearable space",
+    "link": "https://www.designboom.com/design/kosuke-tsumura-44-pocket-parka-survival-wearable-space-final-home/",
+    "published_at": "2026-03-19T17:00:40.000Z",
+    "fingerprint": "1c322cf1075987aa715c250f032fb09c492f310d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "david altrath photographs vienna’s palmenhaus in analog stills of light, foliage and form",
+    "link": "https://www.designboom.com/architecture/david-altrath-vienna-palmenhaus-analog-stills-light-foliage-form-05-08-2025/",
+    "published_at": "2026-03-19T14:00:00.000Z",
+    "fingerprint": "3b699c7a83b7338845c2c85f83099f7cd26ccc80",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "OpenAdapter",
+    "link": "https://www.producthunt.com/products/openadapter-2",
+    "published_at": "2026-03-19T05:56:28.000Z",
+    "fingerprint": "21bf5c1ec3dbfe1c9b940013e5b0e0d6525e73c5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
     "title": "Conway's Game of Life, in real life",
     "link": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
     "published_at": "2026-03-19T03:55:03.000Z",
@@ -56,6 +224,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Stitch 2.0 by Google",
+    "link": "https://www.producthunt.com/products/stitch-2-0-by-google-2",
+    "published_at": "2026-03-18T18:36:27.000Z",
+    "fingerprint": "a87b66eaa721cdc3d77477d93da635a4bc8b65a7",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Bonus per moto e motorini, già impegnate tutte le risorse",
     "link": "https://www.ansa.it/canale_motori/notizie/due_ruote/2026/03/18/bonus-per-moto-e-motorini-gia-impegnate-tutte-le-risorse_d146a8cd-3ec6-4ca8-bb80-3d3cbaa5310e.html",
@@ -77,6 +253,14 @@
     "link": "https://www.ansa.it/sito/notizie/cultura/2026/03/18/ancona-sara-capitale-italiana-della-cultura-2028-_4544a7c3-ff45-4b75-9df3-7e7173c42c80.html",
     "published_at": "2026-03-18T16:57:32.000Z",
     "fingerprint": "5dcacf7601bfecfbf318c922fa8d9542bc77b266",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "MiMo-V2-Pro & Omni",
+    "link": "https://www.producthunt.com/products/mimo-3",
+    "published_at": "2026-03-18T16:52:34.000Z",
+    "fingerprint": "ba5ab1f9dfca30db63b8d7d838a6734458577b7c",
     "micro_judgment": null
   },
   {
@@ -133,6 +317,14 @@
     "link": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
     "published_at": "2026-03-18T01:00:45.000Z",
     "fingerprint": "82c1cc5b3ad3c467bbf171abe87dd2592e5df2ed",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "simplebanking",
+    "link": "https://www.producthunt.com/products/simplebanking",
+    "published_at": "2026-03-18T00:57:18.000Z",
+    "fingerprint": "780ae44cd9fc69dcbf70bda2373cb069fd9dcb2f",
     "micro_judgment": null
   },
   {
@@ -1309,6 +1501,14 @@
     "link": "https://sitespy.app",
     "published_at": "2026-03-11T16:21:06.000Z",
     "fingerprint": "0f2c1dc9a4688023024c4b2b1df9b682e037e79f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "SideDisplay",
+    "link": "https://www.producthunt.com/products/sidedisplay",
+    "published_at": "2026-03-11T14:16:47.000Z",
+    "fingerprint": "d460661c34bfc7ad437e34fefab88a33d12d060a",
     "micro_judgment": null
   },
   {
