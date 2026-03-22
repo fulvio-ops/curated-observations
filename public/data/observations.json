@@ -1,5 +1,109 @@
 [
   {
+    "source": "ANSA",
+    "title": "Trump, Iran apra Hormuz entro 48 ore o colpiremo centrali elettriche",
+    "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/03/22/trump-iran-apra-hormuz-entro-48-ore-o-colpiremo-centrali-elettriche_7cb80a99-a703-4f43-af86-0c82a994837b.html",
+    "published_at": "2026-03-22T02:37:52.000Z",
+    "fingerprint": "f0ee63aa3c73ea9f4c121c7f3297111848e64e85",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The Three Pillars of JavaScript Bloat",
+    "link": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+    "published_at": "2026-03-22T02:04:31.000Z",
+    "fingerprint": "528302c7d30a391fa2f53c076140de0bc6a2b854",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Do Not Turn Child Protection into Internet Access Control",
+    "link": "https://news.dyne.org/child-protection-is-not-access-control/",
+    "published_at": "2026-03-21T20:32:20.000Z",
+    "fingerprint": "4ce5b5d892bf20715a347508ed0d7c9161728c3d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'orrore nel carcere di Evin, 'saldate le porte delle celle'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/21/lorrore-nel-carcere-di-evin-saldate-le-porte-delle-celle_418fa933-ff8e-4396-b519-4096cff4ed55.html",
+    "published_at": "2026-03-21T19:57:58.000Z",
+    "fingerprint": "ad17e19e79468d22cf974427aa447e3634732f0a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Brad Cooper: \"Indebolita la capacita' offensiva dell'Iran su Hormuz\"",
+    "link": "https://www.ansa.it/sito/videogallery/mondo/2026/03/21/brad-cooper-indebolita-la-capacita-offensiva-delliran-su-hormuz_d87ffdd0-83c1-4b26-91ba-37d55ef6c8a3.html",
+    "published_at": "2026-03-21T19:34:05.000Z",
+    "fingerprint": "227820b43d60dca9e8d2363841689bbe1908b92c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Anarchici morti, tra le ipotesi un'azione su un obiettivo vicino",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/21/anarchici-morti-verifiche-sullesplosivo-e-obiettivo-dellazione_607fa806-53e0-4144-b6e8-c530ae4bc91d.html",
+    "published_at": "2026-03-21T19:17:51.000Z",
+    "fingerprint": "545235fb72a4262a5ced44bdd56b0d806d013f1d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Due incidenti stradali mortali: a Roma muore un 17enne, a Milano due ventenni",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/21/due-incidenti-mortali-nella-notte-a-roma-muore-un-17enne-a-milano-due_2777ec73-6417-493f-b2b1-df8fac020040.html",
+    "published_at": "2026-03-21T18:17:44.000Z",
+    "fingerprint": "e95508be8746dea3932deb2a0ccffae8ef905659",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This E Ink Foldable Phone Concept Punishes Doomscrolling by Design",
+    "link": "https://www.yankodesign.com/2026/03/21/this-e-ink-foldable-phone-concept-punishes-doomscrolling-by-design/?utm_source=rss&utm_medium=rss&utm_campaign=this-e-ink-foldable-phone-concept-punishes-doomscrolling-by-design",
+    "published_at": "2026-03-21T17:20:17.000Z",
+    "fingerprint": "ec701e93bc43218cab80421d39ff1b05fbb9df77",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+    "published_at": "2026-03-21T15:30:29.000Z",
+    "fingerprint": "1f012972ea7d117cb70ce759b426b4bca2ebd70d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
+    "link": "https://grafeo.dev/",
+    "published_at": "2026-03-21T14:50:18.000Z",
+    "fingerprint": "05064fdcf206568851f4b914a499dce984d44893",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "I prezzi delle uova decollano, effetto dell'aviaria: fino a +27% da inizio anno",
+    "link": "https://www.ansa.it/canale_terraegusto/notizie/business/2026/03/21/listini-delle-uova-decollano-27-da-inizio-anno-per-quelle-allevate-a-terra_202034a3-4d18-4a6a-a8e3-eba0597da51c.html",
+    "published_at": "2026-03-21T10:53:17.000Z",
+    "fingerprint": "53b19c95803c56c9deec050316b0346665bc6b5f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Giustizia (con Michele Cortelazzo)",
+    "link": "https://www.ansa.it/sito/podcast/la_parola_della_settimana/2026/03/21/giustizia-con-michele-cortelazzo_d5cea3a4-9fd5-4d34-9230-31f7c9c44107.html",
+    "published_at": "2026-03-21T08:45:04.000Z",
+    "fingerprint": "4f005e6e6333ff314aefbf48d153e73f02a51095",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "OPEN’s ‘shede culture museum’ is shaped from rammed-earth, glass and bronze",
+    "link": "https://www.designboom.com/architecture/open-shede-culture-museum-rammed-earth-glass-bronze-shehong-china/",
+    "published_at": "2026-03-21T06:00:27.000Z",
+    "fingerprint": "c702f4ead4b51b5e3d8d109182651698a15be843",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "When Your Speaker Is Also a Puzzle, Music Hits Different",
     "link": "https://www.yankodesign.com/2026/03/20/when-your-speaker-is-also-a-puzzle-music-hits-different/?utm_source=rss&utm_medium=rss&utm_campaign=when-your-speaker-is-also-a-puzzle-music-hits-different",
@@ -48,6 +152,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Educato App",
+    "link": "https://www.producthunt.com/products/educato-app",
+    "published_at": "2026-03-20T15:20:25.000Z",
+    "fingerprint": "028c35c5a903ebfa144ee2ff3d790a84c8756843",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "A $500 Cat Scratcher That Looks Like a Floating Shelf",
     "link": "https://www.yankodesign.com/2026/03/20/a-500-cat-scratcher-that-looks-like-a-floating-shelf/?utm_source=rss&utm_medium=rss&utm_campaign=a-500-cat-scratcher-that-looks-like-a-floating-shelf",
@@ -61,6 +173,14 @@
     "link": "https://www.designboom.com/architecture/studio-re-n-floating-pavilion-thin-white-wing-chinese-tea-mountain/",
     "published_at": "2026-03-20T13:39:04.000Z",
     "fingerprint": "9ec8a1c5884f28668ced3d2062b6341321235423",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Everest AI",
+    "link": "https://www.producthunt.com/products/everest-ai",
+    "published_at": "2026-03-20T13:06:08.000Z",
+    "fingerprint": "ead3f1c10755df0405323ccf83f7781d2ef5d9ed",
     "micro_judgment": null
   },
   {
@@ -93,6 +213,14 @@
     "link": "https://www.designboom.com/readers/synthetic-incubators-la-inglewood-oil-field-post-human-landscape-zihua-mo-rock-roll-chunyu-ma/",
     "published_at": "2026-03-20T10:30:38.000Z",
     "fingerprint": "e9dfbd5ca707384634937c2a8375c556863f9213",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Caplo",
+    "link": "https://www.producthunt.com/products/caplo",
+    "published_at": "2026-03-20T08:17:00.000Z",
+    "fingerprint": "4531eb1444443669c740cdd2096b94de7eefafea",
     "micro_judgment": null
   },
   {
@@ -1265,6 +1393,14 @@
   },
   {
     "source": "ANSA",
+    "title": "La campagna 'Just evolve', non usate le parole della disabilita' per offendere",
+    "link": "https://www.ansa.it/sito/videogallery/italia/2026/03/13/la-campagna-just-evolve-non-usate-le-parole-della-disabilita-per-offendere_23ba74ec-4934-4f3d-9a29-a195c3fb2bbf.html",
+    "published_at": "2026-03-13T18:06:44.000Z",
+    "fingerprint": "52095493aae0b5872b3c53ee90727c2cd1956bfd",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Bolsonaro ricoverato in ospedale dopo essersi sentito male in cella, è in terapia intensiva",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/13/bolsonaro-ricoverato-in-ospedale-dopo-essersi-sentito-male-in-cella-e-in-terapia-intensiva_dd63336d-53e1-47d8-b2b7-d81c4f4b02db.html",
     "published_at": "2026-03-13T17:32:21.000Z",
@@ -1981,6 +2117,14 @@
     "link": "https://www.designboom.com/design/outdoor-furniture-unopiu-milan-design-week-2026/",
     "published_at": "2026-03-09T11:30:22.000Z",
     "fingerprint": "a3e1a8eebdeafe8d765692116083d8971e32c9c8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Design Agent by Lokuma",
+    "link": "https://www.producthunt.com/products/lokuma-ai",
+    "published_at": "2026-03-09T10:53:28.000Z",
+    "fingerprint": "45264834e6f1f61647d707bc17bd7283b6e6984d",
     "micro_judgment": null
   },
   {
@@ -3216,6 +3360,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Novi Notes",
+    "link": "https://www.producthunt.com/products/novi-notes",
+    "published_at": "2026-02-27T18:25:57.000Z",
+    "fingerprint": "5e2c62d87b5d93a80636fe40b78696a78979a721",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "2026 Escape Pod is more powerful, comfortable, and all set for escaping into the wilderness",
     "link": "https://www.yankodesign.com/2026/02/27/2026-escape-pod-is-more-powerful-comfortable-and-all-set-for-escaping-into-the-wilderness/?utm_source=rss&utm_medium=rss&utm_campaign=2026-escape-pod-is-more-powerful-comfortable-and-all-set-for-escaping-into-the-wilderness",
@@ -3261,6 +3413,14 @@
     "link": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
     "published_at": "2026-02-27T03:49:48.000Z",
     "fingerprint": "de59c8efe652f80a751f977f335767f2d4df325e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Fractal",
+    "link": "https://www.producthunt.com/products/fractal-2",
+    "published_at": "2026-02-27T01:57:01.000Z",
+    "fingerprint": "4fb1c684f29d857cff57c303ab0a1ecd6c2aa6e4",
     "micro_judgment": null
   },
   {
