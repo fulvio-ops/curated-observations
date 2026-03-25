@@ -1,5 +1,77 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
+    "link": "https://github.com/cigrainger/duckdb-hnsw-acorn",
+    "published_at": "2026-03-25T03:28:04.000Z",
+    "fingerprint": "6a7507fb41e9fce618d0a2899f17f545547db55a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Tungsten-tipped Nutcracker Works On Walnuts, Seafood, and even Car Windows in an Emergency",
+    "link": "https://www.yankodesign.com/2026/03/24/this-tungsten-tipped-nutcracker-works-on-walnuts-seafood-and-even-car-windows-in-an-emergency/?utm_source=rss&utm_medium=rss&utm_campaign=this-tungsten-tipped-nutcracker-works-on-walnuts-seafood-and-even-car-windows-in-an-emergency",
+    "published_at": "2026-03-25T01:45:37.000Z",
+    "fingerprint": "6b48ebe50c320a4b19bca742e44e1caab0995aa3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "OMO X self-balancing electric scooter employs AI and Robotics to refresh urban riding experience",
+    "link": "https://www.yankodesign.com/2026/03/24/omo-x-self-balancing-electric-scooter-employs-ai-and-robotics-to-refresh-urban-riding-experience/?utm_source=rss&utm_medium=rss&utm_campaign=omo-x-self-balancing-electric-scooter-employs-ai-and-robotics-to-refresh-urban-riding-experience",
+    "published_at": "2026-03-25T00:30:09.000Z",
+    "fingerprint": "e81dcc02493ec16ce45d16b7da39df92fb08ffb3",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Conte e Schlein in campo per le primarie, Salis si sfila",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/03/24/conte-io-sono-disponibile-a-correre-per-le-primarie_4c733268-3ae8-411b-8a4b-ef60b0f9ad61.html",
+    "published_at": "2026-03-24T20:50:24.000Z",
+    "fingerprint": "6d0ad930acf5a87fd87686f1c02c4bf89fdea623",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Apple Business",
+    "link": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+    "published_at": "2026-03-24T15:29:41.000Z",
+    "fingerprint": "1bc2e3aec5f91913e910535f0949295413f456dc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "how the creative impulse of utopia improves the world – maria arana zubiate",
+    "link": "https://www.designboom.com/architecture/maria-arana-zubiate-how-creative-impulse-utopia-improves-world-essay/",
+    "published_at": "2026-03-24T11:45:14.000Z",
+    "fingerprint": "35a40b6f1a42faad172dbd7231944e2704ea3161",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "woven futures: heritage shapes the next chapter of furnishing textiles at proposte 2026",
+    "link": "https://www.designboom.com/design/heritage-furnishing-textile-proposte-fair-lake-como-2026/",
+    "published_at": "2026-03-24T11:30:22.000Z",
+    "fingerprint": "fc59c4e4186a9d3f5d1ea2c3758a3dd48b0b977c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "In vendita a Roma il palazzo che fu sede del Pontificio Collegio belga",
+    "link": "https://www.ansa.it/native/ansacom/2026/03/24/in-vendita-a-roma-il-palazzo-che-fu-sede-del-pontificio-collegio-belga_a82bac0c-297c-45c4-b1a2-ea96405a8618.html",
+    "published_at": "2026-03-24T10:29:22.000Z",
+    "fingerprint": "a8445439b6951c8073467926c271bf82d72d38a8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "from public infrastructure to public art: bettina pousttchi’s guardrail sculpture lands in NYC",
+    "link": "https://www.designboom.com/art/street-infrastructure-sculpture-bettina-pousttchi-rockefeller-center-installation/",
+    "published_at": "2026-03-24T09:00:54.000Z",
+    "fingerprint": "db28732f76572a3d7226c9e3296f12efac09e6c8",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "8BitDo Retro R8 C64 Edition mouse fuses Commodore 64 nostalgia with modern gaming performance",
     "link": "https://www.yankodesign.com/2026/03/23/8bitdo-retro-r8-c64-edition-mouse-fuses-commodore-64-nostalgia-with-modern-gaming-performance/?utm_source=rss&utm_medium=rss&utm_campaign=8bitdo-retro-r8-c64-edition-mouse-fuses-commodore-64-nostalgia-with-modern-gaming-performance",
@@ -29,6 +101,14 @@
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/23/trump-ferma-i-raid-per-cinque-giorni-con-liran-accordo-su-15-punti_5747f300-ad95-46e7-b519-4419159076eb.html",
     "published_at": "2026-03-23T22:20:45.000Z",
     "fingerprint": "053494a103098714450e812411b4cad695bad4f3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "TypeScript 6.0",
+    "link": "https://www.producthunt.com/products/the-new-typescript-website",
+    "published_at": "2026-03-23T22:07:17.000Z",
+    "fingerprint": "98e739803d8cd2770635a1e45b8bec2b894df20a",
     "micro_judgment": null
   },
   {
@@ -136,6 +216,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "LelaAI",
+    "link": "https://www.producthunt.com/products/lelaai-learn-languages-naturally",
+    "published_at": "2026-03-23T13:50:07.000Z",
+    "fingerprint": "c63a09da8281693cf4f3eb47d3049e4f9dfaab4c",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · oddlysatisfying",
     "title": "Turkish Pizza for You",
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1s1gebj/turkish_pizza_for_you/",
@@ -237,6 +325,14 @@
     "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/03/22/mondiali-atletica-furlani-dargento-nel-salto-in-lungo_02e0b5b1-8dab-4f5a-afec-42ae432944a4.html",
     "published_at": "2026-03-22T20:18:14.000Z",
     "fingerprint": "279fae82cbb55bb3dffe5e508dfc8827a7cdeb72",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Free AI Video Editor OpenCutAI",
+    "link": "https://www.producthunt.com/products/opencutai-video",
+    "published_at": "2026-03-22T18:14:15.000Z",
+    "fingerprint": "b32341e67a675464219c5de46460112fa601e98e",
     "micro_judgment": null
   },
   {
@@ -973,6 +1069,14 @@
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/17/chiesti-atti-al-pg-riparte-il-dibattimento-sul-processo-becciu_755343b2-4d9d-42c9-810c-4fd327ac1610.html",
     "published_at": "2026-03-17T19:51:46.000Z",
     "fingerprint": "d5604a91db4d728ebf8b9ae5a2084229e2c9f956",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Kitty Points Leaderboard",
+    "link": "https://www.producthunt.com/products/producthunt",
+    "published_at": "2026-03-17T19:44:09.000Z",
+    "fingerprint": "8de39351871f5aa8998db373478a5aa3ab5fc13e",
     "micro_judgment": null
   },
   {
@@ -2149,6 +2253,14 @@
     "link": "https://www.designboom.com/architecture/snohetta-big-bjarke-ingels-group-mvrdv-cultural-landmarks-coastal-masterplan-istanbul-ion-riva/",
     "published_at": "2026-03-11T10:00:35.000Z",
     "fingerprint": "b0e636a1b45b653aa28847ba391dc081d18ee322",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Google Gemini in Chrome",
+    "link": "https://www.producthunt.com/products/googlegemini-in-chrome",
+    "published_at": "2026-03-11T07:09:56.000Z",
+    "fingerprint": "c0f1f145769b4c0ad1bac590c2983d0387e95386",
     "micro_judgment": null
   },
   {
