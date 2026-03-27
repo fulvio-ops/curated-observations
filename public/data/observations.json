@@ -1,5 +1,149 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Schedule tasks on the web",
+    "link": "https://code.claude.com/docs/en/web-scheduled-tasks",
+    "published_at": "2026-03-27T04:47:15.000Z",
+    "fingerprint": "058a68866e62e39a531743b26a80807708797c2e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "70 Mile Range, 110 Nm of Torque, and a One-Click Wheelie. Meet the AOTOS Flux X26",
+    "link": "https://www.yankodesign.com/2026/03/26/70-mile-range-110-nm-of-torque-and-a-one-click-wheelie-meet-the-aotos-flux-x26/?utm_source=rss&utm_medium=rss&utm_campaign=70-mile-range-110-nm-of-torque-and-a-one-click-wheelie-meet-the-aotos-flux-x26",
+    "published_at": "2026-03-27T01:45:46.000Z",
+    "fingerprint": "9926641bdbc0e171061622411200d89d8669b2a9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
+    "link": "https://www.symbolica.ai/blog/arc-agi-3",
+    "published_at": "2026-03-27T01:32:10.000Z",
+    "fingerprint": "ff7f63db912632b7a15baf4bd7729fa06f9512ff",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Chicago artist creates tourism posters for city's neighborhoods",
+    "link": "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/",
+    "published_at": "2026-03-26T23:18:38.000Z",
+    "fingerprint": "e4fe5ac58fc401be3390bfa04832387f4cb7cc17",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Gasparri lascia la guida dei senatori di Forza Italia, al suo posto Stefania Craxi",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/03/26/gasparri-lascia-la-guida-dei-senatori-di-forza-italia-al-suo-posto-stefania_014b9354-3498-4b48-814b-822100b56c25.html",
+    "published_at": "2026-03-26T21:40:21.000Z",
+    "fingerprint": "afe0e184aa0381ffa687075f59047a59ebb276cd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Using FireWire on a Raspberry Pi",
+    "link": "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/",
+    "published_at": "2026-03-26T20:23:10.000Z",
+    "fingerprint": "768971d5ca42943d5a18cbe20293edfe1e0203a8",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ritrovato nel Chianti il patrimonio di Ursula Andress",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/26/riciclaggio-ai-danni-di-ursula-andress-sequestro-da-20-milioni-_b4d23177-6581-43ca-87b4-36938478b1c7.html",
+    "published_at": "2026-03-26T19:36:22.000Z",
+    "fingerprint": "3c6ed6bfc5375aab762e664da9f47cdcb9bf5202",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Chroma Context-1: Training a Self-Editing Search Agent",
+    "link": "https://www.trychroma.com/research/context-1",
+    "published_at": "2026-03-26T19:25:19.000Z",
+    "fingerprint": "a9a8dee0b8a2c0da74af140e6a2d37c5c2fca362",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Profanato il cadavere di Pamela, vittima di femminicidio",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/26/profanato-il-cadavere-di-pamela-genini-la-modella-uccisa-a-milano_feadafe9-8d13-45b8-a5c2-8b970a6615d4.html",
+    "published_at": "2026-03-26T18:42:33.000Z",
+    "fingerprint": "f6aade1cc083feb2fd068e37da8b2ecf07203aa2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Galaxy Z Fold8 Wide Leaks Show a Foldable With iPad-Like Proportions",
+    "link": "https://www.yankodesign.com/2026/03/26/galaxy-z-fold8-wide-leaks-show-a-foldable-with-ipad-like-proportions/?utm_source=rss&utm_medium=rss&utm_campaign=galaxy-z-fold8-wide-leaks-show-a-foldable-with-ipad-like-proportions",
+    "published_at": "2026-03-26T17:20:12.000Z",
+    "fingerprint": "2e52bf56baaafc354c0fdff424bfcd65a82c9a31",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Antitrust avvia istruttoria su buoni pasto Edenred",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/03/26/lantitrust-avvia-listruttoria-sui-buoni-pasto-edenred-_8c083638-b583-4668-a823-cb8c4c071e7f.html",
+    "published_at": "2026-03-26T17:05:57.000Z",
+    "fingerprint": "c3c925c0e2bb15d3e3111dcc2e3df8166d45e88d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "designed for overstimulated minds, this wearable device shifts visuals with brain activity",
+    "link": "https://www.designboom.com/technology/designed-for-overstimulated-minds-this-wearable-device-shift-visuals-with-brain-activity/",
+    "published_at": "2026-03-26T16:56:53.000Z",
+    "fingerprint": "8961474eae158682a2be3b09b088b2ce26929827",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'esperto: 'A 13 anni è troppo presto per i social, servono nuove norme'",
+    "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/03/26/esperto-a-13-anni-e-troppo-presto-per-i-social-servono-nuove-norme_c06a46c0-6550-483e-accb-19b07d1146de.html",
+    "published_at": "2026-03-26T16:50:04.000Z",
+    "fingerprint": "7ccf7c955c214e1f45b6324c62abbd2df4027df9",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Vanno a Sharm e lasciano soli i 5 figli, minori in comunità",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/26/vanno-a-sharm-e-lasciano-soli-i-5-figli-minori-allontanati-dalla-famiglia_2e11b99b-302a-4600-b9ca-24740cacfc34.html",
+    "published_at": "2026-03-26T15:11:40.000Z",
+    "fingerprint": "96d380716855928b51e6696f7ef5efb9915d6acc",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Rosalía incanta, ma poi si ferma: concerto interrotto per un malore",
+    "link": "https://www.ansa.it/sito/notizie/cultura/2026/03/25/rosalia-incanta-ma-poi-si-ferma-concerto-interrotto-per-un-malore_34c99d89-60a3-4ada-83ba-fec0cdb9bb58.html",
+    "published_at": "2026-03-26T14:34:51.000Z",
+    "fingerprint": "67c5a54a66a21490e58133aedf0020e97f3ab55a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "how olalekan jeyifous reshapes worldly contingencies with speculative design",
+    "link": "https://www.designboom.com/design/parallel-presents-how-olalekan-jeyifous-reshapes-worldly-contingencies-with-speculative-design/",
+    "published_at": "2026-03-26T11:56:29.000Z",
+    "fingerprint": "2e4d26a7e119016834d1dfea4ddfa2c484dad91b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Anvil",
+    "link": "https://www.producthunt.com/products/anvil-5",
+    "published_at": "2026-03-26T06:59:33.000Z",
+    "fingerprint": "664b009f07f9cf5f02684e865d2ffff8f94db9bd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "playful form meets urban icon: balloon geometry shapes a whale-like landmark in zhanjiang",
+    "link": "https://www.designboom.com/art/playful-form-meets-urban-icon-balloon-geometry-shapes-a-whale-like-landmark-in-zhanjiang/",
+    "published_at": "2026-03-26T03:00:04.000Z",
+    "fingerprint": "d68165e15f681aacf2339072dd91414fb6910dea",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "Small, Aggressive, and Under $80: Meet The Kansept Wasp Button Lock Knife",
     "link": "https://www.yankodesign.com/2026/03/25/small-aggressive-and-under-80-meet-the-kansept-wasp-button-lock-knife/?utm_source=rss&utm_medium=rss&utm_campaign=small-aggressive-and-under-80-meet-the-kansept-wasp-button-lock-knife",
@@ -13,6 +157,14 @@
     "link": "https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780",
     "published_at": "2026-03-25T23:30:55.000Z",
     "fingerprint": "054c73b0b298a582b1ee29b9e74b925b7ad91245",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Inspekt",
+    "link": "https://www.producthunt.com/products/inspekt",
+    "published_at": "2026-03-25T21:59:58.000Z",
+    "fingerprint": "ef24a66ce781c23cc4e5f4607e0c0ae2c4d0655b",
     "micro_judgment": null
   },
   {
@@ -48,11 +200,27 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Linear Agent",
+    "link": "https://www.producthunt.com/products/linear-agent",
+    "published_at": "2026-03-25T17:51:41.000Z",
+    "fingerprint": "e18157a3c169ff3bd4745e9746e4196cc7e09dc3",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "Rimowa Classic Aluminium Grid Revives a Forgotten 1969 Design",
     "link": "https://www.yankodesign.com/2026/03/25/rimowa-classic-aluminium-grid-revives-a-forgotten-1969-design/?utm_source=rss&utm_medium=rss&utm_campaign=rimowa-classic-aluminium-grid-revives-a-forgotten-1969-design",
     "published_at": "2026-03-25T17:20:05.000Z",
     "fingerprint": "351dea5bb5688abd2372b9a3edecd0afae08fc48",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Autonoma.pro",
+    "link": "https://www.producthunt.com/products/autonoma-sourcing",
+    "published_at": "2026-03-25T16:02:07.000Z",
+    "fingerprint": "778b7f1aa20c52269b21d46dae75ab038c97d0d4",
     "micro_judgment": null
   },
   {
@@ -80,11 +248,27 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Trivia by Typito AI",
+    "link": "https://www.producthunt.com/products/trivia-by-typito-ai",
+    "published_at": "2026-03-25T08:45:01.000Z",
+    "fingerprint": "985db565ddf9ff500a0d5e0a4938221cfbee7bb8",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "explore WINT design lab’s regenerative futures that connect humans with their bodies",
     "link": "https://www.designboom.com/technology/explore-wint-design-lab-regenerative-futures-humans-connect-bodies/",
     "published_at": "2026-03-25T06:30:19.000Z",
     "fingerprint": "d3cc9eb50253aa068345b4a102a9cc57a45c017f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Arm AGI CPU",
+    "link": "https://www.producthunt.com/products/arm-agi-cpu",
+    "published_at": "2026-03-25T05:02:08.000Z",
+    "fingerprint": "a77aaaf4836afee67ff99b43c206b287af7aaa6c",
     "micro_judgment": null
   },
   {
@@ -101,6 +285,14 @@
     "link": "https://www.yankodesign.com/2026/03/24/this-tungsten-tipped-nutcracker-works-on-walnuts-seafood-and-even-car-windows-in-an-emergency/?utm_source=rss&utm_medium=rss&utm_campaign=this-tungsten-tipped-nutcracker-works-on-walnuts-seafood-and-even-car-windows-in-an-emergency",
     "published_at": "2026-03-25T01:45:37.000Z",
     "fingerprint": "6b48ebe50c320a4b19bca742e44e1caab0995aa3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "vit",
+    "link": "https://www.producthunt.com/products/vit",
+    "published_at": "2026-03-25T01:45:18.000Z",
+    "fingerprint": "9b37bd89bb2402da7801fbef11dd71948f341da7",
     "micro_judgment": null
   },
   {
@@ -557,6 +749,14 @@
     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/03/21/brad-cooper-indebolita-la-capacita-offensiva-delliran-su-hormuz_d87ffdd0-83c1-4b26-91ba-37d55ef6c8a3.html",
     "published_at": "2026-03-21T19:34:05.000Z",
     "fingerprint": "227820b43d60dca9e8d2363841689bbe1908b92c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Venn.ai",
+    "link": "https://www.producthunt.com/products/venn-ai-2",
+    "published_at": "2026-03-21T19:19:35.000Z",
+    "fingerprint": "b040a4ca5acad50c3bf404c15c447a4ebdbdee29",
     "micro_judgment": null
   },
   {
