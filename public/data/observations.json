@@ -1,6 +1,238 @@
 [
   {
     "source": "ANSA",
+    "title": "Il Washington Post: \"Il Pentagono si prepara a settimane di operazioni a terra in Iran\" - Liveblog",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/29/il-washington-post-il-pentagono-si-prepara-a-settimane-di-operazioni-a-terra-in-iran-liveblog_64538de2-93b6-4e30-b93a-c3dabb47f5d5.html",
+    "published_at": "2026-03-29T05:36:00.000Z",
+    "fingerprint": "28f6d011ee9e01efb09711e291ff19df8ec3173d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "OpenYak – An open-source Cowork that runs any model and owns your filesystem",
+    "link": "https://github.com/openyak/desktop",
+    "published_at": "2026-03-29T04:26:13.000Z",
+    "fingerprint": "87faef466635f76b1a658e64c15643d2b805d5a4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "A cake decorated as a piece of cake",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1s6himi/a_cake_decorated_as_a_piece_of_cake/",
+    "published_at": "2026-03-29T01:05:04.000Z",
+    "fingerprint": "023c1ab1ae1562f2b26ad359a54e928c4da0a7e0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "The company decided thi wording needed to be changed.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1s6gd3c/the_company_decided_thi_wording_needed_to_be/",
+    "published_at": "2026-03-29T00:11:40.000Z",
+    "fingerprint": "cdb2fed11cfd36aafd9e65b72b4d58dffe2152ec",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "South Korea Mandates Solar Panels for Public Parking Lots",
+    "link": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+    "published_at": "2026-03-28T23:29:04.000Z",
+    "fingerprint": "a9100e8f51c20f899e398b1897486ab2056e394e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "World's first floating bridge train passing traffic in Seattle",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1s6ezpe/worlds_first_floating_bridge_train_passing/",
+    "published_at": "2026-03-28T23:11:03.000Z",
+    "fingerprint": "d53e87e610a956f7cef37ea6a2e3ff129149f0a0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Sealing Paper Packaging Without Adhesives",
+    "link": "https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html",
+    "published_at": "2026-03-28T22:50:49.000Z",
+    "fingerprint": "eb587e42eb7884a6b30626e4656babc7e34d08aa",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "\"The Teether\" by Odd Little Workshop",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1s6cygt/the_teether_by_odd_little_workshop/",
+    "published_at": "2026-03-28T21:44:31.000Z",
+    "fingerprint": "8373f91ac22de0d92f4759cce399ecd414bf26aa",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "One Design Concept Is Treating Your Plate Like a Mood Board",
+    "link": "https://www.yankodesign.com/2026/03/28/one-design-concept-is-treating-your-plate-like-a-mood-board/?utm_source=rss&utm_medium=rss&utm_campaign=one-design-concept-is-treating-your-plate-like-a-mood-board",
+    "published_at": "2026-03-28T20:45:39.000Z",
+    "fingerprint": "e8f1644a7c0bc6bfe3e93bb3d250a69cef3f6e70",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "CSS is DOOMed",
+    "link": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+    "published_at": "2026-03-28T20:39:01.000Z",
+    "fingerprint": "bd179f6fc1fda6d7f4b355200c4a9e481f4d19f0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Found these robin eggs in my yard",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1s6atfx/found_these_robin_eggs_in_my_yard/",
+    "published_at": "2026-03-28T20:17:51.000Z",
+    "fingerprint": "6b9b262efe2f158fa4b97c6fb7b59924cfddcc7c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "\"Per un mondo libero dalle guerre\", a Roma migliaia al corteo No Kings",
+    "link": "https://www.ansa.it/sito/videogallery/short_video/2026/03/28/per-un-mondo-libero-dalle-guerre-a-roma-migliaia-al-corteo-no-kings_baffa56a-b4f0-4e13-927d-8f33f61deabb.html",
+    "published_at": "2026-03-28T20:11:42.000Z",
+    "fingerprint": "364db056833e91912ee8fbd44a016a0a26c100d5",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La guerra piomba su conti e Pil, per Giorgetti: 'Possiamo assorbire shock'",
+    "link": "https://www.ansa.it/sito/notizie/economia/pmi/2026/03/28/la-guerra-piomba-su-conti-e-pil-per-giorgetti-possiamo-assorbire-shock_2809852b-6775-43bd-a37a-d09a2279d4d6.html",
+    "published_at": "2026-03-28T19:59:56.000Z",
+    "fingerprint": "85ffa7f510d3237a2d7afba64b70a50fd736f3ff",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Salvata dai Vigili del Fuoco la donna caduta in un pozzo a Roma, trasportata in ospedale",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/recuperata-la-donna-caduta-in-un-pozzo-a-roma-trasportata-in-ospedale_e400165d-b29b-4506-9a5a-978138101581.html",
+    "published_at": "2026-03-28T19:35:19.000Z",
+    "fingerprint": "c82661730813961470879b62d7e22b85e2e87b47",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "free fish parts",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1s69m1p/free_fish_parts/",
+    "published_at": "2026-03-28T19:29:50.000Z",
+    "fingerprint": "7d347ec53844359518be651a15cbde491b79f82c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The first 40 months of the AI era",
+    "link": "https://lzon.ca/posts/other/thoughts-ai-era/",
+    "published_at": "2026-03-28T18:42:08.000Z",
+    "fingerprint": "77526d3b761f9b55e5f482b8215e2995abe90166",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Per Pasqua 9 milioni di italiani in viaggio nonostante la crisi internazionale",
+    "link": "https://www.ansa.it/canale_viaggi/notizie/news/2026/03/28/per-pasqua-9-milioni-di-italiani-in-viaggio-nonostante-la-crisi-internazionale_91449fb8-48e3-4800-b125-3c18aacec4f3.html",
+    "published_at": "2026-03-28T18:03:12.000Z",
+    "fingerprint": "c827998abfa9c1164c5d4a61821cbe3f5e54d68e",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "ll Papa: 'Le guerre di oggi frutto dell'idolatria di potere e di danaro'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/ll-papa-le-guerre-di-oggi-frutto-dellidolatria-di-potere-e-di-danaro_3ea175a9-0f8c-4def-8506-6b4ea22259f1.html",
+    "published_at": "2026-03-28T17:43:35.000Z",
+    "fingerprint": "4990fe9bd22117540fa88fee0aa8ddff3680c56c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Stephen McMennamy brings everyday objects together in unexpected ways, creating playful visual illusions",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1s65iys/stephen_mcmennamy_brings_everyday_objects/",
+    "published_at": "2026-03-28T16:51:18.000Z",
+    "fingerprint": "2d4fcbe3be995c536408a55d82eb9cfcbcc2b7bc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "I decompiled the White House's new app",
+    "link": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+    "published_at": "2026-03-28T15:37:17.000Z",
+    "fingerprint": "80f14868e765957eba1b4b467cd07474ec0a413d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'AI in guerra per distruggere, confondere, creare",
+    "link": "https://www.ansa.it/sito/videogallery/mondo/2026/03/28/lai-in-guerra-per-distruggere-confondere-creare_117cd70e-dad1-46cd-b9b7-3c00cf4fe689.html",
+    "published_at": "2026-03-28T15:28:57.000Z",
+    "fingerprint": "1d61e179de753ba8cf003794c0640e5705cbe53e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "I made this weirdly satisfying tree animation for TV show",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1s62j9g/i_made_this_weirdly_satisfying_tree_animation_for/",
+    "published_at": "2026-03-28T14:56:38.000Z",
+    "fingerprint": "3b419f652e6bbf4c001f78471d00648b6bbf9c4b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · ofcoursethatsathing",
+    "title": "I thought this was one of you guys",
+    "link": "https://www.reddit.com/r/ofcoursethatsathing/comments/1s61fkf/i_thought_this_was_one_of_you_guys/",
+    "published_at": "2026-03-28T14:12:29.000Z",
+    "fingerprint": "d3c464c3a7543f6295255c5fc8a6d7a7a2ae72f2",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Scoperto un giovanissimo sistema solare, è distante 400 anni luce",
+    "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/03/28/scoperto-un-giovanissimo-sistema-solare-e-distante-400-anni-luce_5e356297-678c-4b91-be5e-36d47104f950.html",
+    "published_at": "2026-03-28T13:14:17.000Z",
+    "fingerprint": "19c9091fb04948de7bc122144de35db67c104c04",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Found a broken bowling ball",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1s5zo7q/found_a_broken_bowling_ball/",
+    "published_at": "2026-03-28T12:58:38.000Z",
+    "fingerprint": "9285653748ecdcbad8096777ea3c05eb382bb377",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Spanish legislation as a Git repo",
+    "link": "https://github.com/EnriqueLop/legalize-es",
+    "published_at": "2026-03-28T12:01:27.000Z",
+    "fingerprint": "56028ccd3e9a639a3337884f84106d02fbbf7f78",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
+    "link": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
+    "published_at": "2026-03-28T12:01:07.000Z",
+    "fingerprint": "efadffacd42f9bad264cf98c4daab71e3e6c133f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "I Built an Open-World Engine for the N64 [video]",
+    "link": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+    "published_at": "2026-03-28T11:49:28.000Z",
+    "fingerprint": "b80515352f2b17ecb936765745c3d90bcd10d77e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This bird looks like it's standing midair",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1s5x6s6/this_bird_looks_like_its_standing_midair/",
+    "published_at": "2026-03-28T10:51:39.000Z",
+    "fingerprint": "1689861a8873b1f350c763d9952858e33daf61e8",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Thailandia, raggiunto un accordo con l'Iran per lo Stretto di Hormuz",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/28/thailandia-raggiunto-un-accordo-con-liran-per-lo-stretto-di-hormuz_087c2e60-b6f6-48e9-ad75-0f0cc369427c.html",
     "published_at": "2026-03-28T05:57:28.000Z",
@@ -48,6 +280,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Domscribe",
+    "link": "https://www.producthunt.com/products/domscribe",
+    "published_at": "2026-03-27T23:14:06.000Z",
+    "fingerprint": "a6d1833e9066678ed2c5a9414fc9a6df53422786",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · mildlyinteresting",
     "title": "A coconut weather forecasting system at this hotel",
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1s5j6tr/a_coconut_weather_forecasting_system_at_this_hotel/",
@@ -69,6 +309,14 @@
     "link": "https://www.designboom.com/architecture/steel-pavilion-extends-historic-farmhouse-on-australias-monaro-plateau/",
     "published_at": "2026-03-27T22:00:40.000Z",
     "fingerprint": "32e50ae9c16d6a934b6dd9a78fa61024e7b0a6a7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "WordPress Studio CLI",
+    "link": "https://www.producthunt.com/products/wordpress-studio-cli",
+    "published_at": "2026-03-27T19:31:58.000Z",
+    "fingerprint": "8814ae1ed66d1216fe8b46835ebd2af8cfee0195",
     "micro_judgment": null
   },
   {
@@ -125,6 +373,14 @@
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1s53rht/skating_down_a_mountain/",
     "published_at": "2026-03-27T13:14:28.000Z",
     "fingerprint": "24213c73507a39c6016b80ee78d1d3e278fae922",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Santana by Deep Softworks",
+    "link": "https://www.producthunt.com/products/santana",
+    "published_at": "2026-03-27T12:45:33.000Z",
+    "fingerprint": "3c6a88b206ed77e5964cfa48cd8eb41bf5677cd0",
     "micro_judgment": null
   },
   {
@@ -293,6 +549,14 @@
     "link": "https://www.ansa.it/sito/notizie/cultura/2026/03/25/rosalia-incanta-ma-poi-si-ferma-concerto-interrotto-per-un-malore_34c99d89-60a3-4ada-83ba-fec0cdb9bb58.html",
     "published_at": "2026-03-26T14:34:51.000Z",
     "fingerprint": "67c5a54a66a21490e58133aedf0020e97f3ab55a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Expect",
+    "link": "https://www.producthunt.com/products/expect",
+    "published_at": "2026-03-26T12:00:31.000Z",
+    "fingerprint": "00a1d2775ed498a291c6c242bddfa89590bc7dda",
     "micro_judgment": null
   },
   {
@@ -2221,6 +2485,14 @@
     "link": "https://www.yankodesign.com/2026/03/14/the-zipper-is-the-button-finally/?utm_source=rss&utm_medium=rss&utm_campaign=the-zipper-is-the-button-finally",
     "published_at": "2026-03-14T22:30:12.000Z",
     "fingerprint": "8cb13f46482e326a007d5e0d08de67de63477085",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "BNA",
+    "link": "https://www.producthunt.com/products/bna-3",
+    "published_at": "2026-03-14T21:40:54.000Z",
+    "fingerprint": "744e3613784ee227453dae6245f65ac39f5815e5",
     "micro_judgment": null
   },
   {
