@@ -1,5 +1,53 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "The curious case of retro demo scene graphics",
+    "link": "https://www.datagubbe.se/aipixels/",
+    "published_at": "2026-03-30T05:27:18.000Z",
+    "fingerprint": "1e7090ba6e8c63382cca1185c30a83213cae648c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Jannik Sinner trionfa a Miami, è 'Sunshine double'",
+    "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/30/-jannik-sinner-inarrestabile-vince-anche-il-torneo-di-miami-_14d2c828-cb00-4f7d-9aa4-b8fc28f8d52a.html",
+    "published_at": "2026-03-30T04:55:51.000Z",
+    "fingerprint": "ce4374b3aff790a742446a182a484ee74a50198b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "More on Version Control",
+    "link": "https://bramcohen.com/p/more-on-version-control",
+    "published_at": "2026-03-29T19:26:14.000Z",
+    "fingerprint": "dd29a1b2f351d30675f7ef71264585bd1ec7da69",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "ASviS e CNBF, 'Piani della Natura e rigenerazione urbana'",
+    "link": "https://www.ansa.it/sito/notizie/ansa_incontra/2026/03/29/piani-della-natura-e-rigenerazione-urbana-in-streaming-dalle-12_84ffb87f-5f98-4f2d-a683-842914891ba9.html",
+    "published_at": "2026-03-29T18:45:58.000Z",
+    "fingerprint": "aca239e620487bcd63f865adb398e6320f0c337c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The Most Creative Public Space Design Right Now Is Made of Trash",
+    "link": "https://www.yankodesign.com/2026/03/29/the-most-creative-public-space-design-right-now-is-made-of-trash/?utm_source=rss&utm_medium=rss&utm_campaign=the-most-creative-public-space-design-right-now-is-made-of-trash",
+    "published_at": "2026-03-29T13:20:51.000Z",
+    "fingerprint": "0ec567be33a55ad5deb2aec75a7bb2f2b3a32f81",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "5 Inclusive Products That Prove Braille Design Is the Future of Every Device",
+    "link": "https://www.yankodesign.com/2026/03/29/5-inclusive-products-that-prove-braille-design-is-the-future-of-every-device/?utm_source=rss&utm_medium=rss&utm_campaign=5-inclusive-products-that-prove-braille-design-is-the-future-of-every-device",
+    "published_at": "2026-03-29T11:40:26.000Z",
+    "fingerprint": "91cf43d91b99a5a66d617a15cd4bdc2eb72e4112",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Il Washington Post: \"Il Pentagono si prepara a settimane di operazioni a terra in Iran\" - Liveblog",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/03/29/il-washington-post-il-pentagono-si-prepara-a-settimane-di-operazioni-a-terra-in-iran-liveblog_64538de2-93b6-4e30-b93a-c3dabb47f5d5.html",
@@ -149,6 +197,22 @@
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1s65iys/stephen_mcmennamy_brings_everyday_objects/",
     "published_at": "2026-03-28T16:51:18.000Z",
     "fingerprint": "2d4fcbe3be995c536408a55d82eb9cfcbcc2b7bc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Cline Kanban",
+    "link": "https://www.producthunt.com/products/cline-4",
+    "published_at": "2026-03-28T16:28:00.000Z",
+    "fingerprint": "7be8d7d81070d7c136698ae0b226b4dffde1eeac",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Genzi",
+    "link": "https://www.producthunt.com/products/genzi",
+    "published_at": "2026-03-28T16:01:31.000Z",
+    "fingerprint": "e4c576d33c9d3f8afd5412c28a1e31f44616e221",
     "micro_judgment": null
   },
   {
@@ -805,6 +869,14 @@
     "link": "https://www.ansa.it/native/ansacom/2026/03/24/in-vendita-a-roma-il-palazzo-che-fu-sede-del-pontificio-collegio-belga_a82bac0c-297c-45c4-b1a2-ea96405a8618.html",
     "published_at": "2026-03-24T10:29:22.000Z",
     "fingerprint": "a8445439b6951c8073467926c271bf82d72d38a8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Parallel Code",
+    "link": "https://www.producthunt.com/products/parallel-code",
+    "published_at": "2026-03-24T09:10:55.000Z",
+    "fingerprint": "68e75723367cc652a78908b431fda5d8d683f072",
     "micro_judgment": null
   },
   {
