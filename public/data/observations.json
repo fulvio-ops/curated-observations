@@ -1,6 +1,94 @@
 [
   {
     "source": "Hacker News · frontpage",
+    "title": "Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly",
+    "link": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/",
+    "published_at": "2026-03-31T03:28:03.000Z",
+    "fingerprint": "2ce8f0534c17619414ff246fdb52261b293977ee",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+    "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+    "published_at": "2026-03-31T02:54:17.000Z",
+    "fingerprint": "07bd28896cd8f56ac134e81b6eb9efdfcef97d99",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Universal Claude.md – cut Claude output tokens",
+    "link": "https://github.com/drona23/claude-token-efficient",
+    "published_at": "2026-03-31T01:23:34.000Z",
+    "fingerprint": "f33227183c6e6340f1ca05b1686ab03a7893467f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "SOM’s New Kazakhstan Towers Look Like a Sci-Fi Set. They’re Not.",
+    "link": "https://www.yankodesign.com/2026/03/30/soms-new-kazakhstan-towers-look-like-a-sci-fi-set-theyre-not/?utm_source=rss&utm_medium=rss&utm_campaign=soms-new-kazakhstan-towers-look-like-a-sci-fi-set-theyre-not",
+    "published_at": "2026-03-30T23:30:56.000Z",
+    "fingerprint": "2dc63695c1c62693ac396905e0fc29541b2cd710",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The Ping Pong Tables at This French School Have No Rules",
+    "link": "https://www.yankodesign.com/2026/03/30/the-ping-pong-tables-at-this-french-school-have-no-rules/?utm_source=rss&utm_medium=rss&utm_campaign=the-ping-pong-tables-at-this-french-school-have-no-rules",
+    "published_at": "2026-03-30T21:30:26.000Z",
+    "fingerprint": "d0ffc9e1c5e8060490f41cc21cb376cdd834a0df",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Nothing-Inspired A X1 keyboard concept is a creative control hub that maintains its minimalist appeal",
+    "link": "https://www.yankodesign.com/2026/03/30/nothing-inspired-a-x1-keyboard-concept-is-a-creative-control-hub-that-maintains-its-minimalist-appeal/?utm_source=rss&utm_medium=rss&utm_campaign=nothing-inspired-a-x1-keyboard-concept-is-a-creative-control-hub-that-maintains-its-minimalist-appeal",
+    "published_at": "2026-03-30T19:22:14.000Z",
+    "fingerprint": "1ac790970cc572e010d360501420ab6f1fb1ff00",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Trump crolla nei sondaggi al 33%, il più basso del secondo mandato",
+    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/03/30/trump-crolla-nei-sondaggi-al-33-il-piu-basso-del-secondo-mandato_6a4e9b5b-89ca-449b-b0f0-97a3342cd8e8.html",
+    "published_at": "2026-03-30T18:56:54.000Z",
+    "fingerprint": "30d49eb6c9fa3e4901ab8654d0e8d3b722a75e34",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il ciclone del Mediterraneo 'Jolina' visto dai satelliti  VIDEO",
+    "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/03/30/il-ciclone-del-mediterraneo-jolina-visto-dai-satelliti_9096de5c-a66e-4830-adb4-718dc14dad28.html",
+    "published_at": "2026-03-30T15:25:53.000Z",
+    "fingerprint": "e03634d7a162776e2e3f8d963e141914012a1009",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "paul rudolph’s historical walker guest house returns in exhibition curated by A$AP rocky",
+    "link": "https://www.designboom.com/architecture/paul-rudolph-walker-guest-house-exhibition-curated-asap-rocky/",
+    "published_at": "2026-03-30T09:10:11.000Z",
+    "fingerprint": "ec607cbe3c2603288db1ac1bcac5420ac65bf154",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "winner announced for All-New Nissan MICRA global design competition",
+    "link": "https://www.designboom.com/design/all-new-nissan-micra-the-signature-edition-contest-winner-announcement/",
+    "published_at": "2026-03-30T07:00:36.000Z",
+    "fingerprint": "5107cafac157e46a1cd5cb89c003b3e1bfacdb88",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "VibeTalent",
+    "link": "https://www.producthunt.com/products/vibetalent",
+    "published_at": "2026-03-30T06:40:18.000Z",
+    "fingerprint": "1226547f681d125ef8cafad7494313059eba9eba",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
     "title": "The curious case of retro demo scene graphics",
     "link": "https://www.datagubbe.se/aipixels/",
     "published_at": "2026-03-30T05:27:18.000Z",
@@ -16,11 +104,35 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "FreeCAD 1.1",
+    "link": "https://www.producthunt.com/products/freecad-2",
+    "published_at": "2026-03-30T04:22:48.000Z",
+    "fingerprint": "af8d6dbbf3bc6b4e9c9674ad290fe66442fae867",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Halo Vision Headphones",
+    "link": "https://www.producthunt.com/products/halo-headphones",
+    "published_at": "2026-03-30T01:40:16.000Z",
+    "fingerprint": "10d7f68678c093a69329450da3782772fcc78ae3",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "More on Version Control",
     "link": "https://bramcohen.com/p/more-on-version-control",
     "published_at": "2026-03-29T19:26:14.000Z",
     "fingerprint": "dd29a1b2f351d30675f7ef71264585bd1ec7da69",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Git Blog",
+    "link": "https://www.producthunt.com/products/git-blog",
+    "published_at": "2026-03-29T18:59:11.000Z",
+    "fingerprint": "f89d3aa4c25f740cca5d2cf96b25a6f0af4d39bf",
     "micro_judgment": null
   },
   {
@@ -181,6 +293,14 @@
     "link": "https://www.ansa.it/canale_viaggi/notizie/news/2026/03/28/per-pasqua-9-milioni-di-italiani-in-viaggio-nonostante-la-crisi-internazionale_91449fb8-48e3-4800-b125-3c18aacec4f3.html",
     "published_at": "2026-03-28T18:03:12.000Z",
     "fingerprint": "c827998abfa9c1164c5d4a61821cbe3f5e54d68e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Blood Sugar Journal",
+    "link": "https://www.producthunt.com/products/blood-sugar-journal",
+    "published_at": "2026-03-28T17:47:07.000Z",
+    "fingerprint": "caf8183e2c465ef7f0e261ca498a38ea635c7eff",
     "micro_judgment": null
   },
   {
@@ -617,6 +737,14 @@
   },
   {
     "source": "Product Hunt",
+    "title": "Streva",
+    "link": "https://www.producthunt.com/products/streva",
+    "published_at": "2026-03-26T12:04:05.000Z",
+    "fingerprint": "b9f8ddced66059a27ed834b80e91f06cc3a6ba57",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
     "title": "Expect",
     "link": "https://www.producthunt.com/products/expect",
     "published_at": "2026-03-26T12:00:31.000Z",
@@ -853,6 +981,14 @@
     "link": "https://www.designboom.com/architecture/maria-arana-zubiate-how-creative-impulse-utopia-improves-world-essay/",
     "published_at": "2026-03-24T11:45:14.000Z",
     "fingerprint": "35a40b6f1a42faad172dbd7231944e2704ea3161",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Diploi",
+    "link": "https://www.producthunt.com/products/diploi",
+    "published_at": "2026-03-24T11:36:03.000Z",
+    "fingerprint": "69289ce4c4937bafb5829414b68b18d5109055a6",
     "micro_judgment": null
   },
   {
@@ -4141,6 +4277,14 @@
     "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
     "published_at": "2026-03-04T01:31:05.000Z",
     "fingerprint": "06cb69657705e62c0466a4f1f6dd456539c9fd98",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Notion MCP",
+    "link": "https://www.producthunt.com/products/notion-mcp",
+    "published_at": "2026-03-04T00:50:58.000Z",
+    "fingerprint": "2e0763727c0224ef38882917e0925b19dd0bf969",
     "micro_judgment": null
   },
   {
