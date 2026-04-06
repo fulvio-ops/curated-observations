@@ -1,6 +1,158 @@
 [
   {
     "source": "ANSA",
+    "title": "Tre morti a Odessa dopo un attacco russo, anche un bambino",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/06/ucraina-tre-morti-a-odessa-dopo-un-attacco-russo-anche-un-bambino_627c7e7b-8f48-4b63-917d-b08cd60b1212.html",
+    "published_at": "2026-04-06T06:52:39.000Z",
+    "fingerprint": "acf6dbdf973fecd2c615ce164334512b61e04898",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Ogoron",
+    "link": "https://www.producthunt.com/products/ogoron",
+    "published_at": "2026-04-06T03:31:26.000Z",
+    "fingerprint": "3d387c9fbebb2f92d4b2146e1de055137d6d0287",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Measuring cup melted and hardened around the dishwasher rod",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1sdlwsj/measuring_cup_melted_and_hardened_around_the/",
+    "published_at": "2026-04-06T02:02:46.000Z",
+    "fingerprint": "3ea06824fecabc9eb2ee6f3f848403e133013a98",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "60Hz Thermal and 4K Night Vision in One Device. SpectraEyes Basically Gives You Superman’s Vision",
+    "link": "https://www.yankodesign.com/2026/04/05/60hz-thermal-and-4k-night-vision-in-one-device-spectraeyes-basically-gives-you-supermans-vision/?utm_source=rss&utm_medium=rss&utm_campaign=60hz-thermal-and-4k-night-vision-in-one-device-spectraeyes-basically-gives-you-supermans-vision",
+    "published_at": "2026-04-06T01:45:55.000Z",
+    "fingerprint": "3375e08389681af1f7e6d4252999193bc28f635d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Found my old Samsung s7 tucked away",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1sdlczi/found_my_old_samsung_s7_tucked_away/",
+    "published_at": "2026-04-06T01:37:45.000Z",
+    "fingerprint": "065205a2b290001e1bf3442812ddd7188181aa4e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: I built a tiny LLM to demystify how language models work",
+    "link": "https://github.com/arman-bd/guppylm",
+    "published_at": "2026-04-06T00:20:12.000Z",
+    "fingerprint": "88a79a798e892dab47fda6b0d5091d0c0f4b98d2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+    "link": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+    "published_at": "2026-04-05T22:31:16.000Z",
+    "fingerprint": "4f7d547eb45c0a1eaca978bdb90f04ad1ee3cdb4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "A Stool With Six Legs Just Made Four Feel Outdated",
+    "link": "https://www.yankodesign.com/2026/04/05/a-stool-with-six-legs-just-made-four-feel-outdated/?utm_source=rss&utm_medium=rss&utm_campaign=a-stool-with-six-legs-just-made-four-feel-outdated",
+    "published_at": "2026-04-05T22:30:15.000Z",
+    "fingerprint": "9569453ae2fc8c18120e9c47ba65ad7cd16926b9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Gemma 4 on iPhone",
+    "link": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+    "published_at": "2026-04-05T18:45:53.000Z",
+    "fingerprint": "247a739d9800ce506b91b4e771f6507db045455d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Music for Programming",
+    "link": "https://musicforprogramming.net",
+    "published_at": "2026-04-05T18:23:08.000Z",
+    "fingerprint": "297c082dfc13365e033bdde3fb00fdc994246529",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "I keep finding ants in this circle formation in my bathroom",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1sd9dum/i_keep_finding_ants_in_this_circle_formation_in/",
+    "published_at": "2026-04-05T17:21:52.000Z",
+    "fingerprint": "97e774445fe302600c4afc7a3a3c5e08c29e2801",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Tennis: Montecarlo al via, Sinner insegue Alcaraz",
+    "link": "https://www.ansa.it/sito/notizie/sport/2026/04/05/tennis-montecarlo-al-via-sinner-insegue-alcaraz_2e6b67bf-df24-4240-8631-0d3f2a8b9251.html",
+    "published_at": "2026-04-05T16:08:07.000Z",
+    "fingerprint": "48f05bd9517d96b81d30257d8c3c8914a8d96c4c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Mechanically Sorting Tomatoes at Harvest",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1sd5v55/mechanically_sorting_tomatoes_at_harvest/",
+    "published_at": "2026-04-05T15:02:48.000Z",
+    "fingerprint": "7816e644a6fc242a42c41317bc5d13be903d82f7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Lounge Chair’s Shape Is Precisely Why Two of Them Make a Sofa",
+    "link": "https://www.yankodesign.com/2026/04/05/this-lounge-chairs-shape-is-precisely-why-two-of-them-make-a-sofa/?utm_source=rss&utm_medium=rss&utm_campaign=this-lounge-chairs-shape-is-precisely-why-two-of-them-make-a-sofa",
+    "published_at": "2026-04-05T13:20:59.000Z",
+    "fingerprint": "88fe7d939d13794a3276a57241bead098c3dadc9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "This leaf cutter bee effortlessly slicing through a leaf",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1sd2ea6/this_leaf_cutter_bee_effortlessly_slicing_through/",
+    "published_at": "2026-04-05T12:29:48.000Z",
+    "fingerprint": "9bb087a199fea352e45795b43d8b5415a574153a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il Papa: \"Chi ha il potere di scatenare le guerre scelga la pace\"",
+    "link": "https://www.ansa.it/sito/videogallery/mondo/2026/04/05/il-papa-chi-ha-il-potere-di-scatenare-le-guerre-scelga-la-pace_9962e297-05c2-4b82-8afa-fb7ccbab2496.html",
+    "published_at": "2026-04-05T11:52:11.000Z",
+    "fingerprint": "b6262abeece00a176de8a42eb090098295d5d5e5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "5 Vertical Farm Designs That Grow Food Inside Your Home and City",
+    "link": "https://www.yankodesign.com/2026/04/05/5-vertical-farm-designs-that-grow-food-inside-your-home-and-city/?utm_source=rss&utm_medium=rss&utm_campaign=5-vertical-farm-designs-that-grow-food-inside-your-home-and-city",
+    "published_at": "2026-04-05T11:40:59.000Z",
+    "fingerprint": "5da75a3095f92b580d8997fb7dc8355100719e56",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'alta pressione tiene lontane le piogge dall'Italia fino a venerdì",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/05/lalta-pressione-tiene-lontane-le-piogge-dallitalia-fino-a-venerdi_a5f9837f-6f56-4447-a629-7a5d13f0ddb5.html",
+    "published_at": "2026-04-05T11:20:33.000Z",
+    "fingerprint": "f7509eac6c3536eb52c50935d6a1a2654ebd7735",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "My family went to the arcade. We caught a coin tower falling in a coin pusher game.",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1sct71n/my_family_went_to_the_arcade_we_caught_a_coin/",
+    "published_at": "2026-04-05T03:36:11.000Z",
+    "fingerprint": "457dd77c169dce75978db51de178ef7577fde944",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Droni contro impianti elettrici, petroliferi e desalinizzazione Kuwait",
     "link": "https://www.ansa.it/sito/notizie/topnews/2026/04/05/media-droni-contro-impianti-elettrici-petroliferi-e-desalinizzazione-kuwait_04462f60-87af-4a21-b531-b6cdc3716665.html",
     "published_at": "2026-04-05T03:26:43.000Z",
@@ -77,6 +229,14 @@
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/04/fumavano-marijuana-per-religione-assolti-in-appello-due-appartenenti-a-hare-krishna_06ad9d69-8da8-48c7-8945-85bb17048811.html",
     "published_at": "2026-04-04T14:51:59.000Z",
     "fingerprint": "ad6dccf040cff2005037995a375dc964ad33b622",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "John Cena’s Autograph Flow",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1sc9gde/john_cenas_autograph_flow/",
+    "published_at": "2026-04-04T13:36:48.000Z",
+    "fingerprint": "b7b208c603dc5baa6dee761a9affce2999d7a89b",
     "micro_judgment": null
   },
   {
@@ -413,6 +573,14 @@
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1sal7ib/artemis_ii_launch_from_kennedy_space_center_seen/",
     "published_at": "2026-04-02T15:52:27.000Z",
     "fingerprint": "70dd8e2333e8662eeee544b86e82dbecb7e3c030",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Deploy Hermes",
+    "link": "https://www.producthunt.com/products/deployhermes",
+    "published_at": "2026-04-02T14:06:09.000Z",
+    "fingerprint": "89899f38659920632386343855abc62a438717ad",
     "micro_judgment": null
   },
   {
@@ -816,6 +984,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "PixVerse V6",
+    "link": "https://www.producthunt.com/products/pixverse",
+    "published_at": "2026-03-31T15:48:41.000Z",
+    "fingerprint": "66ccf9afdb180354abecab11ff64985bedc9b0c8",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "BREMEN Turns a Broom Into a Guitar and a Desk Into a Piano",
     "link": "https://www.yankodesign.com/2026/03/31/bremen-turns-a-broom-into-a-guitar-and-a-desk-into-a-piano/?utm_source=rss&utm_medium=rss&utm_campaign=bremen-turns-a-broom-into-a-guitar-and-a-desk-into-a-piano",
@@ -981,6 +1157,14 @@
     "link": "https://www.producthunt.com/products/qwen3",
     "published_at": "2026-03-30T14:24:11.000Z",
     "fingerprint": "76ca97bad3def497550bef00c3b4f443a5c85d15",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Ember",
+    "link": "https://www.producthunt.com/products/ember-104",
+    "published_at": "2026-03-30T13:26:55.000Z",
+    "fingerprint": "df3cdf0047e9e5c6f0e771b3f3962361731c2c08",
     "micro_judgment": null
   },
   {
@@ -1557,6 +1741,14 @@
     "link": "https://www.designboom.com/technology/design-tool-criticism-valerian-blos-reshapes-matter-question-current-systems/",
     "published_at": "2026-03-27T07:30:26.000Z",
     "fingerprint": "58357d1ae178f2359ec0697ed9f945c4e8e2fad0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "CatBar",
+    "link": "https://www.producthunt.com/products/catbar",
+    "published_at": "2026-03-27T07:03:26.000Z",
+    "fingerprint": "1ebad39e486e46ce004d01000060435ea4d4f6b9",
     "micro_judgment": null
   },
   {
@@ -6008,6 +6200,14 @@
     "micro_judgment": null
   },
   {
+    "source": "ANSA",
+    "title": "Vietnam, file alle gioiellerie per l'oro portafortuna nonostante prezzi record",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/02/26/vietnam-file-alle-gioiellerie-per-loro-portafortuna-nonostante-prezzi-record_a0940210-c834-4998-8303-dad60625021e.html",
+    "published_at": "2026-02-26T10:34:39.000Z",
+    "fingerprint": "eb87b764596107d4cf3e888b70dda907a223ba1b",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "astronomy-inspired watch by ressence and terumasa ikeda has dials that move like planets",
     "link": "https://www.designboom.com/design/astronomy-inspired-watch-ressence-terumasa-ikeda-dials-move-planets-type-9-ike/",
@@ -6733,6 +6933,14 @@
     "link": "https://www.producthunt.com/products/variant-2",
     "published_at": "2026-02-20T11:53:25.000Z",
     "fingerprint": "d5a70873dc8a007f9ea8954181945a5aeaecf144",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Shotwell",
+    "link": "https://www.producthunt.com/products/shotwell",
+    "published_at": "2026-02-20T11:34:27.000Z",
+    "fingerprint": "f04ee8338899d8d24c54bc5ef91d84edc0728676",
     "micro_judgment": null
   },
   {
