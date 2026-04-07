@@ -1,10 +1,90 @@
 [
   {
     "source": "ANSA",
+    "title": "PRIME PAGINE | Trump all'Iran, 'Possiamo distruggervi in una notte'",
+    "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/04/07/prime-pagine-trump-alliran-possiamo-distruggervi-in-una-notte_9ef1e8af-c350-4852-87a8-3ab0e9283e54.html",
+    "published_at": "2026-04-07T05:57:06.000Z",
+    "fingerprint": "1f46138cf9a84ede3894bbb63175b981651b58e1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "iPhone 18 Pro Leaks Reveal a 2nm A20 Pro Chip, 35% Smaller Dynamic Island, and a Deep Red Color",
+    "link": "https://www.yankodesign.com/2026/04/06/iphone-18-pro-leaks-reveal-a-2nm-a20-pro-chip-35-smaller-dynamic-island-and-a-deep-red-color/?utm_source=rss&utm_medium=rss&utm_campaign=iphone-18-pro-leaks-reveal-a-2nm-a20-pro-chip-35-smaller-dynamic-island-and-a-deep-red-color",
+    "published_at": "2026-04-06T21:30:18.000Z",
+    "fingerprint": "dc2680113b3050768079f934de48f872cb6527a0",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'Inter riprende la corsa per lo scudetto, la rivale ora è il Napoli",
+    "link": "https://www.ansa.it/sito/notizie/sport/2026/04/06/linter-riprende-la-corsa-per-lo-scudetto-la-rivale-ora-e-il-napoli_077c4415-4f12-4d10-b8d8-29af443e247f.html",
+    "published_at": "2026-04-06T21:13:17.000Z",
+    "fingerprint": "92e870c381f94dbb20df6063a84d459bd3c4bb0a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting",
+    "link": "https://github.com/4RH1T3CT0R7/ttf-doom",
+    "published_at": "2026-04-06T19:25:39.000Z",
+    "fingerprint": "8b2c44fc743b690e7ce1c70942891ebb26cc217b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Agent Reading Test",
+    "link": "https://agentreadingtest.com",
+    "published_at": "2026-04-06T18:56:57.000Z",
+    "fingerprint": "44a3b219d80ce9c4327a4a3b01f92afeb8be69fb",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Altri aeroporti senza carburante, limiti anche Brindisi, Reggio Calabria e Pescara",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/06/altri-aeroporti-senza-carburante-incognita-sui-viaggi-estivi_879f88dd-c6a4-415a-b293-c5db7e1cbea8.html",
+    "published_at": "2026-04-06T18:26:18.000Z",
+    "fingerprint": "53d6f1424da802aa3c227ce23c06c305f5428057",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Book review: There Is No Antimemetics Division",
+    "link": "https://www.stephendiehl.com/posts/no_antimimetics/",
+    "published_at": "2026-04-06T13:44:01.000Z",
+    "fingerprint": "b5bb36f5273daa5a94d5ba54bf6d30cd6eff0465",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Coldiretti-Ixé, col bel tempo picnic e gite di Pasquetta per 21 milioni di italiani",
+    "link": "https://www.ansa.it/canale_terraegusto/notizie/in_breve/2026/04/06/coldiretti-ixe-col-bel-tempo-picnic-e-gite-di-pasquetta-per-21-milioni_5dd03257-598f-4cdd-9632-957c1c87300a.html",
+    "published_at": "2026-04-06T08:47:43.000Z",
+    "fingerprint": "9fa23de980d309e8e1dfc5cf411f8f733d75ff8c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "biodegradable thermoplastic casts tree bark and branches into light sculptures",
+    "link": "https://www.designboom.com/design/biodegradable-thermoplastic-tree-bark-branches-light-sculptures-mj-fraser/",
+    "published_at": "2026-04-06T08:30:42.000Z",
+    "fingerprint": "3632057d00674c120e2136c9372e507c18314c0f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Tre morti a Odessa dopo un attacco russo, anche un bambino",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/06/ucraina-tre-morti-a-odessa-dopo-un-attacco-russo-anche-un-bambino_627c7e7b-8f48-4b63-917d-b08cd60b1212.html",
     "published_at": "2026-04-06T06:52:39.000Z",
     "fingerprint": "acf6dbdf973fecd2c615ce164334512b61e04898",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Cervello, l'immaginazione è più complessa del semplice replay dei sensi",
+    "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/04/06/cervello-limmaginazione-e-piu-complessa-del-semplice-replay-dei-sensi_bff18c0d-4bf0-496e-86a5-a304cb793b45.html",
+    "published_at": "2026-04-06T06:10:03.000Z",
+    "fingerprint": "d46217fb3d71360907b7dee935eaca6f10c2b74d",
     "micro_judgment": null
   },
   {
