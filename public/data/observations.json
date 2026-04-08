@@ -1,5 +1,125 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Razor1911 [video]",
+    "link": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
+    "published_at": "2026-04-08T05:34:08.000Z",
+    "fingerprint": "153b4b912df5465a918432379d7bb367c39cb2c8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "LLM scraper bots are overloading acme.com's HTTPS server",
+    "link": "http://acme.com/updates/archive/229.html",
+    "published_at": "2026-04-08T03:02:56.000Z",
+    "fingerprint": "3f53482d6284c00464c8a8797dead8a3f95dec0c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "A Double-Sided Clock That Turns Walls into Living Moments of Time",
+    "link": "https://www.yankodesign.com/2026/04/07/a-double-sided-clock-that-turns-walls-into-living-moments-of-time/?utm_source=rss&utm_medium=rss&utm_campaign=a-double-sided-clock-that-turns-walls-into-living-moments-of-time",
+    "published_at": "2026-04-08T00:30:14.000Z",
+    "fingerprint": "49550100210a600c53cccd7430f95571e291b332",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Xilem – An experimental Rust native UI framework",
+    "link": "https://github.com/linebender/xilem",
+    "published_at": "2026-04-07T23:36:15.000Z",
+    "fingerprint": "61405d4528fecc49db2574e8c40ce00044d9f929",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Studioninedots’ Light House Is a Vertical Amsterdam Home Built From Playfully Stacked Boxes",
+    "link": "https://www.yankodesign.com/2026/04/07/studioninedots-light-house-is-a-vertical-amsterdam-home-built-from-playfully-stacked-boxes/?utm_source=rss&utm_medium=rss&utm_campaign=studioninedots-light-house-is-a-vertical-amsterdam-home-built-from-playfully-stacked-boxes",
+    "published_at": "2026-04-07T22:30:44.000Z",
+    "fingerprint": "6d023062856189857b26f559d95515ee92e675f0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Semicircular Wings give this Hybrid eVTOL an 800 Mile Range with 30% Less Power Consumption",
+    "link": "https://www.yankodesign.com/2026/04/07/semicircular-wings-give-this-hybrid-evtol-an-800-mile-range-with-30-less-power-consumption/?utm_source=rss&utm_medium=rss&utm_campaign=semicircular-wings-give-this-hybrid-evtol-an-800-mile-range-with-30-less-power-consumption",
+    "published_at": "2026-04-07T21:30:24.000Z",
+    "fingerprint": "daeacd6e70bba35b4c3c61dd957e85f0d493f929",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Luxury Italian Watch Has a Triple-Axis Tourbillon and Looks Like a Ferrari Dashboard",
+    "link": "https://www.yankodesign.com/2026/04/07/this-luxury-italian-watch-has-a-triple-axis-tourbillon-and-looks-like-a-ferrari-dashboard/?utm_source=rss&utm_medium=rss&utm_campaign=this-luxury-italian-watch-has-a-triple-axis-tourbillon-and-looks-like-a-ferrari-dashboard",
+    "published_at": "2026-04-07T20:30:22.000Z",
+    "fingerprint": "fe02a2be8c254e486eb632d6b010b314b26304dd",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Accoltella i genitori e il fratello di 16 anni a Fano",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/07/accoltella-il-fratello-e-i-genitori-a-fano-convalidato-larresto_cbb5cc98-f972-4b74-b910-3cf558e90650.html",
+    "published_at": "2026-04-07T19:54:51.000Z",
+    "fingerprint": "50a437ce806d973a59b89e37a0c9af6992db854f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+    "link": "https://github.com/mattmireles/gemma-tuner-multimodal",
+    "published_at": "2026-04-07T19:37:05.000Z",
+    "fingerprint": "31335f65d1c60af88b422d4f0e353aa1baed7aa5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "A blind man made it possible for others with low vision to build Lego sets",
+    "link": "https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4",
+    "published_at": "2026-04-07T14:24:30.000Z",
+    "fingerprint": "cc19ade67452d56fd7f241eaa49e2366ad384c6c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Nozze in barricaia, il wine wedding piace",
+    "link": "https://www.ansa.it/sito/podcast/la_tendenza_della_settimana/2026/04/07/nozze-in-barricaia-il-wine-wedding-piace_2c6a163f-aa79-482f-93d4-e91930ed57ca.html",
+    "published_at": "2026-04-07T11:34:24.000Z",
+    "fingerprint": "aa2312145ee62d6112fbd9bfb0dc9ce802346fd8",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Bel tempo almeno fino a giovedì con caldo anomalo al Centro-Nord",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/07/bel-tempo-almeno-fino-a-giovedi-con-caldo-anomalo-al-centro-nord_3ec462cd-79d2-41a6-9859-6dd958dd858c.html",
+    "published_at": "2026-04-07T10:14:05.000Z",
+    "fingerprint": "519afdb00e52fde606d46d3a5ef919e9b82bd18e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "wall-mounted vinyl player connects with CD and cassette decks for triple listening session",
+    "link": "https://www.designboom.com/technology/wall-mounted-vinyl-player-cd-cassette-decks-triple-listening-session-trettitre/",
+    "published_at": "2026-04-07T10:00:51.000Z",
+    "fingerprint": "3fa48609dc8b0b0e9d4fe48c3e08dd3efcdaf555",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "good+evil ways watch rotates on command to match driving, typing, and resting positions",
+    "link": "https://www.designboom.com/design/good-plus-evil-ways-watch-rotating-driving-typing-resting-positions-christo-logan/",
+    "published_at": "2026-04-07T09:30:57.000Z",
+    "fingerprint": "436aae42fcf5485630e3f8fe360ae858c44fedc8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "fala turns leftover metal into color-coded grid that multiplies itself through mirror in porto",
+    "link": "https://www.designboom.com/architecture/falaatelier-leftover-metal-color-coded-grid-mirror-porto/",
+    "published_at": "2026-04-07T08:30:25.000Z",
+    "fingerprint": "57cfdf83f3f29bc7f2aefec120879cf1aa585db6",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "PRIME PAGINE | Trump all'Iran, 'Possiamo distruggervi in una notte'",
     "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/04/07/prime-pagine-trump-alliran-possiamo-distruggervi-in-una-notte_9ef1e8af-c350-4852-87a8-3ab0e9283e54.html",
@@ -40,6 +160,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "AI Designer MCP",
+    "link": "https://www.producthunt.com/products/aidesigner",
+    "published_at": "2026-04-06T18:51:09.000Z",
+    "fingerprint": "ae562e9de8f69010d0c94fea39e81aebd3842698",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Altri aeroporti senza carburante, limiti anche Brindisi, Reggio Calabria e Pescara",
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/06/altri-aeroporti-senza-carburante-incognita-sui-viaggi-estivi_879f88dd-c6a4-415a-b293-c5db7e1cbea8.html",
@@ -56,6 +184,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "TestRelic AI",
+    "link": "https://www.producthunt.com/products/testrelic-ai",
+    "published_at": "2026-04-06T13:01:37.000Z",
+    "fingerprint": "95f6b5725f83cb3763e827c6cd94562c765f7fa4",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Coldiretti-Ixé, col bel tempo picnic e gite di Pasquetta per 21 milioni di italiani",
     "link": "https://www.ansa.it/canale_terraegusto/notizie/in_breve/2026/04/06/coldiretti-ixe-col-bel-tempo-picnic-e-gite-di-pasquetta-per-21-milioni_5dd03257-598f-4cdd-9632-957c1c87300a.html",
@@ -69,6 +205,14 @@
     "link": "https://www.designboom.com/design/biodegradable-thermoplastic-tree-bark-branches-light-sculptures-mj-fraser/",
     "published_at": "2026-04-06T08:30:42.000Z",
     "fingerprint": "3632057d00674c120e2136c9372e507c18314c0f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Couch",
+    "link": "https://www.producthunt.com/products/couch",
+    "published_at": "2026-04-06T08:00:11.000Z",
+    "fingerprint": "94eb3c68f93791720053f987f0dc5a02727a1dbb",
     "micro_judgment": null
   },
   {
@@ -1117,6 +1261,14 @@
     "link": "https://www.ansa.it/sito/podcast/la_tendenza_della_settimana/2026/03/31/fast-cosmetic-e-altre-tendenze-reportage-dal-cosmoprof_ff8ae615-0100-4cf7-852b-6f866500b06c.html",
     "published_at": "2026-03-31T11:42:52.000Z",
     "fingerprint": "d78009fb0f0e10e754d3bcb2eb1b7c25f0b28332",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Calor",
+    "link": "https://www.producthunt.com/products/calor",
+    "published_at": "2026-03-31T09:35:54.000Z",
+    "fingerprint": "06c1d19ede93a2166457cc9c06b873137be90f71",
     "micro_judgment": null
   },
   {
@@ -4437,6 +4589,14 @@
     "link": "https://www.producthunt.com/products/sutra-4",
     "published_at": "2026-03-12T03:51:36.000Z",
     "fingerprint": "f85db42ea07bb319dd6b2aa93e97c2f954681e8e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Keupera",
+    "link": "https://www.producthunt.com/products/keupera",
+    "published_at": "2026-03-12T03:34:04.000Z",
+    "fingerprint": "9d8486e8a0fd99b81d78976b7da4a0ba90e552df",
     "micro_judgment": null
   },
   {
