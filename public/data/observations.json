@@ -1,6 +1,126 @@
 [
   {
     "source": "ANSA",
+    "title": "Vent'anni fa la cattura di Provenzano, la pm Sabella: 'Scrivemmo una pagina di storia'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/10/ventanni-fa-la-cattura-di-provenzano-la-pm-sabella-scrivemmo-una-pagina-di-storia_0ddfa635-b3e9-4cae-ab2f-a372dd810a50.html",
+    "published_at": "2026-04-11T05:51:35.000Z",
+    "fingerprint": "934816a12b7adb1f45361e3dcdfc77c84fac8a62",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Tregua",
+    "link": "https://www.ansa.it/sito/podcast/la_parola_della_settimana/2026/04/11/tregua_fc831232-87f3-4ea4-8674-544f34cff4ac.html",
+    "published_at": "2026-04-11T05:50:12.000Z",
+    "fingerprint": "b632d68eaa4b7d32e14b59a1726f7be7502d1b89",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La navetta Orion è ammarata, missione compiuta per Artemis II",
+    "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/11/la-navetta-orion-e-ammarata-missione-compiuta-per-artemis-ii-diretta_7cf84295-7331-416b-b7c7-6f346e1661c9.html",
+    "published_at": "2026-04-11T05:08:01.000Z",
+    "fingerprint": "6f2d4f76898005b82813849b06ae26a8845cacb3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Quien – A better WHOIS lookup tool",
+    "link": "https://github.com/retlehs/quien/",
+    "published_at": "2026-04-11T03:31:30.000Z",
+    "fingerprint": "a9622cc26ee75e2ee37a56861155e3ff904bd2a0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Vancouver’s First Supertall Was Inspired by the Ocean Floor",
+    "link": "https://www.yankodesign.com/2026/04/10/vancouvers-first-supertall-was-inspired-by-the-ocean-floor/?utm_source=rss&utm_medium=rss&utm_campaign=vancouvers-first-supertall-was-inspired-by-the-ocean-floor",
+    "published_at": "2026-04-10T23:30:33.000Z",
+    "fingerprint": "aef3a7fb6096d26da65c2833c2996a95cafda499",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The Volvo Cosmic Surfer Has Gravity-Adaptive Wheels Designed For Smooth Driving On The Moon",
+    "link": "https://www.yankodesign.com/2026/04/10/the-volvo-cosmic-surfer-has-gravity-adaptive-wheels-designed-for-smooth-driving-on-the-moon/?utm_source=rss&utm_medium=rss&utm_campaign=the-volvo-cosmic-surfer-has-gravity-adaptive-wheels-designed-for-smooth-driving-on-the-moon",
+    "published_at": "2026-04-10T20:45:47.000Z",
+    "fingerprint": "6950489617abfdadaab13961b0522685c5078345",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Incontro fiume con Marina e Pier Silvio, Tajani prende tempo sul capogruppo",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/04/10/fi-dai-berlusconi-fiducia-a-tajani-visione-unitaria-per-il-rilancio_2a6e87aa-f767-4776-9833-1c65e109c913.html",
+    "published_at": "2026-04-10T19:09:25.000Z",
+    "fingerprint": "76e5751ee65db2e55b6be9e41cdb92a7e2ab6ae2",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Bufera in ong anti-aids fondata da Harry, il principe querelato per 'diffamazione'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/10/bufera-in-ong-anti-aids-fondata-da-harry-principe-querelato-per-diffamazione_dfadbe53-2be1-4e3c-85fa-ff23aa6de6ff.html",
+    "published_at": "2026-04-10T19:00:55.000Z",
+    "fingerprint": "57506d51034de1c195820ae2c9da5bbcf67baf95",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Primo faccia a faccia tra Macron e Leone, il Libano al centro",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/10/primo-faccia-a-faccia-tra-macron-e-leone-il-libano-al-centro_635ef0d0-a82f-4d4f-aef7-f72b6782acdc.html",
+    "published_at": "2026-04-10T18:59:26.000Z",
+    "fingerprint": "9062f59f6b5d39b7da36c5d6a21bacf98aa762ad",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: FluidCAD – Parametric CAD with JavaScript",
+    "link": "https://fluidcad.io/",
+    "published_at": "2026-04-10T18:39:19.000Z",
+    "fingerprint": "bd6882eceb1d747a984b0af28370afcb417e8536",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "A compelling title that is cryptic enough to get you to take action on it",
+    "link": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
+    "published_at": "2026-04-10T16:53:55.000Z",
+    "fingerprint": "b9fed42b6d1e9a019a38680e50efa9244c491365",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Industrial design files for Keychron keyboards and mice",
+    "link": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+    "published_at": "2026-04-10T16:22:26.000Z",
+    "fingerprint": "778372c3cdb1df33a531a4e7338aaacd49b370bc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Your Voice Wearable and Robot Hear the Words Mute People Can’t Say",
+    "link": "https://www.yankodesign.com/2026/04/10/your-voice-wearable-and-robot-hear-the-words-mute-people-cant-say/?utm_source=rss&utm_medium=rss&utm_campaign=your-voice-wearable-and-robot-hear-the-words-mute-people-cant-say",
+    "published_at": "2026-04-10T14:20:56.000Z",
+    "fingerprint": "fba5c269e3be62acf695363b764606e63aec4bfb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "SolidNature and OMA/AMO reimagine the everyday as eternal stone dream for milan design week 2026",
+    "link": "https://www.designboom.com/design/solidnature-amo-david-mahyari-interview-il-sonno-installation-milan-design-week-2026/",
+    "published_at": "2026-04-10T10:58:28.000Z",
+    "fingerprint": "c491df780e329626ac30522a9d33bc9e671d9648",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "sanctuary of dreams: toguna world’s digital temple for collective visioning",
+    "link": "https://www.designboom.com/design/sanctuary-dreams-toguna-world-nomadic-temple-collective-visioning-pierre-christophe-gam-06-14-2025/",
+    "published_at": "2026-04-10T09:00:26.000Z",
+    "fingerprint": "1e5cb4b2b16b06a7ed5d3e32341f0cd5324d35f1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Frana in Molise, riaperta la linea ferroviaria adriatica",
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/10/frana-in-molise-riaperta-la-linea-ferroviaria-adriatica_68c78f6b-69a3-40d5-a67d-4f7c764e77af.html",
     "published_at": "2026-04-10T06:07:29.000Z",
@@ -96,6 +216,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Complexity Indicator",
+    "link": "https://www.producthunt.com/products/complexity-indicator",
+    "published_at": "2026-04-09T20:13:46.000Z",
+    "fingerprint": "227b4a9bb57f0fb6c0deb1d209e5a9261cbaebec",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "Dyson’s HushJet Mini Cool is a pocket-sized bladeless fan that looks unfortunately PG13",
     "link": "https://www.yankodesign.com/2026/04/09/dysons-hushjet-mini-cool-is-a-pocket-sized-bladeless-fan-that-looks-unfortunately-pg13/?utm_source=rss&utm_medium=rss&utm_campaign=dysons-hushjet-mini-cool-is-a-pocket-sized-bladeless-fan-that-looks-unfortunately-pg13",
@@ -144,6 +272,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Avatar V by HeyGen",
+    "link": "https://www.producthunt.com/products/heygen",
+    "published_at": "2026-04-09T17:54:54.000Z",
+    "fingerprint": "eff5ee138a2639730c3362136fd403c611ddbcc9",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "L'Italia non va a Cannes, nessun film in concorso. In gara per la palma d'oro Farhadi, Almodovar e Nemes",
     "link": "https://www.ansa.it/sito/notizie/cultura/2026/04/09/litalia-non-va-a-cannes-nessun-film-in-concorso.-in-gara-per-la-palma-doro_a47c7791-0bc7-430f-8cb0-150c3839bb0f.html",
@@ -176,6 +312,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Orbit Money",
+    "link": "https://www.producthunt.com/products/orbit-money",
+    "published_at": "2026-04-09T13:38:35.000Z",
+    "fingerprint": "5246ce915c892f56a90f95c4280de60fa83a2761",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "crescent lights and mirrored moons carve a slow-paced retreat inside xi’an bar",
     "link": "https://www.designboom.com/readers/crescent-lights-mirrored-moons-slow-paced-retreat-xian-mc-bar/",
@@ -197,6 +341,14 @@
     "link": "https://www.designboom.com/design/milan-hidden-archives-public-night-only-design-week-2026/",
     "published_at": "2026-04-09T08:00:00.000Z",
     "fingerprint": "ea814198bed26cc26094f261a4c6d636b145a10b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Vaultr",
+    "link": "https://www.producthunt.com/products/vaultr-2",
+    "published_at": "2026-04-09T07:33:11.000Z",
+    "fingerprint": "369e9f445c6fb94c0caeb29bd028aa403c5ea831",
     "micro_judgment": null
   },
   {
@@ -261,6 +413,14 @@
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1sg6nx2/someone_is_fixing_the_manhole_covers_in_their/",
     "published_at": "2026-04-08T21:49:03.000Z",
     "fingerprint": "d93e14d10e6f90e65f609101842a039708bd610a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "SoulLink",
+    "link": "https://www.producthunt.com/products/soullinkai",
+    "published_at": "2026-04-08T19:40:50.000Z",
+    "fingerprint": "053d786afcbff7294849b80d9c1f64e40e3eee4c",
     "micro_judgment": null
   },
   {
@@ -357,6 +517,14 @@
     "link": "https://www.producthunt.com/products/riffle-2",
     "published_at": "2026-04-08T12:50:27.000Z",
     "fingerprint": "3d33080428588f093fd13cf40712d9826c3270f3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Viktor Skills Marketplace",
+    "link": "https://www.producthunt.com/products/viktor",
+    "published_at": "2026-04-08T12:32:36.000Z",
+    "fingerprint": "e41869581305da120948407316aea575fc2881c2",
     "micro_judgment": null
   },
   {
@@ -4277,6 +4445,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1rvf419/the_for_lease_sign_is_permanent_appearing_when/",
     "published_at": "2026-03-16T16:56:55.000Z",
     "fingerprint": "f57b31e503ce805546675e5b535da5bc251c0130",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Manus Skills",
+    "link": "https://www.producthunt.com/products/manus-skills",
+    "published_at": "2026-03-16T16:39:06.000Z",
+    "fingerprint": "f754f1a598308df3fca792b8374948581827fc61",
     "micro_judgment": null
   },
   {
