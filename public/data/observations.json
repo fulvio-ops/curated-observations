@@ -1,5 +1,117 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Substrate AI Is Hiring Harness Engineers",
+    "link": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
+    "published_at": "2026-04-17T02:53:16.000Z",
+    "fingerprint": "6122c1235c2b74d31c6b0f3fbe04818d4fb8c2d9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "VitaLink Just Put a 13-Inch Screen and Keyboard Into One Foldable Slab",
+    "link": "https://www.yankodesign.com/2026/04/16/vitalink-just-put-a-13-inch-screen-and-keyboard-into-one-foldable-slab/?utm_source=rss&utm_medium=rss&utm_campaign=vitalink-just-put-a-13-inch-screen-and-keyboard-into-one-foldable-slab",
+    "published_at": "2026-04-17T01:45:12.000Z",
+    "fingerprint": "57264278cb8d42fe20efd33cc3be8198d8a79558",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
+    "link": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+    "published_at": "2026-04-17T00:37:47.000Z",
+    "fingerprint": "ba550fb6fc6eb4ba4a7c5d116551988dc2e0f328",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Cybertruck-Inspired Electric Trike Solves Urban Delivery Problems Tesla Never Bothered With",
+    "link": "https://www.yankodesign.com/2026/04/16/this-cybertruck-inspired-electric-trike-solves-urban-delivery-problems-tesla-never-bothered-with/?utm_source=rss&utm_medium=rss&utm_campaign=this-cybertruck-inspired-electric-trike-solves-urban-delivery-problems-tesla-never-bothered-with",
+    "published_at": "2026-04-17T00:30:52.000Z",
+    "fingerprint": "57bc1f3bcd66f9a05148ca2d53fb274aee7fd781",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "DB Explorer",
+    "link": "https://www.producthunt.com/products/sourceforge",
+    "published_at": "2026-04-16T23:56:36.000Z",
+    "fingerprint": "1ca0bb076de4e6d8f35290fbcdee2464c8b67ebf",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "BARKOD studio",
+    "link": "https://www.producthunt.com/products/barkod-studio",
+    "published_at": "2026-04-16T22:06:51.000Z",
+    "fingerprint": "e2573d70a965c8cc5a5c29bba06f59124e90f806",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This 3D-Printed Pet House Looks Like a Retro TV That Lets You Watch Your Cat Sleep Instead Of Netflix",
+    "link": "https://www.yankodesign.com/2026/04/16/this-3d-printed-pet-house-looks-like-a-retro-tv-that-lets-you-watch-your-cat-sleep-instead-of-netflix/?utm_source=rss&utm_medium=rss&utm_campaign=this-3d-printed-pet-house-looks-like-a-retro-tv-that-lets-you-watch-your-cat-sleep-instead-of-netflix",
+    "published_at": "2026-04-16T21:30:11.000Z",
+    "fingerprint": "6812810b980b2c20ff4c009797ef423fd1628489",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Vanspeed Album camper van with Murphy bed and versatile lounge is designed to go where you need it",
+    "link": "https://www.yankodesign.com/2026/04/16/vanspeed-album-camper-van-with-murphy-bed-and-versatile-lounge-is-designed-to-go-where-you-need-it/?utm_source=rss&utm_medium=rss&utm_campaign=vanspeed-album-camper-van-with-murphy-bed-and-versatile-lounge-is-designed-to-go-where-you-need-it",
+    "published_at": "2026-04-16T20:30:14.000Z",
+    "fingerprint": "dc92e48b316e595c1393cb68a7eac0d002a995cd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Proxima",
+    "link": "https://www.producthunt.com/products/proxima-agentic-training-partner",
+    "published_at": "2026-04-16T20:12:10.000Z",
+    "fingerprint": "6f755c7a45e8c8ff709af3ce28799d37d0924ac0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Playdate’s handheld changed how Duke University teaches game design",
+    "link": "https://news.play.date/news/duke-playdate-education/",
+    "published_at": "2026-04-16T19:18:31.000Z",
+    "fingerprint": "340f2de018fcb30a02a77d81e459ea2dcd664d3a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Navox Agents",
+    "link": "https://www.producthunt.com/products/navox-agents",
+    "published_at": "2026-04-16T18:37:14.000Z",
+    "fingerprint": "011be98ee9076e658169e57adb9d80887b6dc99b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Klippy",
+    "link": "https://www.producthunt.com/products/klippy-2",
+    "published_at": "2026-04-16T16:42:45.000Z",
+    "fingerprint": "11ce1f9e46df725d006588554d908373954e8f4b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Prio",
+    "link": "https://www.producthunt.com/products/prio-4",
+    "published_at": "2026-04-16T16:35:57.000Z",
+    "fingerprint": "51d076918d294f83e9e0718e2a4515066808257b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "how spanish ceramics bridge culture, memory and identity at milan design week 2026",
+    "link": "https://www.designboom.com/design/spanish-ceramic-tile-milan-design-week-2026-archdaily/",
+    "published_at": "2026-04-16T08:30:38.000Z",
+    "fingerprint": "8618614816272f838b91821f3454118c1bee8c67",
+    "micro_judgment": null
+  },
+  {
     "source": "Product Hunt",
     "title": "TaskShell",
     "link": "https://www.producthunt.com/products/taskshell",
@@ -1541,6 +1653,14 @@
     "link": "https://www.yankodesign.com/2026/04/07/this-luxury-italian-watch-has-a-triple-axis-tourbillon-and-looks-like-a-ferrari-dashboard/?utm_source=rss&utm_medium=rss&utm_campaign=this-luxury-italian-watch-has-a-triple-axis-tourbillon-and-looks-like-a-ferrari-dashboard",
     "published_at": "2026-04-07T20:30:22.000Z",
     "fingerprint": "fe02a2be8c254e486eb632d6b010b314b26304dd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Submit.DIY",
+    "link": "https://www.producthunt.com/products/submit-diy",
+    "published_at": "2026-04-07T20:09:59.000Z",
+    "fingerprint": "b4a016d9f7a189d7ec29644b6ad2464a9c99da4b",
     "micro_judgment": null
   },
   {
