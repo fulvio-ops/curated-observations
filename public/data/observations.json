@@ -1,5 +1,117 @@
 [
   {
+    "source": "ANSA",
+    "title": "L'agenzia Dbrs conferma il rating dell'Italia, 'A' con trend stabile",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/04/17/dbrs-conferma-il-rating-dellitalia-a-a-con-trend-stabile_6583e546-2754-4782-a5a3-acc71af30538.html",
+    "published_at": "2026-04-18T05:46:29.000Z",
+    "fingerprint": "1406abd02cfb3a1187c5289bff67abb0e48a6854",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "recycled plastic remolds into sculptural coral and maritime-inspired accessories",
+    "link": "https://www.designboom.com/design/recycled-plastic-sculptural-coral-maritime-inspired-accessories-object-with-name-plastic-bakery/",
+    "published_at": "2026-04-18T03:30:13.000Z",
+    "fingerprint": "0900d74477c7ec2f0f842466432f8f10cf1c8a4c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+    "link": "https://victorpoughon.github.io/interval-calculator/",
+    "published_at": "2026-04-18T01:15:43.000Z",
+    "fingerprint": "9120de0f0155951cceb6da43b73b7e856f267957",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Casus Belli Engineering",
+    "link": "https://marcosmagueta.com/blog/casus-belli-engineering/",
+    "published_at": "2026-04-18T01:14:02.000Z",
+    "fingerprint": "b7e3e6e9d1413cbfb9a303cb33cea60044234b92",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "A Tiny Cabin in Hungary Is Quietly Rewriting Hospitality",
+    "link": "https://www.yankodesign.com/2026/04/17/a-tiny-cabin-in-hungary-is-quietly-rewriting-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=a-tiny-cabin-in-hungary-is-quietly-rewriting-hospitality",
+    "published_at": "2026-04-17T22:30:29.000Z",
+    "fingerprint": "ca9f0d126ff2d1bcfd3b9221bd600a320df52761",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Dórica Just Proved Good Design Belongs on Your Kitchen Counter",
+    "link": "https://www.yankodesign.com/2026/04/17/dorica-just-proved-good-design-belongs-on-your-kitchen-counter/?utm_source=rss&utm_medium=rss&utm_campaign=dorica-just-proved-good-design-belongs-on-your-kitchen-counter",
+    "published_at": "2026-04-17T21:30:29.000Z",
+    "fingerprint": "e174dcf4798492899a82f275bd2ae83553461117",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "\"cat readme.txt\" is not safe if you use iTerm2",
+    "link": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not",
+    "published_at": "2026-04-17T18:43:32.000Z",
+    "fingerprint": "0ca907172dc5939a296a78e91c0b34676c080c43",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La rapina da film a Napoli, caccia a una banda di professionisti",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/17/caccia-alluomo-dopo-la-rapina-in-banca-a-napoli.-un-ostaggio-erano-sicuri-ma-non_075aff2d-827a-420e-92e5-3278a1bc2281.html",
+    "published_at": "2026-04-17T17:41:51.000Z",
+    "fingerprint": "f70c2183b4e098fac1120170edff450bb4bcd2a8",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Mosca va all'attacco, 17 morti e 100 feriti in Ucraina",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/17/mosca-va-allattacco-17-morti-e-100-feriti-in-ucraina_4df72574-311b-42db-90a6-870720539178.html",
+    "published_at": "2026-04-17T16:31:52.000Z",
+    "fingerprint": "260ee287e02f1d08655866918c26a89d46067f2d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Hyperscalers have already outspent most famous US megaprojects",
+    "link": "https://twitter.com/finmoorhouse/status/2044933442236776794",
+    "published_at": "2026-04-17T16:23:22.000Z",
+    "fingerprint": "bacb4f42cd14f0765f6f277af38228f813027318",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "ASUS Zenbook DUO (2026) Review: One Laptop, Two Screens, All Business",
+    "link": "https://www.yankodesign.com/2026/04/17/asus-zenbook-duo-2026-review-one-laptop-two-screens-all-business/?utm_source=rss&utm_medium=rss&utm_campaign=asus-zenbook-duo-2026-review-one-laptop-two-screens-all-business",
+    "published_at": "2026-04-17T15:20:49.000Z",
+    "fingerprint": "a05cac8ef95d4de5380ab6c1c359ae3c5dba34d4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Claude Design",
+    "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "published_at": "2026-04-17T15:04:09.000Z",
+    "fingerprint": "e0aa1ddd198a1d56b4e9a806a36a4fff3d240c3d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Ban the sale of precise geolocation",
+    "link": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
+    "published_at": "2026-04-17T14:25:46.000Z",
+    "fingerprint": "c3e5ac3d6a0b05c34894f7e9d5727c07cc4fc6c5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The All-Black Kitchen Is 2026’s Hottest Design Trend — Here Are 8 Products That Nail It",
+    "link": "https://www.yankodesign.com/2026/04/17/the-all-black-kitchen-is-2026s-hottest-design-trend-here-are-8-products-that-nail-it/?utm_source=rss&utm_medium=rss&utm_campaign=the-all-black-kitchen-is-2026s-hottest-design-trend-here-are-8-products-that-nail-it",
+    "published_at": "2026-04-17T11:40:09.000Z",
+    "fingerprint": "de1f3c0572340a620c069383c0389e738777de51",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Substrate AI Is Hiring Harness Engineers",
     "link": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
@@ -101,6 +213,14 @@
     "link": "https://www.producthunt.com/products/prio-4",
     "published_at": "2026-04-16T16:35:57.000Z",
     "fingerprint": "51d076918d294f83e9e0718e2a4515066808257b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Visual PR Testing with AI",
+    "link": "https://www.producthunt.com/products/qa-tech",
+    "published_at": "2026-04-16T12:52:36.000Z",
+    "fingerprint": "87a5c3db95a9d45cbdab65217a9f875bb89fe39a",
     "micro_judgment": null
   },
   {
@@ -1653,6 +1773,14 @@
     "link": "https://www.yankodesign.com/2026/04/07/this-luxury-italian-watch-has-a-triple-axis-tourbillon-and-looks-like-a-ferrari-dashboard/?utm_source=rss&utm_medium=rss&utm_campaign=this-luxury-italian-watch-has-a-triple-axis-tourbillon-and-looks-like-a-ferrari-dashboard",
     "published_at": "2026-04-07T20:30:22.000Z",
     "fingerprint": "fe02a2be8c254e486eb632d6b010b314b26304dd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Build Check",
+    "link": "https://www.producthunt.com/products/build-check-for-outsiders",
+    "published_at": "2026-04-07T20:10:05.000Z",
+    "fingerprint": "473c31c7926c9f34928b79f61d8db4ee6e8afb3f",
     "micro_judgment": null
   },
   {
