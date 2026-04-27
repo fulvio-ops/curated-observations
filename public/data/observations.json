@@ -1,6 +1,126 @@
 [
   {
     "source": "ANSA",
+    "title": "Corre il prezzo del petrolio, l'Europa apre debole",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/04/27/corre-il-prezzo-del-petrolio-il-gas-apre-in-rialzo_32cba6cb-60a1-4d68-b455-0ac6bff04d75.html",
+    "published_at": "2026-04-27T07:31:00.000Z",
+    "fingerprint": "41582a77778179bffb702ac691f13343c1721a1c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Subgrapher",
+    "link": "https://www.producthunt.com/products/subgrapher",
+    "published_at": "2026-04-27T06:29:50.000Z",
+    "fingerprint": "7fb2c3127043e975664d471948634f68740f8a62",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Massiccio attacco russo su Odessa, almeno 10 feriti tra cui due bambini",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/27/massiccio-attacco-russo-su-odessa-almeno-10-feriti-tra-cui-due-bambini_a73a5c18-a890-450d-ad3f-c7adc338c94e.html",
+    "published_at": "2026-04-27T06:23:13.000Z",
+    "fingerprint": "90211c34f02e1d0d0949b5d57268cbba3eb21679",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "open corridors become classrooms as color and movement reshape an indian school campus",
+    "link": "https://www.designboom.com/architecture/open-corridors-classrooms-color-movement-indian-school-campus-kavundampalayam-government-school-mawi-design/",
+    "published_at": "2026-04-27T02:30:36.000Z",
+    "fingerprint": "3e7dfd7153ded2a737284d6f29d454747dccaf0b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "TurboQuant: A first-principles walkthrough",
+    "link": "https://arkaung.github.io/interactive-turboquant/",
+    "published_at": "2026-04-27T01:54:32.000Z",
+    "fingerprint": "a0ec403afdde210ff0b51379af8ffe29fce62065",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Lofree Hyzen: A High-End Custom Mechanical-Magnetic Keyboard for Every Scenario",
+    "link": "https://www.yankodesign.com/2026/04/26/lofree-hyzen-a-high-end-custom-mechanical-magnetic-keyboard-for-every-scenario/?utm_source=rss&utm_medium=rss&utm_campaign=lofree-hyzen-a-high-end-custom-mechanical-magnetic-keyboard-for-every-scenario",
+    "published_at": "2026-04-27T01:45:45.000Z",
+    "fingerprint": "95716b375d157529372478132374d8795307ddb9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Bosch and ECOVACS Built a Robot Vacuum That Hides Inside Your Kitchen Cabinet… Finally!",
+    "link": "https://www.yankodesign.com/2026/04/26/bosch-and-ecovacs-built-a-robot-vacuum-that-hides-inside-your-kitchen-cabinet-finally/?utm_source=rss&utm_medium=rss&utm_campaign=bosch-and-ecovacs-built-a-robot-vacuum-that-hides-inside-your-kitchen-cabinet-finally",
+    "published_at": "2026-04-26T23:30:07.000Z",
+    "fingerprint": "3858b3831a95ccb1563b6bd7e85dfe4791198dac",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Un grosso squalo attacca un motoscafo a Gallipoli, paura per i pescatori",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/26/un-grosso-squalo-attacca-un-motoscafo-a-gallipoli-paura-per-i-pescatori_2e844fb6-b3bb-47ba-90a2-4632eadd9e8e.html",
+    "published_at": "2026-04-26T20:43:50.000Z",
+    "fingerprint": "6309c1af4e427aac25a5aace1772e15f0a3a603a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Grave la bimba incastrata nel tosaerba del padre, le hanno amputato una gamba",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/26/grave-la-bimba-incastrata-nel-tosaerba-del-padre-le-hanno-amputato-una_3c95f356-9454-47b5-9726-e0b88e693064.html",
+    "published_at": "2026-04-26T20:36:31.000Z",
+    "fingerprint": "10cb897f2c4504f2c5273e70c2d7f9c9c0b6a47e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The Knoll Is a Tiny House That Finally Refuses to Think Small",
+    "link": "https://www.yankodesign.com/2026/04/26/the-knoll-is-a-tiny-house-that-finally-refuses-to-think-small/?utm_source=rss&utm_medium=rss&utm_campaign=the-knoll-is-a-tiny-house-that-finally-refuses-to-think-small",
+    "published_at": "2026-04-26T19:15:59.000Z",
+    "fingerprint": "e81c94f0d0a23ef7af3e00c0dd12700ae5e62c2c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Tennis: stavolta tutto facile per Sinner, a Madrid anche Musetti negli ottavi",
+    "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/26/tennis-stavolta-tutto-facile-per-sinner-a-madrid-anche-musetti-negli_b96460d3-5ce4-451f-a1c3-6021f9ab9317.html",
+    "published_at": "2026-04-26T18:40:55.000Z",
+    "fingerprint": "aa5dd8b204897084b5060da91a5b599f34b5dbc0",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Crans-Montana, i familiari potranno vedere il video choc",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/26/crans-montana-i-familiari-potranno-vedere-il-video-choc_22518e7b-7c79-438a-9feb-88f46ed232b4.html",
+    "published_at": "2026-04-26T18:38:10.000Z",
+    "fingerprint": "ba7a359b22431d47d2a3bb1091e61045783547dd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Atech",
+    "link": "https://www.producthunt.com/products/atech",
+    "published_at": "2026-04-26T16:58:14.000Z",
+    "fingerprint": "da3a7090c807dcf8ba812611f143c07210f12cc9",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Malaria, in 25 anni evitati 2,3 miliardi di casi e 14 milioni di morti",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/04/25/malaria-in-25-anni-evitati-23-miliardi-di-casi-e-14-milioni-di-morti_acf70f77-5fe6-44c6-98da-b4cad44e4837.html",
+    "published_at": "2026-04-26T11:37:40.000Z",
+    "fingerprint": "412fe582763453a27763d0f27b5bf4d5586944ba",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Epismo Agent Package",
+    "link": "https://www.producthunt.com/products/epismo",
+    "published_at": "2026-04-26T08:25:12.000Z",
+    "fingerprint": "22ffff210413a011023c2d1786738d642a610dcc",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Sparatoria al gala dei media con Trump, arrestato l'aggressore",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/26/sparatoria-al-gala-dei-media-con-trump-arrestato-laggressore-_60bfcf1c-6673-41e1-9113-e155c94a6c62.html",
     "published_at": "2026-04-26T06:32:01.000Z",
@@ -61,6 +181,22 @@
     "link": "https://www.ansa.it/sito/notizie/economia/2026/04/25/su-ponti-25-aprile-1-maggio-stangata-carburanti-spesa-rifornimenti-14-miliardi_16d76349-a40a-4b0e-a434-e2072982d3a0.html",
     "published_at": "2026-04-25T15:16:42.000Z",
     "fingerprint": "cadb702caf136215fada5be9dc7a0e6981e6827d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Waitlister",
+    "link": "https://www.producthunt.com/products/waitlister",
+    "published_at": "2026-04-25T14:58:42.000Z",
+    "fingerprint": "0a222d2661cdcace6f22c3aa11f91b3210b1f63c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Moda, il mercato dell'usato vale, ma i brand non ci guadagnano",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/04/25/moda-il-mercato-dellusato-vale-ma-i-brand-non-ci-guadagnano_6dc886f7-35fe-4cf6-a3ae-fadeba4fe800.html",
+    "published_at": "2026-04-25T14:23:24.000Z",
+    "fingerprint": "4dda1ee5bee8ae74061940141cf1fbaa8850495e",
     "micro_judgment": null
   },
   {
@@ -813,6 +949,14 @@
     "link": "https://mediator.ai/",
     "published_at": "2026-04-20T15:07:04.000Z",
     "fingerprint": "5884f4a820fb63de15f81ad3793b2beedefa6d3b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Logic",
+    "link": "https://www.producthunt.com/products/logic-ship-an-agent",
+    "published_at": "2026-04-20T14:31:44.000Z",
+    "fingerprint": "bc9d6324768f7d4351ad708f0f5660af0b08226c",
     "micro_judgment": null
   },
   {
