@@ -1,6 +1,214 @@
 [
   {
     "source": "ANSA",
+    "title": "PRIME PAGINE | Esplode il caso Minetti, il Colle richiama Nordio sulla grazia",
+    "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/04/28/prime-pagine-esplode-il-caso-minetti-il-colle-richiama-nordio-sulla-grazia_a7f73f94-f771-4e4c-bcb7-fb1bef1be67f.html",
+    "published_at": "2026-04-28T05:51:17.000Z",
+    "fingerprint": "2d25ab268083b6c852543032f15676d3bca6678a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il Quirinale scrive a Nordio sulla grazia a Minetti, nuove verifiche. Lei: 'Notizie false su di me'",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/04/27/il-quirinale-scrive-a-nordio-sulla-grazia-a-minetti-nuove-verifiche.-lei-notizie_de7b6de8-90eb-4319-89e9-ddab3c714aab.html",
+    "published_at": "2026-04-28T05:13:26.000Z",
+    "fingerprint": "ef86f56dfa751b60b160c1a41c598fc3e4a80df2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This yolk turned into a marble in a several years old Easter egg.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1sxq6py/this_yolk_turned_into_a_marble_in_a_several_years/",
+    "published_at": "2026-04-28T03:46:11.000Z",
+    "fingerprint": "5fd2b9cb44de632ee2380fe4609cd8119108a56a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "SonicMeet",
+    "link": "https://www.producthunt.com/products/sonicmeet",
+    "published_at": "2026-04-28T03:00:55.000Z",
+    "fingerprint": "0fecdc52647ea617b9e69afc09f2b65a0a6d99c7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My 9 month old contact lense ball",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1sxod2s/my_9_month_old_contact_lense_ball/",
+    "published_at": "2026-04-28T02:22:13.000Z",
+    "fingerprint": "5d3ed256d4b36e9a06c758237501665837c070a1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "ricardo bofill drapes terraced green resort across coastal forest in albania",
+    "link": "https://www.designboom.com/architecture/ricardo-bofill-taller-arquitectura-terraced-green-resort-coastal-forest-albania/",
+    "published_at": "2026-04-28T02:00:17.000Z",
+    "fingerprint": "a27a06fa31fc36e5b81f35d47c6b5a790a7e98e2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Normal lightbulb died and has weird pattern",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1sxmj1q/normal_lightbulb_died_and_has_weird_pattern/",
+    "published_at": "2026-04-28T01:01:49.000Z",
+    "fingerprint": "f88caa85788c66ff57ad55886e9600dc34b84f34",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "A tree tumor, know as a burl",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1sxmhhp/a_tree_tumor_know_as_a_burl/",
+    "published_at": "2026-04-28T01:00:03.000Z",
+    "fingerprint": "c17a9d6dbd8931fd6b3eb3d5fefe5c7f21cb9273",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Integrated by Design",
+    "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
+    "published_at": "2026-04-27T23:14:26.000Z",
+    "fingerprint": "553641cd0db59efe79415f8ae26af506658723d6",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Mossa iraniana: 'Sblocchiamo Hormuz, poi il nucleare'. Trump scettico. Merz: 'Usa umiliati'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/04/27/mossa-iraniana-sblocchiamo-hormuz-poi-il-nucleare.-merz-usa-umiliati_a4f09532-42e7-44b0-b555-15e10965ce84.html",
+    "published_at": "2026-04-27T22:16:58.000Z",
+    "fingerprint": "aaf0f112754646a0a8f128e6f62bf8eaf7e38783",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Is my blue your blue?",
+    "link": "https://ismy.blue/",
+    "published_at": "2026-04-27T20:24:33.000Z",
+    "fingerprint": "b178be0b73ba1028373e2095034d910efb27d733",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'Atenei europei più attrattivi con la circolarità dei cervelli'",
+    "link": "https://www.ansa.it/sito/notizie/eventi/2026/04/26/forum-ansa-con-elena-beccalli-rettrice-delluniversita-cattolica-del-sacro_1ee814ee-4c62-4336-9782-e898084d1dda.html",
+    "published_at": "2026-04-27T19:28:31.000Z",
+    "fingerprint": "3dcf3fff30e32d009eeac857d226f2afd96a708b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This Star Destroyer that someone took the time to draw on this toilet roll cover is now complete.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1sxd0p7/this_star_destroyer_that_someone_took_the_time_to/",
+    "published_at": "2026-04-27T18:55:36.000Z",
+    "fingerprint": "2f765d12f00011bd8c7733da6c069e5e4135cfec",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Caso arbitri, 'almeno 5 indagati ma non l'Inter e i suoi dirigenti'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/27/inchiesta-arbitri-cinque-gli-indagati-noti-ma-gli-iscritti-sono-di-piu._867c4884-fd98-4b3d-8565-5fa754a69a3d.html",
+    "published_at": "2026-04-27T18:21:25.000Z",
+    "fingerprint": "a74c1e3b489a6b32b7d7f0bb7a72f4bf1cd01237",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "The Qiantang river's tidal bore is the world's largest and most powerful of its kind. Sometimes two tides meet together forming a shape like a cross, that can become even more captivating at sunset.",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1sx5ni8/the_qiantang_rivers_tidal_bore_is_the_worlds/",
+    "published_at": "2026-04-27T14:39:17.000Z",
+    "fingerprint": "7cc0f55cd110d87e7754fdd28b2e7c1489a1226f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "‘you try, taste, adjust’: carlo ratti on edible structures and how food can fine tune design",
+    "link": "https://www.designboom.com/design/carlo-ratti-edible-structures-food-finetune-design/",
+    "published_at": "2026-04-27T14:00:50.000Z",
+    "fingerprint": "6193a4c741b15a0e2899d7ced965a160aefeb0b9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "How drastically Poptarts skimps on the icing now",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1sx4h1b/how_drastically_poptarts_skimps_on_the_icing_now/",
+    "published_at": "2026-04-27T13:57:23.000Z",
+    "fingerprint": "c82c7fc682e44bd223f651de04f084495c4b8a30",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Sì dall'assemblea Delfin al passaggio delle quote di due fratelli a Leonardo Maria Del Vecchio",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/04/27/si-da-assemblea-delfin-a-passaggio-quote-di-due-fratelli-a-leonardo-maria-del-vecchio_b4d5a40a-af2e-48f1-990c-0010149dca60.html",
+    "published_at": "2026-04-27T12:23:51.000Z",
+    "fingerprint": "0f8f95ebe857f94e38d00de1ee98441dbf4c7761",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Fiorello: \"Vendere il Teatro delle Vittorie un crimine contro lo spettacolo italiano\"",
+    "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/04/27/fiorello-vendere-il-teatro-delle-vittorie-un-crimine-contro-lo-spettacolo-italiano_88bbbfab-3b77-445b-9207-1245005cdb96.html",
+    "published_at": "2026-04-27T12:20:24.000Z",
+    "fingerprint": "1bec838800e59b2105d0286a36d4ec354852aa77",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "cable management of this server",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1sx0oug/cable_management_of_this_server/",
+    "published_at": "2026-04-27T11:19:48.000Z",
+    "fingerprint": "5cffffabdab3c3186c26e0540c02a37cc61eb08a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "AISA AI Skills Test",
+    "link": "https://www.producthunt.com/products/aisa-ai-skills-test-ai-leaderboard",
+    "published_at": "2026-04-27T10:29:14.000Z",
+    "fingerprint": "e1fdc67f07185b693c99c7fb3d53edeb8b0f54b5",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Un grosso squalo attacca un motoscafo a Gallipoli, paura per i pescatori",
+    "link": "https://www.ansa.it/sito/videogallery/italia/2026/04/27/un-grosso-squalo-attacca-un-motoscafo-a-gallipoli-paura-per-i-pescatori_b862b846-8195-4dd6-b202-ce7adea720fa.html",
+    "published_at": "2026-04-27T10:20:59.000Z",
+    "fingerprint": "29c01ccb052f3e0453c3e1ffc02bebb72973f70b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
+    "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
+    "published_at": "2026-04-27T10:15:17.000Z",
+    "fingerprint": "bb547c486b3ce385cd03a07e444d89651cf7f7c2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "link": "https://app.oravys.com/blog/mercor-breach-2026",
+    "published_at": "2026-04-27T09:57:10.000Z",
+    "fingerprint": "6adb34fa681bc7f63ff9e6f5210848165b04fd23",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "design for democracy: how world design capital frankfurt rheinmain activates civic agency",
+    "link": "https://www.designboom.com/design/design-for-democracy-world-design-capital-frankfurt-rheinmain-civic-agency/",
+    "published_at": "2026-04-27T09:00:47.000Z",
+    "fingerprint": "77dc7364053c2485e69a0050aab0eab45e2a2d27",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Moti, The Challenge App",
+    "link": "https://www.producthunt.com/products/moti-the-challenge-app",
+    "published_at": "2026-04-27T08:57:32.000Z",
+    "fingerprint": "3d33b4fa39314c3f197d7aad79efc132d4cab83d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Corre il prezzo del petrolio, l'Europa apre debole",
     "link": "https://www.ansa.it/sito/notizie/economia/2026/04/27/corre-il-prezzo-del-petrolio-il-gas-apre-in-rialzo_32cba6cb-60a1-4d68-b455-0ac6bff04d75.html",
     "published_at": "2026-04-27T07:31:00.000Z",
@@ -16,11 +224,35 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "CartGhost",
+    "link": "https://www.producthunt.com/products/cartghost",
+    "published_at": "2026-04-27T06:29:16.000Z",
+    "fingerprint": "cb769b04e3e5f69075a34a5c131fdc684626ffab",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Massiccio attacco russo su Odessa, almeno 10 feriti tra cui due bambini",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/27/massiccio-attacco-russo-su-odessa-almeno-10-feriti-tra-cui-due-bambini_a73a5c18-a890-450d-ad3f-c7adc338c94e.html",
     "published_at": "2026-04-27T06:23:13.000Z",
     "fingerprint": "90211c34f02e1d0d0949b5d57268cbba3eb21679",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Giocare con il cane rafforza il legame emotivo",
+    "link": "https://www.ansa.it/canale_scienza/notizie/ragazzi/news/2026/04/22/giocare-con-il-cane-rafforza-il-legame-emotivo_dc13c02b-0c31-4975-aee8-0f28af2d8af6.html",
+    "published_at": "2026-04-27T05:43:57.000Z",
+    "fingerprint": "d7e4aad03023e691339dafddc315c61625534da6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Leaf looks like a mango",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1swr551/leaf_looks_like_a_mango/",
+    "published_at": "2026-04-27T02:40:28.000Z",
+    "fingerprint": "1a87fe312c861391db39a0d93700a6b08f6d0844",
     "micro_judgment": null
   },
   {
@@ -312,11 +544,35 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Persistent Security Industries",
+    "link": "https://www.producthunt.com/products/persistent-security-industries",
+    "published_at": "2026-04-23T20:39:16.000Z",
+    "fingerprint": "09fca1981a05b9ebca8069dc9250ffbf0b7bedfb",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Donna britannica sceglie di morire in una clinica svizzera dopo la perdita del figlio",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/23/britannica-sceglie-di-morire-in-clinica-svizzera-dopo-la-perdita-del-figlio_31e21d6b-dc02-4270-89af-eb28d7dd66ef.html",
     "published_at": "2026-04-23T20:23:45.000Z",
     "fingerprint": "0a18f3593e08059cd18ec7c0b623675bc21cf5be",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Palma",
+    "link": "https://www.producthunt.com/products/palma",
+    "published_at": "2026-04-23T20:15:36.000Z",
+    "fingerprint": "4eb1da6ebe786f3a538d7399d0f16cd1796873a4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "PLAYBACK SPORTS AI",
+    "link": "https://www.producthunt.com/products/playback-sports-ai",
+    "published_at": "2026-04-23T20:15:17.000Z",
+    "fingerprint": "d8902e312cd221c5504a99a2cb3dc4c314fa6b69",
     "micro_judgment": null
   },
   {
@@ -685,6 +941,14 @@
     "link": "https://www.designboom.com/design/sara-ricciardi-chemistry-happiness-milan-pinacoteca-brera-design-week-2026-interview/",
     "published_at": "2026-04-21T15:00:09.000Z",
     "fingerprint": "be6f7d3277eec0aa9a613ea35977776afe17617a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "IgnitionRAG",
+    "link": "https://www.producthunt.com/products/ignitionrag",
+    "published_at": "2026-04-21T14:48:07.000Z",
+    "fingerprint": "638a47330ac620b737662609b98523cfe7c09662",
     "micro_judgment": null
   },
   {
@@ -1749,6 +2013,14 @@
     "link": "https://www.designboom.com/architecture/curved-wood-rattan-macaron-displays-tropical-french-patisserie-singapore-pierre-herme-paris-ccd/",
     "published_at": "2026-04-15T09:30:06.000Z",
     "fingerprint": "2c150d44ace392cf62faf87e1f69e5441869d865",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "SureThing.io",
+    "link": "https://www.producthunt.com/products/surething-io",
+    "published_at": "2026-04-15T09:23:43.000Z",
+    "fingerprint": "3aafdd503c52dc353eab621969581ca30a9a6326",
     "micro_judgment": null
   },
   {
@@ -9093,6 +9365,14 @@
     "link": "https://openai.com/index/gpt-5-3-instant/",
     "published_at": "2026-03-03T17:57:33.000Z",
     "fingerprint": "d6086fbc41e68ccfb09944349a3bfe5d39a48245",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "MintLocke",
+    "link": "https://www.producthunt.com/products/mintlocke",
+    "published_at": "2026-03-03T17:32:59.000Z",
+    "fingerprint": "b511e04075f9096bc5ecc609da1bf60643a1f4d4",
     "micro_judgment": null
   },
   {
