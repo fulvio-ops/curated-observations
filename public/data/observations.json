@@ -1,6 +1,190 @@
 [
   {
     "source": "ANSA",
+    "title": "Continua la caccia all'autore dell'omicidio del 30enne italiano a Ibiza",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/04/30/continua-la-caccia-allautore-dellomicidio-del-30enne-italiano-a-ibiza_8b66de72-3538-4929-bd48-d8803ea9980b.html",
+    "published_at": "2026-04-30T06:42:54.000Z",
+    "fingerprint": "a8f6a15bd2a083f3358d83106e866528a64351f4",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Arrestato a Roma il comico Massimo Bagnato per stalking alla ex",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/29/arrestato-a-roma-il-comico-massimo-bagnato-per-stalking-alla-ex_e88aeb8d-8c09-4c1c-92ac-6ccb8eee67b3.html",
+    "published_at": "2026-04-30T06:36:35.000Z",
+    "fingerprint": "838cba7695c715ca41eeaf9b307894eff9b13361",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Motorola Razr Fold",
+    "link": "https://www.producthunt.com/products/motorola-g7",
+    "published_at": "2026-04-30T05:06:28.000Z",
+    "fingerprint": "7d5b0a07326ef976c5856fed097259dc2a658093",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Docky",
+    "link": "https://www.producthunt.com/products/docky-the-dock-rebuit-for-focus",
+    "published_at": "2026-04-30T03:47:00.000Z",
+    "fingerprint": "3b113e2a74043ffa7183abea7e653402f69adfc1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "MailToDock",
+    "link": "https://www.producthunt.com/products/mailtodock",
+    "published_at": "2026-04-30T02:07:21.000Z",
+    "fingerprint": "e72358d3e77b5cd79c952d5c4d99af112baff6ec",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "A grounded conceptual model for ownership types in Rust",
+    "link": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
+    "published_at": "2026-04-30T01:47:19.000Z",
+    "fingerprint": "40e1a237d383c892a7bd07cc861c038fadf50da4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Craig Venter has died",
+    "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+    "published_at": "2026-04-30T01:44:56.000Z",
+    "fingerprint": "2b7ed008a1bbf9f4040e03056848ff596678bd1d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'addio di Powell a tassi invariati, 'fiducioso su integrità Fed'",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/04/29/la-fed-lascia-i-tassi-di-interesse-invariati-fra-il-350-e-il-375_1d035425-a707-4854-88e3-a8ac845244c8.html",
+    "published_at": "2026-04-29T22:30:47.000Z",
+    "fingerprint": "ea523c72b2d0b4e9e15e77edbdd0b32d0fa809ec",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Vera: a programming language designed for machines to write",
+    "link": "https://github.com/aallan/vera",
+    "published_at": "2026-04-29T21:41:32.000Z",
+    "fingerprint": "1a043c4ea1493a6a9e61aa79133aecdd7e47ed8e",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Sinner ancora troppo forte per Jodar, è semifinale a Madrid",
+    "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/29/tennis-madrid-sinner-supera-jodar-e-va-in-semifinale_4cb9c391-cb57-4359-a538-d50fe1cef2b3.html",
+    "published_at": "2026-04-29T18:40:47.000Z",
+    "fingerprint": "fd3aef538298b884e8ae9af11d59b06afffbcc1c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Copy Fail",
+    "link": "https://copy.fail/",
+    "published_at": "2026-04-29T18:13:53.000Z",
+    "fingerprint": "66c2cbc9a4a74d9d8456776411c50fc13b440eaf",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Precompilata al via, il modello 730 disponibile sul sito delle Entrate da giovedì. Quello che c'è da sapere",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/04/29/precompilata-al-via-il-modello-730-disponibile-sul-sito-delle-entrate-da-giovedi._22ba1ec0-46c4-47b7-bc15-b7c3a4b1223a.html",
+    "published_at": "2026-04-29T17:57:29.000Z",
+    "fingerprint": "51986d792b31c9a172a2b540ef89f141942de657",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Squalo intrappolato tra gli scogli nell'Ascolano, l'intervento della guardia costiera",
+    "link": "https://www.ansa.it/sito/videogallery/italia/2026/04/29/squalo-intrappolato-tra-gli-scogli-nellascolano-lintervento-della-guardia-costiera_fc2fb369-2c98-421e-9228-59ed553be9f9.html",
+    "published_at": "2026-04-29T17:22:49.000Z",
+    "fingerprint": "d5eb9138abfeec32e86f9d9e617f58b20a760aec",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "kengo kuma frames medieval church facade in angers, france with ribbed portico",
+    "link": "https://www.designboom.com/architecture/kengo-kuma-medieval-church-facade-angers-france-ribbed-portico-saint-maurice-cathedral/",
+    "published_at": "2026-04-29T17:00:30.000Z",
+    "fingerprint": "78301a499cc33d19be3cd7517a2283b7dad38bea",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Crin AI",
+    "link": "https://www.producthunt.com/products/crin-ai",
+    "published_at": "2026-04-29T16:51:44.000Z",
+    "fingerprint": "5961e9cddf42206625c76d75ca22d112091c28b9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+    "link": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+    "published_at": "2026-04-29T16:16:39.000Z",
+    "fingerprint": "dcbda41c025818c1d241f20faf6eb8effccec8ae",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Arduino-powered crane record player brings industrial influence and hands-on controls",
+    "link": "https://www.yankodesign.com/2026/04/29/arduino-powered-crane-record-player-brings-industrial-influence-and-hands-on-controls/?utm_source=rss&utm_medium=rss&utm_campaign=arduino-powered-crane-record-player-brings-industrial-influence-and-hands-on-controls",
+    "published_at": "2026-04-29T15:20:12.000Z",
+    "fingerprint": "abe96ba9a90e63b5eaf9d85769ce2f92fd3dd166",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "40 anni di Italia su Internet, il primo segnale partì da Pisa",
+    "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/04/29/40-anni-di-italia-su-internet-il-primo-segnale-parti-da-pisa_657e9efa-9fa5-4049-9b87-7ad9bbc9200e.html",
+    "published_at": "2026-04-29T14:35:54.000Z",
+    "fingerprint": "dcf64e558441f5ebbe79147329a20064080759f1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "how DLR Group advances integrated design to elevate human experience",
+    "link": "https://www.designboom.com/architecture/dlr-group-integrated-design-human-experience-peter-rutti/",
+    "published_at": "2026-04-29T13:37:16.000Z",
+    "fingerprint": "8807401412d9daa966dbfdd5ec744c591ca0ad93",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "PITAKA invites creators to reinterpret concept of weaving through design",
+    "link": "https://www.designboom.com/design/pitaka-weaving-global-challenge/",
+    "published_at": "2026-04-29T10:55:40.000Z",
+    "fingerprint": "009dde90f9b12b682a095fd542c2330f8756081a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "the city as a controlled hallucination: from amusement parks to urban space",
+    "link": "https://www.designboom.com/architecture/city-controlled-hallucination-amusement-parks-urban-space/",
+    "published_at": "2026-04-29T09:30:33.000Z",
+    "fingerprint": "2c7b23dd8054c7153c2c3399cebb6776ebdb1a9e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Adoptly",
+    "link": "https://www.producthunt.com/products/adoptly",
+    "published_at": "2026-04-29T09:21:02.000Z",
+    "fingerprint": "50289b6b6d7db057ed2034531bc053bc5259c0b2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "SpY’s kinetic installation suspends rotating gold and silver halos inside florence atrium",
+    "link": "https://www.designboom.com/art/spy-kinetic-installation-rotating-gold-silver-halos-florence-atrium/",
+    "published_at": "2026-04-29T09:00:13.000Z",
+    "fingerprint": "1f03671c9bffd0f538a5b4e603ba41d16e0428be",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Trump: 'Gli Usa hanno sconfitto l'Iran'. Teheran: 'Per noi la guerra non è finita con il cessate il fuoco'",
     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/04/29/trump-gli-usa-hanno-sconfitto-liran.-teheran-per-noi-la-guerra_b56255ed-b788-49d1-8202-c1e39de500b2.html",
     "published_at": "2026-04-29T07:10:32.000Z",
@@ -141,6 +325,14 @@
     "link": "https://www.ansa.it/canale_legalita_scuola/notizie/mur/2026/04/27/atenei-europei-piu-attrattivi-con-la-circolarita-dei-cervelli_ba7f3045-96ff-43f0-940b-82da6a3e5821.html",
     "published_at": "2026-04-28T08:45:03.000Z",
     "fingerprint": "5c2228abdac1ccbe9bd29daeb15638d44b5327aa",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Un materiale scolpito dalla luce per occhiali smart e nanosensori",
+    "link": "https://www.ansa.it/canale_scienza/notizie/frontiere/2026/04/27/un-materiale-scolpito-dalla-luce-per-occhiali-smart-e-nanosensori_c095cfff-fa92-4a0f-9663-068cfab6db72.html",
+    "published_at": "2026-04-28T07:02:36.000Z",
+    "fingerprint": "c16696525a23e01d71bf6271a90bad479217ee04",
     "micro_judgment": null
   },
   {
@@ -1365,6 +1557,14 @@
     "link": "https://www.producthunt.com/products/logic-ship-an-agent",
     "published_at": "2026-04-20T14:31:44.000Z",
     "fingerprint": "bc9d6324768f7d4351ad708f0f5660af0b08226c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "CodeHealth MCP Server by CodeScene",
+    "link": "https://www.producthunt.com/products/codescene-codehealth-mcp-server",
+    "published_at": "2026-04-20T14:08:53.000Z",
+    "fingerprint": "a33f10acf55000700db85fc750522748d674a505",
     "micro_judgment": null
   },
   {
@@ -7413,6 +7613,14 @@
     "link": "https://www.producthunt.com/products/nvidia",
     "published_at": "2026-03-17T02:09:57.000Z",
     "fingerprint": "076a877b838b8a3087090f683ec6679b318792cd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "VideoOS by Jupitrr AI",
+    "link": "https://www.producthunt.com/products/jupitrr",
+    "published_at": "2026-03-17T01:34:49.000Z",
+    "fingerprint": "e8d388f0fefeefb280cd9b9379f68be02dd71dca",
     "micro_judgment": null
   },
   {
