@@ -1,6 +1,150 @@
 [
   {
     "source": "ANSA",
+    "title": "Ritirato lo studio sulla terapia per la regressione del tumore del pancreas",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/05/02/ritirato-lo-studio-sulla-terapia-per-la-regressione-del-tumore-del-pancreas_1da2b6f1-2e37-4b45-85bc-2af11a023ab9.html",
+    "published_at": "2026-05-02T06:31:48.000Z",
+    "fingerprint": "db3fc30a277356eb0efa82752b6e175b2394896a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Spirit Airlines Is Winding Down All Operations",
+    "link": "https://www.spiritrestructuring.com/",
+    "published_at": "2026-05-02T06:28:00.000Z",
+    "fingerprint": "df77de59d21613b1b0f5ed7b5bd2804fabcff3fc",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Idf ordina evacuazione di diversi centri del Libano meridionale",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/02/idf-ordina-evacuazione-di-diversi-centri-del-libano-meridionale_0d2f64f0-e621-4932-b7d2-097ebab7639b.html",
+    "published_at": "2026-05-02T06:26:55.000Z",
+    "fingerprint": "386cfd61540accf93dbd1f0d2f46bbb447f8fd03",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Why does it take so long to release black fan versions?",
+    "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+    "published_at": "2026-05-02T04:38:04.000Z",
+    "fingerprint": "7fbfb6f80ebb04e9a3b07b5d7d5a643964044e5d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Ask.com has closed",
+    "link": "https://www.ask.com/",
+    "published_at": "2026-05-02T04:12:35.000Z",
+    "fingerprint": "518fbb32a8b4d0613521761677d240e61be3371c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "K3k: Kubernetes in Kubernetes",
+    "link": "https://github.com/rancher/k3k",
+    "published_at": "2026-05-02T04:00:42.000Z",
+    "fingerprint": "4a2f71402e713f437d9ae8290a1abe72987b44d5",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Al Concertone Delia canta Bella Ciao, ma \"partigiano\" diventa \"essere umano\", rivolta social",
+    "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/05/02/al-concertone-delia-canta-bella-ciao-ma-partigiano-diventa-essere-umano-rivolta_622fd29a-e537-47c3-b099-531afc92cf54.html",
+    "published_at": "2026-05-01T22:50:19.000Z",
+    "fingerprint": "6394ad17ee3529d002135d0c488ac6e06f5c88c2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Aston Martin Concept Reimagines British GT Design with 30% More Aggression and Zero Corporate Compromise",
+    "link": "https://www.yankodesign.com/2026/05/01/aston-martin-concept-reimagines-british-gt-design-with-30-more-aggression-and-zero-corporate-compromise/?utm_source=rss&utm_medium=rss&utm_campaign=aston-martin-concept-reimagines-british-gt-design-with-30-more-aggression-and-zero-corporate-compromise",
+    "published_at": "2026-05-01T21:30:28.000Z",
+    "fingerprint": "7f35157829c0f48e28c9396220980aa056bd6ff9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Roam Rider SL pickup camper pops up to create headroom, slides on both sides for more living space",
+    "link": "https://www.yankodesign.com/2026/05/01/roam-rider-sl-pickup-camper-pops-up-to-create-headroom-slides-on-both-sides-for-more-living-space/?utm_source=rss&utm_medium=rss&utm_campaign=roam-rider-sl-pickup-camper-pops-up-to-create-headroom-slides-on-both-sides-for-more-living-space",
+    "published_at": "2026-05-01T20:30:47.000Z",
+    "fingerprint": "175f7a86c2fabadaf019fc17d0d8f0b2deb20d79",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il Papa nomina un ex immigrato clandestino vescovo in Usa",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/05/01/il-papa-nomina-un-ex-immigrato-clandestino-vescovo-in-usa_fb01910e-00f0-4b8d-8771-e7a123855441.html",
+    "published_at": "2026-05-01T19:52:16.000Z",
+    "fingerprint": "84199eae75121eb6a9b093e513f17a163a77e267",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Whimsical Animations Course Open House",
+    "link": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
+    "published_at": "2026-05-01T19:35:39.000Z",
+    "fingerprint": "25a9865f5dda1764c364bd80769bbdea58a662fb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Canon Is Stealing DJI’s Content Creator Crown With Its Own Osmo Pocket Rival",
+    "link": "https://www.yankodesign.com/2026/05/01/canon-is-stealing-djis-content-creator-crown-with-its-own-osmo-pocket-rival/?utm_source=rss&utm_medium=rss&utm_campaign=canon-is-stealing-djis-content-creator-crown-with-its-own-osmo-pocket-rival",
+    "published_at": "2026-05-01T19:15:09.000Z",
+    "fingerprint": "3f74775cd4fa6cf0f48009641218aa3a2c99d2da",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: AI CAD Harness",
+    "link": "https://fusion.adam.new/install",
+    "published_at": "2026-05-01T17:43:53.000Z",
+    "fingerprint": "20bebf6fdccc488c00c4d2c7061837176b28a3db",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Bondì ai domiciliari, 'mi vergogno per quello che ho fatto'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/01/spari-a-roma-disposti-i-domiciliari-per-bondi_41145b3f-887e-44d9-b8f2-6502ed0853c3.html",
+    "published_at": "2026-05-01T16:01:42.000Z",
+    "fingerprint": "8cbf8c0362a8fd32ffe13036b3c3acbaf1d3233c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+    "link": "https://news.ycombinator.com/item?id=47975676",
+    "published_at": "2026-05-01T15:07:02.000Z",
+    "fingerprint": "c71fdc634fd5c4c9bca98056c356bc587372b708",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ucciso in ristorante a Bisceglie, il prefetto dispone controlli e più carabinieri",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/04/30/spari-in-un-ristorante-nel-barese-ucciso-per-errore-un-cameriere_0aa0cd4e-05f3-4e51-a87a-ec625cf71631.html",
+    "published_at": "2026-05-01T13:44:40.000Z",
+    "fingerprint": "9f82b335e06107dc0f59373ec0d9b3d321635101",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "designboom radar: exhibitions to see around the world this may",
+    "link": "https://www.designboom.com/art/designboom-radar-exhibitions-around-world-may/",
+    "published_at": "2026-05-01T10:15:20.000Z",
+    "fingerprint": "d7458b2f97957ae9e663835bb385272bbe6a0083",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "IA, un nuovo 'scontro di civiltà'?",
+    "link": "https://www.ansa.it/sito/podcast/la_fabbrica_della_realta/2026/04/30/ia-un-nuovo-scontro-di-civilta_6296942f-0976-41a1-8169-09dbfc98d231.html",
+    "published_at": "2026-05-01T08:11:44.000Z",
+    "fingerprint": "44eb8865bb276c5fda306cc0e31eefb9ff997b3c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Cobolli battuto da Zverev, il tedesco in semifinale a Madrid",
     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/30/cobolli-battuto-da-zverev-il-tedesco-in-semifinale-a-madrid_42e367e1-339c-4ccd-a9ae-1ef9abd9db5d.html",
     "published_at": "2026-05-01T07:17:58.000Z",
@@ -176,6 +320,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Ghosted",
+    "link": "https://www.producthunt.com/products/ghosted-smart-presence",
+    "published_at": "2026-04-30T15:54:01.000Z",
+    "fingerprint": "1a0980415a195959eb4f6f9de0ab5f15a3f6386c",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "from noise to purpose: a few thoughts on milan design week 2026",
     "link": "https://www.designboom.com/design/noise-purpose-thoughts-milan-design-week-2026-room-for-dreams/",
@@ -277,6 +429,14 @@
     "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
     "published_at": "2026-04-30T01:44:56.000Z",
     "fingerprint": "2b7ed008a1bbf9f4040e03056848ff596678bd1d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Feather",
+    "link": "https://www.producthunt.com/products/feather-18",
+    "published_at": "2026-04-30T00:13:24.000Z",
+    "fingerprint": "1825b19ef87e5ab60f44ac73de889c8370cd8d82",
     "micro_judgment": null
   },
   {
@@ -1309,6 +1469,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1ssjixc/before_after_removing_my_8_kg_ovarian_cyst/",
     "published_at": "2026-04-22T12:06:01.000Z",
     "fingerprint": "5b9860882ca28031998229cfe5d548b25a9a49b1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Copilot Health",
+    "link": "https://www.producthunt.com/products/copilot-health",
+    "published_at": "2026-04-22T10:34:44.000Z",
+    "fingerprint": "795cf4d46e27ee473c735a8a3216de2c37824004",
     "micro_judgment": null
   },
   {
