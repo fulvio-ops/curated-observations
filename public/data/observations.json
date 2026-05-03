@@ -1,6 +1,102 @@
 [
   {
     "source": "ANSA",
+    "title": "'Generazione Stem', gap di genere per l'IA, il 70% dei programmatori sono uomini",
+    "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/05/02/generazione-stem-gap-di-genere-per-lia-il-70-dei-programmatori-sono-uomini_29f0d537-3009-45fc-a48c-dc2a9e490a8d.html",
+    "published_at": "2026-05-03T05:51:18.000Z",
+    "fingerprint": "ca8f188d80e95922fbc2263c467026a9920f9205",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Rapporto, i corpi di 8 mila palestinesi sono ancora sotto le macerie",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/03/rapporto-i-corpi-di-8-mila-palestinesi-ancora-sotto-le-macerie_c4483ed7-bd86-47ea-9304-5db827fa312a.html",
+    "published_at": "2026-05-03T03:19:06.000Z",
+    "fingerprint": "3e519a90d3ed3d3ad4ddbcef1f7bf352e3f05d90",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "kinetic mirrored installation in portugal by moradavaga evokes a shoal of golden fish",
+    "link": "https://www.designboom.com/art/kinetic-mirrored-installation-portugal-moradavaga-shoal-golden-fish-a-l-m-a-d-r-a-v-a/",
+    "published_at": "2026-05-03T03:00:11.000Z",
+    "fingerprint": "4ae9e71bae43dce08977b5b4ea9fbec54bd4c695",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Open source does not imply open community",
+    "link": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
+    "published_at": "2026-05-03T02:36:09.000Z",
+    "fingerprint": "279d5574ba2b95b67198b645508bc2aec30159d2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "A network smuggling Starlink tech into Iran to beat internet blackout",
+    "link": "https://www.bbc.com/news/articles/cvgzk91leweo",
+    "published_at": "2026-05-03T01:22:41.000Z",
+    "fingerprint": "ed816c7a101147aa7fbdda9bced4dd9ee0139368",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This strangely addictive gear-inspired magnetic fidget from METMO comes in brass, titanium, steel, and nylon",
+    "link": "https://www.yankodesign.com/2026/05/02/this-strangely-addictive-gear-inspired-magnetic-fidget-from-metmo-comes-in-brass-titanium-steel-and-nylon/?utm_source=rss&utm_medium=rss&utm_campaign=this-strangely-addictive-gear-inspired-magnetic-fidget-from-metmo-comes-in-brass-titanium-steel-and-nylon",
+    "published_at": "2026-05-02T23:30:56.000Z",
+    "fingerprint": "57714ef9a6d21c50cfb667586987dae828973e9b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Forget Smarter AI, This Robot Thinks Presence Is the Point",
+    "link": "https://www.yankodesign.com/2026/05/02/forget-smarter-ai-this-robot-thinks-presence-is-the-point/?utm_source=rss&utm_medium=rss&utm_campaign=forget-smarter-ai-this-robot-thinks-presence-is-the-point",
+    "published_at": "2026-05-02T20:45:36.000Z",
+    "fingerprint": "fe4670cf32081b37bc5e890f14be739d801d6a4c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Si tuffa nel lago di Como e non riemerge, morto un 15enne",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/02/si-tuffa-nel-lago-di-como-e-non-riemerge-morto-15enne_aaae116f-a7df-487c-a6a6-27a9f250b366.html",
+    "published_at": "2026-05-02T19:40:03.000Z",
+    "fingerprint": "d2562cebc9d93039c5af641899c0e6bcdfd7c1a8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Do_not_track",
+    "link": "https://donottrack.sh/",
+    "published_at": "2026-05-02T17:40:55.000Z",
+    "fingerprint": "320af56d2cb3a2768f8b9e0539890cbff1bd0819",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "1-1 architects reworks surplus timber into a layered house and office in japan",
+    "link": "https://www.designboom.com/architecture/11-architects-surplus-timber-layered-house-office-sh-nagoya-japan/",
+    "published_at": "2026-05-02T15:00:24.000Z",
+    "fingerprint": "da8837986ec16bf3e9e1a206278511d362ff17e2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Dabbling in Erlang, part 2: A minimal introduction (2013)",
+    "link": "https://agis.io/post/dabbling-in-erlang-a-minimal-introduction/",
+    "published_at": "2026-05-02T08:37:39.000Z",
+    "fingerprint": "1cc819c8580c254112e4729d9953716fcac5cc89",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "silent embrace: a film exploration of body movement against hostile urban design",
+    "link": "https://www.designboom.com/art/silent-embrace-film-exploration-body-movement-hostile-urban-design-luuk-walschot/",
+    "published_at": "2026-05-02T08:00:57.000Z",
+    "fingerprint": "ed5f502b0223bbe6d7201ed75ecb6c74d548fb44",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Ritirato lo studio sulla terapia per la regressione del tumore del pancreas",
     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/05/02/ritirato-lo-studio-sulla-terapia-per-la-regressione-del-tumore-del-pancreas_1da2b6f1-2e37-4b45-85bc-2af11a023ab9.html",
     "published_at": "2026-05-02T06:31:48.000Z",
@@ -493,6 +589,14 @@
     "link": "https://www.designboom.com/architecture/kengo-kuma-medieval-church-facade-angers-france-ribbed-portico-saint-maurice-cathedral/",
     "published_at": "2026-04-29T17:00:30.000Z",
     "fingerprint": "78301a499cc33d19be3cd7517a2283b7dad38bea",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "PandaProbe",
+    "link": "https://www.producthunt.com/products/pandaprobe",
+    "published_at": "2026-04-29T16:53:50.000Z",
+    "fingerprint": "2f62611c5d4d25ddcfd5fed0069e17ea943eb9d5",
     "micro_judgment": null
   },
   {
