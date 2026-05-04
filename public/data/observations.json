@@ -1,6 +1,110 @@
 [
   {
     "source": "ANSA",
+    "title": "Medio Oriente, Trump lancia l'operazione Freedom per liberare le navi a Hormuz. L'Iran minaccia ritorsioni. Il Liveblog",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/04/medio-oriente-trump-lancia-loperazione-freedom-per-liberare-le-navi-a-hormuz._c991b0b5-9c86-45a7-9a1b-e9c8584148bd.html",
+    "published_at": "2026-05-04T07:45:54.000Z",
+    "fingerprint": "bf9d9308ea775738c76e9730ec6c4207f11717de",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Mattarella: 'L'Esercito è fondamentale per salvaguardare l'indipendenza del Paese'",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/05/04/mattarella-lesercito-e-fondamentale-per-salvaguardare-lindipendenza-del-paese_db21136b-5fec-4f4e-bc01-b386c3a70f24.html",
+    "published_at": "2026-05-04T07:36:34.000Z",
+    "fingerprint": "13b2d3133b64c3bb4188bc2360f2d98f6bdf1915",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "goethe’s ‘italian journey’ diary inspires florim’s sensicolore ceramic surfaces",
+    "link": "https://www.designboom.com/design/goethe-italian-journey-diary-florim-sensicolore-ceramic-surfaces/",
+    "published_at": "2026-05-04T07:00:49.000Z",
+    "fingerprint": "6b80a2e2359bd65f2b018883888581208ef859b1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La deputata ed ex ministra Marianna Madia lascia il Pd",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/05/04/la-deputata-ed-ex-ministra-marianna-madia-lascia-il-pd_3d382833-9a84-4bbb-bd30-54bd101ad558.html",
+    "published_at": "2026-05-04T06:26:02.000Z",
+    "fingerprint": "425c2c692631cdb93f3682cbe51f4ab002d1b2fb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+    "link": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+    "published_at": "2026-05-03T23:59:02.000Z",
+    "fingerprint": "6c8e0cb43edfd1f0a3616d9d867fce8b3d3b2122",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The 'Hidden' Costs of Great Abstractions",
+    "link": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+    "published_at": "2026-05-03T23:12:02.000Z",
+    "fingerprint": "bf60da44cf7aa83e7e134477e7495f4109e57865",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Introduction to Atom",
+    "link": "https://validator.w3.org/feed/docs/atom.html",
+    "published_at": "2026-05-03T22:08:47.000Z",
+    "fingerprint": "26588a7194a4900dfe0564c082156ad96b6f8f8c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'La ragazza di cui parla Sempio in chat non è Chiara, la chiameremo'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/03/la-difesa-di-sempio-la-ragazza-in-chat-non-e-chiara-valutiamo-se-chiamarla-come-teste_3b2985aa-67df-48e1-9617-fc55345cab38.html",
+    "published_at": "2026-05-03T18:14:07.000Z",
+    "fingerprint": "852ad2024e2645e96b7249c5024d9f9b513e7689",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Gli attivisti della Flotilla restano in cella, in Aula con le catene",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/03/gli-attivisti-della-flotilla-restano-in-cella-in-aula-con-le-catene_6ddec1f4-4bc9-4c39-b02b-f3f75acd7b0b.html",
+    "published_at": "2026-05-03T18:06:10.000Z",
+    "fingerprint": "d41d028a7e58c2b64bad9de3ec0da46399348944",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Southwest Headquarters Tour",
+    "link": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+    "published_at": "2026-05-03T17:02:13.000Z",
+    "fingerprint": "e46afc6843c8869f88e9280af60234600cf499a7",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Zanardi: onda infinita di emozione, 'in bici libero nell'universo'",
+    "link": "https://www.ansa.it/sito/notizie/sport/2026/05/03/zanardi-onda-infinita-di-emozione-in-bici-libero-nelluniverso_e5496ea5-47d9-4ab8-a210-8c337c1459d6.html",
+    "published_at": "2026-05-03T16:26:00.000Z",
+    "fingerprint": "d2f0898d8983a11ac23d6c811259433b50bcf409",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "B!POD’s DRO!D Finally Makes Food Storage Worth Showing Off",
+    "link": "https://www.yankodesign.com/2026/05/03/bpods-drod-finally-makes-food-storage-worth-showing-off/?utm_source=rss&utm_medium=rss&utm_campaign=bpods-drod-finally-makes-food-storage-worth-showing-off",
+    "published_at": "2026-05-03T13:20:46.000Z",
+    "fingerprint": "96401d9d2daed9f48fb3e9fc7c2f442d5909ff5a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Apple's SHARP running in the browser via ONNX runtime web",
+    "link": "https://github.com/bring-shrubbery/ml-sharp-web",
+    "published_at": "2026-05-03T09:14:56.000Z",
+    "fingerprint": "0ba222d1671143209835d91a6da7c1e9a28e2187",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "'Generazione Stem', gap di genere per l'IA, il 70% dei programmatori sono uomini",
     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/05/02/generazione-stem-gap-di-genere-per-lia-il-70-dei-programmatori-sono-uomini_29f0d537-3009-45fc-a48c-dc2a9e490a8d.html",
     "published_at": "2026-05-03T05:51:18.000Z",
@@ -37,6 +141,14 @@
     "link": "https://www.bbc.com/news/articles/cvgzk91leweo",
     "published_at": "2026-05-03T01:22:41.000Z",
     "fingerprint": "ed816c7a101147aa7fbdda9bced4dd9ee0139368",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+    "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+    "published_at": "2026-05-03T00:30:50.000Z",
+    "fingerprint": "76037166645e5540175320f0bfe8981329993c95",
     "micro_judgment": null
   },
   {
@@ -1541,6 +1653,14 @@
     "link": "https://www.producthunt.com/products/free-llm-api",
     "published_at": "2026-04-22T17:04:31.000Z",
     "fingerprint": "736738b317aa87e96fcf0d3b9440323ced8636d6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Mindra",
+    "link": "https://www.producthunt.com/products/mindra",
+    "published_at": "2026-04-22T16:34:27.000Z",
+    "fingerprint": "8b445a393e274c453400cef850d01fa36951d1e6",
     "micro_judgment": null
   },
   {
