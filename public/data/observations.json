@@ -1,6 +1,118 @@
 [
   {
     "source": "ANSA",
+    "title": "Met Gala, parata di star tra arte e miliardi. Lauren Bezos, Kidman e Wintour aprono la serata",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/05/05/parata-di-star-al-met-gala-da-lindsey-vonn-a-julianne-moore-a-rihanna_993f1c2d-a700-4870-84ea-ecdebaac3257.html",
+    "published_at": "2026-05-05T07:20:08.000Z",
+    "fingerprint": "65732dd21386bed08db8ea1b6c357fe4f8fda1d0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Kids bypass age verification with fake moustaches",
+    "link": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+    "published_at": "2026-05-05T04:36:24.000Z",
+    "fingerprint": "7b51c85aa89823c693053c4dcbe4b9202ccd7acb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
+    "link": "https://walzr.com/empty-screenings",
+    "published_at": "2026-05-05T04:33:22.000Z",
+    "fingerprint": "259e4b574d82e3d0ce7e38c0cf958d1d641eb42e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "What I'm Hearing About Cognitive Debt (So Far)",
+    "link": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+    "published_at": "2026-05-05T02:08:21.000Z",
+    "fingerprint": "f29c315b7feb8538228cff45b5811d318ee29ef4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Agent Skills",
+    "link": "https://addyosmani.com/blog/agent-skills/",
+    "published_at": "2026-05-04T21:40:42.000Z",
+    "fingerprint": "5524d2d63436d6ec45268250270af9abb6e6bf1a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Chinese modder builds human-sized PC large enough for a person to sit inside and play games",
+    "link": "https://www.yankodesign.com/2026/05/04/chinese-modder-builds-human-sized-pc-large-enough-for-a-person-to-sit-inside-and-play-games/?utm_source=rss&utm_medium=rss&utm_campaign=chinese-modder-builds-human-sized-pc-large-enough-for-a-person-to-sit-inside-and-play-games",
+    "published_at": "2026-05-04T20:30:02.000Z",
+    "fingerprint": "ad1d24e57f1fe3ec487c2f11352d957d384caacb",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Timone, scafi e alberi nuovi, il ritorno del Vespucci",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/04/timone-scafi-e-alberi-nuovi-il-ritorno-del-vespucci_0095f796-b08f-46f9-aa21-d31c1a80a71e.html",
+    "published_at": "2026-05-04T19:40:45.000Z",
+    "fingerprint": "b453acd50fddffc4dbf03ffb185e23910450844d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Garlasco, dai pm anche Marco Poggi e le gemelle Cappa",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/04/delitto-di-garlasco-sempio-sul-forum-ho-unossessione-per-una-barista-di-una_2dbf7ebd-fa27-41c3-b614-2329af5ad84f.html",
+    "published_at": "2026-05-04T19:13:48.000Z",
+    "fingerprint": "f09f9ea538fe3cc1291ddab842a71f6740f12d29",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+    "link": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+    "published_at": "2026-05-04T17:46:32.000Z",
+    "fingerprint": "4b562711fe7413bac3b9cff03b848bc91dc02f5d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "5 Lamps That Adjust Like Sunlight That Fix Your Circadian Rhythm To Keep Your Energy Up",
+    "link": "https://www.yankodesign.com/2026/05/04/5-lamps-that-adjust-like-sunlight-that-fix-your-circadian-rhythm-to-keep-your-energy-up/?utm_source=rss&utm_medium=rss&utm_campaign=5-lamps-that-adjust-like-sunlight-that-fix-your-circadian-rhythm-to-keep-your-energy-up",
+    "published_at": "2026-05-04T17:20:44.000Z",
+    "fingerprint": "a159a0f337c2b1de23cb4348dcd541013531a1bc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Airbyte Agents",
+    "link": "https://www.producthunt.com/products/airbyte-agents",
+    "published_at": "2026-05-04T15:40:19.000Z",
+    "fingerprint": "342ad2a08faf02692cba55a8c4b25768c912998b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Tollecode",
+    "link": "https://www.producthunt.com/products/tollecode",
+    "published_at": "2026-05-04T12:39:06.000Z",
+    "fingerprint": "41e5ea6079b8e5c39652ade231eefacca6a00207",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "elisava’s master in applied AI challenges designers to dissect and provoke the algorithm",
+    "link": "https://www.designboom.com/design/elisava-master-applied-ai-artificial-intelligence/",
+    "published_at": "2026-05-04T09:30:18.000Z",
+    "fingerprint": "cba41e685409b1e3c715e12e508cb797176b0300",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "lina lapelytė fills hamburger bahnhof with 400,000 cubes, inviting visitors to build and sing",
+    "link": "https://www.designboom.com/art/lina-lapelyte-hamburger-bahnhof-400000-wooden-cubes/",
+    "published_at": "2026-05-04T08:30:48.000Z",
+    "fingerprint": "3c81cbac200655912141912805b469ac3020c962",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Medio Oriente, Trump lancia l'operazione Freedom per liberare le navi a Hormuz. L'Iran minaccia ritorsioni. Il Liveblog",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/04/medio-oriente-trump-lancia-loperazione-freedom-per-liberare-le-navi-a-hormuz._c991b0b5-9c86-45a7-9a1b-e9c8584148bd.html",
     "published_at": "2026-05-04T07:45:54.000Z",
@@ -13,6 +125,14 @@
     "link": "https://www.ansa.it/sito/notizie/politica/2026/05/04/mattarella-lesercito-e-fondamentale-per-salvaguardare-lindipendenza-del-paese_db21136b-5fec-4f4e-bc01-b386c3a70f24.html",
     "published_at": "2026-05-04T07:36:34.000Z",
     "fingerprint": "13b2d3133b64c3bb4188bc2360f2d98f6bdf1915",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "‘design is no longer a monologue of control’: lonneke gordijn on objects’ hidden dreams",
+    "link": "https://www.designboom.com/design/design-is-no-longer-a-monologue-of-control-lonneke-gordijn-on-objects-hidden-dreams/",
+    "published_at": "2026-05-04T07:30:27.000Z",
+    "fingerprint": "62e1a49490a6d427ac789542968b53da3723b4a1",
     "micro_judgment": null
   },
   {
@@ -408,11 +528,35 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Oriane",
+    "link": "https://www.producthunt.com/products/oriane",
+    "published_at": "2026-04-30T21:30:50.000Z",
+    "fingerprint": "98907ce63440139f650845da4ee36d4b1161e684",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "A Hay Rake Inspired This Surprisingly Beautiful Entryway Piece",
     "link": "https://www.yankodesign.com/2026/04/30/a-hay-rake-inspired-this-surprisingly-beautiful-entryway-piece/?utm_source=rss&utm_medium=rss&utm_campaign=a-hay-rake-inspired-this-surprisingly-beautiful-entryway-piece",
     "published_at": "2026-04-30T21:30:30.000Z",
     "fingerprint": "99c9c5266966a40d776092cd6cb7bcca4f81639e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Collimate Space",
+    "link": "https://www.producthunt.com/products/collimate-space",
+    "published_at": "2026-04-30T21:28:46.000Z",
+    "fingerprint": "9c7acac32b02533ca33b42e9dece2bfd3a772ad4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Hubble Technologies Inc.",
+    "link": "https://www.producthunt.com/products/hubble-technologies-inc",
+    "published_at": "2026-04-30T21:28:14.000Z",
+    "fingerprint": "23ee80a8557e289d2e0d0de89e29c579b198b8a2",
     "micro_judgment": null
   },
   {
