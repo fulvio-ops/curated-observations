@@ -1,6 +1,102 @@
 [
   {
     "source": "ANSA",
+    "title": "Le Borse europee avviano la seduta in rialzo e scommettono sull'accordo Usa-Iran",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/05/06/le-borse-europee-avviano-la-seduta-in-rialzo-e-scommettono-sullaccordo-usa-iran_40f5b9ca-91df-4fd6-8b3e-1ddf54109bcc.html",
+    "published_at": "2026-05-06T07:29:10.000Z",
+    "fingerprint": "70758ad4c4a3b387d17b2d8e6a0fbfb15e72eefa",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Tumori, una sonda a fibra ottica per bruciare le cellule malate",
+    "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/05/05/tumori-una-sonda-a-fibra-ottica-per-bruciare-le-cellule-malate_cbd30f61-feb5-4c2c-a53d-e4bb711f67fc.html",
+    "published_at": "2026-05-06T07:17:14.000Z",
+    "fingerprint": "8c3f4c737f493aa5cf244cd13f238dced0a3cc8b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+    "link": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+    "published_at": "2026-05-06T03:37:51.000Z",
+    "fingerprint": "7f78b36e0d5852915b14edb8124b368ac465f8f7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Why most product tours get skipped",
+    "link": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+    "published_at": "2026-05-05T21:05:19.000Z",
+    "fingerprint": "afc46c0eea33232da43079688699a80ab898aefe",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Apple Wants To Put A Camera In Your AirPods… To Improve Siri’s Visual Intelligence",
+    "link": "https://www.yankodesign.com/2026/05/05/apple-wants-to-put-a-camera-in-your-airpods-to-improve-siris-visual-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=apple-wants-to-put-a-camera-in-your-airpods-to-improve-siris-visual-intelligence",
+    "published_at": "2026-05-05T20:30:42.000Z",
+    "fingerprint": "67af50b2124d7b7cf366e514d2fc688fb15d5fca",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Gli esperti sulla Hondius: 'Hantavirus passa da uomo a uomo'",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/05/05/loms-possibile-trasmissione-dellhantavirus-da-uomo-a-uomo-sulla-nave-da-crociera_245ae98f-5cfe-44db-ad5c-744e4bfdc8e6.html",
+    "published_at": "2026-05-05T18:12:35.000Z",
+    "fingerprint": "d2768c62371c41ca65bc1e740194ceb45d5f6dea",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "GetDynasty",
+    "link": "https://www.producthunt.com/products/getdynasty",
+    "published_at": "2026-05-05T17:47:20.000Z",
+    "fingerprint": "7aee8c745ec0a974ab746bc703f60629351f70bd",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'Ue rilancia: 'La Biennale non sia vetrina per la Russia'",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/05/05/ue-condanniamo-la-decisione-della-biennale-non-sia-vetrina-per-la-russia_af791d1c-255f-48d4-b897-d2a6bda423b8.html",
+    "published_at": "2026-05-05T17:36:43.000Z",
+    "fingerprint": "b79af20f026e47f5dceecc263d591fccca884bfb",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Fmi: 'La crisi peserà da 450 a 2.270 euro sulle famiglie italiane'",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/05/05/fmi-caro-energia-pesera-450-euro-su-famiglie-italiane-2.270-con_e5083ad4-5271-4973-990a-b5daf4237265.html",
+    "published_at": "2026-05-05T15:52:13.000Z",
+    "fingerprint": "80139642a75d262eaad6fb59e943874d0b5a4203",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Three Inverse Laws of AI",
+    "link": "https://susam.net/inverse-laws-of-robotics.html",
+    "published_at": "2026-05-05T15:27:18.000Z",
+    "fingerprint": "fd4aee0d03d895edd73e5cebb1a7c75d937e3478",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "‘listen, step back, make sense of what’s happening’: miriam van der lubbe on shared attention in design",
+    "link": "https://www.designboom.com/design/how-softness-creates-meaning-in-design-miriam-van-der-lubbe/",
+    "published_at": "2026-05-05T10:50:19.000Z",
+    "fingerprint": "a634c18cc45aee25937bb358a9036b7021fa7cd3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "how ecoLogicStudio uses a practice of repair to grow buildings that breathe",
+    "link": "https://www.designboom.com/technology/ecologicstudio-algae-buildings-breath-radical-softness-living-infrastructure/",
+    "published_at": "2026-05-05T10:50:18.000Z",
+    "fingerprint": "2ce3e4ea4c1280efb2b355a4f682c905a7b1165a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Met Gala, parata di star tra arte e miliardi. Lauren Bezos, Kidman e Wintour aprono la serata",
     "link": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/05/05/parata-di-star-al-met-gala-da-lindsey-vonn-a-julianne-moore-a-rihanna_993f1c2d-a700-4870-84ea-ecdebaac3257.html",
     "published_at": "2026-05-05T07:20:08.000Z",
@@ -29,6 +125,14 @@
     "link": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
     "published_at": "2026-05-05T02:08:21.000Z",
     "fingerprint": "f29c315b7feb8538228cff45b5811d318ee29ef4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "moar",
+    "link": "https://www.producthunt.com/products/moar-2",
+    "published_at": "2026-05-05T00:45:48.000Z",
+    "fingerprint": "50cac35a8b46a669e3336384f3114d3b3d6d184f",
     "micro_judgment": null
   },
   {
@@ -512,6 +616,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Open Finance MCP",
+    "link": "https://www.producthunt.com/products/open-finance-mcp",
+    "published_at": "2026-04-30T22:27:51.000Z",
+    "fingerprint": "47ab03b0051d29254c3bc758aaa73e960e4b64b1",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
     "link": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
@@ -553,10 +665,26 @@
   },
   {
     "source": "Product Hunt",
+    "title": "Scalestack",
+    "link": "https://www.producthunt.com/products/scalestack",
+    "published_at": "2026-04-30T21:28:34.000Z",
+    "fingerprint": "4422e371300eb14559ad15bf46e81af1f1b2b9b4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
     "title": "Hubble Technologies Inc.",
     "link": "https://www.producthunt.com/products/hubble-technologies-inc",
     "published_at": "2026-04-30T21:28:14.000Z",
     "fingerprint": "23ee80a8557e289d2e0d0de89e29c579b198b8a2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Waydev Agent",
+    "link": "https://www.producthunt.com/products/waydev",
+    "published_at": "2026-04-30T21:27:38.000Z",
+    "fingerprint": "1bcc650d01743309339a966c4bfdb50ae5412e9e",
     "micro_judgment": null
   },
   {
@@ -1021,6 +1149,14 @@
     "link": "https://www.designboom.com/design/bad-posture-design-logic-mara-bragagnolo-birch-plywood-chair-collection/",
     "published_at": "2026-04-28T20:00:00.000Z",
     "fingerprint": "b8ffdaaf2079dbd6d82cf919a38fa6ff8cab0da8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "TalentOS",
+    "link": "https://www.producthunt.com/products/talentos-2",
+    "published_at": "2026-04-28T19:52:32.000Z",
+    "fingerprint": "69581a608c8b2d1183d1adf90a58463e85a24e65",
     "micro_judgment": null
   },
   {
@@ -7253,6 +7389,14 @@
     "link": "https://www.boxyuwu.blog/posts/an-incoherent-rust/",
     "published_at": "2026-03-23T15:13:22.000Z",
     "fingerprint": "b4206f81efa1c4bbdad2c8f67a0ac31651352301",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Magic",
+    "link": "https://www.producthunt.com/products/magic-13",
+    "published_at": "2026-03-23T14:54:48.000Z",
+    "fingerprint": "f7a0fb23977efd5a235c7a31377a7a31eb8ec433",
     "micro_judgment": null
   },
   {
