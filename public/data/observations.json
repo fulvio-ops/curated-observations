@@ -1,6 +1,182 @@
 [
   {
     "source": "ANSA",
+    "title": "Medio Oriente, Cnn: 'L'Iran dovrebbe rispondere alla proposta Usa oggi'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/07/medio-oriente-nuovo-piano-usa-per-la-pace-oggi-la-risposta-di-teheran_6979adf4-dcfa-4df7-8860-b5557140516a.html",
+    "published_at": "2026-05-07T07:45:23.000Z",
+    "fingerprint": "ce7d58a4231897a3229db3591f0ea49d3b92deb6",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il segretario di Stato americano Marco Rubio è arrivato a Roma, oggi l'incontro con il Papa",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/07/il-segretario-di-stato-americano-marco-rubio-e-arrivato-a-roma_f0bfb745-7db5-4c30-acc6-caf87b242933.html",
+    "published_at": "2026-05-07T07:30:13.000Z",
+    "fingerprint": "bbfc64ec84c0fb2ba58ae10eba58ec439732bf95",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'Ue non approva l'intesa sui dazi con gli Usa e rinvia l'ok a nuovi colloqui",
+    "link": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/05/07/ue-rinvia-lok-allintesa-sui-dazi-con-gli-usa-nuovo-round_88270233-59f5-4f99-ac1b-5caffd25202c.html",
+    "published_at": "2026-05-07T07:08:27.000Z",
+    "fingerprint": "fb8425612bc7151363f0f5c1b1767da0c0a0541b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Caccia allo straniero a Roma, denunciati 2 giovani, misura cautelare per un minore",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/07/caccia-allo-straniero-a-roma-denunciati-2-giovani-misura-cautelare-per-un-minore_0d26a439-0103-4414-8622-db04a1b1215a.html",
+    "published_at": "2026-05-07T06:24:59.000Z",
+    "fingerprint": "aa49ce782758af32323e5852295eb3d9fb9bd5ac",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "The voice is soothing",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1t60rnu/the_voice_is_soothing/",
+    "published_at": "2026-05-07T05:02:40.000Z",
+    "fingerprint": "f9f99f52f48099b887b52403e2a7b82d0f1297ab",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+    "link": "https://arxiv.org/abs/2605.03546",
+    "published_at": "2026-05-07T03:46:15.000Z",
+    "fingerprint": "2c52d85958e314c67738041195ab5703af943cb1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Neo by Amp",
+    "link": "https://www.producthunt.com/products/amp-free",
+    "published_at": "2026-05-07T03:22:56.000Z",
+    "fingerprint": "a69fcbd45ce029802e4556b054203cfb0aaba192",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+    "link": "https://aniket.foo/posts/20260505-netboot/",
+    "published_at": "2026-05-07T03:13:24.000Z",
+    "fingerprint": "3c341b4136478d11aa46afda999238ddc54fdec6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Colorado weather in 9 hours: heavy snow to sunny and melting",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1t5toj4/colorado_weather_in_9_hours_heavy_snow_to_sunny/",
+    "published_at": "2026-05-06T23:33:45.000Z",
+    "fingerprint": "e77a94d0d3ea17f5c8f4363f9838d36dc1785003",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "5 Indoor Garden Designs That Make Small Apartments Feel Like Jungles",
+    "link": "https://www.yankodesign.com/2026/05/06/5-indoor-garden-designs-that-make-small-apartments-feel-like-jungles/?utm_source=rss&utm_medium=rss&utm_campaign=5-indoor-garden-designs-that-make-small-apartments-feel-like-jungles",
+    "published_at": "2026-05-06T23:30:27.000Z",
+    "fingerprint": "d04fb887c8146efb234e74200cd21f03cf187fdf",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "SQLite Is a Library of Congress Recommended Storage Format",
+    "link": "https://sqlite.org/locrsf.html",
+    "published_at": "2026-05-06T21:58:43.000Z",
+    "fingerprint": "2990a7f27728ec1780f640193d9cc2e80b8339c5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My niece prefers to sleep while standing",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1t5p3y8/my_niece_prefers_to_sleep_while_standing/",
+    "published_at": "2026-05-06T20:37:20.000Z",
+    "fingerprint": "81ff8540c4531b60bddbee36f4d7a55f5c007cac",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Nuova foto shock, soldato dell'Idf mette una sigaretta in bocca a una statua di Maria",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/06/nuova-foto-shock-soldato-idf-mette-una-sigaretta-in-bocca-a-statua_4d3c404f-79af-46b7-ab69-39c68f68acc3.html",
+    "published_at": "2026-05-06T19:33:02.000Z",
+    "fingerprint": "ae1a5bc2a2e699c83e15fc11689cc1c8289cee02",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Askmeety",
+    "link": "https://www.producthunt.com/products/askmeety",
+    "published_at": "2026-05-06T19:15:20.000Z",
+    "fingerprint": "e70ebaed09869b7055dea36ee0a9d7f97ac53664",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
+    "link": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
+    "published_at": "2026-05-06T17:59:33.000Z",
+    "fingerprint": "ffd9ea5b2e34674bcd368b13458e0e52acd30aaf",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "From Supabase to Clerk to Better Auth",
+    "link": "https://blog.val.town/better-auth",
+    "published_at": "2026-05-06T17:19:34.000Z",
+    "fingerprint": "d1d0e1262f5224d49aba5f6e0fc6dc3bf5eb4858",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My bird of paradise leaf is revealing a distinct gradient as it unfolds",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1t5hjc4/my_bird_of_paradise_leaf_is_revealing_a_distinct/",
+    "published_at": "2026-05-06T16:14:14.000Z",
+    "fingerprint": "93e9a4b4f8fa2092e2b3d5185a98fe059af07d07",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
+    "link": "https://tilde.run/",
+    "published_at": "2026-05-06T15:58:34.000Z",
+    "fingerprint": "cae9caca2b642e9c64f579e55d7ccbad7a18bc3a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "red floor anchors parisian restaurant ypseli with steel and marble textures",
+    "link": "https://www.designboom.com/architecture/red-floor-parisian-restaurant-ypseli-steel-marble-textures-trail-practice/",
+    "published_at": "2026-05-06T15:30:10.000Z",
+    "fingerprint": "499bdf49184ab8d2cbcab69e558b721f60fd187a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Dal glutine allo zucchero le 'bufale' che mettono a rischio la salute",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/alimentazione/2026/05/06/iss-dal-glutine-allo-zucchero-le-bufale-online-sul-cibo-mettono_1b073615-dcc4-4591-b69a-266b73a9bb2c.html",
+    "published_at": "2026-05-06T14:51:00.000Z",
+    "fingerprint": "f48222af4c64f43f77be8182b74b97061f40c746",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Fellow Just Designed the Espresso Machine Beginners Always Wanted",
+    "link": "https://www.yankodesign.com/2026/05/06/fellow-just-designed-the-espresso-machine-beginners-always-wanted/?utm_source=rss&utm_medium=rss&utm_campaign=fellow-just-designed-the-espresso-machine-beginners-always-wanted",
+    "published_at": "2026-05-06T14:20:30.000Z",
+    "fingerprint": "f805a9c74855667fbebdb42d3c317f40c281d789",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Sit in delle Pussy Riot e Femen al padiglione Russia della Biennale di Venezia",
+    "link": "https://www.ansa.it/sito/videogallery/italia/2026/05/06/sit-in-delle-pussy-riot-e-femen-al-padiglione-russia-della-biennale-di-venezia_71aa5315-e75f-4dc3-8aac-d053693e3352.html",
+    "published_at": "2026-05-06T12:14:10.000Z",
+    "fingerprint": "114e0e33e20794e5fe159f21d79d0fefe8a35d11",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Le Borse europee avviano la seduta in rialzo e scommettono sull'accordo Usa-Iran",
     "link": "https://www.ansa.it/sito/notizie/economia/2026/05/06/le-borse-europee-avviano-la-seduta-in-rialzo-e-scommettono-sullaccordo-usa-iran_40f5b9ca-91df-4fd6-8b3e-1ddf54109bcc.html",
     "published_at": "2026-05-06T07:29:10.000Z",
@@ -37,6 +213,14 @@
     "link": "https://www.yankodesign.com/2026/05/05/apple-wants-to-put-a-camera-in-your-airpods-to-improve-siris-visual-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=apple-wants-to-put-a-camera-in-your-airpods-to-improve-siris-visual-intelligence",
     "published_at": "2026-05-05T20:30:42.000Z",
     "fingerprint": "67af50b2124d7b7cf366e514d2fc688fb15d5fca",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Cyvers",
+    "link": "https://www.producthunt.com/products/cyvers",
+    "published_at": "2026-05-05T18:18:40.000Z",
+    "fingerprint": "9077e7e6c45ee41a1d61d190c3495bf1d671bc68",
     "micro_judgment": null
   },
   {
@@ -317,6 +501,14 @@
     "link": "https://www.yankodesign.com/2026/05/03/bpods-drod-finally-makes-food-storage-worth-showing-off/?utm_source=rss&utm_medium=rss&utm_campaign=bpods-drod-finally-makes-food-storage-worth-showing-off",
     "published_at": "2026-05-03T13:20:46.000Z",
     "fingerprint": "96401d9d2daed9f48fb3e9fc7c2f442d5909ff5a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · ofcoursethatsathing",
+    "title": "Crotchet snoop",
+    "link": "https://www.reddit.com/r/ofcoursethatsathing/comments/1t2hvnc/crotchet_snoop/",
+    "published_at": "2026-05-03T10:32:58.000Z",
+    "fingerprint": "0f45271dd160d61eef11ce2276680bc58f755e47",
     "micro_judgment": null
   },
   {
@@ -605,6 +797,46 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1t0jxwy/this_side_took_me_a_week_to_draw/",
     "published_at": "2026-05-01T05:13:45.000Z",
     "fingerprint": "35c9333b1d3c571183a2122d1908b3baff7baf53",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Bagel AI",
+    "link": "https://www.producthunt.com/products/bagel-ai-2",
+    "published_at": "2026-05-01T01:52:13.000Z",
+    "fingerprint": "c80dbc17f0c4d3287d389ab4c2b27ee7ff25d4cd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Cyvers",
+    "link": "https://www.producthunt.com/products/cyvers",
+    "published_at": "2026-05-01T01:52:08.000Z",
+    "fingerprint": "9077e7e6c45ee41a1d61d190c3495bf1d671bc68",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Hyperflow",
+    "link": "https://www.producthunt.com/products/hyperflow",
+    "published_at": "2026-05-01T01:52:02.000Z",
+    "fingerprint": "fc311aaa2bd258a210fbf049e97311ea5683737e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Freecurve Labs",
+    "link": "https://www.producthunt.com/products/freecurve-labs",
+    "published_at": "2026-05-01T01:51:53.000Z",
+    "fingerprint": "baa4827748618da1bf7f649eab4d93e9bd1536de",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Avon AI",
+    "link": "https://www.producthunt.com/products/avon-ai",
+    "published_at": "2026-05-01T01:51:10.000Z",
+    "fingerprint": "f59cfe27feec64fd244e0f68a1b7ed3813bf1995",
     "micro_judgment": null
   },
   {
@@ -1717,6 +1949,14 @@
     "link": "https://www.yankodesign.com/2026/04/24/electrolux-and-veneta-cucine-use-biophilic-color-science-to-rethink-kitchen-design-at-milan-2026/?utm_source=rss&utm_medium=rss&utm_campaign=electrolux-and-veneta-cucine-use-biophilic-color-science-to-rethink-kitchen-design-at-milan-2026",
     "published_at": "2026-04-24T20:45:12.000Z",
     "fingerprint": "381c75e9d814db4c2c4741010ea6a46c04eb0624",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Lovie",
+    "link": "https://www.producthunt.com/products/lovie-the-ai-native-formation-mcp",
+    "published_at": "2026-04-24T19:41:53.000Z",
+    "fingerprint": "3ebd45f224b7f985015f0393c782eab9e9b88cb5",
     "micro_judgment": null
   },
   {
