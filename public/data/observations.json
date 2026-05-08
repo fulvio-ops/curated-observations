@@ -1,5 +1,93 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Digging into Drama at the Document Foundation",
+    "link": "https://lwn.net/Articles/1066418/",
+    "published_at": "2026-05-08T03:51:59.000Z",
+    "fingerprint": "b2c090bffa6bf457115be1e3c631d1a2f6a0fcd1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "300W and 7 Ports: This GaN Charger Makes Every Other Multi-Port Charger Look Embarrassingly Weak",
+    "link": "https://www.yankodesign.com/2026/05/07/300w-and-7-ports-this-gan-charger-makes-every-other-multi-port-charger-look-embarrassingly-weak/?utm_source=rss&utm_medium=rss&utm_campaign=300w-and-7-ports-this-gan-charger-makes-every-other-multi-port-charger-look-embarrassingly-weak",
+    "published_at": "2026-05-08T01:45:23.000Z",
+    "fingerprint": "80a3cda1bb0ae721830bc7254f478aaaa36b19a5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Gambling ads on social media reach more than twice as many men as women: study",
+    "link": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
+    "published_at": "2026-05-07T23:17:03.000Z",
+    "fingerprint": "2704c74f5d0c3b99413c44b0b4f92ab69381a6c4",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Mediaset 'dispiaciuta' per Nordio. 'Ma non censuriamo'",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/05/07/mediaset-dispiaciuta-per-nordio.-ma-non-censuriamo_94efff31-a1d4-4a08-bd93-c667a66ce63c.html",
+    "published_at": "2026-05-07T20:02:12.000Z",
+    "fingerprint": "548e0be0537c8ba7aff1bb0ccf3ad7d0df42bd1a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Dirtyfrag: Universal Linux LPE",
+    "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+    "published_at": "2026-05-07T19:21:32.000Z",
+    "fingerprint": "f5be96e4f5d061753a2f5418a6395167ebba6835",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "AI slop is killing online communities",
+    "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "published_at": "2026-05-07T18:46:25.000Z",
+    "fingerprint": "dcb746737572ac06ab9a908c841d2ea67d1a8f23",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il mistero della famiglia scomparsa, la madre si era licenziata",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/07/il-mistero-della-famiglia-scomparsa-la-madre-si-era-licenziata_f1481dba-f6ae-492a-b248-4a11d35af434.html",
+    "published_at": "2026-05-07T18:34:35.000Z",
+    "fingerprint": "9f4246cb381c9410d972f3772cf50cf06eeff6b7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+    "link": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "published_at": "2026-05-07T17:54:02.000Z",
+    "fingerprint": "650dabbc477bf481c1d9c176a822017b4f3906c1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'ANSA consegue la certificazione per la parità di genere",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/05/07/lansa-consegue-la-certificazione-per-la-parita-di-genere-_3bf5641e-1c59-4a2b-b063-8059084fd86a.html",
+    "published_at": "2026-05-07T16:43:53.000Z",
+    "fingerprint": "19ec37f469dd7b2fd97680f93dd1f00166aa01f4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This 130cm Robot Just Took Buddhist Vows at a Seoul Temple",
+    "link": "https://www.yankodesign.com/2026/05/07/this-130cm-robot-just-took-buddhist-vows-at-a-seoul-temple/?utm_source=rss&utm_medium=rss&utm_campaign=this-130cm-robot-just-took-buddhist-vows-at-a-seoul-temple",
+    "published_at": "2026-05-07T16:20:07.000Z",
+    "fingerprint": "afcf5910dad5584368b2164cd98ffd95efd7a1ba",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "24 sculpted trees become giant colored pencils in south african land art installation",
+    "link": "https://www.designboom.com/art/24-sculpted-trees-giant-colored-pencils-south-africa-land-art-installation-strijdom-van-der-merwe/",
+    "published_at": "2026-05-07T09:00:50.000Z",
+    "fingerprint": "7964b3827b03196876ae7a7ba41d7b33a2e20df2",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Medio Oriente, Cnn: 'L'Iran dovrebbe rispondere alla proposta Usa oggi'",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/07/medio-oriente-nuovo-piano-usa-per-la-pace-oggi-la-risposta-di-teheran_6979adf4-dcfa-4df7-8860-b5557140516a.html",
@@ -589,6 +677,14 @@
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/02/si-tuffa-nel-lago-di-como-e-non-riemerge-morto-15enne_aaae116f-a7df-487c-a6a6-27a9f250b366.html",
     "published_at": "2026-05-02T19:40:03.000Z",
     "fingerprint": "d2562cebc9d93039c5af641899c0e6bcdfd7c1a8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Hachigo",
+    "link": "https://www.producthunt.com/products/hachigo",
+    "published_at": "2026-05-02T18:06:06.000Z",
+    "fingerprint": "ffa394b22b24100fb46669cae87664dcbc285423",
     "micro_judgment": null
   },
   {
