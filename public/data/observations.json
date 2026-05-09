@@ -1,5 +1,141 @@
 [
   {
+    "source": "ANSA",
+    "title": "I Ramones e i 50 anni del punk, batterista e ultimo testimone vive in Italia",
+    "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/05/08/marky-ramone-cittadino-castiglion-fiorentino-new-york-bellissima-ma-qui-sto_08f632fd-b96a-4a99-bcf6-3fe8fdec7ada.html",
+    "published_at": "2026-05-09T06:38:51.000Z",
+    "fingerprint": "c4435b3121575069bac5cacec000f08869dbc602",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
+    "link": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+    "published_at": "2026-05-09T05:52:12.000Z",
+    "fingerprint": "ebf068755112ff795cb420ccbbe2654c9abfea24",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Diplomazia",
+    "link": "https://www.ansa.it/sito/podcast/la_parola_della_settimana/2026/05/09/diplomazia_b7727211-b662-4b0f-a46a-afc58d2545f5.html",
+    "published_at": "2026-05-09T05:31:19.000Z",
+    "fingerprint": "5bffa071ffe832f2c12c279ff4b2a1dbafa6d473",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+    "link": "https://twitter.com/trq212/status/2052809885763747935",
+    "published_at": "2026-05-09T04:53:52.000Z",
+    "fingerprint": "1049a9c2a962a37fdd7af3295bfa5bf1d9ae98e4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+    "link": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
+    "published_at": "2026-05-08T21:47:47.000Z",
+    "fingerprint": "454dd87371d77acec8f64ec72796a52828c43a22",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Donna uccisa in casa a Piacenza, arrestato il marito",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/08/donna-uccisa-in-casa-a-piacenza-si-cerca-il-marito_3ba9a96d-565c-4e45-a1f2-36afb727631f.html",
+    "published_at": "2026-05-08T21:22:47.000Z",
+    "fingerprint": "65568452b40c0c68e671c2baa1a650541542aa16",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+    "link": "https://ze3tar.github.io/post-zcrx.html",
+    "published_at": "2026-05-08T19:40:39.000Z",
+    "fingerprint": "9cd64f70f8426fe98fdc27e085caded7fde0439d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il Papa contro la malavita, 'lo Stato più che mai necessario'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/08/il-papa-basta-guerre-non-possiamo-rassegnarci-alle-immagini-di-morte_c4786940-9d0c-4d8e-ace7-05e689ea9a2a.html",
+    "published_at": "2026-05-08T19:39:21.000Z",
+    "fingerprint": "d4caf33596685a1755faf8903bb322d33a92fea1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "A Venezia una ventenne in cura per 'dipendenza da Intelligenza artificiale'",
+    "link": "https://www.ansa.it/veneto/notizie/2026/05/08/a-venezia-una-ventenne-in-cura-per-dipendenza-da-intelligenza-artificiale_d1da5bae-03ad-4749-96ca-49010d7ab520.html",
+    "published_at": "2026-05-08T19:01:00.000Z",
+    "fingerprint": "a74cbcac5a3f8ccc18539f1123959db9de9eeeff",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Venezia, tensioni al corteo contro la presenza di Israele alla Biennale",
+    "link": "https://www.ansa.it/sito/videogallery/italia/2026/05/08/venezia-tensioni-al-corteo-contro-la-presenza-di-israele-alla-biennale_b3fa7817-7046-42c9-95e2-d4727b36f254.html",
+    "published_at": "2026-05-08T18:32:15.000Z",
+    "fingerprint": "2973acd2d457af7f0f8af255894a11b221fc7806",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "AI is breaking two vulnerability cultures",
+    "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+    "published_at": "2026-05-08T17:55:08.000Z",
+    "fingerprint": "6d61c18aefd245b4f7dfe32573f8b864502c380c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "De Martino avvia azioni risarcitorie, 'web non è zona franca'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/08/video-rubati-a-de-martino-gli-avvocati-al-via-le-azioni-civili-risarcitorie_cd4e6446-3355-4a27-bf94-eb064210a4e9.html",
+    "published_at": "2026-05-08T16:00:01.000Z",
+    "fingerprint": "64c1260dd308bbbdc95b2ddfe8639237032c8ace",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The TrackPoint Was Always Laptop-Only, This $52 Bean Changes That",
+    "link": "https://www.yankodesign.com/2026/05/08/the-trackpoint-was-always-laptop-only-this-52-bean-changes-that/?utm_source=rss&utm_medium=rss&utm_campaign=the-trackpoint-was-always-laptop-only-this-52-bean-changes-that",
+    "published_at": "2026-05-08T14:20:49.000Z",
+    "fingerprint": "ce148312a1021edc7f88bc9ae78104dab6213358",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Staff.rip",
+    "link": "https://www.producthunt.com/products/staff-rip",
+    "published_at": "2026-05-08T13:43:30.000Z",
+    "fingerprint": "a12587cfc39877f09ff39ea3948a59cd0cd84989",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "grohe spa rethinks the bathroom as a space for ritual, expression and personal wellbeing",
+    "link": "https://www.designboom.com/design/grohe-spa-bathroom-ritual-personal-wellbeing/",
+    "published_at": "2026-05-08T10:30:10.000Z",
+    "fingerprint": "8be25ecd867edbc003dd4cc15d0f5777b99ecbcd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "ukrainian designer victoria yakusha seeks softness through memory and material repair",
+    "link": "https://www.designboom.com/design/ukrainian-designer-victoria-yakusha-softness-memory-material-repair-furniture-interiors/",
+    "published_at": "2026-05-08T08:30:47.000Z",
+    "fingerprint": "81279e035b31208a3b1a9f80c05e47b0b0f7c1ba",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Bitfield",
+    "link": "https://www.producthunt.com/products/bitfield",
+    "published_at": "2026-05-08T04:59:06.000Z",
+    "fingerprint": "a5be1525ea3031d8058719e8f34f97da700abcfd",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Digging into Drama at the Document Foundation",
     "link": "https://lwn.net/Articles/1066418/",
@@ -21,6 +157,22 @@
     "link": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
     "published_at": "2026-05-07T23:17:03.000Z",
     "fingerprint": "2704c74f5d0c3b99413c44b0b4f92ab69381a6c4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "How AI-pilled are you?",
+    "link": "https://www.producthunt.com/products/how-ai-pilled-are-you",
+    "published_at": "2026-05-07T23:10:14.000Z",
+    "fingerprint": "7c97aaed9e0c8c1fbd50acb95272e4089e6e5c37",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Sendly",
+    "link": "https://www.producthunt.com/products/sendly-2",
+    "published_at": "2026-05-07T22:55:21.000Z",
+    "fingerprint": "805eb79b2038ebd102f31c8d1ce0dad5cf3217b0",
     "micro_judgment": null
   },
   {
@@ -80,11 +232,43 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "GlowIsland",
+    "link": "https://www.producthunt.com/products/glowisland-evolve-your-mac-s-notch",
+    "published_at": "2026-05-07T14:48:58.000Z",
+    "fingerprint": "4fbc0ddb048232bdc298945386ae5745ea33e816",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "AgentChat",
+    "link": "https://www.producthunt.com/products/agentchat",
+    "published_at": "2026-05-07T14:17:36.000Z",
+    "fingerprint": "2686fec09a34523f091893317cb0d921383dc9d0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Smart FAQs",
+    "link": "https://www.producthunt.com/products/smart-faqs",
+    "published_at": "2026-05-07T11:38:10.000Z",
+    "fingerprint": "1a2ffc26cbf1604586b1c63b5642075420697863",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "24 sculpted trees become giant colored pencils in south african land art installation",
     "link": "https://www.designboom.com/art/24-sculpted-trees-giant-colored-pencils-south-africa-land-art-installation-strijdom-van-der-merwe/",
     "published_at": "2026-05-07T09:00:50.000Z",
     "fingerprint": "7964b3827b03196876ae7a7ba41d7b33a2e20df2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Swiftcruit",
+    "link": "https://www.producthunt.com/products/swiftcruit",
+    "published_at": "2026-05-07T07:49:21.000Z",
+    "fingerprint": "e92520fbb9a5134586d3e177a93eeb5b1f0b5b33",
     "micro_judgment": null
   },
   {
@@ -256,11 +440,35 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "cursor party",
+    "link": "https://www.producthunt.com/products/cursor-party",
+    "published_at": "2026-05-06T13:45:27.000Z",
+    "fingerprint": "4a3a99f3310221f2ec9b10731648d45b238965c8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Glowix",
+    "link": "https://www.producthunt.com/products/glowix",
+    "published_at": "2026-05-06T12:37:28.000Z",
+    "fingerprint": "7720787571b584a5445c3cdcccc50b68dfd124f3",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Sit in delle Pussy Riot e Femen al padiglione Russia della Biennale di Venezia",
     "link": "https://www.ansa.it/sito/videogallery/italia/2026/05/06/sit-in-delle-pussy-riot-e-femen-al-padiglione-russia-della-biennale-di-venezia_71aa5315-e75f-4dc3-8aac-d053693e3352.html",
     "published_at": "2026-05-06T12:14:10.000Z",
     "fingerprint": "114e0e33e20794e5fe159f21d79d0fefe8a35d11",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "ClawTick",
+    "link": "https://www.producthunt.com/products/clawtick",
+    "published_at": "2026-05-06T10:24:51.000Z",
+    "fingerprint": "46cf5878ed072c6278024318a9145a5fffd0ad0d",
     "micro_judgment": null
   },
   {
@@ -605,6 +813,14 @@
     "link": "https://github.com/bring-shrubbery/ml-sharp-web",
     "published_at": "2026-05-03T09:14:56.000Z",
     "fingerprint": "0ba222d1671143209835d91a6da7c1e9a28e2187",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Manuscripts.app",
+    "link": "https://www.producthunt.com/products/manuscripts-app",
+    "published_at": "2026-05-03T06:22:50.000Z",
+    "fingerprint": "04a1f09ab55fd770e2801d8ae0d058b5c1e6035a",
     "micro_judgment": null
   },
   {
