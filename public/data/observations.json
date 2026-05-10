@@ -1,6 +1,46 @@
 [
   {
     "source": "ANSA",
+    "title": "Hantavirus, la nave Hondius entrata nel porto di Granadilla a Tenerife",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/10/hantavirus-la-nave-hondius-entrata-nel-porto-di-granadilla-a-tenerife_ea78814a-26fe-435b-97c5-e853bf3740dd.html",
+    "published_at": "2026-05-10T06:28:27.000Z",
+    "fingerprint": "58ee05ccc07708fb9670a08d65eda84215cf8b56",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The Roomba Guy Just Built a Robot Pet You Might Actually Love",
+    "link": "https://www.yankodesign.com/2026/05/09/the-roomba-guy-just-built-a-robot-pet-you-might-actually-love/?utm_source=rss&utm_medium=rss&utm_campaign=the-roomba-guy-just-built-a-robot-pet-you-might-actually-love",
+    "published_at": "2026-05-09T22:30:26.000Z",
+    "fingerprint": "e0ad53b9c521ce55b2f45c75769e8a807c9b930e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Meta's embrace of AI is making its employees miserable",
+    "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+    "published_at": "2026-05-09T18:33:36.000Z",
+    "fingerprint": "5634708d4f01f4fa6c2d01dc2f1f80547c74f2eb",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Festa della mamma, come essere mamme meno stanche in 5 step",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/05/08/festa-della-mamma-come-essere-mamme-meno-stanche-in-5-step_e0153996-3500-43bb-afe9-d066f0d2a8af.html",
+    "published_at": "2026-05-09T16:29:03.000Z",
+    "fingerprint": "47437780d394bcd952058cb0aa166a8607ef1e1b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Internet Archive Switzerland",
+    "link": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+    "published_at": "2026-05-09T12:00:30.000Z",
+    "fingerprint": "ba2573b30aebb83ed9b7d756b4329734cc9e1efc",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "I Ramones e i 50 anni del punk, batterista e ultimo testimone vive in Italia",
     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/05/08/marky-ramone-cittadino-castiglion-fiorentino-new-york-bellissima-ma-qui-sto_08f632fd-b96a-4a99-bcf6-3fe8fdec7ada.html",
     "published_at": "2026-05-09T06:38:51.000Z",
@@ -133,6 +173,14 @@
     "link": "https://www.producthunt.com/products/bitfield",
     "published_at": "2026-05-08T04:59:06.000Z",
     "fingerprint": "a5be1525ea3031d8058719e8f34f97da700abcfd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Monid 2.0",
+    "link": "https://www.producthunt.com/products/monid",
+    "published_at": "2026-05-08T04:48:50.000Z",
+    "fingerprint": "0fa3fcf753ec5d8326e65cd57059f477a811bada",
     "micro_judgment": null
   },
   {
