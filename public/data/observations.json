@@ -1,6 +1,110 @@
 [
   {
     "source": "ANSA",
+    "title": "Garlasco, per Stasi Chiara non parlò mai di 'avances' né di Sempio",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/11/garlasco-per-stasi-chiara-non-parlo-mai-di-avances-ne-di-sempio_dc22e730-d42d-4033-9962-49492da58cc2.html",
+    "published_at": "2026-05-11T07:19:29.000Z",
+    "fingerprint": "09af9d3d17aee4e99f99d638b496a3fdf9e50026",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Running local models on an M4 with 24GB memory",
+    "link": "https://jola.dev/posts/running-local-models-on-m4",
+    "published_at": "2026-05-10T23:09:10.000Z",
+    "fingerprint": "16dda2580031148d35aaf6783c239475c523cf72",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Quebec Home Doesn’t Fight the Forest – It Disappears Into It",
+    "link": "https://www.yankodesign.com/2026/05/10/this-quebec-home-doesnt-fight-the-forest-it-disappears-into-it/?utm_source=rss&utm_medium=rss&utm_campaign=this-quebec-home-doesnt-fight-the-forest-it-disappears-into-it",
+    "published_at": "2026-05-10T22:30:06.000Z",
+    "fingerprint": "bc94d0122f0bff7c4861595c75fca9b9a6c65086",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Narges Mohammadi rilasciata su cauzione per ricevere cure mediche a Teheran",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/10/narges-mohammadi-rilasciata-su-cauzione-per-ricevere-cure-mediche-a-teheran_df2946a4-ee96-4526-8394-4fc610f9498b.html",
+    "published_at": "2026-05-10T21:23:49.000Z",
+    "fingerprint": "eac237b62cfd8fd6721b7e16555f91c5d758642f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+    "published_at": "2026-05-10T21:16:58.000Z",
+    "fingerprint": "6ea53046661ea68435f5fbb49266cb10c69ff5f7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Nocturne’s Free App Turns Your Bricked Spotify Car Thing Into Something Better Than the Original",
+    "link": "https://www.yankodesign.com/2026/05/10/nocturnes-free-app-turns-your-bricked-spotify-car-thing-into-something-better-than-the-original/?utm_source=rss&utm_medium=rss&utm_campaign=nocturnes-free-app-turns-your-bricked-spotify-car-thing-into-something-better-than-the-original",
+    "published_at": "2026-05-10T20:45:17.000Z",
+    "fingerprint": "23fc09bd192d7280072d4bcd880a0ae29a45538e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Ask HN: What are you working on? (May 2026)",
+    "link": "https://news.ycombinator.com/item?id=48085993",
+    "published_at": "2026-05-10T17:34:41.000Z",
+    "fingerprint": "a479b12e796494a72e9e7016d0bde379f242a61f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Phone Cases Are Boring, This One Puts a Living Terrarium Inside",
+    "link": "https://www.yankodesign.com/2026/05/10/phone-cases-are-boring-this-one-puts-a-living-terrarium-inside/?utm_source=rss&utm_medium=rss&utm_campaign=phone-cases-are-boring-this-one-puts-a-living-terrarium-inside",
+    "published_at": "2026-05-10T17:20:52.000Z",
+    "fingerprint": "57c7a08e60d8317e763246eb8273102d7b606822",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "RPCForge",
+    "link": "https://www.producthunt.com/products/rpcforge-own-your-rpc",
+    "published_at": "2026-05-10T15:55:32.000Z",
+    "fingerprint": "077d3853ffd8be5f5db5919716a9127371bd5dad",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'Rubato il mio disegno', illustratrice vince la causa con Ikea",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/10/illustrazione-del-tortellino-rubata-vince-la-causa-contro-ikea_7a6e2bfc-b027-4a53-8ac4-c7c068051539.html",
+    "published_at": "2026-05-10T15:51:53.000Z",
+    "fingerprint": "c808cb3a133854cf836963293a3fc2761a953a58",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "seamless architecture book explores continuous surfaces through bio-inspired design",
+    "link": "https://www.designboom.com/architecture/seamless-architecture-book-continuous-surfaces-bio-inspired-design-research-fujiki-studio-fads/",
+    "published_at": "2026-05-10T14:30:49.000Z",
+    "fingerprint": "d235f74db25e2118893f19b21a8f5ca0a3895535",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Inside the Log-and-Glass Home Olson Kundig Built for a Builder on Salt Spring Island",
+    "link": "https://www.yankodesign.com/2026/05/10/inside-the-log-and-glass-home-olson-kundig-built-for-a-builder-on-salt-spring-island/?utm_source=rss&utm_medium=rss&utm_campaign=inside-the-log-and-glass-home-olson-kundig-built-for-a-builder-on-salt-spring-island",
+    "published_at": "2026-05-10T13:20:15.000Z",
+    "fingerprint": "fc2239de8d7efc1dc9123bc34a212875e2138bad",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "9 Mothers (YC P26) Is Hiring",
+    "link": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
+    "published_at": "2026-05-10T12:00:11.000Z",
+    "fingerprint": "3bfd8e8e8cb25653baf45685fbacc69102a188e5",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Hantavirus, la nave Hondius entrata nel porto di Granadilla a Tenerife",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/10/hantavirus-la-nave-hondius-entrata-nel-porto-di-granadilla-a-tenerife_ea78814a-26fe-435b-97c5-e853bf3740dd.html",
     "published_at": "2026-05-10T06:28:27.000Z",
@@ -37,6 +141,14 @@
     "link": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
     "published_at": "2026-05-09T12:00:30.000Z",
     "fingerprint": "ba2573b30aebb83ed9b7d756b4329734cc9e1efc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "I returned to AWS and was reminded why I left",
+    "link": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+    "published_at": "2026-05-09T08:37:41.000Z",
+    "fingerprint": "5c6c83b69a0beb7653ac6b8986a0b785ddd8a4c2",
     "micro_judgment": null
   },
   {
@@ -221,6 +333,14 @@
     "link": "https://www.producthunt.com/products/sendly-2",
     "published_at": "2026-05-07T22:55:21.000Z",
     "fingerprint": "805eb79b2038ebd102f31c8d1ce0dad5cf3217b0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "AIFORPET",
+    "link": "https://www.producthunt.com/products/aiforpet",
+    "published_at": "2026-05-07T21:37:55.000Z",
+    "fingerprint": "517facf5eefd388a1072678ed9698ec3d902ea3e",
     "micro_judgment": null
   },
   {
@@ -1064,6 +1184,54 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Tebahsoft Inc.",
+    "link": "https://www.producthunt.com/products/tebahsoft-inc",
+    "published_at": "2026-05-01T19:49:19.000Z",
+    "fingerprint": "517aab092e68124a46f6c17096e84f89b14e85b5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "OpenJobs AI",
+    "link": "https://www.producthunt.com/products/openjobs-ai",
+    "published_at": "2026-05-01T19:49:10.000Z",
+    "fingerprint": "fa97a911c8f72eb9e5e5b64b0095070c4bbbdb7f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Belli",
+    "link": "https://www.producthunt.com/products/belli",
+    "published_at": "2026-05-01T19:48:56.000Z",
+    "fingerprint": "6f6378d0db279bb600df9a955948e9378e5f6952",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Plouton AI",
+    "link": "https://www.producthunt.com/products/plouton-ai",
+    "published_at": "2026-05-01T19:48:28.000Z",
+    "fingerprint": "08baad919e6df40d8d3d26acf85756bce679304a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Greenmentor.co",
+    "link": "https://www.producthunt.com/products/greenmentor-co",
+    "published_at": "2026-05-01T19:48:26.000Z",
+    "fingerprint": "d72e81d888502647d2ced90d5c29341f732540ec",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "MUI-Robotics",
+    "link": "https://www.producthunt.com/products/mui-robotics",
+    "published_at": "2026-05-01T19:47:44.000Z",
+    "fingerprint": "d5a9ad9baa6b985544165f62a0f80cdcd9faaea9",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Whimsical Animations Course Open House",
     "link": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
@@ -1293,6 +1461,14 @@
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1t08ysy/removing_barnacles/",
     "published_at": "2026-04-30T21:03:20.000Z",
     "fingerprint": "764102fb904eae5e30a4e60d467c553c6281c76d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Scroll Launch",
+    "link": "https://www.producthunt.com/products/scroll-launch",
+    "published_at": "2026-04-30T20:57:22.000Z",
+    "fingerprint": "9e753e7a452030bce71091f3825969f6ea6e53ae",
     "micro_judgment": null
   },
   {
@@ -2381,6 +2557,14 @@
     "link": "https://www.yankodesign.com/2026/04/23/this-electrolux-dishwasher-lifts-its-bottom-rack-so-you-can-load-pots-without-bending-down/?utm_source=rss&utm_medium=rss&utm_campaign=this-electrolux-dishwasher-lifts-its-bottom-rack-so-you-can-load-pots-without-bending-down",
     "published_at": "2026-04-23T22:30:21.000Z",
     "fingerprint": "80fbf3de2870102f77d7a07b18d8798d2114e226",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Weavable",
+    "link": "https://www.producthunt.com/products/weavable",
+    "published_at": "2026-04-23T22:29:49.000Z",
+    "fingerprint": "6cb3a47b8e732ad11b2f0b79c810494df5e30f6f",
     "micro_judgment": null
   },
   {
