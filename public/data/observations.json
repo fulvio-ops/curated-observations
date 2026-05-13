@@ -1,6 +1,190 @@
 [
   {
     "source": "ANSA",
+    "title": "Crosetto: \"Avviciniamo due cacciamine a Hormuz, ma aspettiamo la pace\"",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/05/13/tajani-non-chiediamo-una-nuova-operazione-nel-golfo-impegno-solo_53d3f08d-15cc-4908-b25b-b2f2fa0c50f3.html",
+    "published_at": "2026-05-13T07:25:44.000Z",
+    "fingerprint": "cc05ddb309396e086c29ad419172508965448dcf",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Difende la titolare del ristorante, accoltellato un 23enne",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/12/prato-difende-una-collega-e-viene-accoltellato.-due-fermati_4b6c73a0-6d5b-4a6c-979e-7ba3dd83387d.html",
+    "published_at": "2026-05-13T06:27:15.000Z",
+    "fingerprint": "d3a2b2fe0fd04a71398e6340fabec34d2cc7b71d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "PRIME PAGINE | Trump cerca il riscatto, ma la strada con Xi è in salita",
+    "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/05/13/prime-pagine-trump-cerca-il-riscatto-ma-la-strada-con-xi-e-in-salita_252baccf-9aa7-4621-ba60-de42b072511b.html",
+    "published_at": "2026-05-13T06:07:24.000Z",
+    "fingerprint": "c281d0040cabf0cb38d97a6d0e99671bef49ac74",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Polvere di stelle intrappolata nei ghiacci dell'Antartide",
+    "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/05/13/polvere-di-stelle-intrappolata-nei-ghiacci-dellantartide_39fadfeb-4b50-45a6-b783-32e7c5aa4008.html",
+    "published_at": "2026-05-13T06:04:37.000Z",
+    "fingerprint": "8ffaa0d7cb155ff763095f11544051cec6f2ea8d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "PitchDrop.ai",
+    "link": "https://www.producthunt.com/products/pitchdrop-ai",
+    "published_at": "2026-05-13T05:41:51.000Z",
+    "fingerprint": "5b38761ee2129e549d776a983dd9dc4dda3c484a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Zen Reports",
+    "link": "https://www.producthunt.com/products/zen-reports",
+    "published_at": "2026-05-13T03:28:58.000Z",
+    "fingerprint": "a8a343d07482cd9664104f5779734ae4382145be",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "BossHogg",
+    "link": "https://www.producthunt.com/products/bosshogg",
+    "published_at": "2026-05-13T01:45:29.000Z",
+    "fingerprint": "e19fb3281773cc7de7c7ea209b6620bb98b8efa4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Marc Newson designed Jaeger-LeCoultre clock tracks Earth, Moon and seasons with cosmic precision",
+    "link": "https://www.yankodesign.com/2026/05/12/this-marc-newson-designed-jaeger-lecoultre-clock-tracks-earth-moon-and-seasons-with-cosmic-precision/?utm_source=rss&utm_medium=rss&utm_campaign=this-marc-newson-designed-jaeger-lecoultre-clock-tracks-earth-moon-and-seasons-with-cosmic-precision",
+    "published_at": "2026-05-13T00:30:43.000Z",
+    "fingerprint": "fe9c8c1b564451b6c089e62bf5069520bdcb62d6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+    "link": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+    "published_at": "2026-05-12T23:46:28.000Z",
+    "fingerprint": "c59ea085a4e1f926212009d83f2730b95ff123ea",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Kraftwerk's radical 1976 track",
+    "link": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+    "published_at": "2026-05-12T23:13:01.000Z",
+    "fingerprint": "2f2de357ede561df4595215d53a39b403c79b6dd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Scrcpy v4.0",
+    "link": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
+    "published_at": "2026-05-12T20:50:02.000Z",
+    "fingerprint": "9b70eedcc2d6be9f7109c3e95126562697aa495e",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L’estate 2026 sarà l’estate della \"natural glow skin\"",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/05/12/lestate-2026-sara-lestate-della-natural-glow-skin_2fc60696-71c8-4d0e-bc5d-809c3f567d5a.html",
+    "published_at": "2026-05-12T20:32:03.000Z",
+    "fingerprint": "af913b22f405e8238128188682f02ba6dc4736b1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Tame Impala’s Kevin Parker Co-Designed a Synth So Good It’s Now a Collector’s Item",
+    "link": "https://www.yankodesign.com/2026/05/12/tame-impalas-kevin-parker-co-designed-a-synth-so-good-its-now-a-collectors-item/?utm_source=rss&utm_medium=rss&utm_campaign=tame-impalas-kevin-parker-co-designed-a-synth-so-good-its-now-a-collectors-item",
+    "published_at": "2026-05-12T20:30:26.000Z",
+    "fingerprint": "bdb4f61ec4a6a0bab7f0cd60f38cccdf33957fec",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Termux Lite",
+    "link": "https://www.producthunt.com/products/termux-lite",
+    "published_at": "2026-05-12T19:04:47.000Z",
+    "fingerprint": "84824bed60049ddc31c945576776e02030a52c1d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Googlebook",
+    "link": "https://www.producthunt.com/products/googlebook",
+    "published_at": "2026-05-12T18:54:08.000Z",
+    "fingerprint": "6539b26f35d31b1771fcc6544640284b71156a3b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "link": "https://github.com/cactus-compute/needle",
+    "published_at": "2026-05-12T18:03:11.000Z",
+    "fingerprint": "66f8d4876d90db42cea2bffcb278fac536498507",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Bmti, nessuno shock sui prezzi della spesa ma volano i costi di produzione fino a +70%",
+    "link": "https://www.ansa.it/canale_terraegusto/notizie/fiere_eventi/speciali/tuttofood/2026/05/12/bmti-nessuno-shock-su-prezzi-spesa-ma-volano-costi-di-produzione-fino-a-70_8d35e027-2147-4fe9-a817-a8e0dbfdc379.html",
+    "published_at": "2026-05-12T17:39:14.000Z",
+    "fingerprint": "7dd8bdadfcf6298a9a6f6fce954345f2287b34c1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Agentic interface for mainframes and COBOL",
+    "link": "https://www.hypercubic.ai/hopper",
+    "published_at": "2026-05-12T17:10:22.000Z",
+    "fingerprint": "82baf843bdfc601b5c2f9e4417e84e422451df43",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Energia e adattamento climatico: nuove sfide per le imprese",
+    "link": "https://www.ansa.it/sito/notizie/eventi/2026/05/12/energia-e-adattamento-climatico-nuove-sfide-per-le-imprese_276654f0-d814-46c7-ae60-8a12a2ccb920.html",
+    "published_at": "2026-05-12T15:32:01.000Z",
+    "fingerprint": "ac4b7bc77d8261d220af4b8d261299f5e43ffc64",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Jootle",
+    "link": "https://www.producthunt.com/products/jootle",
+    "published_at": "2026-05-12T13:11:31.000Z",
+    "fingerprint": "0fb56bbd9b0421baaabd6ac53a9724916b85e967",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Fileloom",
+    "link": "https://www.producthunt.com/products/fileloom-file-viewer",
+    "published_at": "2026-05-12T10:01:56.000Z",
+    "fingerprint": "f8d5b05b9576b5499ea1b2da95be123c7c9f0c7c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Whisper Internet Infra AI Context",
+    "link": "https://www.producthunt.com/products/whisper-internet-infra-ai-context",
+    "published_at": "2026-05-12T09:29:30.000Z",
+    "fingerprint": "560fb6163759810f01b91e1fde8e13b39ad85669",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "rikrit tiravanija designs qatar pavilion for gatherings, performances and rituals in venice",
+    "link": "https://www.designboom.com/art/maroon-mashrabiya-pavilion-performances-communal-rituals-qatar-rirkrit-tiravanija-venice-art-biennale-2026/",
+    "published_at": "2026-05-12T09:00:04.000Z",
+    "fingerprint": "e4ed2040c4cb4a47e4ee1e2f3ced71abc0a17f3e",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "A Cannes la 79ma cerimonia d'apertura e La vie electrique  - Il programma del 12 maggio",
     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/11/il-programma-del-12-maggio-a-cannes-79-cerimonia-dapertura-e-la-vie-electrique_2e253c45-cd80-4ebf-87ab-9915f5194cbc.html",
     "published_at": "2026-05-12T07:16:09.000Z",
@@ -245,6 +429,14 @@
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/10/hantavirus-la-nave-hondius-entrata-nel-porto-di-granadilla-a-tenerife_ea78814a-26fe-435b-97c5-e853bf3740dd.html",
     "published_at": "2026-05-10T06:28:27.000Z",
     "fingerprint": "58ee05ccc07708fb9670a08d65eda84215cf8b56",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "xyOps",
+    "link": "https://www.producthunt.com/products/xyops",
+    "published_at": "2026-05-10T01:06:17.000Z",
+    "fingerprint": "7d41bac746405b153e3d2856d0d8baee597830cd",
     "micro_judgment": null
   },
   {
@@ -613,6 +805,14 @@
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1t60rnu/the_voice_is_soothing/",
     "published_at": "2026-05-07T05:02:40.000Z",
     "fingerprint": "f9f99f52f48099b887b52403e2a7b82d0f1297ab",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Memoket Gem",
+    "link": "https://www.producthunt.com/products/memoket-gem",
+    "published_at": "2026-05-07T04:28:59.000Z",
+    "fingerprint": "1cf5164a424ea5e955a6d303c1756849b3ba51b8",
     "micro_judgment": null
   },
   {
@@ -1725,6 +1925,14 @@
     "link": "https://www.designboom.com/design/noise-purpose-thoughts-milan-design-week-2026-room-for-dreams/",
     "published_at": "2026-04-30T10:50:41.000Z",
     "fingerprint": "a8973689d1116ec0e3e20c7ad8bbaac7660462c7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "CraftBot with Living UI",
+    "link": "https://www.producthunt.com/products/craftbot",
+    "published_at": "2026-04-30T10:02:37.000Z",
+    "fingerprint": "a367ef91f0fd2572c14bed8de45825289e2989a2",
     "micro_judgment": null
   },
   {
