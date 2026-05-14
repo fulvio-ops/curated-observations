@@ -1,5 +1,133 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "LLMs are breaking 20 year old system design",
+    "link": "https://zknill.io/posts/llms-are-breaking-20-year-old-system-design/",
+    "published_at": "2026-05-14T06:39:39.000Z",
+    "fingerprint": "db8d1ae38dfe52669f83b188297f05052baad0f4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "YM.dat",
+    "link": "https://www.producthunt.com/products/ym-dat",
+    "published_at": "2026-05-14T05:03:02.000Z",
+    "fingerprint": "6fa95913de43f73cb6369039729cbe5b088d4e07",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Cisco workforce reductions",
+    "link": "https://blogs.cisco.com/news/our-path-forward",
+    "published_at": "2026-05-14T01:38:05.000Z",
+    "fingerprint": "7cb638e1551f000a83787653391f60aa8a3d38f0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "delta time",
+    "link": "https://www.deltatime.life/",
+    "published_at": "2026-05-14T01:15:24.000Z",
+    "fingerprint": "c606f55413c95d4128d57e203dc2768fc24af64e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Scorched Earth 2000 – Web",
+    "link": "http://www.scorch2000.com/web/",
+    "published_at": "2026-05-14T00:41:29.000Z",
+    "fingerprint": "4901547f04f442dbe26637c5ab9ab5df1ff6e656",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Remember When Rose Gold Took Over Everything? Apple Is Trying That Again With Dark Cherry",
+    "link": "https://www.yankodesign.com/2026/05/13/remember-when-rose-gold-took-over-everything-apple-is-trying-that-again-with-dark-cherry/?utm_source=rss&utm_medium=rss&utm_campaign=remember-when-rose-gold-took-over-everything-apple-is-trying-that-again-with-dark-cherry",
+    "published_at": "2026-05-14T00:30:33.000Z",
+    "fingerprint": "7d2cbb7999b315da8e945ab948fcdba76250a80d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Internazionali a Roma: Darderi da sogno, batte Jodar e vola in semifinale",
+    "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/05/14/internazionali-darderi-da-sogno-batte-jodar-e-vola-in-semifinale_3fcf17f6-24ca-4ccd-9054-520d57df4f69.html",
+    "published_at": "2026-05-14T00:14:13.000Z",
+    "fingerprint": "1666ca59539e961d7228d6bf52e35d780817a7d0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Mass Timber, Passive House, & a Curving Roof: This Canadian Community Centre Is the Civic Building Other Cities Should Be Copying",
+    "link": "https://www.yankodesign.com/2026/05/13/mass-timber-passive-house-a-curving-roof-this-canadian-community-centre-is-the-civic-building-other-cities-should-be-copying/?utm_source=rss&utm_medium=rss&utm_campaign=mass-timber-passive-house-a-curving-roof-this-canadian-community-centre-is-the-civic-building-other-cities-should-be-copying",
+    "published_at": "2026-05-13T23:30:54.000Z",
+    "fingerprint": "d874a7419266b66c0fb084a2a1e204913bbc4eb3",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'Inter domina la Lazio, dopo lo scudetto vince la 10ma Coppa Italia",
+    "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/05/13/linter-domina-la-lazio-dopo-lo-scudetto-vince-la-10ma-coppa-italia_9c07bc41-eecb-42b3-aba2-430156837a7e.html",
+    "published_at": "2026-05-13T22:14:48.000Z",
+    "fingerprint": "bb79792c6703bd09cabec832a6ce62fc1f3bd08e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Designer’s Ferrari SC250 Concept Takes the Legendary 250 GTO to Its Logical Extreme",
+    "link": "https://www.yankodesign.com/2026/05/13/this-designers-ferrari-sc250-concept-takes-the-legendary-250-gto-to-its-logical-extreme/?utm_source=rss&utm_medium=rss&utm_campaign=this-designers-ferrari-sc250-concept-takes-the-legendary-250-gto-to-its-logical-extreme",
+    "published_at": "2026-05-13T21:30:38.000Z",
+    "fingerprint": "b43de34b3ffa2d2e55dc552a486a84d8d5a49bf3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The Biggest Lord of the Rings LEGO Set Ever Just Dropped",
+    "link": "https://www.yankodesign.com/2026/05/13/the-biggest-lord-of-the-rings-lego-set-ever-just-dropped/?utm_source=rss&utm_medium=rss&utm_campaign=the-biggest-lord-of-the-rings-lego-set-ever-just-dropped",
+    "published_at": "2026-05-13T20:30:06.000Z",
+    "fingerprint": "43d61eaabcff79d8f59d187c587153ae8566781c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "digitally fabricated timber installation reimagines japanese engawa as public gathering space",
+    "link": "https://www.designboom.com/design/digitally-fabricated-timber-installation-japanese-engawa-public-gathering-space-superficium-studio-strata-engawa/",
+    "published_at": "2026-05-13T17:30:47.000Z",
+    "fingerprint": "f05f6c7ed972880b66868c9e18cc92dee0dc5ac2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "DesignMD",
+    "link": "https://www.producthunt.com/products/designmd-2",
+    "published_at": "2026-05-13T14:40:33.000Z",
+    "fingerprint": "634abbf2cda44b6d3385d06e3f949ca5881f19ab",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "earth-toned concrete bike refuge emerges from ecuador’s reforested landscape",
+    "link": "https://www.designboom.com/architecture/earth-toned-concrete-bike-refuge-ecuador-reforested-landscape-urlo-studio/",
+    "published_at": "2026-05-13T13:30:47.000Z",
+    "fingerprint": "82fec0480bb1ead66abe13686b831dab94b4b812",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "how LAUFEN redefines bathrooms through material innovation at milan design week 2026",
+    "link": "https://www.designboom.com/design/how-laufen-redefines-bathrooms-through-material-innovation-at-milan-design-week-2026/",
+    "published_at": "2026-05-13T10:02:16.000Z",
+    "fingerprint": "dac2148e9943ff2de80148ac8294d4e6e22ba9d3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Open Computer Use",
+    "link": "https://www.producthunt.com/products/open-computer-use",
+    "published_at": "2026-05-13T08:20:31.000Z",
+    "fingerprint": "b5cece8af47f040f43cf15298cec8b72768eb3ce",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Crosetto: \"Avviciniamo due cacciamine a Hormuz, ma aspettiamo la pace\"",
     "link": "https://www.ansa.it/sito/notizie/politica/2026/05/13/tajani-non-chiediamo-una-nuova-operazione-nel-golfo-impegno-solo_53d3f08d-15cc-4908-b25b-b2f2fa0c50f3.html",
@@ -161,6 +289,14 @@
   },
   {
     "source": "Product Hunt",
+    "title": "c15t 2.0",
+    "link": "https://www.producthunt.com/products/c15t",
+    "published_at": "2026-05-12T10:53:02.000Z",
+    "fingerprint": "ce7d184136b843e24bb781b6f1c74c033478f9db",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
     "title": "Fileloom",
     "link": "https://www.producthunt.com/products/fileloom-file-viewer",
     "published_at": "2026-05-12T10:01:56.000Z",
@@ -181,6 +317,14 @@
     "link": "https://www.designboom.com/art/maroon-mashrabiya-pavilion-performances-communal-rituals-qatar-rirkrit-tiravanija-venice-art-biennale-2026/",
     "published_at": "2026-05-12T09:00:04.000Z",
     "fingerprint": "e4ed2040c4cb4a47e4ee1e2f3ced71abc0a17f3e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "LineageLens",
+    "link": "https://www.producthunt.com/products/lineage-lens",
+    "published_at": "2026-05-12T07:19:28.000Z",
+    "fingerprint": "a466b83d91f76ea7f9c3ea163a7d63df324da9d0",
     "micro_judgment": null
   },
   {
@@ -445,6 +589,14 @@
     "link": "https://www.yankodesign.com/2026/05/09/the-roomba-guy-just-built-a-robot-pet-you-might-actually-love/?utm_source=rss&utm_medium=rss&utm_campaign=the-roomba-guy-just-built-a-robot-pet-you-might-actually-love",
     "published_at": "2026-05-09T22:30:26.000Z",
     "fingerprint": "e0ad53b9c521ce55b2f45c75769e8a807c9b930e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Lumox",
+    "link": "https://www.producthunt.com/products/lumox-mirror-ios-to-mac",
+    "published_at": "2026-05-09T19:51:36.000Z",
+    "fingerprint": "78fc775caf9d84019ea137cf457e3d61f1fc2cc3",
     "micro_judgment": null
   },
   {
@@ -961,6 +1113,14 @@
   },
   {
     "source": "Product Hunt",
+    "title": "Causo for Fundraising",
+    "link": "https://www.producthunt.com/products/causo-hub-free-tools-for-fundraising",
+    "published_at": "2026-05-06T13:30:22.000Z",
+    "fingerprint": "26ee160d50f5079e2e0afd03f02f627e8ddc6986",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
     "title": "Glowix",
     "link": "https://www.producthunt.com/products/glowix",
     "published_at": "2026-05-06T12:37:28.000Z",
@@ -1021,6 +1181,14 @@
     "link": "https://www.yankodesign.com/2026/05/05/apple-wants-to-put-a-camera-in-your-airpods-to-improve-siris-visual-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=apple-wants-to-put-a-camera-in-your-airpods-to-improve-siris-visual-intelligence",
     "published_at": "2026-05-05T20:30:42.000Z",
     "fingerprint": "67af50b2124d7b7cf366e514d2fc688fb15d5fca",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Fei Design Mode",
+    "link": "https://www.producthunt.com/products/autonomyai",
+    "published_at": "2026-05-05T20:07:29.000Z",
+    "fingerprint": "289190adf744d03dc09c7f0d8497fe9e361187bb",
     "micro_judgment": null
   },
   {
@@ -1509,6 +1677,30 @@
     "link": "https://www.yankodesign.com/2026/05/01/aston-martin-concept-reimagines-british-gt-design-with-30-more-aggression-and-zero-corporate-compromise/?utm_source=rss&utm_medium=rss&utm_campaign=aston-martin-concept-reimagines-british-gt-design-with-30-more-aggression-and-zero-corporate-compromise",
     "published_at": "2026-05-01T21:30:28.000Z",
     "fingerprint": "7f35157829c0f48e28c9396220980aa056bd6ff9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Volume",
+    "link": "https://www.producthunt.com/products/volume-13",
+    "published_at": "2026-05-01T20:53:07.000Z",
+    "fingerprint": "2c27bb8ec62ca77dc506e77d0c61bfddebc02be2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Smart Bricks",
+    "link": "https://www.producthunt.com/products/smart-bricks",
+    "published_at": "2026-05-01T20:52:52.000Z",
+    "fingerprint": "614ae37f7b7f7ce5f9f6585669874c4e63c870a5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "SUN",
+    "link": "https://www.producthunt.com/products/sun-3",
+    "published_at": "2026-05-01T20:52:19.000Z",
+    "fingerprint": "ebc23f4b3900d46f87f340dab4cb80ffd3f369f4",
     "micro_judgment": null
   },
   {
@@ -14952,6 +15144,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Chronicle",
+    "link": "https://www.producthunt.com/products/chronicle-ai-voice-memory",
+    "published_at": "2026-02-08T19:24:58.000Z",
+    "fingerprint": "32f9c75568f49c122f00dd4321ce960ce9c2b287",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · oddlysatisfying",
     "title": "Painting Course Lines for Olympic Downhill Skiing",
     "link": "https://www.reddit.com/r/oddlysatisfying/comments/1qzgkhi/painting_course_lines_for_olympic_downhill_skiing/",
@@ -21630,6 +21830,14 @@
     "published_at": "2026-01-04T17:27:28.000Z",
     "fingerprint": "9ea1c9e031684500e6cfa33829b68b4b49b702ea",
     "micro_judgment": "This exists."
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Spellar 3.0",
+    "link": "https://www.producthunt.com/products/spellar",
+    "published_at": "2026-01-04T17:04:53.000Z",
+    "fingerprint": "e0a7c6e76e0f0f9cd355c64c42211b3d6f085a22",
+    "micro_judgment": null
   },
   {
     "source": "Reddit · mildlyinteresting",
