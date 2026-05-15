@@ -1,5 +1,117 @@
 [
   {
+    "source": "Product Hunt",
+    "title": "Nimbus",
+    "link": "https://www.producthunt.com/products/nimbus-10",
+    "published_at": "2026-05-15T04:58:07.000Z",
+    "fingerprint": "bbe7549f37df74b2ea37563d34b9d723fb5857c3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "How Claude Code works in large codebases",
+    "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+    "published_at": "2026-05-15T04:15:31.000Z",
+    "fingerprint": "cbd87bade0cc86522ff41fbf29e1fec71d3de70b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Coldkey – Post-quantum age key generation and paper backup tool",
+    "link": "https://github.com/pike00/coldkey",
+    "published_at": "2026-05-15T04:02:09.000Z",
+    "fingerprint": "48f14d1eed596a7df3fe1e1259aed5ed4c93d64d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Mullvad exit IPs are surprisingly identifying",
+    "link": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+    "published_at": "2026-05-15T02:35:35.000Z",
+    "fingerprint": "8163a4c104eff747d142f690937474df0aec19c4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Whiteout",
+    "link": "https://www.producthunt.com/products/whiteout",
+    "published_at": "2026-05-14T21:06:42.000Z",
+    "fingerprint": "2f68d5d0823b91609f31d3fd9f8fc7ea1334755d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "New arXiv policy: 1-year ban for hallucinated references",
+    "link": "https://twitter.com/tdietterich/status/2055000956144935055",
+    "published_at": "2026-05-14T20:39:12.000Z",
+    "fingerprint": "3c8aeab9216b14e54ab33ff258d01c0fb4d5d894",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Ugreen AP16 Portable Monitor’s 500 nits 2.5K display promises smooth gaming, travel-friendly productivity",
+    "link": "https://www.yankodesign.com/2026/05/14/ugreen-ap16-portable-monitors-500-nits-2-5k-display-promises-smooth-gaming-travel-friendly-productivity/?utm_source=rss&utm_medium=rss&utm_campaign=ugreen-ap16-portable-monitors-500-nits-2-5k-display-promises-smooth-gaming-travel-friendly-productivity",
+    "published_at": "2026-05-14T20:30:27.000Z",
+    "fingerprint": "538009a35dc833d685b4a6e51d71d9c4cc24cce9",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Torna la Milano Fashion Week, con Pitti regina del menswear",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/05/14/torna-la-milano-fashion-week-con-pitti-regina-del-menswear_7f6f0381-7753-451f-a8a1-222db64cef82.html",
+    "published_at": "2026-05-14T18:09:43.000Z",
+    "fingerprint": "392d677a6188f710e52480999ab5a3bd2ae0e705",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The colorful Audemars Piguet x Swatch Bioceramic Royal Pop watch can be worn in multiple ways",
+    "link": "https://www.yankodesign.com/2026/05/14/the-colorful-audemars-piguet-x-swatch-bioceramic-royal-pop-watch-can-be-worn-in-multiple-ways/?utm_source=rss&utm_medium=rss&utm_campaign=the-colorful-audemars-piguet-x-swatch-bioceramic-royal-pop-watch-can-be-worn-in-multiple-ways",
+    "published_at": "2026-05-14T15:20:01.000Z",
+    "fingerprint": "a33825839c5e8ea895ec53eb6a42ab0da77b0a9f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "DevRecorder",
+    "link": "https://www.producthunt.com/products/devrecorder",
+    "published_at": "2026-05-14T15:15:30.000Z",
+    "fingerprint": "e112ea52ac4c648c333a0720a99a03665c5a9dec",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ferrarese: 'Nessuna incompatibilità con l'incarico per i Giochi del Mediterraneo'",
+    "link": "https://www.ansa.it/sito/notizie/eventi/2026/05/14/ferrarese-nessuna-incompatibilita-con-lincarico-per-i-giochi-del-mediterraneo_601a579f-c45d-45c6-b157-cd8cc67bb636.html",
+    "published_at": "2026-05-14T14:28:00.000Z",
+    "fingerprint": "f0361915367fcf4cfbed148b9c1a2fcac5324ccc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "studio method’s travelling repair cart asks what design can do for local communities",
+    "link": "https://www.designboom.com/design/studio-method-travelling-repair-cart-design-local-communities-nieuwe-instituut-interview-milan-design-week-2026/",
+    "published_at": "2026-05-14T10:50:02.000Z",
+    "fingerprint": "5e036148061fde509e4e2d39696c2eadc2ee4866",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "geberit masters bathroom designs when trends fade",
+    "link": "https://www.designboom.com/design/geberit-masters-bathroom-designs-when-trends-fade/",
+    "published_at": "2026-05-14T10:00:06.000Z",
+    "fingerprint": "8338a76b838fd685fe150a6aaf2e8f9b3139884c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "translucent polycarbonate skin envelopes triangular shelter elevated on stilts in ecuador",
+    "link": "https://www.designboom.com/architecture/translucent-polycarbonate-skin-triangular-shelter-stilts-ecuador-casa-6-3-baquio-arquitectura/",
+    "published_at": "2026-05-14T09:00:10.000Z",
+    "fingerprint": "253425074981a78e3ac118003cf2c7ff1aefc0fc",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "LLMs are breaking 20 year old system design",
     "link": "https://zknill.io/posts/llms-are-breaking-20-year-old-system-design/",
@@ -632,6 +744,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Lensmor",
+    "link": "https://www.producthunt.com/products/lensmor-2",
+    "published_at": "2026-05-09T08:19:13.000Z",
+    "fingerprint": "e5c4a1f0de968f1a7be40c5b8df74d31eaae621d",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "I Ramones e i 50 anni del punk, batterista e ultimo testimone vive in Italia",
     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/05/08/marky-ramone-cittadino-castiglion-fiorentino-new-york-bellissima-ma-qui-sto_08f632fd-b96a-4a99-bcf6-3fe8fdec7ada.html",
@@ -661,6 +781,14 @@
     "link": "https://twitter.com/trq212/status/2052809885763747935",
     "published_at": "2026-05-09T04:53:52.000Z",
     "fingerprint": "1049a9c2a962a37fdd7af3295bfa5bf1d9ae98e4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Cats Lock",
+    "link": "https://www.producthunt.com/products/cats-lock-keyboard-lock-for-cat-people",
+    "published_at": "2026-05-09T00:29:06.000Z",
+    "fingerprint": "09df1a4c122c5df8a8cc8e0f5f606ca0b52c6642",
     "micro_judgment": null
   },
   {
@@ -845,6 +973,14 @@
     "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
     "published_at": "2026-05-07T18:46:25.000Z",
     "fingerprint": "dcb746737572ac06ab9a908c841d2ea67d1a8f23",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Riffly",
+    "link": "https://www.producthunt.com/products/riffly",
+    "published_at": "2026-05-07T18:37:20.000Z",
+    "fingerprint": "105f08df4a06eb1d84a2cdfe2a2271acef5c7607",
     "micro_judgment": null
   },
   {
@@ -3069,6 +3205,14 @@
     "link": "https://www.designboom.com/technology/samsung-design-is-an-act-of-love-milan-design-week-2026-interview/",
     "published_at": "2026-04-24T10:31:01.000Z",
     "fingerprint": "2750e4a52d51b6bae561e8de4520c928f08c7a69",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Wowable",
+    "link": "https://www.producthunt.com/products/wowable",
+    "published_at": "2026-04-24T10:30:55.000Z",
+    "fingerprint": "9206d883d4f51b8c2b88e4b22615302f113925e3",
     "micro_judgment": null
   },
   {
