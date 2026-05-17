@@ -1,10 +1,106 @@
 [
   {
+    "source": "Yanko Design",
+    "title": "Lexon Turned Jeff Koons’ Most Famous Sculpture Into The Coolest Statement Lamp You Can Actually Own",
+    "link": "https://www.yankodesign.com/2026/05/16/lexon-turned-jeff-koons-most-famous-sculpture-into-the-coolest-statement-lamp-you-can-actually-own/?utm_source=rss&utm_medium=rss&utm_campaign=lexon-turned-jeff-koons-most-famous-sculpture-into-the-coolest-statement-lamp-you-can-actually-own",
+    "published_at": "2026-05-17T01:45:44.000Z",
+    "fingerprint": "c11feb44f5937da51db171e02c200c9e733586ca",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "5 Camper Vans So Cleverly Designed They Replace Your Apartment, Office, and Hotel Room",
+    "link": "https://www.yankodesign.com/2026/05/16/5-camper-vans-so-cleverly-designed-they-replace-your-apartment-office-and-hotel-room/?utm_source=rss&utm_medium=rss&utm_campaign=5-camper-vans-so-cleverly-designed-they-replace-your-apartment-office-and-hotel-room",
+    "published_at": "2026-05-16T23:30:39.000Z",
+    "fingerprint": "64025461ca4ab44c5d9809c7c9b4be7a9e07a5ef",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+    "link": "https://crates.io/crates/zerostack/1.0.0",
+    "published_at": "2026-05-16T22:23:50.000Z",
+    "fingerprint": "8461935b697a95138b4710bcb0e5c26d43ecd7a3",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Zerocalcare, Due spicci la fine della trilogia, per me una resa dei conti",
+    "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/05/16/ansa-focus-zerocalcare-due-spicci-la-fine-della-trilogia-per-me-una_5fcf6f91-3aef-44f9-936a-b29f2d6a0713.html",
+    "published_at": "2026-05-16T20:04:27.000Z",
+    "fingerprint": "14c2fa187087d000647d6799d0604a89224c485d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Pet tourism, un tesoro che in Italia vale 9.5 miliardi ma potrebbe quasi raddoppiare",
+    "link": "https://www.ansa.it/canale_viaggi/notizie/news/2026/05/16/pet-tourism-un-tesoro-che-in-italia-vale-9.5-miliardi-ma-potrebbe-quasi_3b2859fe-0ff3-410c-8592-5371e654705c.html",
+    "published_at": "2026-05-16T19:13:07.000Z",
+    "fingerprint": "81e5e63bfe10075d7cd6268b6290fa9978ec3c48",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Meloni rilancia l'asse Mediterraneo-Golfo, Hormuz riapra senza pedaggi",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/05/16/meloni-alleurope-gulf-forum-hormuz-deve-riaprire-senza-pedaggi-o-restrizioni_19ecae6d-b169-47ca-984f-6df88e6f377a.html",
+    "published_at": "2026-05-16T18:54:58.000Z",
+    "fingerprint": "2ce2a1fe80ff3fd24cf7b3c8af67b994bda270f1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Halt and Catch Fire",
+    "link": "https://unstack.io/halt-and-catch-fire",
+    "published_at": "2026-05-16T18:16:29.000Z",
+    "fingerprint": "9ba3b21cf5c96d0847973042d511d93771558ef1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'Quella grotta è la mia casa, insidiosa anche per super esperti'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/16/quella-grotta-e-la-mia-casa-insidiosa-anche-per-super-esperti_4d2df3ec-f761-4edc-b434-643bccee6131.html",
+    "published_at": "2026-05-16T15:49:22.000Z",
+    "fingerprint": "cfbdd69594a30a2bccaaeb06df24c5ade272d2fb",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'Italia riduce il divario uomo-donna, ma sul lavoro è ultima in Ue",
+    "link": "https://www.ansa.it/donne/notizie/2026/05/16/litalia-riduce-il-divario-uomo-donna-ma-sul-lavoro-e-ultima-in-ue_72e2337a-bb2b-4723-938e-12cb734f1ddf.html",
+    "published_at": "2026-05-16T13:05:00.000Z",
+    "fingerprint": "627f25722699b94438a2bffb810809e70febc0a6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+    "link": "https://nvlabs.github.io/Sana/WM/",
+    "published_at": "2026-05-16T12:06:21.000Z",
+    "fingerprint": "580353231aa319c205f557b857ab94e2eff8a305",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "audi recreates a strange and sculptural 1935-era race car",
+    "link": "https://www.designboom.com/technology/audi-recreates-1935-race-car-auto-union-lucca/",
+    "published_at": "2026-05-16T09:30:41.000Z",
+    "fingerprint": "8fd74b2dc1014031446e68f69f6efe3d56c3038d",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Internazionali; Sinner partenza sprint, sofferenza e pioggia: slitta la semifinale",
     "link": "https://www.ansa.it/sito/notizie/sport/2026/05/15/internazionali-sinner-partenza-sprint-sofferenza-e-pioggia-la-semifinale-slitta-a-domani_24645e7b-eb59-4c5f-bef8-ba7af2455bfc.html",
     "published_at": "2026-05-16T07:15:04.000Z",
     "fingerprint": "b664079b2911dbf4b1c82f4472ebd4e0eba77c5b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "salte library in seoul combines fragrance, literature, and spatial storytelling",
+    "link": "https://www.designboom.com/architecture/salte-library-seoul-fragrance-literature-spatial-storytelling-niiiz-design-lab/",
+    "published_at": "2026-05-16T03:30:23.000Z",
+    "fingerprint": "82fdf615c6c42c63114e6559ddede2ee85f1c29a",
     "micro_judgment": null
   },
   {
