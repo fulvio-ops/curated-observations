@@ -1,6 +1,142 @@
 [
   {
     "source": "ANSA",
+    "title": "La Digos denuncia 13 minori per apologia di fascismo e odio razziale",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/19/la-digos-denuncia-13-minori-per-apologia-di-fascismo-e-odio-razziale_0eccccd7-c387-4482-8bef-c13a854d3c6e.html",
+    "published_at": "2026-05-19T07:37:59.000Z",
+    "fingerprint": "83ed597d9c140e3a36484e042d137682bd15043f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "appartamento spagnolo opens window to spanish interiors at milan design week 2026",
+    "link": "https://www.designboom.com/design/appartamento-spagnolo-spanish-interior-studiopepe-milan-design-week-2026/",
+    "published_at": "2026-05-19T07:34:54.000Z",
+    "fingerprint": "2161dc33f283cccf25cde66f4a776029e3297cd1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Così la realtà virtuale genera l'illusione di avere le ali",
+    "link": "https://www.ansa.it/canale_scienza/notizie/frontiere/2026/05/19/cosi-la-realta-virtuale-genera-lillusione-di-avere-le-ali-_458587c3-5294-4ee8-b39c-9b10e1a94ec6.html",
+    "published_at": "2026-05-19T06:23:06.000Z",
+    "fingerprint": "eec11965c78b60a9a298fd314eed7324704e5c40",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'asteroide 2026 JH2 ha salutato la Terra da 91mila chilometri   VIDEO",
+    "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/05/19/lasteroide-2026-jh2-ha-salutato-la-terra-da-91mila-chilometri-video_1e398756-c3d1-4fdd-85d0-a5a83967b348.html",
+    "published_at": "2026-05-19T06:12:37.000Z",
+    "fingerprint": "c6e0419f4d2e156cb5e52d2262dea946ee45eaff",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Mug Shots: A Small Town Noir (2014)",
+    "link": "https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir",
+    "published_at": "2026-05-19T04:39:31.000Z",
+    "fingerprint": "b5890d296917df898c23cc9b3bee3f407c25c81b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "PyTorch Landscape",
+    "link": "https://pytorch.landscape2.io",
+    "published_at": "2026-05-19T04:29:39.000Z",
+    "fingerprint": "eff3ef34d9d6a7abd6c524ec2aab9c28b0fb0938",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Agora-1 by Odyssey",
+    "link": "https://www.producthunt.com/products/odyssey-5",
+    "published_at": "2026-05-19T03:57:01.000Z",
+    "fingerprint": "04aa85cf312847160417bae96edc79991b1e567a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+    "link": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+    "published_at": "2026-05-18T23:18:10.000Z",
+    "fingerprint": "b99d9d5e9d8745c7f418f048855bfc763de477f5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Ferrari Made One Last Non-Hybrid V8 Spider Before The Brand Hands Its Future To Jony Ive",
+    "link": "https://www.yankodesign.com/2026/05/18/ferrari-made-one-last-non-hybrid-v8-spider-before-the-brand-hands-its-future-to-jony-ive/?utm_source=rss&utm_medium=rss&utm_campaign=ferrari-made-one-last-non-hybrid-v8-spider-before-the-brand-hands-its-future-to-jony-ive",
+    "published_at": "2026-05-18T20:30:18.000Z",
+    "fingerprint": "4c84c151f0ab20398be597b6711d92aabe89a9c6",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Modena, El Koudri dal carcere: 'Sapevo che quel giorno sarei morto'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/18/modena-el-koudri-dal-carcere-sapevo-che-quel-giorno-sarei-morto_1887920f-f2dc-471d-bc4f-33d89412f812.html",
+    "published_at": "2026-05-18T19:22:55.000Z",
+    "fingerprint": "bdc13b347ad04127469476f985484e9206047638",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "We let AIs run radio stations",
+    "link": "https://andonlabs.com/blog/andon-fm",
+    "published_at": "2026-05-18T18:12:18.000Z",
+    "fingerprint": "bd9286b989b6d46b29981af64fa77534bd31ba90",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il mercato Pet food + Pet care in Italia vale 5,3 miliardi di euro",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/pets/2026/05/14/il-mercato-pet-food-pet-care-in-italia-vale-53-miliardi-di-euro_56bbf4ef-d2b7-4ad4-8307-aa15030c68c1.html",
+    "published_at": "2026-05-18T18:01:43.000Z",
+    "fingerprint": "c3dbeecc360cc2aa88b304bb93a427d7d2fa6ca4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "ASUS’ $849 XREAL R1 glasses deliver console-sized 3D gaming anywhere without bulky gear",
+    "link": "https://www.yankodesign.com/2026/05/18/asus-849-xreal-r1-glasses-deliver-console-sized-3d-gaming-anywhere-without-bulky-gear/?utm_source=rss&utm_medium=rss&utm_campaign=asus-849-xreal-r1-glasses-deliver-console-sized-3d-gaming-anywhere-without-bulky-gear",
+    "published_at": "2026-05-18T15:20:05.000Z",
+    "fingerprint": "c4a4bc53c08eec789c26d20d57862aee8b55e71e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "heatherwick studio turns rippling water into sculptural eyewear for JINS",
+    "link": "https://www.designboom.com/design/heatherwick-studio-fluid-optical-frames-rippling-water-jins/",
+    "published_at": "2026-05-18T13:00:50.000Z",
+    "fingerprint": "e4165326ae93417a20e7c6f0aa8690b8542756b6",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "YouTube espande il rilevamento dei deepfake IA a tutti gli utenti adulti",
+    "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/05/18/youtube-espande-il-rilevamento-dei-deepfake-ia-a-tutti-gli-utenti-adulti_33d6c287-6968-476a-b902-98550e7bc359.html",
+    "published_at": "2026-05-18T12:53:14.000Z",
+    "fingerprint": "5b65a8e53531a1231ecf6aff563b9e3858c6bccb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "AutoShelf",
+    "link": "https://www.producthunt.com/products/autoshelf",
+    "published_at": "2026-05-18T11:35:20.000Z",
+    "fingerprint": "afc318fdcbbaf5f09b73295be8d3053cc0ad11ef",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "jute fabric walls and shifting pathways form delulu interactive labyrinth",
+    "link": "https://www.designboom.com/art/jute-fabric-walls-shifting-pathways-delulu-interactive-labyrinth-studio-carraldo/",
+    "published_at": "2026-05-18T10:00:59.000Z",
+    "fingerprint": "5fe245df435bca9201edeb5c18e6a5b0ab52da2c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Maldive, al via l'immersione del team per recuperare i corpi",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/18/maldive-al-via-limmersione-del-team-per-il-recupero-dei-corpi_ac8eace9-4fa5-4651-b932-2efdedfbf874.html",
     "published_at": "2026-05-18T08:46:38.000Z",
@@ -105,6 +241,30 @@
   },
   {
     "source": "Product Hunt",
+    "title": "Haystack",
+    "link": "https://www.producthunt.com/products/haystack-editor",
+    "published_at": "2026-05-17T18:55:22.000Z",
+    "fingerprint": "6a39e086d203dfc7170423488b3b2a83267ec380",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "CaseGap AI",
+    "link": "https://www.producthunt.com/products/casegap-ai",
+    "published_at": "2026-05-17T17:12:24.000Z",
+    "fingerprint": "016f47cf45dd97623179d2ae74fba92d80093654",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "LearnHouse",
+    "link": "https://www.producthunt.com/products/learnhouse",
+    "published_at": "2026-05-17T16:16:06.000Z",
+    "fingerprint": "a42023aa1d88e524e613b26c141e624ac69a8dee",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
     "title": "Moody",
     "link": "https://www.producthunt.com/products/moody-music-synced-album-wallpaper",
     "published_at": "2026-05-17T14:31:31.000Z",
@@ -149,6 +309,14 @@
     "link": "https://www.designboom.com/architecture/uufie-angular-belfountain-house-slope-canadia-forest-ontario/",
     "published_at": "2026-05-17T09:45:10.000Z",
     "fingerprint": "6e55a5b2bd9d5a066210af01110aaa73a8f330f4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Chert",
+    "link": "https://www.producthunt.com/products/chert",
+    "published_at": "2026-05-17T05:10:40.000Z",
+    "fingerprint": "af4af1eeab679970842e8ca9381ec79f8999bd1f",
     "micro_judgment": null
   },
   {
@@ -7725,6 +7893,14 @@
     "link": "https://www.producthunt.com/products/fonic",
     "published_at": "2026-04-01T14:19:06.000Z",
     "fingerprint": "03b3fc3e49fc4750719dbb3dc415029cb912d1e2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Mantle Chat",
+    "link": "https://www.producthunt.com/products/mantle-chat",
+    "published_at": "2026-04-01T14:17:37.000Z",
+    "fingerprint": "15924067357ed0ea707669c46cc5e2eff6c2d7c3",
     "micro_judgment": null
   },
   {
