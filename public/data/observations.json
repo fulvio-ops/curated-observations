@@ -1,6 +1,166 @@
 [
   {
     "source": "ANSA",
+    "title": "Flotilla, Carotenuto e Mantovani arrivati in Italia",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/21/-flotilla-carotenuto-e-mantovani-arrivati-in-italia-_e9136f02-0fd2-4e95-80a1-d12029a2baed.html",
+    "published_at": "2026-05-21T08:14:14.000Z",
+    "fingerprint": "a39283addeddf7f9b819e63bd675b53575d379d4",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Stress da lavoro per un italiano su 2 e il 27% soffre l'iperconnessione",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/05/20/stress-da-lavoro-per-un-italiano-su-2-e-il-27-soffre-liperconnessione_32333ed1-d8bf-401e-baf6-b20eac06339e.html",
+    "published_at": "2026-05-21T08:11:41.000Z",
+    "fingerprint": "d9b816521629dacb142c9f7bfea2c9a7ede80725",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Merz propone di rendere l'Ucraina un 'membro associato' dell'Ue",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/21/merz-propone-di-rendere-lucraina-un-membro-associato-dellue_c4ba2071-0541-4119-b932-3fecd48e38eb.html",
+    "published_at": "2026-05-21T07:12:08.000Z",
+    "fingerprint": "8cb2671c2b60f06c10c05664cbfc7ecdd50d7313",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Tacet",
+    "link": "https://www.producthunt.com/products/tacet",
+    "published_at": "2026-05-21T06:42:39.000Z",
+    "fingerprint": "23d39d0e255326a114649e310d620c7e1e623825",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "moomins take over new york botanical garden to reconnect visitors with nature",
+    "link": "https://www.designboom.com/art/moomins-new-york-botanical-garden-visitors-nature/",
+    "published_at": "2026-05-21T06:30:49.000Z",
+    "fingerprint": "6ca264c146e33893fa494fa09ffd4f3203a5086c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Framed",
+    "link": "https://www.producthunt.com/products/framed-mockup-studio",
+    "published_at": "2026-05-21T04:00:21.000Z",
+    "fingerprint": "070b79c29c2fb27b6dda669ee809a7378b247ee4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Tycoon AI",
+    "link": "https://www.producthunt.com/products/tycoon-us",
+    "published_at": "2026-05-21T02:08:22.000Z",
+    "fingerprint": "c1c2cd2277635a1703abba5d2d9a518283d0e4ab",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "An Iranian Villa Built Around Architecture’s Oldest Shape",
+    "link": "https://www.yankodesign.com/2026/05/20/an-iranian-villa-built-around-architectures-oldest-shape/?utm_source=rss&utm_medium=rss&utm_campaign=an-iranian-villa-built-around-architectures-oldest-shape",
+    "published_at": "2026-05-20T21:30:14.000Z",
+    "fingerprint": "b2ced762ab94056b15e37944ebc210a4a69200e3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
+    "link": "https://github.com/kouhxp/yapsnap",
+    "published_at": "2026-05-20T21:28:28.000Z",
+    "fingerprint": "f4c5d5f83c43895171ef0085b53a7527619932a1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Davide pestato e accoltellato, un 19enne condannato a 20 anni",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/20/studente-accoltellato-a-milano-una-condanna-a-20-anni_7358e647-43f2-46e2-804c-41cf46d7c477.html",
+    "published_at": "2026-05-20T21:06:03.000Z",
+    "fingerprint": "a7750273cf23c4a79481b91539763af40e4f3f81",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "SpaceX S-1",
+    "link": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
+    "published_at": "2026-05-20T20:49:59.000Z",
+    "fingerprint": "b00d730d42d71eaf32c99282b08d94a8ef6db176",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Sui dazi con gli Usa intesa nell'Ue, 'l'Europa onora gli impegni'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/20/usa-bene-progressi-ue-ma-dazi-sono-solo-un-aspetto-dellaccordo_f3f5004f-a603-46e4-98d0-b871ef2d6046.html",
+    "published_at": "2026-05-20T19:06:45.000Z",
+    "fingerprint": "592bfc1fff6885144a08569e4e01ad9f03be9732",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+    "published_at": "2026-05-20T19:05:30.000Z",
+    "fingerprint": "166ce48ed90c50f14e2cefcc5e844e1b674a3480",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Why is Inkwell stuck in review",
+    "link": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
+    "published_at": "2026-05-20T17:30:15.000Z",
+    "fingerprint": "f20883568a7c3b833c845aa5a4a713053974ba2d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "A 3D-Printed Lamp That Finally Makes Sustainability Look Great",
+    "link": "https://www.yankodesign.com/2026/05/20/a-3d-printed-lamp-that-finally-makes-sustainability-look-great/?utm_source=rss&utm_medium=rss&utm_campaign=a-3d-printed-lamp-that-finally-makes-sustainability-look-great",
+    "published_at": "2026-05-20T16:20:50.000Z",
+    "fingerprint": "491f027a30721350e95b74aa50d176194bc7a37d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "curved balconies clad in brick tiles outline a multi-generational indian home",
+    "link": "https://www.designboom.com/readers/curved-balconies-brick-tiles-multi-generational-indian-home-singh-residence-hdeco/",
+    "published_at": "2026-05-20T16:00:26.000Z",
+    "fingerprint": "f2172f85c3d8e96770a620830bdb353bbb8db91b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Vivaldi 8.0",
+    "link": "https://www.producthunt.com/products/vivaldi",
+    "published_at": "2026-05-20T14:41:40.000Z",
+    "fingerprint": "275f99054cd8bc9b33fe978a6efea19f9a766444",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Attivisti Flotilla bendati e in ginocchio, Ben Gvir li deride",
+    "link": "https://www.ansa.it/sito/videogallery/mondo/2026/05/20/attivisti-flotilla-bendati-e-in-ginocchio-ben-gvir-li-deride_74106a1d-2cb6-49e8-941c-bb6b750efccc.html",
+    "published_at": "2026-05-20T13:05:22.000Z",
+    "fingerprint": "77023bb724867c314828c0e5c3bbafb08436a3ec",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "stone-oven bakery and restaurant reconfigures 1970s auditorium in rural china",
+    "link": "https://www.designboom.com/architecture/stone-oven-bakery-restaurant-1970s-auditorium-rural-china-cycle-cycle-tens-atelier/",
+    "published_at": "2026-05-20T13:00:41.000Z",
+    "fingerprint": "ffdbdcf2f2a1d108e060e5fd8247733cdc3fbe9b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Saying goodbye to asm.js",
+    "link": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
+    "published_at": "2026-05-20T12:01:56.000Z",
+    "fingerprint": "ba0f0c60f8296e2bc58937640504dcd258b2d119",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Almasri ricorre contro la Cpi, 'il caso sia giudicato in Libia'",
     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/20/almasri-ricorre-contro-la-cpi-il-caso-sia-giudicato-in-libia_04a9a20e-26b5-4b7d-b06b-d32939677f5c.html",
     "published_at": "2026-05-20T07:57:57.000Z",
@@ -64,11 +224,27 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Tether",
+    "link": "https://www.producthunt.com/products/tether-10",
+    "published_at": "2026-05-19T15:23:27.000Z",
+    "fingerprint": "760e6b72edd1a97e3459f9373b0e00a2c9238b8b",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Why is almost everyone right-handed? A new study connects it to bipedalism",
     "link": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
     "published_at": "2026-05-19T14:50:42.000Z",
     "fingerprint": "6a5e69cd2222c0c9d5b8ad0d3817fa7e04e29398",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Invenio",
+    "link": "https://www.producthunt.com/products/invenio",
+    "published_at": "2026-05-19T14:28:34.000Z",
+    "fingerprint": "ca3b548cbc98ef2931ac61baa0c20c6eb3884710",
     "micro_judgment": null
   },
   {
@@ -9277,6 +9453,14 @@
     "link": "https://www.ansa.it/canale_scienza/notizie/fisica_matematica/2026/03/25/al-cern-il-primo-trasporto-di-antimateria-90-antiparticelle-in-bottiglia_d3313542-7d08-40b4-b6e7-0c636b1949ac.html",
     "published_at": "2026-03-25T14:40:30.000Z",
     "fingerprint": "1c72ff154902ec81e617e7984dafbc248e356e9c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Visual Usability Checker",
+    "link": "https://www.producthunt.com/products/attention-insight",
+    "published_at": "2026-03-25T13:37:08.000Z",
+    "fingerprint": "d4178a2808f18eac39bebe2dc5c358657f91927d",
     "micro_judgment": null
   },
   {
