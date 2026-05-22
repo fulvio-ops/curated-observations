@@ -1,6 +1,158 @@
 [
   {
     "source": "ANSA",
+    "title": "Rinviato il test in volo della nuova Starship di Musk",
+    "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/05/22/rinviato-il-test-in-volo-della-nuova-starship-di-musk_6d23898f-ca60-428e-bebf-5879fa1225bb.html",
+    "published_at": "2026-05-22T08:14:33.000Z",
+    "fingerprint": "414ea46cbbb9afba5868ff6c86211e22f956e99b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Nasa, cinesi i prossimi astronauti a camminare sulla Luna&nbsp;",
+    "link": "https://www.ansa.it/sito/podcast/in_diretta_dal_mondo/2026/05/21/nasa-cinesi-i-prossimi-astronauti-a-camminare-sulla-luna_4c09dbec-4178-408c-8379-4f0ecbc55f76.html",
+    "published_at": "2026-05-22T08:09:45.000Z",
+    "fingerprint": "c8643dba3d7b86ef95041c2b9fd58e19e5e8c3ba",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "In 122 foto il cammino delle donne nella conquista dei diritti dal '46 a oggi",
+    "link": "https://www.ansa.it/sito/videogallery/short_video/2026/05/21/in-122-foto-il-cammino-delle-donne-nella-conquista-dei-diritti-dal_e07a3bd3-6d1f-4b26-a8fd-7d0982c22b91.html",
+    "published_at": "2026-05-22T06:43:46.000Z",
+    "fingerprint": "0ef544cd7d8709b4a06b338e18f01397da22fd29",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT",
+    "link": "https://pythongiant.github.io/KVBoost/",
+    "published_at": "2026-05-22T04:47:48.000Z",
+    "fingerprint": "54c7646d38a48127bd8b9cd4b028ae6b6f44aae5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Slumber a TUI HTTP Client",
+    "link": "https://slumber.lucaspickering.me",
+    "published_at": "2026-05-22T04:29:23.000Z",
+    "fingerprint": "cf9b84f9cd3e834cec4cadd1f25b58ba611fa4f4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My dad was given a deck of cards. They turned out to be military issued, with Saddam Hussein.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1tjzej1/my_dad_was_given_a_deck_of_cards_they_turned_out/",
+    "published_at": "2026-05-21T22:01:09.000Z",
+    "fingerprint": "f6cd3af51343433607dc7e5be588cf0f104c2d14",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Grocery store fixed the grammar on their roasted in-shell pistachios",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1tjyqjm/grocery_store_fixed_the_grammar_on_their_roasted/",
+    "published_at": "2026-05-21T21:36:01.000Z",
+    "fingerprint": "d1bef483773f8d4bd39880d336de03c1da50e9b6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Gas w/2 foot longs",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1tjwu8o/gas_w2_foot_longs/",
+    "published_at": "2026-05-21T20:26:22.000Z",
+    "fingerprint": "cea24b7eff2c4073c90a7fb55567c32b3748449a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Shuffle Design CLI",
+    "link": "https://www.producthunt.com/products/shuffle-design-cli",
+    "published_at": "2026-05-21T19:18:28.000Z",
+    "fingerprint": "3b3a52e5a19d34605ca4ea24926a8150f138d901",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "5 Homes With No Straight Lines That Look Like Nature Designed Them",
+    "link": "https://www.yankodesign.com/2026/05/21/5-homes-with-no-straight-lines-that-look-like-nature-designed-them/?utm_source=rss&utm_medium=rss&utm_campaign=5-homes-with-no-straight-lines-that-look-like-nature-designed-them",
+    "published_at": "2026-05-21T17:20:43.000Z",
+    "fingerprint": "0cc95c3c3cd977cc9b733a3573c0c906e15cc03b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · ofcoursethatsathing",
+    "title": "The Water Dictionary: Recipes for mixing bottled waters to recreate the water profiles of cities known for coffee, tea, baking, and more.",
+    "link": "https://www.reddit.com/r/ofcoursethatsathing/comments/1tjqbz8/the_water_dictionary_recipes_for_mixing_bottled/",
+    "published_at": "2026-05-21T16:47:33.000Z",
+    "fingerprint": "55f815b3e43a3ff8f144b10a29a3e75c4049db19",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La corona lunare e Giove sulle Dolomiti",
+    "link": "https://www.ansa.it/canale_scienza/notizie/scienza_arte/2026/05/21/la-corona-lunare-e-giove-sulle-dolomiti-_008f3f69-7a23-4879-862d-1f1615faef65.html",
+    "published_at": "2026-05-21T15:57:06.000Z",
+    "fingerprint": "fdc630ee06cc56bace7e476ae9eeb1f8a5047aee",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Zero Assist",
+    "link": "https://www.producthunt.com/products/zero-assist",
+    "published_at": "2026-05-21T15:06:30.000Z",
+    "fingerprint": "54bb8c6d29830b5c4c4a951d2c851f39d02ec993",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Dandelions on one side of chain link fence advanced faster than the other",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1tjmy95/dandelions_on_one_side_of_chain_link_fence/",
+    "published_at": "2026-05-21T14:53:03.000Z",
+    "fingerprint": "8adbbacaceb7e253b4b8ccf21bfaaf80a102b2d9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "From one sheet of paper",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1tjmvuj/from_one_sheet_of_paper/",
+    "published_at": "2026-05-21T14:50:39.000Z",
+    "fingerprint": "67ea36fa6033a4240d2c6965c11157ca8662f536",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "kengo kuma and paul raff’s new national park visitor center blends into canadian rockies",
+    "link": "https://www.designboom.com/architecture/kengo-kuma-paul-raff-visitor-center-banff-national-park/",
+    "published_at": "2026-05-21T14:30:10.000Z",
+    "fingerprint": "90030179a4a5785252d7b5f9d4b09944f6d04099",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Smart Miles",
+    "link": "https://www.producthunt.com/products/smart-miles",
+    "published_at": "2026-05-21T13:17:20.000Z",
+    "fingerprint": "388370ca47b5074170c59c78c870cf3b1bc79e40",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "HelioPeak",
+    "link": "https://www.producthunt.com/products/heliopeak",
+    "published_at": "2026-05-21T12:11:56.000Z",
+    "fingerprint": "6814cb738d6b505cfdf031b37b64bd90a9c958cc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "HPO.TECH designs oystershell-inspired chambers for life-saving pressure therapy",
+    "link": "https://www.designboom.com/technology/hpo-tech-design-oystershell-chamber-life-saving-pressure-therapy/",
+    "published_at": "2026-05-21T10:30:47.000Z",
+    "fingerprint": "da48235be3f6e885076a74a54b3ed85b1026915a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Flotilla, Carotenuto e Mantovani arrivati in Italia",
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/21/-flotilla-carotenuto-e-mantovani-arrivati-in-italia-_e9136f02-0fd2-4e95-80a1-d12029a2baed.html",
     "published_at": "2026-05-21T08:14:14.000Z",
@@ -53,6 +205,14 @@
     "link": "https://www.producthunt.com/products/tycoon-us",
     "published_at": "2026-05-21T02:08:22.000Z",
     "fingerprint": "c1c2cd2277635a1703abba5d2d9a518283d0e4ab",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Incredibly beautiful artwork",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1tj1e2u/incredibly_beautiful_artwork/",
+    "published_at": "2026-05-20T22:32:45.000Z",
+    "fingerprint": "75a32fdf01fd37b84f06efabd8ea1830f9857989",
     "micro_judgment": null
   },
   {
@@ -112,6 +272,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Italian artist Fontanesi creates surreal images by stitching together two of his own photographs into a single frame",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1tirykp/italian_artist_fontanesi_creates_surreal_images/",
+    "published_at": "2026-05-20T17:05:58.000Z",
+    "fingerprint": "666d1c02f3df99236e8ea0ebe29cff84782b54fc",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "A 3D-Printed Lamp That Finally Makes Sustainability Look Great",
     "link": "https://www.yankodesign.com/2026/05/20/a-3d-printed-lamp-that-finally-makes-sustainability-look-great/?utm_source=rss&utm_medium=rss&utm_campaign=a-3d-printed-lamp-that-finally-makes-sustainability-look-great",
@@ -152,6 +320,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Reddit · oddlysatisfying",
+    "title": "Bathroom tiles removal in easy mode",
+    "link": "https://www.reddit.com/r/oddlysatisfying/comments/1tijxhy/bathroom_tiles_removal_in_easy_mode/",
+    "published_at": "2026-05-20T12:17:40.000Z",
+    "fingerprint": "3b99db825db2108328fc3100417e25b0b8fccf0b",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Saying goodbye to asm.js",
     "link": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
@@ -189,6 +365,14 @@
     "link": "https://twitter.com/github/status/2056884788179726685",
     "published_at": "2026-05-20T00:01:18.000Z",
     "fingerprint": "2bfbd4fea957005dbf6db17e407287b7b9dbbc0e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Auto Posts",
+    "link": "https://www.producthunt.com/products/auto-posts",
+    "published_at": "2026-05-19T20:23:55.000Z",
+    "fingerprint": "f56381cffc8916394dda13cf809b1ce384f94006",
     "micro_judgment": null
   },
   {
@@ -517,6 +701,14 @@
     "link": "https://www.producthunt.com/products/haystack-editor",
     "published_at": "2026-05-17T18:55:22.000Z",
     "fingerprint": "6a39e086d203dfc7170423488b3b2a83267ec380",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "AGG Identify",
+    "link": "https://www.producthunt.com/products/agg-identify",
+    "published_at": "2026-05-17T18:03:02.000Z",
+    "fingerprint": "103d7d6f245c46a10f98ffc4c8f48da9a1fb5b6f",
     "micro_judgment": null
   },
   {
@@ -1429,6 +1621,14 @@
     "link": "https://jola.dev/posts/running-local-models-on-m4",
     "published_at": "2026-05-10T23:09:10.000Z",
     "fingerprint": "16dda2580031148d35aaf6783c239475c523cf72",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · ofcoursethatsathing",
+    "title": "tung tung tung sahur figures with 4 different color options",
+    "link": "https://www.reddit.com/r/ofcoursethatsathing/comments/1t9lrfw/tung_tung_tung_sahur_figures_with_4_different/",
+    "published_at": "2026-05-10T23:03:15.000Z",
+    "fingerprint": "9c55a3f311742d90215046d49b0a6be0c251200d",
     "micro_judgment": null
   },
   {
