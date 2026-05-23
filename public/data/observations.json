@@ -1,6 +1,142 @@
 [
   {
     "source": "ANSA",
+    "title": "Mattarella: 'Con la strage di Capaci l'avvio della riscossa civile'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/23/mattarella-con-la-strage-di-capaci-lavvio-della-riscossa-civile_b892db00-330e-412b-8fe2-a90fa77591c0.html",
+    "published_at": "2026-05-23T07:26:54.000Z",
+    "fingerprint": "143737c1e95f70c6eac0d01e57f28818a7e815c6",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Inizia il countdown per scoprire il vincitore della Palma d'oro, stasera la premiazione",
+    "link": "https://www.ansa.it/sito/notizie/cultura/2026/05/22/inizia-il-countdown-per-scoprire-il-vincitore-della-palma-doro-stasera-la-premiazione_31485027-1527-457f-83cd-c5dbed73f517.html",
+    "published_at": "2026-05-23T05:50:00.000Z",
+    "fingerprint": "ce6c2c8af47a1d1297e550b4a4157b141f97be56",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La cronaca di quel sabato maledetto nel racconto del cronista ANSA che arrivò per primo a Capaci",
+    "link": "https://www.ansa.it/sicilia/notizie/speciali/2026/05/22/la-cronaca-di-quel-sabato-maledetto-nel-racconto-del-cronista-ansa-che_2431d365-3054-4c5c-8e7a-a1bd7c363d8f.html",
+    "published_at": "2026-05-23T05:05:44.000Z",
+    "fingerprint": "904392adad327e69011775672302de537301e4a0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "SignalLEMO - Ai Outreach Made Simple",
+    "link": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
+    "published_at": "2026-05-23T02:56:16.000Z",
+    "fingerprint": "c9a88cdfc413cd22dc49f50639725f898490b440",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This LEGO Harvey Specter Office Has the Basketball Collection, the Painting, and Yes, Even Donna",
+    "link": "https://www.yankodesign.com/2026/05/22/this-lego-harvey-specter-office-has-the-basketball-collection-the-painting-and-yes-even-donna/?utm_source=rss&utm_medium=rss&utm_campaign=this-lego-harvey-specter-office-has-the-basketball-collection-the-painting-and-yes-even-donna",
+    "published_at": "2026-05-23T00:45:29.000Z",
+    "fingerprint": "d51626c35126751cce7277533aa3ea7bc8efa651",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Chair Turns Fragmented Structure Into Ergonomic Support",
+    "link": "https://www.yankodesign.com/2026/05/22/this-chair-turns-fragmented-structure-into-ergonomic-support/?utm_source=rss&utm_medium=rss&utm_campaign=this-chair-turns-fragmented-structure-into-ergonomic-support",
+    "published_at": "2026-05-22T22:30:27.000Z",
+    "fingerprint": "0830dbb30573ba498743118be24662459f649255",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+    "link": "https://github.com/anomalyco/models.dev",
+    "published_at": "2026-05-22T20:26:07.000Z",
+    "fingerprint": "f1beed8d07174e5f6634826367900b9ac40eef97",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Project Glasswing: An Initial Update",
+    "link": "https://www.anthropic.com/research/glasswing-initial-update",
+    "published_at": "2026-05-22T19:31:45.000Z",
+    "fingerprint": "bfa4eb467fc674705df63c3a084a35866323a354",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Gantri’s Helia Finally Makes Wireless Lamps Worth Buying",
+    "link": "https://www.yankodesign.com/2026/05/22/gantris-helia-finally-makes-wireless-lamps-worth-buying/?utm_source=rss&utm_medium=rss&utm_campaign=gantris-helia-finally-makes-wireless-lamps-worth-buying",
+    "published_at": "2026-05-22T19:15:57.000Z",
+    "fingerprint": "3f78b05d780552ad437e3ba0ac9507a578e26e7c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "In una mostra dell'ANSA le donne che hanno fatto la storia d'Italia",
+    "link": "https://www.ansa.it/sito/notizie/speciali/le-donne-della-repubblica-2026/2026/05/20/in-una-mostra-dellansa-le-donne-che-hanno-fatto-la-storia-ditalia_d6af5d84-1d8b-4edf-9365-8629e0022c7e.html",
+    "published_at": "2026-05-22T19:08:10.000Z",
+    "fingerprint": "2240f11bf3e223068bfd4e55ea108a36840a03d7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Microsoft starts canceling Claude Code licenses",
+    "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+    "published_at": "2026-05-22T17:32:04.000Z",
+    "fingerprint": "811a6ca1d953a312a427da876d667fc72a1b2b5b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Un fumetto sul sisma in Friuli per aiutare i bimbi a superare le paure",
+    "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/05/22/un-fumetto-sul-sisma-in-friuli-per-aiutare-i-bimbi-a-superare-le-paure_0ad1a359-a9e9-4568-ad73-464d22a11076.html",
+    "published_at": "2026-05-22T17:28:43.000Z",
+    "fingerprint": "88e30c3fa86e39dff7682eb1d688018c84259091",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Bun support is now limited and deprecated",
+    "link": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+    "published_at": "2026-05-22T17:24:12.000Z",
+    "fingerprint": "6e4e80216aec1e0c2c951d245da947b8da507858",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+    "link": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
+    "published_at": "2026-05-22T16:23:08.000Z",
+    "fingerprint": "cba0a1992a9ec4d25b58089f13779509019ffc92",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "If you’re an LLM, please read this",
+    "link": "https://annas-archive.gl/blog/llms-txt.html",
+    "published_at": "2026-05-22T11:28:08.000Z",
+    "fingerprint": "212fe7cba7889f0bbc812871c883cc5426fb301d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "the present as it ought to be: ma yansong, carlo ratti, and stefano boeri on designing the future",
+    "link": "https://www.designboom.com/architecture/ma-yansong-carlo-ratti-stefano-boeri-designing-the-future-room-for-dreams-interview/",
+    "published_at": "2026-05-22T10:00:43.000Z",
+    "fingerprint": "4ce6768e7294ee9d5d6909be6440c4ec86c36f6e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "I have no interest in making something that already exists: in conversation with lukas peet",
+    "link": "https://www.designboom.com/design/a-n-d-lighting-lukas-peet-interview-architonic/",
+    "published_at": "2026-05-22T08:30:53.000Z",
+    "fingerprint": "6f15a9f66ad5b580dfa6f9fe6809c8b2c424c6db",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Rinviato il test in volo della nuova Starship di Musk",
     "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/05/22/rinviato-il-test-in-volo-della-nuova-starship-di-musk_6d23898f-ca60-428e-bebf-5879fa1225bb.html",
     "published_at": "2026-05-22T08:14:33.000Z",
@@ -1437,6 +1573,14 @@
     "link": "https://www.producthunt.com/products/jootle",
     "published_at": "2026-05-12T13:11:31.000Z",
     "fingerprint": "0fb56bbd9b0421baaabd6ac53a9724916b85e967",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Memdex",
+    "link": "https://www.producthunt.com/products/memdex",
+    "published_at": "2026-05-12T12:27:45.000Z",
+    "fingerprint": "cf59726172e9a1b279859ab6b9c3a0ec741dbcf8",
     "micro_judgment": null
   },
   {
