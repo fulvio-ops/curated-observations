@@ -1,6 +1,182 @@
 [
   {
     "source": "ANSA",
+    "title": "Medio Oriente, Teheran: 'Nuovi attacchi avranno risposta durissima, oltre la regione' - Liveblog",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/26/usa-colpiscono-sito-missili-e-navi-iran-in-autodifesa_9f4920a3-da57-4ee8-9785-c9d46cd408c7.html",
+    "published_at": "2026-05-26T08:05:33.000Z",
+    "fingerprint": "86829bbd77319020d7f447fb4be2d5542e8ac547",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "edra’s furniture rethinks how comfort can be experienced at milan design week 2026",
+    "link": "https://www.designboom.com/design/edra-furniture-milan-design-week-2026/",
+    "published_at": "2026-05-26T08:00:07.000Z",
+    "fingerprint": "0087a97c98529d975bf53f801c7914a03fa2d8dc",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "COMUNALI | Il centrodestra a sorpresa a Venezia, delusione del campo largo. De Luca sbanca a Salerno",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/05/25/comunali-il-centrodestra-a-sorpresa-a-venezia-delusione-del-campo-largo.-de-luca-sbanca_f5827b0e-f272-484d-ae80-2b9e8aed2451.html",
+    "published_at": "2026-05-26T07:41:37.000Z",
+    "fingerprint": "3694ef1aa0db27a7f615510863e4b507c24f101b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Ferrari Luce",
+    "link": "https://www.producthunt.com/products/ferrari-luce-2",
+    "published_at": "2026-05-26T03:59:54.000Z",
+    "fingerprint": "b7e2d58db785d7c73ab1f3c76b3f63fb76f761ce",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "SelectPrism",
+    "link": "https://www.producthunt.com/products/selectprism",
+    "published_at": "2026-05-26T02:26:22.000Z",
+    "fingerprint": "caaf284e52eb9c05f105f8d0e3222adb7ef897db",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Vizcom x Corkway Launch a ‘Cork Design Challenge’ With Winning Designs Getting Produced",
+    "link": "https://www.yankodesign.com/2026/05/25/vizcom-x-corkway-launch-a-cork-design-challenge-with-winning-designs-getting-industrial-production/?utm_source=rss&utm_medium=rss&utm_campaign=vizcom-x-corkway-launch-a-cork-design-challenge-with-winning-designs-getting-industrial-production",
+    "published_at": "2026-05-26T01:45:23.000Z",
+    "fingerprint": "2b5685f4eaeb815473afdb1e62ea6b92a46e679e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "white aluminum cladding wraps tetris-like residence along lake in poland",
+    "link": "https://www.designboom.com/architecture/white-aluminum-cladding-tetris-like-residence-lake-poland-periscope-mus-architects/",
+    "published_at": "2026-05-26T00:00:13.000Z",
+    "fingerprint": "5c7c53c94a16bb412d1876885c996ca1cfdc1231",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Performance of Rust Language [pdf]",
+    "link": "https://github.com/yugr/rust-slides/",
+    "published_at": "2026-05-25T23:37:31.000Z",
+    "fingerprint": "93491c8ffa3d1e3043370313fd0a34aaaa2382a2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The Lounge Chair That Has No Welds, No Joints, and No Legs – Just One Bent Sheet of Metal",
+    "link": "https://www.yankodesign.com/2026/05/25/the-lounge-chair-that-has-no-welds-no-joints-and-no-legs-just-one-bent-sheet-of-metal/?utm_source=rss&utm_medium=rss&utm_campaign=the-lounge-chair-that-has-no-welds-no-joints-and-no-legs-just-one-bent-sheet-of-metal",
+    "published_at": "2026-05-25T22:30:57.000Z",
+    "fingerprint": "1915491fd1a42e2fbbb5ab081116dda809f55a23",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "ferrari unveils luce, its first electric car designed by jony ive and marc newson",
+    "link": "https://www.designboom.com/technology/ferrari-first-electric-car-jony-ive-marc-newson-lovefrom/",
+    "published_at": "2026-05-25T21:42:50.000Z",
+    "fingerprint": "c38f2646f8404f2eff5596da923a7d7e31fbddde",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+    "link": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+    "published_at": "2026-05-25T19:43:45.000Z",
+    "fingerprint": "2d2c527115b813c804ac0351ce2161db92038b80",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+    "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+    "published_at": "2026-05-25T19:37:57.000Z",
+    "fingerprint": "21ebbfdde165eedddd9f98b885a81a87c7af311d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "California moves to exempt Linux from its age-verification law after backlash",
+    "link": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+    "published_at": "2026-05-25T18:19:58.000Z",
+    "fingerprint": "d6dfe4066328ec999f23d47e34d04d961d796ca7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+    "link": "https://jobs.ashbyhq.com/workweave",
+    "published_at": "2026-05-25T18:18:26.000Z",
+    "fingerprint": "c1c16bf8a1a7b4254779a14f091f6f6df3982665",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Exit IP VPN servers mitigation rollout",
+    "link": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+    "published_at": "2026-05-25T17:45:11.000Z",
+    "fingerprint": "f78d7e6015b4917139a391011107c0dfb820fbb9",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ucraina, Mosca minaccia nuovi raid: 'Stranieri e diplomatici lasciate Kiev'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/25/mosca-stranieri-e-diplomatici-lascino-kiev-continueremo-le-rappresaglie_02840657-decf-427b-b530-f33d53dded8a.html",
+    "published_at": "2026-05-25T17:16:08.000Z",
+    "fingerprint": "0c7428b95be5e19ac243c71ebc693d3aadb4d01a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La prima enciclica di Leone XIV: 'Disarmiamo l'IA, restiamo umani'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/25/arriva-lenciclica-di-leone-xiv.-il-messaggio-rimaniamo-umani-_e5bb0b45-fdd7-4328-9077-87b7646231cc.html",
+    "published_at": "2026-05-25T17:09:28.000Z",
+    "fingerprint": "18cc11c00ec3b4e319e9ca8d30b92468c1466355",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Incassi cinema, in vetta The Mandalorian and Grogu poi Michael e Prada",
+    "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/25/incassi-cinema-in-vetta-the-mandalorian-and-grogu-poi-michael-e-prada_16684f93-ead3-4ab6-8851-9456128a64e1.html",
+    "published_at": "2026-05-25T16:24:22.000Z",
+    "fingerprint": "3e3630bbb52862cd4b27313ab1b030627c52cb0c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Papa Leone XIV: \"L'intelligenza artificiale deve essere disarmata\"",
+    "link": "https://www.ansa.it/sito/videogallery/mondo/2026/05/25/papa-leone-xiv-lintelligenza-artificiale-deve-essere-disarmata_c50d22ed-8023-457a-ad70-a9b0a0f53a5e.html",
+    "published_at": "2026-05-25T16:11:51.000Z",
+    "fingerprint": "fc3cb4e5c10ad47cc80a004046ac098b715064fe",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Trace",
+    "link": "https://www.producthunt.com/products/trace-27",
+    "published_at": "2026-05-25T10:29:30.000Z",
+    "fingerprint": "e5ac88769ef8dfd1ac61a51cbe96146ed0042ab7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "a biophilic retail interior shaped by organic textures, fluid transitions and soft light",
+    "link": "https://www.designboom.com/architecture/biophilic-retail-interior-organic-textures-fluid-transitions-soft-light-inside-the-bloom-sinchugova-antonina/",
+    "published_at": "2026-05-25T09:00:38.000Z",
+    "fingerprint": "606299c805b17a2d4743dd2e28754635d34bdfec",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "MashuPack",
+    "link": "https://www.producthunt.com/products/mashupack",
+    "published_at": "2026-05-25T06:30:11.000Z",
+    "fingerprint": "afbab6007f9e6fad7f4b8dcea5e48c37593c4310",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Spari vicino alla Casa Bianca, Secret Service uccide l'aggressore",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/24/spari-vicino-alla-casa-bianca-secret-service-uccide-laggressore_7d0088d2-4641-4f76-b249-a71bd7bbb4a8.html",
     "published_at": "2026-05-24T05:32:06.000Z",
@@ -688,6 +864,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Kept",
+    "link": "https://www.producthunt.com/products/kept-ai-on-your-local-conversations",
+    "published_at": "2026-05-19T08:56:23.000Z",
+    "fingerprint": "77201ddf97c4b9ccb190e2640579f1d5ec5cfcdd",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "La Digos denuncia 13 minori per apologia di fascismo e odio razziale",
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/19/la-digos-denuncia-13-minori-per-apologia-di-fascismo-e-odio-razziale_0eccccd7-c387-4482-8bef-c13a854d3c6e.html",
@@ -789,6 +973,14 @@
     "link": "https://www.yankodesign.com/2026/05/18/asus-849-xreal-r1-glasses-deliver-console-sized-3d-gaming-anywhere-without-bulky-gear/?utm_source=rss&utm_medium=rss&utm_campaign=asus-849-xreal-r1-glasses-deliver-console-sized-3d-gaming-anywhere-without-bulky-gear",
     "published_at": "2026-05-18T15:20:05.000Z",
     "fingerprint": "c4a4bc53c08eec789c26d20d57862aee8b55e71e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Brew",
+    "link": "https://www.producthunt.com/products/brew-5",
+    "published_at": "2026-05-18T13:20:56.000Z",
+    "fingerprint": "606f96615df3feebc73e3fe1607fe664bdcd3394",
     "micro_judgment": null
   },
   {
