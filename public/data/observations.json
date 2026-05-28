@@ -1,5 +1,149 @@
 [
   {
+    "source": "ANSA",
+    "title": "Le mostre del weekend, da Turner a Clemente e Biasi",
+    "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/05/27/le-mostre-del-weekend-da-turner-a-clemente-e-biasi_92604b2d-e1dc-4bd6-a829-c5f43c6c01b4.html",
+    "published_at": "2026-05-28T08:20:36.000Z",
+    "fingerprint": "58b38ba4fc1f81fda53fd2192e53337ad1337bea",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "how my archischool evolves AI from generic copycat to personal design partner",
+    "link": "https://www.designboom.com/architecture/my-archischool-artificial-intelligence-personal-design-partner/",
+    "published_at": "2026-05-28T08:00:24.000Z",
+    "fingerprint": "487b407c770f03ff5be9a6587733a054db00a9c4",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Tajani, il governo è favorevole all'adesione di Kiev all'Ue",
+    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/28/tajani-il-governo-e-favorevole-alladesione-di-kiev-allue_84b84ddc-5a5a-4e8e-8914-3c3a4d7e3a0a.html",
+    "published_at": "2026-05-28T07:02:54.000Z",
+    "fingerprint": "b5e105bfaee274810c57cb69564494c94a5d0372",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Kallas: 'Le discussioni sul negoziatore una trappola russa, più importante la sostanza'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/28/kallas-le-discussioni-sul-negoziatore-una-trappola-russa-piu-importante-la-sostanza_addedf4d-776d-430c-bc7d-b48978fee698.html",
+    "published_at": "2026-05-28T06:26:49.000Z",
+    "fingerprint": "6f541857eb157fc9dc97d1d1919f68634e74d872",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Robinhood Agentic Trading",
+    "link": "https://www.producthunt.com/products/robinhood",
+    "published_at": "2026-05-28T05:21:51.000Z",
+    "fingerprint": "18825e61f63c31f394d1666bed069f48a90ba5f5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "from teeth to table: a closer look at the strange intimacy of cutlery",
+    "link": "https://www.designboom.com/design/closer-look-strange-intimacy-cutlery-table-manners-object-massive-georgia-smedley-interview/",
+    "published_at": "2026-05-28T02:00:48.000Z",
+    "fingerprint": "1dcdc7ac2644667d3ab6fd7cabf9d791c233e42b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Can we have the day off?",
+    "link": "https://mlsu.io/posts/day-off/",
+    "published_at": "2026-05-28T00:40:26.000Z",
+    "fingerprint": "2bf53741d16407d66925a0f91ca7388e92ff0e76",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Pelica (YC P25) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer",
+    "published_at": "2026-05-27T22:52:15.000Z",
+    "fingerprint": "909f665c8706aed924156f9a9ae5674e5c59f014",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "sony’s tiny wearable air conditioner brings the cold straight to your neck",
+    "link": "https://www.designboom.com/technology/sony-wearable-air-conditioner-cold-neck-reon-pocket-pro-plus/",
+    "published_at": "2026-05-27T21:00:45.000Z",
+    "fingerprint": "a530579469e0e036e83d324b9735b096c7bf4f51",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "KugelAudio",
+    "link": "https://www.producthunt.com/products/kugelaudio",
+    "published_at": "2026-05-27T20:30:22.000Z",
+    "fingerprint": "3aba1bed008a9ca7f698c32937c3bdff4ca1b2ec",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Your Pomodoro Timer Has Never Looked This Analog Cool",
+    "link": "https://www.yankodesign.com/2026/05/27/your-pomodoro-timer-has-never-looked-this-analog-cool/?utm_source=rss&utm_medium=rss&utm_campaign=your-pomodoro-timer-has-never-looked-this-analog-cool",
+    "published_at": "2026-05-27T20:30:00.000Z",
+    "fingerprint": "d654a265a44b17a3015b1a59a3b1a34fec42636e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Buffer API",
+    "link": "https://www.producthunt.com/products/buffer-api",
+    "published_at": "2026-05-27T14:05:17.000Z",
+    "fingerprint": "a2bb49749232e0fb55adb925c5b5f27ae7320cac",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "YouTube introduce il rilevamento automatico dell'IA, anche in Italia",
+    "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/05/27/youtube-introduce-il-rilevamento-automatico-dellia-anche-in-italia_86f7c74e-5566-4d22-9671-282e58e56f62.html",
+    "published_at": "2026-05-27T13:17:51.000Z",
+    "fingerprint": "89d4cd4152807dd6de0cd993ec4c1647e6bcb678",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "when bees become collaborators, artists learn to make by listening",
+    "link": "https://www.designboom.com/art/bees-collaborators-honeycomb-sculpture-hulacova-puett-ren-yue-berseth-dyck-libertiny/",
+    "published_at": "2026-05-27T13:00:12.000Z",
+    "fingerprint": "42a6fba6b6ebd1363511e9191a28758266d684ae",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Cuba chiede aiuto all'Onu contro una possibile aggressione degli Usa",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/27/cuba-chiede-aiuto-allonu-contro-una-possibile-aggressione-usa_f16206c2-1f60-4e12-9603-b218f9db2efe.html",
+    "published_at": "2026-05-27T12:42:44.000Z",
+    "fingerprint": "06acb86ebaaa7b7ab483371c82228738296f8003",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Granite",
+    "link": "https://www.producthunt.com/products/granite",
+    "published_at": "2026-05-27T11:35:05.000Z",
+    "fingerprint": "62c18f1377b002d831b6647861853b8b0aaa4701",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "iris ceramica group launches its first fragrance at clerkenwell design week 2026",
+    "link": "https://www.designboom.com/design/iris-ceramica-group-fragrance-clerkenwell-design-week-2026/",
+    "published_at": "2026-05-27T10:30:11.000Z",
+    "fingerprint": "60ed2a0159bf905b2199ce4cdafcb7c89832040e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "uv lab reimagines arcadia as a layered timber gathering installation in lyon",
+    "link": "https://www.designboom.com/architecture/uv-lab-arcadia-layered-timber-gathering-installation-lyon/",
+    "published_at": "2026-05-27T10:00:31.000Z",
+    "fingerprint": "b8b1024d897d0f3fb5e7145a1145310c7eaf45ef",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "mirrored aluminum facade blurs distretto solidale social space into the italian landscape",
     "link": "https://www.designboom.com/architecture/mirrored-aluminum-facade-distretto-solidale-social-space-italian-landscape-pier-curra-architettura/",
@@ -509,6 +653,14 @@
     "link": "https://github.com/yt-dlp/yt-dlp/issues/16766",
     "published_at": "2026-05-22T17:24:12.000Z",
     "fingerprint": "6e4e80216aec1e0c2c951d245da947b8da507858",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "AccountyCat",
+    "link": "https://www.producthunt.com/products/accountycat",
+    "published_at": "2026-05-22T17:19:47.000Z",
+    "fingerprint": "5ff8bfa82d4f62c7818af2edad942c51c4bf8537",
     "micro_judgment": null
   },
   {
@@ -1184,6 +1336,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "SoMerch",
+    "link": "https://www.producthunt.com/products/somerch",
+    "published_at": "2026-05-18T07:24:19.000Z",
+    "fingerprint": "3033db61d6fe544fe9969d444dc7c28a90b7ee5b",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Borsa: Milano apre in forte calo",
     "link": "https://www.ansa.it/sito/notizie/economia/2026/05/18/borsa-milano-apre-in-forte-calo_e66a9aa5-0dbe-4976-9d94-f228490dd85c.html",
@@ -1813,6 +1973,14 @@
     "link": "https://www.designboom.com/design/digitally-fabricated-timber-installation-japanese-engawa-public-gathering-space-superficium-studio-strata-engawa/",
     "published_at": "2026-05-13T17:30:47.000Z",
     "fingerprint": "f05f6c7ed972880b66868c9e18cc92dee0dc5ac2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "SpotsNow",
+    "link": "https://www.producthunt.com/products/spotsnow",
+    "published_at": "2026-05-13T15:48:53.000Z",
+    "fingerprint": "03be2b655ed709cb79a864dc1d07023505b824ce",
     "micro_judgment": null
   },
   {
