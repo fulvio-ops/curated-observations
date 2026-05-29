@@ -1,6 +1,262 @@
 [
   {
     "source": "ANSA",
+    "title": "In Romania un edificio colpito da un drone russo. Von der Leyen: \"Mosca ha superato un altro limite\". Tajani: \"La Russia si impegni per la pace\"",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/29/in-romania-un-edificio-colpito-da-un-drone-russo.-von-der-leyen-mosca-ha-superato_cac5216a-7462-4043-a57a-13256450b48b.html",
+    "published_at": "2026-05-29T08:27:35.000Z",
+    "fingerprint": "77c11187f412ac91a76103d4993cd7b713e48b7a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Elisa, la mia festa per 30 anni di musica tra note e libertà di dissenso",
+    "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/05/29/elisa-la-mia-festa-per-30-anni-di-musica-tra-note-e-liberta-di-dissenso_e4e0c675-a9e1-4e80-bc46-c17d16cecdec.html",
+    "published_at": "2026-05-29T08:10:41.000Z",
+    "fingerprint": "05be74fe1752ac6a10e4852797616e55cf706292",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Rino Gaetano, esce il vinile di 'A mano a mano' a 45 anni dalla scomparsa dell'artista",
+    "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/05/28/rino-gaetano-esce-il-vinile-di-a-mano-a-mano-a-45-anni-dalla-scomparsa-dellartista_09cb3f07-2bdd-4a59-9d69-080d278c4d27.html",
+    "published_at": "2026-05-29T06:21:10.000Z",
+    "fingerprint": "9e4c2eed3f485bc4561ba1f11f48f37b4ab2dd2a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+    "link": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+    "published_at": "2026-05-29T05:45:36.000Z",
+    "fingerprint": "d85ee1d26b2d705bd9dc79f18967af315b84da12",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Organoidi di cervello usati per costruire biocomputer",
+    "link": "https://www.ansa.it/canale_scienza/notizie/frontiere/2026/05/29/organoidi-di-cervello-usati-per-costruire-biocomputer-_2b32df14-c30b-4f4d-99c8-fdfa4eca2e6c.html",
+    "published_at": "2026-05-29T05:30:20.000Z",
+    "fingerprint": "1abd11f40c42e366996774cda58c579d9c9fb990",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Wellhouse puts most efficient micro-camping layout inside of the Kei Toyota/Daihatsu camper van",
+    "link": "https://www.yankodesign.com/2026/05/28/wellhouse-puts-most-efficient-micro-camping-layout-inside-of-the-kei-toyota-daihatsu-camper-van/?utm_source=rss&utm_medium=rss&utm_campaign=wellhouse-puts-most-efficient-micro-camping-layout-inside-of-the-kei-toyota-daihatsu-camper-van",
+    "published_at": "2026-05-29T00:30:08.000Z",
+    "fingerprint": "d794ca0f4f922aeb5b6e6b1ef1c8deaa16225681",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "futurewave designs furniture-like home robot that communicates through movement",
+    "link": "https://www.designboom.com/technology/futurewave-furniture-home-robot-movement-furny/",
+    "published_at": "2026-05-28T23:50:28.000Z",
+    "fingerprint": "4e7af0b773a8e9eb58e2a9a081416e37041269f3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "A House In London Where Floors Drop, Walls Vanish, and the Garden Moves In",
+    "link": "https://www.yankodesign.com/2026/05/28/a-house-in-london-where-floors-drop-walls-vanish-and-the-garden-moves-in/?utm_source=rss&utm_medium=rss&utm_campaign=a-house-in-london-where-floors-drop-walls-vanish-and-the-garden-moves-in",
+    "published_at": "2026-05-28T23:30:42.000Z",
+    "fingerprint": "5dc4183059c1f375256554115856702b17d53c33",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Pompom Stool Made From Recycled Aluminum Is Green Design Done Right",
+    "link": "https://www.yankodesign.com/2026/05/28/pompom-stool-made-from-recycled-aluminum-is-green-design-done-right/?utm_source=rss&utm_medium=rss&utm_campaign=pompom-stool-made-from-recycled-aluminum-is-green-design-done-right",
+    "published_at": "2026-05-28T22:30:45.000Z",
+    "fingerprint": "0aff52505b5146b683052b8a1e8721dcd19cd68c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+    "published_at": "2026-05-28T21:45:54.000Z",
+    "fingerprint": "fd4a348404b3e6034d5fd4570a2165cd9985ac3d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "La La Land’s Iconic Poster Gets Its Own LEGO Recreation With Minifigure Ryan Gosling and Emma Stone",
+    "link": "https://www.yankodesign.com/2026/05/28/la-la-lands-iconic-poster-gets-its-own-lego-recreation-with-minifigure-ryan-gosling-and-emma-stone/?utm_source=rss&utm_medium=rss&utm_campaign=la-la-lands-iconic-poster-gets-its-own-lego-recreation-with-minifigure-ryan-gosling-and-emma-stone",
+    "published_at": "2026-05-28T21:30:46.000Z",
+    "fingerprint": "d28c2e7bf7badc0ef48d59889d12c0b437753343",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Morto in Ucraina il contractor italiano Alex Pineschi",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/28/ucciso-in-ucraina-un-contractor-italiano.-chi-era-alex-pineschi_22b6fd66-fc1f-4cfa-bc6d-527ea39b15cf.html",
+    "published_at": "2026-05-28T21:08:31.000Z",
+    "fingerprint": "9c1561e50e6dcaa76770b1b94873f46328d9f2cb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+    "link": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+    "published_at": "2026-05-28T19:24:09.000Z",
+    "fingerprint": "63fe140ee12a28d5d3cca35b3e467bd92987d2be",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+    "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+    "published_at": "2026-05-28T19:15:54.000Z",
+    "fingerprint": "c2c030f1fb928578c47890bef0f52ce8b1efa3e6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "‘design intuition is not magic’: designers talk how creativity emerges subconsciously",
+    "link": "https://www.designboom.com/design/ressence-unimatic-claesson-koivisto-rune-room-for-dreams-talk-milan-design-week-2026/",
+    "published_at": "2026-05-28T18:45:06.000Z",
+    "fingerprint": "faa3096b297f99964c5c1c8de7f4dae46493a056",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Building durable workflows on Postgres",
+    "link": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+    "published_at": "2026-05-28T18:41:46.000Z",
+    "fingerprint": "f7c0322de20375ec03e5c6017e68e6dd5f909e1b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'Consulenza psichiatrica su Sempio', la mossa dei pm allunga i tempi",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/28/la-procura-di-pavia-dispone-una-consulenza-psichiatrica-su-sempio_2239e7e8-e848-4207-a244-04a4e9a3cc90.html",
+    "published_at": "2026-05-28T18:16:02.000Z",
+    "fingerprint": "46103aadad40040bf00884d9d3000931a7532785",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'Le donne della Repubblica', nella mostra ANSA ottanta anni di conquiste",
+    "link": "https://www.ansa.it/sito/notizie/speciali/le-donne-della-repubblica-2026/2026/05/28/le-donne-della-repubblica-nella-mostra-ansa-ottanta-anni-di-conquiste_3929c40c-a443-41cc-bd67-e55af5ccafe2.html",
+    "published_at": "2026-05-28T18:13:14.000Z",
+    "fingerprint": "a9c56762ef5ef255dff9d86844c7332499b480b6",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Nozze in villa del Settecento per Dua Lipa a Bagheria, tanti vip a Palermo",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/05/28/nozze-in-villa-del-settecento-per-dua-lipa-a-bagheria-tanti-vip_77f80e32-4046-4f7d-9fec-01546a2f6219.html",
+    "published_at": "2026-05-28T17:49:38.000Z",
+    "fingerprint": "b49cac6336f362640754eede4a1052c6801b2b90",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Py-SQL-cleaner – format SQL embedded in Python strings",
+    "link": "https://github.com/enumura1/py-sql-cleaner",
+    "published_at": "2026-05-28T17:30:29.000Z",
+    "fingerprint": "3ef660ab18dd3059795a416e54a366d139ffc226",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Acer’s Predator Atlas 8 Is the First Gaming Handheld With a Metal Fan",
+    "link": "https://www.yankodesign.com/2026/05/28/acers-predator-atlas-8-is-the-first-gaming-handheld-with-a-metal-fan/?utm_source=rss&utm_medium=rss&utm_campaign=acers-predator-atlas-8-is-the-first-gaming-handheld-with-a-metal-fan",
+    "published_at": "2026-05-28T17:00:54.000Z",
+    "fingerprint": "58f850792b286f89ba09626f2f38faea6d563829",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La scuola del vino. Mercati, giovani e nuove sfide enologiche",
+    "link": "https://www.ansa.it/sito/notizie/eventi/2026/05/27/la-scuola-del-vino.-mercati-giovani-e-nuove-sfide-enologiche_ec355dc8-8145-4fd6-897f-cc08348935d9.html",
+    "published_at": "2026-05-28T16:34:41.000Z",
+    "fingerprint": "c47fec025deb84437b412fda5e995720352fc334",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Giochi del Mediterraneo, il 29 maggio il sorteggio dei gironi a Taranto",
+    "link": "https://www.ansa.it/sito/notizie/eventi/2026/05/21/giochi-del-mediterraneo-il-29-maggio-il-sorteggio-dei-gironi-a-taranto_72599443-5b3a-47a3-a741-f57937dc85d1.html",
+    "published_at": "2026-05-28T15:34:07.000Z",
+    "fingerprint": "32f465ab9c1ae3b4913dfa0c317fcea42901250e",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Falla nel sistema che fa comunicare gli agenti IA con l'esterno, dati a rischio",
+    "link": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/05/28/falla-nel-sistema-che-fa-comunicare-gli-agenti-ia-con-lesterno-dati_5ec029df-dd03-42b6-87ba-07a4f554ae5a.html",
+    "published_at": "2026-05-28T15:28:38.000Z",
+    "fingerprint": "489ed30a52a209b04f6e8b969382806000d39e02",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "NODUS HN Radar",
+    "link": "https://www.producthunt.com/products/nodus-hn-radar",
+    "published_at": "2026-05-28T15:16:09.000Z",
+    "fingerprint": "cb907b01e60c860b9ff938f224100eb4066bdc82",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "GPS",
+    "link": "https://www.producthunt.com/products/gps-2",
+    "published_at": "2026-05-28T15:05:48.000Z",
+    "fingerprint": "ba725ba64d50ff6e8aa204fa08b1fc8cdf10addb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Agent A by Ahrefs",
+    "link": "https://www.producthunt.com/products/ahrefs",
+    "published_at": "2026-05-28T15:00:52.000Z",
+    "fingerprint": "08a0fc652ea9649c98a8b88bf6532e0e25e81079",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "k-studio redesigns AKFC’s el paso stadium around rock formations in athens",
+    "link": "https://www.designboom.com/architecture/k-studio-redesigns-akfc-el-paso-stadium-rock-formations-athens-greece/",
+    "published_at": "2026-05-28T14:38:04.000Z",
+    "fingerprint": "6f23c25588fd000a62933a1e2e5bc2d3dd91bda6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "moffat takadiwa turns plastic waste across zimbabwe into record of extraction and repair",
+    "link": "https://www.designboom.com/art/moffat-takadiwa-zimbabwe-plastic-waste-landscape-undulating-tapestries/",
+    "published_at": "2026-05-28T13:00:17.000Z",
+    "fingerprint": "fa2919473e30509c4c14e2d213b12786ebd4b8cd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "RabbitTravel",
+    "link": "https://www.producthunt.com/products/rabbittravel",
+    "published_at": "2026-05-28T10:34:41.000Z",
+    "fingerprint": "a45fbf8212ffa6facefeec35dd6d3c756d816ab1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "ancient wetland caves inform studio 10’s concrete and bamboo pavilion along china’s qu river",
+    "link": "https://www.designboom.com/architecture/ancient-wetland-caves-studio-10-concrete-bamboo-pavilion-china-qu-river/",
+    "published_at": "2026-05-28T09:30:46.000Z",
+    "fingerprint": "277409f38ccdf2d86cbeb3d209504132cf9c3b00",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Vibeocus Lens",
+    "link": "https://www.producthunt.com/products/vibeocus-lens",
+    "published_at": "2026-05-28T09:24:39.000Z",
+    "fingerprint": "a5f317c8cbaefe2b114b0982d9fcc05e06016443",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Le mostre del weekend, da Turner a Clemente e Biasi",
     "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/05/27/le-mostre-del-weekend-da-turner-a-clemente-e-biasi_92604b2d-e1dc-4bd6-a829-c5f43c6c01b4.html",
     "published_at": "2026-05-28T08:20:36.000Z",
@@ -437,6 +693,14 @@
     "link": "https://www.designboom.com/architecture/biophilic-retail-interior-organic-textures-fluid-transitions-soft-light-inside-the-bloom-sinchugova-antonina/",
     "published_at": "2026-05-25T09:00:38.000Z",
     "fingerprint": "606299c805b17a2d4743dd2e28754635d34bdfec",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Firecoach AI",
+    "link": "https://www.producthunt.com/products/firecoach",
+    "published_at": "2026-05-25T08:13:13.000Z",
+    "fingerprint": "9ef2a33124507e6e54f80cb9b4f578fe556840d0",
     "micro_judgment": null
   },
   {
