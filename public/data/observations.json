@@ -1,6 +1,126 @@
 [
   {
     "source": "ANSA",
+    "title": "Presunti abusi su alunne minorenni, arrestato insegnante nel Brindisino",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/30/presunti-abusi-su-alunne-minorenni-arrestato-insegnante-nel-brindisino_3fe888fe-68f8-480d-b441-fa3cc7aa6587.html",
+    "published_at": "2026-05-30T07:24:35.000Z",
+    "fingerprint": "e8a6f0f65c084a870cbb1a898593d1afe1024c87",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Leone XIV, il 'manageremita'",
+    "link": "https://www.ansa.it/sito/podcast/impero_dei_segni/2026/05/30/leone-xiv-il-manageremita_f70e5243-a2f5-4f6f-9f13-ca975b3478c1.html",
+    "published_at": "2026-05-30T06:00:16.000Z",
+    "fingerprint": "4b5b95a3f7d01314c3390d48910237d08334711f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "fragmented timber volumes compose forested mountain housing by arup in albania",
+    "link": "https://www.designboom.com/architecture/fragmented-timber-volumes-forested-mountain-housing-arup-albania-dajti-village/",
+    "published_at": "2026-05-30T05:15:48.000Z",
+    "fingerprint": "3fcb03d5ef108623ff0e87e3b8579477badf9fa1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The World’s Longest Single-Mast Bridge Has Arrived",
+    "link": "https://www.yankodesign.com/2026/05/29/the-worlds-longest-single-mast-bridge-has-arrived/?utm_source=rss&utm_medium=rss&utm_campaign=the-worlds-longest-single-mast-bridge-has-arrived",
+    "published_at": "2026-05-30T00:30:58.000Z",
+    "fingerprint": "7c11d875727fdb38599d32b8ed910d346db4f4e1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+    "link": "https://github.com/secluso/core",
+    "published_at": "2026-05-29T22:32:29.000Z",
+    "fingerprint": "243e67a8d21f2c10735f8b631f1c8be2410d8a56",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Oberhauserer’s Balloon Lamp Makes Concrete Feel Surprisingly Weightless",
+    "link": "https://www.yankodesign.com/2026/05/29/oberhauserers-balloon-lamp-makes-concrete-feel-surprisingly-weightless/?utm_source=rss&utm_medium=rss&utm_campaign=oberhauserers-balloon-lamp-makes-concrete-feel-surprisingly-weightless",
+    "published_at": "2026-05-29T22:30:54.000Z",
+    "fingerprint": "a09faa8975771cc66e809157886488f21a55d1f0",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Undiicenne tenta di accoltellare il prof a scuola in diretta social",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/29/undiicenne-tenta-di-accoltellare-il-prof-a-scuola-in-diretta-social_d2032ec9-a723-49ee-a03c-99ec3759bd12.html",
+    "published_at": "2026-05-29T20:24:59.000Z",
+    "fingerprint": "f9418c178514645e0da2adf2dcbdec8c3f2c1b26",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+    "link": "https://github.com/jmaczan/tiny-vllm",
+    "published_at": "2026-05-29T19:38:27.000Z",
+    "fingerprint": "d200fc9fe5c255395990637893a9b27e752d1076",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'Drone russo su un condominio in Romania', la Nato in allerta",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/29/drone-russo-su-un-condominio-in-romania-la-nato-in-allerta_fa7676d0-54a5-49e5-99b0-fb6e677f43a8.html",
+    "published_at": "2026-05-29T19:08:53.000Z",
+    "fingerprint": "88b08cd9d7775c94b97852bd7d21e97ebcb3f73a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "self-sufficient solar lighting installation by ttal transforms frankfurt’s riverfront",
+    "link": "https://www.designboom.com/design/self-sufficient-solar-lighting-installation-ttal-frankfurt-riverfront/",
+    "published_at": "2026-05-29T18:15:23.000Z",
+    "fingerprint": "6b372fbd60bf43f8ee3bbedf8f49cffd3efcee9f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Notes from the Mistral AI Now Summit",
+    "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+    "published_at": "2026-05-29T16:22:01.000Z",
+    "fingerprint": "3c0dd37716e1cc425f9f8bda2e6b4918fd2d2198",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Someone Finally Gave Apple’s Biggest Gaming Failure a Second Chance",
+    "link": "https://www.yankodesign.com/2026/05/29/someone-finally-gave-apples-biggest-gaming-failure-a-second-chance/?utm_source=rss&utm_medium=rss&utm_campaign=someone-finally-gave-apples-biggest-gaming-failure-a-second-chance",
+    "published_at": "2026-05-29T16:20:38.000Z",
+    "fingerprint": "efd7a56ccdb6b3683ec64e628a8f4d13b3fe3cc3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "GTA 6 Developers Unionize",
+    "link": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+    "published_at": "2026-05-29T15:32:55.000Z",
+    "fingerprint": "83b4c638da8e81758882b125c6e7b41d60c60241",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'In Italia guarito 1 paziente oncologico su 4'",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/05/29/oncologi-in-italia-guarito-1-paziente-su-4_0f6b9051-2d3f-496a-a79b-6adc26ff97a3.html",
+    "published_at": "2026-05-29T13:23:34.000Z",
+    "fingerprint": "99c5fa63e468d70293f70b13b049039cb261e1b0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Step 3.7 Flash",
+    "link": "https://www.producthunt.com/products/step-3-5-flash",
+    "published_at": "2026-05-29T12:47:02.000Z",
+    "fingerprint": "9bf7ce55d2686428f45a4a177c7657ef614e6add",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "In Romania un edificio colpito da un drone russo. Von der Leyen: \"Mosca ha superato un altro limite\". Tajani: \"La Russia si impegni per la pace\"",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/29/in-romania-un-edificio-colpito-da-un-drone-russo.-von-der-leyen-mosca-ha-superato_cac5216a-7462-4043-a57a-13256450b48b.html",
     "published_at": "2026-05-29T08:27:35.000Z",
@@ -24517,6 +24637,14 @@
     "link": "https://www.reddit.com/r/ofcoursethatsathing/comments/1ph4s5u/taco_hellister/",
     "published_at": "2025-12-08T05:53:20.000Z",
     "fingerprint": "dc57363c87f688427d4e3a6c2ea273e5cec1a763",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Wandesk",
+    "link": "https://www.producthunt.com/products/wandesk-ai",
+    "published_at": "2025-12-06T03:15:50.000Z",
+    "fingerprint": "341c02f069ef3a0c77f6e7b99bd543dafe8cf4f4",
     "micro_judgment": null
   },
   {
