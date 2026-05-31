@@ -1,5 +1,109 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "The Website Specification",
+    "link": "https://specification.website/",
+    "published_at": "2026-05-31T07:09:50.000Z",
+    "fingerprint": "ea4d6cd25b1738b476e46e68409e3b667c50bef5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]",
+    "link": "https://hi.telli.com/join-us",
+    "published_at": "2026-05-31T07:00:50.000Z",
+    "fingerprint": "ef6886a031c4fa996b90beb4ac3b3e39531a9c00",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
+    "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+    "published_at": "2026-05-30T23:26:13.000Z",
+    "fingerprint": "31423dc06ed68de7d997bb42fd740967a5b30aeb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Cheese Paper: a text editor specifically designed for writing",
+    "link": "https://brie.gay/cheese-paper/",
+    "published_at": "2026-05-30T22:58:41.000Z",
+    "fingerprint": "128bcc65a62e51954c10af795d12ee15e90784fe",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
+    "link": "https://av2.aomedia.org",
+    "published_at": "2026-05-30T21:46:18.000Z",
+    "fingerprint": "2b438fc87a666bc55c6d915b5aa162155d7ea7e1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Translation, Prompting, Agentic AI, all in 40 grams: iFLYTEK’s Smart Glasses Debut at BEYOND Expo 2026",
+    "link": "https://www.yankodesign.com/2026/05/30/translation-prompting-agentic-ai-all-in-40-grams-iflyteks-smart-glasses-debut-at-beyond-expo-2026/?utm_source=rss&utm_medium=rss&utm_campaign=translation-prompting-agentic-ai-all-in-40-grams-iflyteks-smart-glasses-debut-at-beyond-expo-2026",
+    "published_at": "2026-05-30T20:45:21.000Z",
+    "fingerprint": "04742b5a0515725da44de2f3b942fb1a375db746",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+    "link": "https://github.com/wolfSSL/wolfCOSE",
+    "published_at": "2026-05-30T20:42:28.000Z",
+    "fingerprint": "31b13619693fbb95fffc310cbe63f8406a911a5f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il Brennero off limits, danneggiata la linea ferroviaria",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/30/danneggiata-la-linea-ferroviaria-del-brennero-ritardi-dei-treni-di-oltre-unora_b38d78ad-b3c4-485f-82cc-2282fdaf07f7.html",
+    "published_at": "2026-05-30T18:33:04.000Z",
+    "fingerprint": "bbeb08b71322f5833c6617070439d17cfff7b381",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Nuove cure contro i tumori, ma è rebus sugli effetti collaterali delle terapie",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/05/30/ansanuove-cure-contro-i-tumori-ma-e-rebus-sugli-effetti-collaterali_b6df0916-8f15-403e-9bc4-390289ff5346.html",
+    "published_at": "2026-05-30T17:25:27.000Z",
+    "fingerprint": "c54a56a84e894ebc500442a107a96c80d6407a30",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Cinque persone intrappolate escono dalla grotta in Laos, ancora due dispersi",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/05/30/salvati-altri-quattro-uomini-intrappolati-in-una-grotta-in-laos_682a64a5-2e0f-41b5-9e6d-ee841a4a6348.html",
+    "published_at": "2026-05-30T17:23:05.000Z",
+    "fingerprint": "fd80340151ec62de710537238e711aa2fbe7d3e6",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "A Piancavallo l'ultima corona, il Giro è di Vingegaard",
+    "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/05/30/giro-piancavallo-incorona-vingegaard-sua-la-corsa-rosa_789a23ee-cb89-4dbb-9389-6b29143ed2c1.html",
+    "published_at": "2026-05-30T16:32:21.000Z",
+    "fingerprint": "6f810b0a2d7ee156e7b3df37e2b2e3fbf4cd6474",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The 3D Printed Pencil Holder That Shames Everything Else on Your Desk",
+    "link": "https://www.yankodesign.com/2026/05/30/the-3d-printed-pencil-holder-that-shames-everything-else-on-your-desk/?utm_source=rss&utm_medium=rss&utm_campaign=the-3d-printed-pencil-holder-that-shames-everything-else-on-your-desk",
+    "published_at": "2026-05-30T15:20:51.000Z",
+    "fingerprint": "fca6bd103510fe9597393c993842abd41c82d1ce",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Japan’s Cleverest $7 Kitchen Gadget Puts Produce Bags to Work",
+    "link": "https://www.yankodesign.com/2026/05/30/japans-cleverest-7-kitchen-gadget-puts-produce-bags-to-work/?utm_source=rss&utm_medium=rss&utm_campaign=japans-cleverest-7-kitchen-gadget-puts-produce-bags-to-work",
+    "published_at": "2026-05-30T13:20:13.000Z",
+    "fingerprint": "614f46c3be11d2e9796b14ab6a6b7db7ae8abd1e",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Presunti abusi su alunne minorenni, arrestato insegnante nel Brindisino",
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/05/30/presunti-abusi-su-alunne-minorenni-arrestato-insegnante-nel-brindisino_3fe888fe-68f8-480d-b441-fa3cc7aa6587.html",
@@ -29,6 +133,14 @@
     "link": "https://www.yankodesign.com/2026/05/29/the-worlds-longest-single-mast-bridge-has-arrived/?utm_source=rss&utm_medium=rss&utm_campaign=the-worlds-longest-single-mast-bridge-has-arrived",
     "published_at": "2026-05-30T00:30:58.000Z",
     "fingerprint": "7c11d875727fdb38599d32b8ed910d346db4f4e1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "TabTasker",
+    "link": "https://www.producthunt.com/products/tabtasker",
+    "published_at": "2026-05-29T23:00:20.000Z",
+    "fingerprint": "36604ee4e3bcc1485d7ab99e50d7ff357485ab44",
     "micro_judgment": null
   },
   {
