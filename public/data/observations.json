@@ -1,10 +1,114 @@
 [
   {
     "source": "ANSA",
+    "title": "Terremoto in Calabria, magnitudo 6.2. Avvertito in tutto il sud",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/02/terremoto-in-calabria-magnitudo-6.2.-avvertito-in-tutto-il-sud_143976b0-be5c-4fe8-bfd8-de9dc677646a.html",
+    "published_at": "2026-06-02T07:10:18.000Z",
+    "fingerprint": "cf510cc89ed01d2e22f927f4bd20553942012749",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il Financial Times: 'Gli Usa stanno discutendo l'idea di armi nucleari in altri Paesi Nato'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/02/ft-usa-stanno-discutendo-idea-armi-nucleari-in-altri-paesi-nato_564fe4ad-2b66-4ab0-99f7-1fdab2bfbff7.html",
+    "published_at": "2026-06-02T06:58:22.000Z",
+    "fingerprint": "9e0486cb0460ac1a2eb1ccf1c58507f58f6dd18b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "HumToBeats",
+    "link": "https://www.producthunt.com/products/humtobeats",
+    "published_at": "2026-06-02T05:47:49.000Z",
+    "fingerprint": "579407f36c56f29e1ec2e884193f452cf94a35af",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Branda",
+    "link": "https://www.producthunt.com/products/branda",
+    "published_at": "2026-06-02T02:29:12.000Z",
+    "fingerprint": "42fa7a631978da834ff604b2266e4c0d63e9d7f1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Chipotlai Max",
+    "link": "https://github.com/cyberpapiii/chipotlai-max",
+    "published_at": "2026-06-01T23:06:35.000Z",
+    "fingerprint": "2e1d36a3d2ca114c05b2483c9bdd5f5563185eef",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "A Biodegradable Rapid Test for Microplastics in the Human Body Just Got a Real Design",
+    "link": "https://www.yankodesign.com/2026/06/01/a-biodegradable-rapid-test-for-microplastics-in-the-human-body-just-got-a-real-design/?utm_source=rss&utm_medium=rss&utm_campaign=a-biodegradable-rapid-test-for-microplastics-in-the-human-body-just-got-a-real-design",
+    "published_at": "2026-06-01T21:30:24.000Z",
+    "fingerprint": "fe47bf12d090dafe7c9c18e8852fcebb5007299c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Dua Lipa e Callum Turner, festa in Sicilia dopo le nozze a Londra",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/06/01/dua-lipa-e-callum-turner-festa-in-sicilia-dopo-le-nozze-a-londra_5ff56509-54a2-47dc-b2a5-6ca85a33e2db.html",
+    "published_at": "2026-06-01T17:36:38.000Z",
+    "fingerprint": "339e026dbde3fda611739cd23b5e9f1d9622190f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "2 giugno del Colle, meno vip e più feeling con gli italiani",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/06/01/2-giugno-del-colle-meno-vip-e-piu-feeling-con-gli-italiani_0989c6b2-fe6e-4628-a3bf-0a966794ed6d.html",
+    "published_at": "2026-06-01T16:48:15.000Z",
+    "fingerprint": "80a24029446275b89446b76b3d6bb9f7a02347a8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The newest Instagram “exploit” is the goofiest I've seen",
+    "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "published_at": "2026-06-01T16:31:42.000Z",
+    "fingerprint": "2defdd4878c4d510629cd63a815ace098a83742c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Colombia, il trumpiano Espriella in pole per la presidenza ma sfida aperta",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/01/colombia-il-trumpiano-espriella-in-pole-per-la-presidenza-ma-sfida-aperta_3ad7971d-2884-4476-982f-a59c98deb999.html",
+    "published_at": "2026-06-01T14:54:47.000Z",
+    "fingerprint": "735037ecd20275a1bdfcaa4c5e070d49b654cab2",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ferrari Luce: dal suono al design, ecco perché chi polemizza sbaglia",
+    "link": "https://www.ansa.it/sito/podcast/ansa_voice_economia/2026/06/01/ferrari-luce-dal-suono-al-design-ecco-perche-chi-polemizza-sbaglia_ffb870ce-05d6-4b56-b118-e93b72f7addf.html",
+    "published_at": "2026-06-01T12:42:38.000Z",
+    "fingerprint": "c052c174a7372d8b6dec76d4226314a269680e18",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "camille henrot explores ecological grief through the intimate labor of raising children",
+    "link": "https://www.designboom.com/art/camille-henrot-ecological-grief-intimate-labor-raising-children/",
+    "published_at": "2026-06-01T10:45:31.000Z",
+    "fingerprint": "96d2c8dadc3314c8b81a3f3f521e2a7964c5689f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Mattarella: 'Il 2 giugno 1946 gli italiani segnarono la svolta nel Paese'",
     "link": "https://www.ansa.it/sito/notizie/politica/2026/06/01/mattarella-il-2-giugno-1946-gli-italiani-segnarono-la-svolta-nel-paese_a2c38848-d338-4429-ab95-c54080cc397c.html",
     "published_at": "2026-06-01T10:06:19.000Z",
     "fingerprint": "38563233369b531e10662d61224263ddca0a5223",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Wikipedia a rischio sciopero, 700 volontari potrebbero bloccare l'enciclopedia del web",
+    "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/06/01/wikipedia-a-rischio-sciopero-700-volontari-potrebbero-bloccare-lenciclopedia-del-web_8d2f2207-e38c-46e6-b3bc-f8f75dd5645d.html",
+    "published_at": "2026-06-01T10:05:52.000Z",
+    "fingerprint": "9e322722f6458fabf76e5162fb9f80c9e4934f23",
     "micro_judgment": null
   },
   {
@@ -77,6 +181,14 @@
     "link": "https://www.yankodesign.com/2026/05/31/this-floating-parliament-is-built-from-the-oceans-own-trash/?utm_source=rss&utm_medium=rss&utm_campaign=this-floating-parliament-is-built-from-the-oceans-own-trash",
     "published_at": "2026-05-31T13:20:31.000Z",
     "fingerprint": "f61e1c153f56fa9393a00e7c3eddeefae2a5e626",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "GlowPulse",
+    "link": "https://www.producthunt.com/products/glowpulse",
+    "published_at": "2026-05-31T11:48:31.000Z",
+    "fingerprint": "935c0f35411e4d8ada6b8ce79c35dc3c6c45a723",
     "micro_judgment": null
   },
   {
@@ -488,6 +600,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Knock agent for Slack",
+    "link": "https://www.producthunt.com/products/knock-6",
+    "published_at": "2026-05-28T17:01:09.000Z",
+    "fingerprint": "1ef5b34e3bad37509205b350f97aea1e7c631c1e",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "Acer’s Predator Atlas 8 Is the First Gaming Handheld With a Metal Fan",
     "link": "https://www.yankodesign.com/2026/05/28/acers-predator-atlas-8-is-the-first-gaming-handheld-with-a-metal-fan/?utm_source=rss&utm_medium=rss&utm_campaign=acers-predator-atlas-8-is-the-first-gaming-handheld-with-a-metal-fan",
@@ -557,6 +677,14 @@
     "link": "https://www.designboom.com/art/moffat-takadiwa-zimbabwe-plastic-waste-landscape-undulating-tapestries/",
     "published_at": "2026-05-28T13:00:17.000Z",
     "fingerprint": "fa2919473e30509c4c14e2d213b12786ebd4b8cd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Fundraisly",
+    "link": "https://www.producthunt.com/products/fundraisly",
+    "published_at": "2026-05-28T12:39:22.000Z",
+    "fingerprint": "99d8c4cb13bdc5830c2f9c4b63e7947dfcdb71aa",
     "micro_judgment": null
   },
   {
