@@ -1,6 +1,110 @@
 [
   {
     "source": "ANSA",
+    "title": "18enne ucciso a Southampton, arresti dopo gli scontri fra manifestanti e agenti",
+    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/03/18enne-ucciso-a-southampton-arresti-dopo-scontri-fra-manifestanti-e-agenti_0bef14c9-bbc6-45a4-9280-f62e5cf48c79.html",
+    "published_at": "2026-06-03T08:34:53.000Z",
+    "fingerprint": "5e4cdc8ee96f3b6e9f731109fc60057f466619d5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "inside LANZA atelier’s architecture of encounter for the 2026 serpentine pavilion",
+    "link": "https://www.designboom.com/architecture/lanza-atelier-architecture-encounter-2026-serpentine-pavilion-interview/",
+    "published_at": "2026-06-03T08:00:58.000Z",
+    "fingerprint": "b61dcb98d05e99fc1f933b968f53d844e2b38ca8",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Tumore pancreas, per il nuovo farmaco chiesto l'uso compassionevole in Ue",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/06/01/tumore-pancreas-per-il-nuovo-farmaco-chiesto-luso-compassionevole-in-ue_636aceaf-354d-4638-ac8e-1fed454fabe6.html",
+    "published_at": "2026-06-03T06:51:07.000Z",
+    "fingerprint": "3aa318d8133c70c43eee50df581eac8d2795cf64",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Zerocalcare e la polemica: 'Mi sarei accollato la causa'",
+    "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/06/02/zerocalcare-e-la-polemica-a-saperlo-mi-sarei-accollato-la-causa_c5903192-8d41-4709-bd34-113e51af9a22.html",
+    "published_at": "2026-06-03T06:27:50.000Z",
+    "fingerprint": "680965c31d47779ad43d95f2c8ae31b098529c2d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Nel cervello le tracce dei traumi vissuti nell'infanzia",
+    "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/06/03/nel-cervello-le-tracce-dei-traumi-vissuti-nellinfanzia_ef28a375-96f3-4c20-afd5-08d2a84498d6.html",
+    "published_at": "2026-06-03T05:27:19.000Z",
+    "fingerprint": "9c959baee1383714c5394b161d1100568e3dfacd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "U of T researchers demonstrate AI worm could target any online device",
+    "link": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+    "published_at": "2026-06-03T03:47:21.000Z",
+    "fingerprint": "80de9324559ccc956f8e7a9007c0b7ecdf17167b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Capstone – multi-platform, multi-architecture disassembly framework",
+    "link": "https://www.capstone-engine.org/",
+    "published_at": "2026-06-03T01:59:46.000Z",
+    "fingerprint": "4db1f2aed826a4e0f35c55f6b31cbc99d6a2e395",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
+    "link": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
+    "published_at": "2026-06-02T23:09:09.000Z",
+    "fingerprint": "87be714418d2d3d4cec32edb4928814f9b3a59e8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Town",
+    "link": "https://www.producthunt.com/products/town",
+    "published_at": "2026-06-02T22:26:11.000Z",
+    "fingerprint": "3c9f34113d43bacfc69e91091372dfedeef11b0e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Open Repair Data Standard",
+    "link": "https://openrepair.org/open-data/open-standard/",
+    "published_at": "2026-06-02T19:37:10.000Z",
+    "fingerprint": "b1ed587708cf622741755c5eadabed118139014d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+    "link": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+    "published_at": "2026-06-02T18:52:52.000Z",
+    "fingerprint": "90535ea1743a6d23292f423911619a627b0678d6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "MAI-Code-1-Flash",
+    "link": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "published_at": "2026-06-02T18:47:07.000Z",
+    "fingerprint": "cd0167f71c53e180932e91cc385c671aad88412a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "BoxBox",
+    "link": "https://www.producthunt.com/products/boxbox",
+    "published_at": "2026-06-02T09:49:52.000Z",
+    "fingerprint": "d831a8348fb8351f19ae5f51b5889d14dc31349b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Terremoto in Calabria, magnitudo 6.2. Avvertito in tutto il sud",
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/02/terremoto-in-calabria-magnitudo-6.2.-avvertito-in-tutto-il-sud_143976b0-be5c-4fe8-bfd8-de9dc677646a.html",
     "published_at": "2026-06-02T07:10:18.000Z",
@@ -32,6 +136,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "superlog",
+    "link": "https://www.producthunt.com/products/superlog",
+    "published_at": "2026-06-01T23:39:18.000Z",
+    "fingerprint": "87ea39de4bdb1bc9edbf5f6007f1a4b0c13a403d",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Chipotlai Max",
     "link": "https://github.com/cyberpapiii/chipotlai-max",
@@ -45,6 +157,14 @@
     "link": "https://www.yankodesign.com/2026/06/01/a-biodegradable-rapid-test-for-microplastics-in-the-human-body-just-got-a-real-design/?utm_source=rss&utm_medium=rss&utm_campaign=a-biodegradable-rapid-test-for-microplastics-in-the-human-body-just-got-a-real-design",
     "published_at": "2026-06-01T21:30:24.000Z",
     "fingerprint": "fe47bf12d090dafe7c9c18e8852fcebb5007299c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Franz 6",
+    "link": "https://www.producthunt.com/products/franz-messenger",
+    "published_at": "2026-06-01T19:56:42.000Z",
+    "fingerprint": "3efa95168d6649997287e4b824a79e25747e7a1e",
     "micro_judgment": null
   },
   {
@@ -501,6 +621,14 @@
     "link": "https://www.yankodesign.com/2026/05/28/a-house-in-london-where-floors-drop-walls-vanish-and-the-garden-moves-in/?utm_source=rss&utm_medium=rss&utm_campaign=a-house-in-london-where-floors-drop-walls-vanish-and-the-garden-moves-in",
     "published_at": "2026-05-28T23:30:42.000Z",
     "fingerprint": "5dc4183059c1f375256554115856702b17d53c33",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Walkable",
+    "link": "https://www.producthunt.com/products/walkable-2",
+    "published_at": "2026-05-28T22:35:07.000Z",
+    "fingerprint": "09812485d5ed9a115a5ee5dcf9c9eb5f3a040b7d",
     "micro_judgment": null
   },
   {
