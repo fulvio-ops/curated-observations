@@ -1,6 +1,134 @@
 [
   {
     "source": "ANSA",
+    "title": "La Colombia invia una nave con 100 tonnellate di aiuti umanitari a Cuba",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/06/la-colombia-invia-una-nave-con-100-tonnellate-di-aiuti-umanitari-a-cuba_8d274b45-2d2e-403d-bb3c-1f11d00875db.html",
+    "published_at": "2026-06-06T04:18:40.000Z",
+    "fingerprint": "7b04f279995d31798090b8bad01a18c4f520ba44",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Trump posta un video realizzato con l'Ia della flotta iraniana affondata",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/06/trump-posta-un-video-realizzato-con-lia-della-flotta-iraniana-affondata_e44afe18-7ba3-408e-8f8e-b9a1f6bd97ee.html",
+    "published_at": "2026-06-06T04:07:03.000Z",
+    "fingerprint": "05eeafc9469dfdbd9ff799aa5ad7eb3ee849c8d8",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "In Congo 71 nuovi casi di Ebola nelle ultime 24 ore",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/06/in-congo-71-nuovi-casi-di-ebola-nelle-ultime-24-ore_6c64f8cf-5ca2-4bc7-9e20-243c36f79520.html",
+    "published_at": "2026-06-06T04:02:01.000Z",
+    "fingerprint": "ee55a87db7fbae1cf1b4a144edcd741777440d99",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Aston Martin themed Chillblast gaming PCs are fit for a Bond flick",
+    "link": "https://www.yankodesign.com/2026/06/05/aston-martin-themed-chillblast-gaming-pcs-are-fit-for-a-bond-flick/?utm_source=rss&utm_medium=rss&utm_campaign=aston-martin-themed-chillblast-gaming-pcs-are-fit-for-a-bond-flick",
+    "published_at": "2026-06-06T00:30:33.000Z",
+    "fingerprint": "6ced1eca9c7b9bf96ee462dcd20c69ef43ac9cee",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "7 Biggest AI Ideas That Came Out of BEYOND Expo 2026",
+    "link": "https://www.yankodesign.com/2026/06/05/7-biggest-ai-ideas-that-came-out-of-beyond-expo-2026/?utm_source=rss&utm_medium=rss&utm_campaign=7-biggest-ai-ideas-that-came-out-of-beyond-expo-2026",
+    "published_at": "2026-06-05T19:15:55.000Z",
+    "fingerprint": "0ebf837fa539bfdca9a336aa66d4ea249fbcbb26",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "QWERTYS",
+    "link": "https://www.producthunt.com/products/qwertys",
+    "published_at": "2026-06-05T19:12:55.000Z",
+    "fingerprint": "bf48ce06ffc3f8ceaa80155ef5c8f5df4624ab9f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Three of our worst VC stories",
+    "link": "https://twitter.com/eastdakota/status/2062860530360959273",
+    "published_at": "2026-06-05T19:08:12.000Z",
+    "fingerprint": "0d270b1908d66a7fb3ba0ba2417d2b3678b23f69",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Meloni diserta il vertice Ue-Balcani",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/06/05/meloni-non-va-al-vertice-ue-balcani_2942f2d7-2a5b-47b3-96a1-2e9e730697f7.html",
+    "published_at": "2026-06-05T18:31:57.000Z",
+    "fingerprint": "8bbfa05cce622426804953d9b6012ee163966711",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ipotesi taglio delle accise per giugno, Salvini chiede contributi alle banche",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/06/05/tajani-il-governo-valuta-la-proroga-del-taglio-delle-accise-fino-a-fine_ddfd52ca-da16-4202-abdd-2309861d330b.html",
+    "published_at": "2026-06-05T17:53:48.000Z",
+    "fingerprint": "28439a7378e90cea30844e1097449e164d67ee9b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Modificati con precisione geni di embrioni umani, è la prima volta",
+    "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/06/05/modificati-con-precisione-geni-di-embrioni-umani-e-la-prima-volta_b567f8ac-81c7-4b31-bbc3-dffae7b09b66.html",
+    "published_at": "2026-06-05T17:52:32.000Z",
+    "fingerprint": "8ceab6d7cb1b7d8abf3e46f9186185ef79263b1d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+    "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+    "published_at": "2026-06-05T16:55:30.000Z",
+    "fingerprint": "8c558d5a341d3af5563bda595b8ab15014ea6523",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Conventional Commits encourages focus on the wrong things",
+    "link": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "published_at": "2026-06-05T15:39:38.000Z",
+    "fingerprint": "08484c12e6a11dbff97e4ab3bab06112fbc53506",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "McLaren F1 Team celebrates 1,000th race start, as Oscar and Lando sport LEGO helmets at the iconic Monaco GP",
+    "link": "https://www.yankodesign.com/2026/06/05/mclaren-f1-team-celebrates-1000th-race-start-as-oscar-and-lando-sport-lego-helmets-at-the-iconic-monaco-gp/?utm_source=rss&utm_medium=rss&utm_campaign=mclaren-f1-team-celebrates-1000th-race-start-as-oscar-and-lando-sport-lego-helmets-at-the-iconic-monaco-gp",
+    "published_at": "2026-06-05T15:20:14.000Z",
+    "fingerprint": "4f95355287aec9bcb4511e868b794f0d246e4ad8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "New method turns ocean water into drinking water, without waste",
+    "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+    "published_at": "2026-06-05T15:04:03.000Z",
+    "fingerprint": "46fa8767e39e79e7bf989b2c0a4e597824e24bcb",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Alla scoperta di The Boys, La vita nascosta e Personal Shopper",
+    "link": "https://www.ansa.it/sito/podcast/siamo_serie/2026/06/05/alla-scoperta-di-the-boys-la-vita-nascosta-e-personal-shopper_c3101cca-4154-4465-9abd-481b4a35ce22.html",
+    "published_at": "2026-06-05T10:50:48.000Z",
+    "fingerprint": "47638632868fe7e238f069feffb502fdb0c084cb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "solar protocol uses the sun to propose alternative forms of computing",
+    "link": "https://www.designboom.com/technology/solar-protocol-sun-propose-alternative-computing/",
+    "published_at": "2026-06-05T10:00:35.000Z",
+    "fingerprint": "95dee5be7701970736a3738e1421f8cb51804c8d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Scalfarotto: 'Menia redarguisce una coppia gay, intollerante ed omofobo'",
     "link": "https://www.ansa.it/sito/notizie/politica/2026/06/05/scalfarotto-menia-intollerante-ed-omofobo_ffb42568-ed4a-40ea-b4f5-4b4435c3419e.html",
     "published_at": "2026-06-05T08:45:42.000Z",
