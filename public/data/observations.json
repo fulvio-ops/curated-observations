@@ -1,6 +1,166 @@
 [
   {
     "source": "ANSA",
+    "title": "Perù al voto, sfida aperta tra Sanchez e Fujimori",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/06/peru-al-voto-sfida-aperta-tra-sanchez-e-fujimori_d2ab8534-6c93-440d-97be-57c488fc44a5.html",
+    "published_at": "2026-06-07T08:14:12.000Z",
+    "fingerprint": "c1e4814800c1889071ad18d244815baa524c9525",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "I nuovi schiavi tra noi",
+    "link": "https://www.ansa.it/sito/podcast/la_scelta_del_direttore/2026/06/05/i-nuovi-schiavi-tra-noi_d162bd49-9b9b-4bc0-8df7-6462fc662c65.html",
+    "published_at": "2026-06-07T08:06:10.000Z",
+    "fingerprint": "a25d05b31a50c1f327b48ee396306b6803576444",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Nuovo video del tycoon che si addormenta nello Studio Ovale",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/06/sleepy-trump-nuovo-video-del-tycoon-che-si-addormenta-nello-studio_26857289-a4fe-46ca-82b2-798a01a2d6ae.html",
+    "published_at": "2026-06-07T08:01:23.000Z",
+    "fingerprint": "4597f7b5b3b2c7b96560c9587e02604a7443fbf5",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Cremonini 'imperatore' al circo Massimo con 'tanta strada fatta di canzoni'",
+    "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/06/07/cremonini-imperatore-al-circo-massimo-con-tanta-strada-fatta-di-canzoni_5c5a8b2f-6912-4d7e-930a-d08362b25261.html",
+    "published_at": "2026-06-07T07:32:46.000Z",
+    "fingerprint": "440f159e4475079c908ef2504bbf7d115aaa9a1e",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Abruzzo, un orso corre per le strade di Castel di Sangro",
+    "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/06/abruzzo-un-orso-corre-per-le-strade-di-castel-di-sangro_262fd090-20b9-4ca9-81ea-4f4e487cce86.html",
+    "published_at": "2026-06-07T07:03:18.000Z",
+    "fingerprint": "610dcba097b9befd1d00a8a6196bce49fb8344d0",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Grazia a  Minetti, la teste ritratta: 'Mai visto festini'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/07/grazia-a-minetti-la-teste-ritratta-mai-visto-festini_3e6727a4-15b3-45b8-be5e-92ff11dad1cc.html",
+    "published_at": "2026-06-07T06:51:03.000Z",
+    "fingerprint": "df905f9f8a2d8d429fe0a9ef9661d447197ff6e9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+    "link": "https://www.ioccc.org/2025/",
+    "published_at": "2026-06-07T05:47:54.000Z",
+    "fingerprint": "d066c46b4a94c39e2289640bf6584a19b400044c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "I design with Claude more than Figma now",
+    "link": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "published_at": "2026-06-07T05:04:24.000Z",
+    "fingerprint": "cdcdb32f4c18c975cd35e4f088f2ec5494329e03",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "ouka transforms a century old house into a stayable gallery of japanese woodcarving craft",
+    "link": "https://www.designboom.com/architecture/ouka-century-old-house-stayable-gallery-japanese-woodcarving-craft-bed-and-craft/",
+    "published_at": "2026-06-07T04:45:10.000Z",
+    "fingerprint": "178bf055734a3a0de593102d3029a583a1318af2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+    "link": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+    "published_at": "2026-06-07T02:12:19.000Z",
+    "fingerprint": "3b10c5c9d51bec637a3763e078461e7e3ba9c1d8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Public Domain Image Archive",
+    "link": "https://pdimagearchive.org/",
+    "published_at": "2026-06-07T00:22:51.000Z",
+    "fingerprint": "4cfbac8171f700e270483e5f7af98e78a5d04515",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "5 Brilliantly Weird 3D Printed Designs That Show Exactly Where Industrial Design Is Headed",
+    "link": "https://www.yankodesign.com/2026/06/06/5-brilliantly-weird-3d-printed-designs-that-show-exactly-where-industrial-design-is-headed/?utm_source=rss&utm_medium=rss&utm_campaign=5-brilliantly-weird-3d-printed-designs-that-show-exactly-where-industrial-design-is-headed",
+    "published_at": "2026-06-06T23:30:39.000Z",
+    "fingerprint": "f5342a7cf61a54f6de5d5ed697abfca2e88250bd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The Coffee Sleeve Reinvented From the Grounds Up",
+    "link": "https://www.yankodesign.com/2026/06/06/the-coffee-sleeve-reinvented-from-the-grounds-up/?utm_source=rss&utm_medium=rss&utm_campaign=the-coffee-sleeve-reinvented-from-the-grounds-up",
+    "published_at": "2026-06-06T20:45:55.000Z",
+    "fingerprint": "cd6c9534c51a9c53513f8c977cd759707e7f16a6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Your Charger Is On Display for 23 Hours a Day, ORNA Designed for That",
+    "link": "https://www.yankodesign.com/2026/06/06/your-charger-is-on-display-for-23-hours-a-day-orna-designed-for-that/?utm_source=rss&utm_medium=rss&utm_campaign=your-charger-is-on-display-for-23-hours-a-day-orna-designed-for-that",
+    "published_at": "2026-06-06T19:15:53.000Z",
+    "fingerprint": "2752d1f9a7aca53472d3691fdd4d575f5008ecb1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Arte e lusso, come le opere conquistano il mondo dei collezionisti e dei nuovi ricchi",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/06/06/arte-e-lusso-come-le-opere-conquistano-il-mondo-dei-collezionisti-e-dei-nuovi_ca5bfc9d-9d31-4153-b3b7-6803bf60c515.html",
+    "published_at": "2026-06-06T17:45:21.000Z",
+    "fingerprint": "fbf2e653ea1192a593ec0237082f4fffe856d2db",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Dalle nozze Dua Lipa-Turner ritorno economico di 268 milioni per la Sicilia",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/06/06/dalle-nozze-dua-lipa-turner-ritorno-economico-di-268-milioni-per_7b281208-fea2-49ed-ae23-b13e899215d3.html",
+    "published_at": "2026-06-06T17:43:12.000Z",
+    "fingerprint": "643b314ab92e311a73299e89bdf02a61f2f650cf",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Mondiali: l'Iran in viaggio, ma è giallo sui visti per lo staff",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/06/mondiali-teheran-gli-usa-non-hanno-concesso-visti-ai-membri-della_1b3697c8-927b-4414-9d00-f087cbaf786d.html",
+    "published_at": "2026-06-06T17:18:33.000Z",
+    "fingerprint": "ec29ad3994ec3be9b36929dcac8e20efae9204ea",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Affitti cresciuti fino a 5 volte più dei salari, Milano al top",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/06/06/cna-affitti-cresciuti-fino-a-5-volte-piu-dei-salari-milano-al-top_c90e3a81-f5d1-4b84-9463-c4f8d44565f0.html",
+    "published_at": "2026-06-06T15:29:24.000Z",
+    "fingerprint": "a2a9e2f7ab5532f2842d65f3ba529efade412226",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+    "link": "https://twitter.com/lemire/status/2062880075117113739",
+    "published_at": "2026-06-06T12:52:18.000Z",
+    "fingerprint": "1798a1bda83025be8644c50704b5e6e91722e84a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+    "link": "https://pokeemerald.com/",
+    "published_at": "2026-06-06T11:12:58.000Z",
+    "fingerprint": "9afa54b743fea2bd3d7c29c492c202574dd03894",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "La Colombia invia una nave con 100 tonnellate di aiuti umanitari a Cuba",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/06/la-colombia-invia-una-nave-con-100-tonnellate-di-aiuti-umanitari-a-cuba_8d274b45-2d2e-403d-bb3c-1f11d00875db.html",
     "published_at": "2026-06-06T04:18:40.000Z",
