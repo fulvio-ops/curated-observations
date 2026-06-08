@@ -1,6 +1,54 @@
 [
   {
     "source": "ANSA",
+    "title": "L'IA si è presa Internet, i bot generano più traffico web dell'uomo",
+    "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/06/08/lia-si-e-presa-internet-i-bot-generano-piu-traffico-web-delluomo_650f27bd-a107-4646-871d-362ef7496e03.html",
+    "published_at": "2026-06-08T08:21:25.000Z",
+    "fingerprint": "a70b4a33e4a946a6392944c21e4f4faaecc1d943",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "working with tin jingles and reclaimed blankets, marie watt revisits ancestral craft",
+    "link": "https://www.designboom.com/art/working-with-tin-jingles-and-reclaimed-blankets-marie-watt-revisits-ancestral-craft/",
+    "published_at": "2026-06-08T07:30:53.000Z",
+    "fingerprint": "2327c5b6628bbbe58ba68cc3bb90d58bf8a9d5a9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "1worldflag: A blue dot on a transparent background",
+    "link": "https://1worldflag.com/",
+    "published_at": "2026-06-08T01:37:52.000Z",
+    "fingerprint": "bd97caf33760699c254974a196d44019ac41b559",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+    "link": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
+    "published_at": "2026-06-08T00:17:45.000Z",
+    "fingerprint": "2519aa8fee9d27d65e3d71fa2cf3ebcc6abeede2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "LEGO’s Pan Am DC-3 Is a Love Letter to the Golden Age of Flight",
+    "link": "https://www.yankodesign.com/2026/06/07/legos-pan-am-dc-3-is-a-love-letter-to-the-golden-age-of-flight/?utm_source=rss&utm_medium=rss&utm_campaign=legos-pan-am-dc-3-is-a-love-letter-to-the-golden-age-of-flight",
+    "published_at": "2026-06-07T22:30:21.000Z",
+    "fingerprint": "402ad6c07fc7345b379a0513ebbcf877f7ac0e51",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Building from zero after addiction, prison, and a felony",
+    "link": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+    "published_at": "2026-06-07T18:33:07.000Z",
+    "fingerprint": "1a3be53fae96190b7bd16e6a8d10fa0d43550155",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Perù al voto, sfida aperta tra Sanchez e Fujimori",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/06/peru-al-voto-sfida-aperta-tra-sanchez-e-fujimori_d2ab8534-6c93-440d-97be-57c488fc44a5.html",
     "published_at": "2026-06-07T08:14:12.000Z",
