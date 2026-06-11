@@ -1,6 +1,150 @@
 [
   {
     "source": "ANSA",
+    "title": "Meloni: \"Sostenere Kiev. Definiremo con l'Ue le misure finanziabili con la flessibilità\"",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/06/11/meloni-sostenere-kiev.-definiremo-con-lue-le-misure-finanziabili-con-la-flessibilita_fa51c08a-9d23-46fa-a88e-bd84b24407dc.html",
+    "published_at": "2026-06-11T09:08:19.000Z",
+    "fingerprint": "1e2fb0f67a5a3fb0a3d1915b4422d58833f93d0a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Nuova ondata di raid Usa sull'Iran. Teheran: colpite basi americane in Kuwait, Bahrein e Giordania",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/11/nuova-ondata-di-raid-usa-sulliran.-teheran-colpite-basi-americane-in-kuwait_ec757a63-c4ea-4b6e-8f49-1546853c894c.html",
+    "published_at": "2026-06-11T08:50:27.000Z",
+    "fingerprint": "ee423ce978ea2446b99b58dd2d36757219068aa8",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'aereo del Papa è decollato da Barcellona per Gran Canaria",
+    "link": "https://www.ansa.it/vaticano/notizie/2026/06/11/l-aereo-del-papa-e-decollato-da-barcellona-per-gran-canaria_3e0972cb-7c7d-4955-96ab-18029ec593c6.html",
+    "published_at": "2026-06-11T08:24:29.000Z",
+    "fingerprint": "546f5ea5296b48c49b69093bf7a9ca1ecf5d3637",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Una necropoli delle balene che ha oltre 5 milioni di anni",
+    "link": "https://www.ansa.it/canale_scienza/notizie/natura/2026/06/11/una-necropoli-delle-balene-che-ha-oltre-5-milioni-di-anni_00c710f3-bdb2-420f-979c-5b87357a13cc.html",
+    "published_at": "2026-06-11T07:52:58.000Z",
+    "fingerprint": "a625f7bddb4dfe1dd28358b2925b57210baff1b5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
+    "link": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
+    "published_at": "2026-06-11T07:35:12.000Z",
+    "fingerprint": "e72ab4bfd8ea1b722a4e472543b840c14ccff4dc",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Millennials vs Gen Z, le differenze generazionali sul wellness",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/06/10/millennials-vs-gen-z-le-differenze-generazionali-sul-wellness_2067cee4-fe6b-410b-b18d-6f4d8a7d6298.html",
+    "published_at": "2026-06-11T06:43:14.000Z",
+    "fingerprint": "277c2ad8d88f4ec6a2b7c515c47443accabd9e62",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+    "link": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+    "published_at": "2026-06-11T06:42:06.000Z",
+    "fingerprint": "04532c0a6bd37e47f8e9e27cb818fd77c4477563",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Macaroni – a single HTML file messenger",
+    "link": "https://github.com/vanyapr/makaroshki",
+    "published_at": "2026-06-11T06:32:33.000Z",
+    "fingerprint": "cfe41c827ad9a8eceb6d423859222e811e6011fb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Are insecure code completions in PyCharm a vulnerability?",
+    "link": "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability",
+    "published_at": "2026-06-11T01:26:03.000Z",
+    "fingerprint": "01f3d1338f7a21f72addf2c8f70a058f14657bae",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Raspberry Pi 5 – 16GB RAM",
+    "link": "https://www.adafruit.com/product/6125?src=raspberrypi",
+    "published_at": "2026-06-10T20:05:21.000Z",
+    "fingerprint": "c8c648d269370806ba3be20b604b38f635e6c51d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "project materia turns coffee shells and e-waste into collectible design in copenhagen",
+    "link": "https://www.designboom.com/design/project-materia-coffee-shells-electronic-waste-copenhagen-mater-3daysofdesign/",
+    "published_at": "2026-06-10T18:15:01.000Z",
+    "fingerprint": "036d42c2e356b2ddb326b9b7712fb7a8f1256b2c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ecco Messico-Sudafrica, parte dall'Azteca il Mondiale più grande di sempre",
+    "link": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/10/ecco-messico-sudafrica-parte-dallazteca-il-mondiale-piu-grande-di-sempre_e3404e4e-a649-45e0-a140-16147a63f1ff.html",
+    "published_at": "2026-06-10T18:03:52.000Z",
+    "fingerprint": "4e297d803fb5182acc59163fea66e6dab533fc7f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+    "link": "https://www.extend.ai/ui",
+    "published_at": "2026-06-10T16:09:26.000Z",
+    "fingerprint": "ab918b819ba748ea5312eb2389500b0ef742de3e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: HelixDB – A graph database built on object storage",
+    "link": "https://github.com/HelixDB/helix-db/tree/main",
+    "published_at": "2026-06-10T15:47:31.000Z",
+    "fingerprint": "cd9fa15f7b336862622e700c0005cfbfbbb403b9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Terminal Mode by Even Realities",
+    "link": "https://www.producthunt.com/products/terminal-mode-by-even-realities",
+    "published_at": "2026-06-10T13:18:51.000Z",
+    "fingerprint": "02e34f8d8d3307d2e3b0a6f631abcbacaca806a7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Bugpilot",
+    "link": "https://www.producthunt.com/products/bugpilot-browser-bugs-to-ai-markdown",
+    "published_at": "2026-06-10T10:43:55.000Z",
+    "fingerprint": "8b57a6050b0fc40916ef301fb2d2ce832c4ccd04",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "spanish design pavilion explores reversibility, craft and public space in frankfurt 2026",
+    "link": "https://www.designboom.com/design/spanish-design-pavilion-reversibility-craft-public-space-frankfurt-2026-archdaily/",
+    "published_at": "2026-06-10T10:05:43.000Z",
+    "fingerprint": "b424f4ed196380950069b0c23e466d829f89894d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "porsche turns buzz lightyear’s space ranger uniform into one-off sports car for toy story 5",
+    "link": "https://www.designboom.com/technology/porsche-buzz-lightyear-space-ranger-uniform-sports-car-toy-story-5/",
+    "published_at": "2026-06-10T09:10:40.000Z",
+    "fingerprint": "774ff7d5bdd6da3b464e6750d39e5d1414a3fba2",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Assemblea di Confcommercio a Roma, l'apertura con la relazione di Sangalli",
     "link": "https://www.ansa.it/sito/notizie/politica/2026/06/10/assemblea-di-confcommercio-a-roma_d0a9365f-37fc-484d-8c82-75f6daa850fa.html",
     "published_at": "2026-06-10T08:09:31.000Z",
@@ -13,6 +157,14 @@
     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/06/09/sting-torna-con-the-last-ship-stavolta-alla-met-opera_ccc9ef20-efc7-42ea-9b7c-31954328a3fc.html",
     "published_at": "2026-06-10T06:21:22.000Z",
     "fingerprint": "091b8937988760c9f587d56da10d37f4d67b0311",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Tabstack Structured Extraction",
+    "link": "https://www.producthunt.com/products/tabstack",
+    "published_at": "2026-06-10T06:04:01.000Z",
+    "fingerprint": "c6ab7500ae68c4ebcfab58d86cd81659809f2e60",
     "micro_judgment": null
   },
   {
@@ -405,6 +557,14 @@
     "link": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
     "published_at": "2026-06-07T18:33:07.000Z",
     "fingerprint": "1a3be53fae96190b7bd16e6a8d10fa0d43550155",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "lium.Ai",
+    "link": "https://www.producthunt.com/products/lium",
+    "published_at": "2026-06-07T16:06:24.000Z",
+    "fingerprint": "d0dd6a5457fcafe0b14df3769fa6e932d3e49776",
     "micro_judgment": null
   },
   {
