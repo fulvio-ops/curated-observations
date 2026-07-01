@@ -1,6 +1,150 @@
 [
   {
     "source": "Designboom",
+    "title": "pink mosaic flows across every surface at alaïa’s first miami boutique",
+    "link": "https://www.designboom.com/architecture/pink-mosaic-surface-alaia-first-miami-boutique-halleroed/",
+    "published_at": "2026-07-01T08:00:35.000Z",
+    "fingerprint": "a48bb8b9523c0b31e1a3c090ec794f86bfe63ba0",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Scopre 'flirt' della madre della fidanzata e le estorce denaro, arrestato 18enne",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/01/scopre-flirt-della-madre-della-fidanzata-e-le-estorce-denaro-arrestato-18enne_5f3c530c-5ab9-4d7d-9d8c-ba5e0a1d0c4f.html",
+    "published_at": "2026-07-01T07:49:45.000Z",
+    "fingerprint": "ef9ed9c3c26c3579e2b508bd446152a8f7c6ff84",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "designboom radar: exhibitions to see around the world this july",
+    "link": "https://www.designboom.com/art/radar-exhibitions-july/",
+    "published_at": "2026-07-01T06:30:29.000Z",
+    "fingerprint": "f6ce0f402ff22a5989981cff1ec289b322ecc73c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La Corte Suprema boccia Trump, lo ius soli resta in vigore. Vance: 'Non è finita'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/01/la-corte-suprema-boccia-trump-lo-ius-soli-resta-in-vigore.-vance-non_641c77aa-2203-425b-aff2-616d7232dfb9.html",
+    "published_at": "2026-07-01T05:27:48.000Z",
+    "fingerprint": "760bfa43945a3d41cbc34de8afce5b35f19d7bbc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "link": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+    "published_at": "2026-07-01T05:13:22.000Z",
+    "fingerprint": "4659843a88fb1ce2b5ed91ffd8126c11fb64c1d0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This $349 cordless car-wash machine was designed for drivers without a driveway",
+    "link": "https://www.yankodesign.com/2026/06/30/this-349-cordless-car-wash-machine-was-designed-for-drivers-without-a-driveway/?utm_source=rss&utm_medium=rss&utm_campaign=this-349-cordless-car-wash-machine-was-designed-for-drivers-without-a-driveway",
+    "published_at": "2026-07-01T01:45:54.000Z",
+    "fingerprint": "22a42dedb1f704b27b0eebe4f7463a4905fef8b3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Forestiere Underground Gardens",
+    "link": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+    "published_at": "2026-07-01T01:23:09.000Z",
+    "fingerprint": "7d5ec9a45e14b1d529b795087dd22d674c5631a2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "I did the math on a decade of cloud storage fees. It makes sense to own this $230 1TB SSD instead.",
+    "link": "https://www.yankodesign.com/2026/06/30/i-did-the-math-on-a-decade-of-cloud-storage-fees-it-makes-sense-to-own-this-230-1tb-ssd-instead/?utm_source=rss&utm_medium=rss&utm_campaign=i-did-the-math-on-a-decade-of-cloud-storage-fees-it-makes-sense-to-own-this-230-1tb-ssd-instead",
+    "published_at": "2026-07-01T00:30:10.000Z",
+    "fingerprint": "47d3015f35386e9efad679a7f748135f5686c9f0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Some pills I found working in a house built in 1943",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uk479p/some_pills_i_found_working_in_a_house_built_in/",
+    "published_at": "2026-06-30T22:48:01.000Z",
+    "fingerprint": "51f6da97a23a5f8a9771b07e3082ae12fbcb3f9a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+    "link": "https://hatari.frama.io/hatari/online/hatari.html",
+    "published_at": "2026-06-30T22:34:23.000Z",
+    "fingerprint": "b2464d40c7fae94df2af9e2b907c938de076d349",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "A Camping Kit Actually Designed for Kids, Not Just Dragged Along",
+    "link": "https://www.yankodesign.com/2026/06/30/a-camping-kit-actually-designed-for-kids-not-just-dragged-along/?utm_source=rss&utm_medium=rss&utm_campaign=a-camping-kit-actually-designed-for-kids-not-just-dragged-along",
+    "published_at": "2026-06-30T22:30:47.000Z",
+    "fingerprint": "90ab9d7019ba167130a5f1746ca5111ba6c47731",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "From brain waves to words: a new path to communication without surgery",
+    "link": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+    "published_at": "2026-06-30T21:29:13.000Z",
+    "fingerprint": "7c176de2955f6f7e0becdf44f3fdaf4ff9811f2b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Gemini Omni Flash",
+    "link": "https://www.producthunt.com/products/gemini-omni-flash",
+    "published_at": "2026-06-30T20:22:29.000Z",
+    "fingerprint": "4d5ded1363fe269b11b190f13343bb9f7945cf81",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Schlein e Conte all'attacco, 'la priorità di Meloni è solo il potere'",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/06/30/schlein-e-conte-allattacco-la-priorita-di-meloni-e-solo-il-potere_e82ed0e1-d448-43d6-bdc4-ecc8a632d47c.html",
+    "published_at": "2026-06-30T19:32:55.000Z",
+    "fingerprint": "c7fe357dec6b95aac2651f76d133ae1b46e49423",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Due supereroi al bar, Spider-Man incontra Lionel Messi nell'ultimo spot Sony-Marvel",
+    "link": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/30/due-supereroi-al-bar-spider-man-incontra-lionel-messi-nellultimo-spot_65ae9b52-b724-4f98-bd2b-b9c301db3532.html",
+    "published_at": "2026-06-30T17:40:07.000Z",
+    "fingerprint": "a87c68ba6c4908edac7d3059437df2ef2d11d56b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Minori a rischio online, ricerca critica le misure di protezione dei social network",
+    "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/06/30/minori-a-rischio-online-ricerca-critica-le-misure-di-protezione-dei-social-network_6164377e-0f41-479e-9d05-af5506fc72e3.html",
+    "published_at": "2026-06-30T17:31:45.000Z",
+    "fingerprint": "b03e545284d660c3e41b01388eb0088b027dd05c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Loot",
+    "link": "https://www.producthunt.com/products/loot-6",
+    "published_at": "2026-06-30T13:12:28.000Z",
+    "fingerprint": "2169e6b0b6067b941c5be93190a2938e547642fc",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'approfondimento ANSA sull'accordo UE-Mercosur",
+    "link": "https://www.ansa.it/native/ansacom/2026/06/30/lapprofondimento-ansa-sullaccordo-ue-mercosur-_c7cc863e-a481-467f-aed6-f73aed13c00c.html",
+    "published_at": "2026-06-30T11:38:00.000Z",
+    "fingerprint": "1559a40277f3ef44f51438cb342fd598a2ea23f8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
     "title": "acne studios’ pink library in tokyo celebrates three decades of fashion, art, and publishing",
     "link": "https://www.designboom.com/architecture/acne-studios-pink-library-tokyo-three-decades-fashion-art-publishing-autoportrait/",
     "published_at": "2026-06-30T08:30:21.000Z",
@@ -101,6 +245,14 @@
     "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
     "published_at": "2026-06-29T19:49:28.000Z",
     "fingerprint": "5c7e4f9c66bbafa4d156cd45e0a0fc21713ea756",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "AI Usage, Under Control",
+    "link": "https://www.producthunt.com/products/stigg",
+    "published_at": "2026-06-29T19:47:16.000Z",
+    "fingerprint": "543413060fccc01945a8bbc50380b8017962021f",
     "micro_judgment": null
   },
   {
@@ -417,6 +569,14 @@
   },
   {
     "source": "Product Hunt",
+    "title": "Browser Notes",
+    "link": "https://www.producthunt.com/products/browser-notes",
+    "published_at": "2026-06-25T09:22:31.000Z",
+    "fingerprint": "4ef69ffc51cfd5c31a4385ec3d04187b9fa772c7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
     "title": "Paybond CLI",
     "link": "https://www.producthunt.com/products/paybond",
     "published_at": "2026-06-25T01:23:19.000Z",
@@ -461,6 +621,14 @@
     "link": "https://www.producthunt.com/products/dayflow-4",
     "published_at": "2026-06-24T03:04:12.000Z",
     "fingerprint": "827fd876feccaab3929eb3df35874beffaa3eb5b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Modelence Mobile Builder",
+    "link": "https://www.producthunt.com/products/modelence-app-builder",
+    "published_at": "2026-06-23T23:30:38.000Z",
+    "fingerprint": "8ae59036bc08fafbe14a937f2cf1d10738c07167",
     "micro_judgment": null
   },
   {
@@ -981,6 +1149,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1u8adal/i_have_an_undeveloped_thumb_on_my_right_hand/",
     "published_at": "2026-06-17T13:35:07.000Z",
     "fingerprint": "6974e76190bdc070be092cef276ad5ad54c289a2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Dump Memory",
+    "link": "https://www.producthunt.com/products/dump-4",
+    "published_at": "2026-06-17T13:03:49.000Z",
+    "fingerprint": "f0d33a306b1c91ae2e4ade841bf399ea9a11118b",
     "micro_judgment": null
   },
   {
@@ -1813,6 +1989,14 @@
     "link": "https://www.producthunt.com/products/terminal-mode-by-even-realities",
     "published_at": "2026-06-10T13:18:51.000Z",
     "fingerprint": "02e34f8d8d3307d2e3b0a6f631abcbacaca806a7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Humalike",
+    "link": "https://www.producthunt.com/products/humalike-2",
+    "published_at": "2026-06-10T10:50:16.000Z",
+    "fingerprint": "daa6b3de0715fa6c226d29e9af6e5de7f0edd5f0",
     "micro_judgment": null
   },
   {
