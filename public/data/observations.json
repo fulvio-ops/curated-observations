@@ -1,6 +1,166 @@
 [
   {
     "source": "ANSA",
+    "title": "Esplosione in una fabbrica del Chietino, un morto e un ferito",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/09/esplosione-in-una-fabbrica-del-chietino-un-morto-e-un-ferito_84f27a65-1542-40f0-a0e8-4794b05b0159.html",
+    "published_at": "2026-07-09T08:31:28.000Z",
+    "fingerprint": "f4686f61476ee6f8d605b004d4a8f4283fbdeade",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Mondiali: la corsa verso la finale, al via i quarti",
+    "link": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/08/mondiali-la-corsa-verso-la-finale-al-via-i-quarti_d9429733-d662-4d34-8ebe-80c14a50b0d1.html",
+    "published_at": "2026-07-09T07:50:26.000Z",
+    "fingerprint": "78e4e258a0ee796270fac6c174d0764a3a7deee7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Spider venom kills varroa mites without harming honeybees",
+    "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+    "published_at": "2026-07-09T05:14:45.000Z",
+    "fingerprint": "93f09ed286bdabce2ab7e1d536eff20ad17aa688",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "A hotel breakfast to 2pm",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1ura4mo/a_hotel_breakfast_to_2pm/",
+    "published_at": "2026-07-09T00:02:11.000Z",
+    "fingerprint": "f13a0b1d8b8311d9102a480092f29d309188b1bf",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Poured tea in my cup but it looks empty.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1ur7zzd/poured_tea_in_my_cup_but_it_looks_empty/",
+    "published_at": "2026-07-08T22:35:02.000Z",
+    "fingerprint": "c91858731e8c441c1cd30bae64bd6a180ffa185a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "A Toy-Inspired Lamp Collection That Makes the Candelabra Feel New",
+    "link": "https://www.yankodesign.com/2026/07/08/a-toy-inspired-lamp-collection-that-makes-the-candelabra-feel-new/?utm_source=rss&utm_medium=rss&utm_campaign=a-toy-inspired-lamp-collection-that-makes-the-candelabra-feel-new",
+    "published_at": "2026-07-08T22:30:37.000Z",
+    "fingerprint": "770abc4f855feebec0eb5db31585b4ec74deecfb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "MacBook Ultra 2026: Samsung ships OLED panels for Apple’s first touchscreen MacBook",
+    "link": "https://www.yankodesign.com/2026/07/08/macbook-ultra-2026-samsung-ships-oled-panels-for-apples-first-touchscreen-macbook/?utm_source=rss&utm_medium=rss&utm_campaign=macbook-ultra-2026-samsung-ships-oled-panels-for-apples-first-touchscreen-macbook",
+    "published_at": "2026-07-08T21:30:51.000Z",
+    "fingerprint": "b9996fb1bbc0ef72318b4effab7314a5a65eda33",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+    "link": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+    "published_at": "2026-07-08T21:30:09.000Z",
+    "fingerprint": "8008a1eb316946c5105ae3a454ac2c7d1c70e629",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "A Napoli foto di gruppo con il campo largo, 'ora tocca a noi governare'",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/07/08/a-napoli-foto-di-gruppo-con-il-campo-largo-ora-tocca-a-noi-governare_3bd01858-cf1b-4d09-9048-0cb4b0382786.html",
+    "published_at": "2026-07-08T19:19:05.000Z",
+    "fingerprint": "85c73bfc697fbf02e69b3052cf74c5c15e1d949a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Cloudflare Drop",
+    "link": "https://www.cloudflare.com/drop/",
+    "published_at": "2026-07-08T19:18:26.000Z",
+    "fingerprint": "f1f9e8932eb0ecc0d64be4126682dbca4c757576",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "These $69 ANC Headphones for kids are so good, I might use them myself: iClever Q950 Hands-on",
+    "link": "https://www.yankodesign.com/2026/07/08/these-69-anc-headphones-for-kids-are-so-good-i-might-use-them-myself-iclever-q950-hands-on/?utm_source=rss&utm_medium=rss&utm_campaign=these-69-anc-headphones-for-kids-are-so-good-i-might-use-them-myself-iclever-q950-hands-on",
+    "published_at": "2026-07-08T19:15:23.000Z",
+    "fingerprint": "3d56486bfd1e60d8343722c69f252b259d1eaf13",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Arrestato Adinolfi per truffa, 'è socialmente pericoloso'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/08/truffa-ed-evasione-fiscale-ai-domiciliari-mario-adinolfi-_f9a47403-1945-4527-9ae6-415891e13d35.html",
+    "published_at": "2026-07-08T18:10:08.000Z",
+    "fingerprint": "a99831d8c128ba46d12a70a947cd480ff6e07c7b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ilary Blasi: \"Appena sono pronte le carte, sposo Bastian Muller'",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/07/08/ilary-blasi-appena-sono-pronte-le-carte-sposo-bastian-muller_1d98ae5b-530a-4c93-a03d-e8e0d4040451.html",
+    "published_at": "2026-07-08T17:02:00.000Z",
+    "fingerprint": "996c3c9a33e272f892374309db00467306ccc0c4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Constellation Gate AI",
+    "link": "https://www.producthunt.com/products/gate-ai-2",
+    "published_at": "2026-07-08T16:11:45.000Z",
+    "fingerprint": "78953a9d7e2f7c7d54563f3138d8f81ac2d4abff",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My steak looked like the United States",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uqwdc2/my_steak_looked_like_the_united_states/",
+    "published_at": "2026-07-08T15:41:51.000Z",
+    "fingerprint": "c7ba39d9f7a074093c1200b7553535e99c9fbdaf",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "BYD Seal 08 is a $29K flagship EV with 905 km range that already secured 65,000 orders",
+    "link": "https://www.yankodesign.com/2026/07/08/byd-seal-08-is-a-29k-flagship-ev-with-905-km-range-that-already-secured-65000-orders/?utm_source=rss&utm_medium=rss&utm_campaign=byd-seal-08-is-a-29k-flagship-ev-with-905-km-range-that-already-secured-65000-orders",
+    "published_at": "2026-07-08T15:20:27.000Z",
+    "fingerprint": "c40121f3e9e0aa38dd8e66ddbde774932b97abfa",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Left a photocopy of myself on the skate ramp",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uqq93n/left_a_photocopy_of_myself_on_the_skate_ramp/",
+    "published_at": "2026-07-08T11:44:13.000Z",
+    "fingerprint": "ddcee3db88e03550008d05ed33a5dce4579caae6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Orbit for Mac",
+    "link": "https://www.producthunt.com/products/orbit-for-mac",
+    "published_at": "2026-07-08T06:52:08.000Z",
+    "fingerprint": "9c1f80b0e15d404b22ffb21520e4dc1b41bae5c9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Notion Agents iOS app",
+    "link": "https://www.producthunt.com/products/notion-agents-ios-app",
+    "published_at": "2026-07-07T23:45:03.000Z",
+    "fingerprint": "fe0f7867f536060851949cff0818905c45eef39e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Aura: Agents + Git + Intent IDE",
+    "link": "https://www.producthunt.com/products/aura-28",
+    "published_at": "2026-07-07T19:23:07.000Z",
+    "fingerprint": "b098181194263168f0f33b10c2db72694a019bcc",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Accoltellato a Milano, resta in carcere l'aggressore",
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/07/accoltellato-a-milano-resta-in-carcere-laggressore_910871d4-f7c2-427f-a6e5-5dff97aa7c08.html",
     "published_at": "2026-07-07T08:14:10.000Z",
@@ -109,6 +269,14 @@
     "link": "https://www.yankodesign.com/2026/07/06/lego-just-built-the-e-t-every-80s-kid-always-wanted/?utm_source=rss&utm_medium=rss&utm_campaign=lego-just-built-the-e-t-every-80s-kid-always-wanted",
     "published_at": "2026-07-06T15:20:06.000Z",
     "fingerprint": "4a12ed8a649ac62465191beba66f90d3de3b4cd1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Jamboree",
+    "link": "https://www.producthunt.com/products/jamboree",
+    "published_at": "2026-07-06T13:48:35.000Z",
+    "fingerprint": "8a6faaabd2e39f7e383ee2299275eb81532a9bfe",
     "micro_judgment": null
   },
   {
