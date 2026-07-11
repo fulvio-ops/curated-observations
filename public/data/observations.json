@@ -1,5 +1,93 @@
 [
   {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Zucchini I just picked from my garden",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1ut8xsi/zucchini_i_just_picked_from_my_garden/",
+    "published_at": "2026-07-11T03:29:32.000Z",
+    "fingerprint": "97fccc4c2396fd6d3de3cd7700dba80eb5706d5f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Shredder Turns Paper Into Cardboard By Compressing The Confetti Together",
+    "link": "https://www.yankodesign.com/2026/07/10/this-shredder-turns-paper-into-cardboard-by-compressing-the-confetti-together/?utm_source=rss&utm_medium=rss&utm_campaign=this-shredder-turns-paper-into-cardboard-by-compressing-the-confetti-together",
+    "published_at": "2026-07-11T00:30:50.000Z",
+    "fingerprint": "2147abbd80440112435ec9e2a753f80103344b59",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "as contemporary propylaea, twin timber gateways frame open-air architectural park in russia",
+    "link": "https://www.designboom.com/architecture/contemporary-propylaea-twin-timber-gateways-open-air-architectural-park-russia-cube-plus-creative-collective-protivo-stoyanie-counter-standing/",
+    "published_at": "2026-07-11T00:30:29.000Z",
+    "fingerprint": "ad0259c274fbe416610d52164ba6b28db6365ce1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "The amount of sap that poured out of the knot in this 64 year old ceiling joist",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1ut4on9/the_amount_of_sap_that_poured_out_of_the_knot_in/",
+    "published_at": "2026-07-11T00:07:17.000Z",
+    "fingerprint": "137d89c97846a2cddb01f75ff81114e5d0d65e3b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "CRA-Carlo Ratti Associati’s Hospital of the Future Puts Nature at the Center of Healing",
+    "link": "https://www.yankodesign.com/2026/07/10/cra-carlo-ratti-associatis-hospital-of-the-future-puts-nature-at-the-center-of-healing/?utm_source=rss&utm_medium=rss&utm_campaign=cra-carlo-ratti-associatis-hospital-of-the-future-puts-nature-at-the-center-of-healing",
+    "published_at": "2026-07-10T22:30:50.000Z",
+    "fingerprint": "ab46b2016b59f208dc13a7fcc2aa5b0a55b54c01",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Mondiali: la Spagna soffre ma elimina il Belgio, decide ancora Merino",
+    "link": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/10/mondiali-la-spagna-soffre-ma-elimina-il-belgio-decide-ancora-merino_28f48e93-4f4a-448b-a1ca-6265de2dd878.html",
+    "published_at": "2026-07-10T21:45:15.000Z",
+    "fingerprint": "bb04ff6f207a461850c03e6de113d9d158e1dd82",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Moss (YC F25) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+    "published_at": "2026-07-10T21:11:18.000Z",
+    "fingerprint": "9af979dfb872777dea30cdbca23e53b949df4993",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "An update on residential proxies and the scraper situation",
+    "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+    "published_at": "2026-07-10T19:38:34.000Z",
+    "fingerprint": "403e652581c218fb95aad1f47096c53e67c8f245",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My girlfriend sent me a picture of shark eggs from work.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1usvr8s/my_girlfriend_sent_me_a_picture_of_shark_eggs/",
+    "published_at": "2026-07-10T18:21:40.000Z",
+    "fingerprint": "83a3774012962c7ea75c92f4069162d802e85e55",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "The size of this tick I found on my leg (10x lens)",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uskl4a/the_size_of_this_tick_i_found_on_my_leg_10x_lens/",
+    "published_at": "2026-07-10T11:10:46.000Z",
+    "fingerprint": "16fe17158232306e1c586587b9c426a4197e1808",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "‘design is no longer hostage to the tool’: STILFOLD creates industrial origami from flat metal",
+    "link": "https://www.designboom.com/design/stilfold-curved-folding-metal-interview/",
+    "published_at": "2026-07-10T09:30:13.000Z",
+    "fingerprint": "1ecebead1fbe73d23d9cb0e9958210404c70dd1e",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Il Wall Street Journal: 'L'Iran ha un nuovo piano per uccidere Trump'",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/10/wsj-liran-ha-un-nuovo-piano-per-uccidere-trump_2d89bda9-5a66-47fb-8935-703c4b404760.html",
