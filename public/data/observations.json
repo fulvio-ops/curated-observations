@@ -1,5 +1,141 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Unexpected Solidlike Fracture in Simple Liquids",
+    "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+    "published_at": "2026-07-12T02:13:46.000Z",
+    "fingerprint": "99b4eaf46d8df2519752e4b860e06424526a799d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This Oddly Specific Fortune",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uu29ph/this_oddly_specific_fortune/",
+    "published_at": "2026-07-12T01:57:29.000Z",
+    "fingerprint": "7072ff6d6ceb2cbf150be294d0602838e069c8a6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This building's tower is rachet strapped to the building",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uu1ufc/this_buildings_tower_is_rachet_strapped_to_the/",
+    "published_at": "2026-07-12T01:37:00.000Z",
+    "fingerprint": "49a68ee6d947ac7c7a6ca0a1b1862400b76b67a5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "A dock that wakes up reliably",
+    "link": "https://fabiensanglard.net/tb4/index.html",
+    "published_at": "2026-07-12T00:48:10.000Z",
+    "fingerprint": "7895ce1e0f4ad5fafe99260ee39faf55998be9a1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Rose from my grandma’s garden is two different colors",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uu0k9q/rose_from_my_grandmas_garden_is_two_different/",
+    "published_at": "2026-07-12T00:36:59.000Z",
+    "fingerprint": "338fce8e2505bf6e982a5e51facd3d1354e8ac37",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+    "link": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+    "published_at": "2026-07-11T22:54:06.000Z",
+    "fingerprint": "8905cdbce0d55ca17e831b72b656967240d587af",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "RISCBoy is an open-source portable games console, designed from scratch",
+    "link": "https://github.com/Wren6991/RISCBoy",
+    "published_at": "2026-07-11T21:58:00.000Z",
+    "fingerprint": "4baf2916772d649657ce9d6e1b3d35de986edd7e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My sunburned back skin held water like a pouch after the shower.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1utw3ut/my_sunburned_back_skin_held_water_like_a_pouch/",
+    "published_at": "2026-07-11T21:22:38.000Z",
+    "fingerprint": "e2f32c42a3b34fa5cff71d85cfa2f4a19d33ef48",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Vienna’s Weirdest Street Objects Are Secretly Genius",
+    "link": "https://www.yankodesign.com/2026/07/11/viennas-weirdest-street-objects-are-secretly-genius/?utm_source=rss&utm_medium=rss&utm_campaign=viennas-weirdest-street-objects-are-secretly-genius",
+    "published_at": "2026-07-11T20:45:01.000Z",
+    "fingerprint": "8ee4db17084327489078c3d80d85f690c7121058",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "A small cloud casting a big shadow over the sky",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1utttoj/a_small_cloud_casting_a_big_shadow_over_the_sky/",
+    "published_at": "2026-07-11T19:50:20.000Z",
+    "fingerprint": "14479a3df1470bb8c354d123cb750ad89fa2f28d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Prefer strict tables in SQLite",
+    "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+    "published_at": "2026-07-11T17:33:55.000Z",
+    "fingerprint": "551cb1f11714344e1c96bad6f5ce7179a1e6edb1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Chat e messaggi, nei telefoni di Lavitola si cerca il movente",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/10/lattentato-a-ranucci-la-rai-sospende-le-repliche-estive-di-report_ab88430c-ba11-4435-bee0-d649611e589d.html",
+    "published_at": "2026-07-11T17:14:00.000Z",
+    "fingerprint": "f1eb946d77132579496819d8576566129b8227fb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+    "link": "https://nagylukas.github.io/orbit.html",
+    "published_at": "2026-07-11T16:39:02.000Z",
+    "fingerprint": "33126dc7ffbecd65c034468141b8f8c157c5b973",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "UPI: Anatomy of a Payment Transaction",
+    "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+    "published_at": "2026-07-11T16:33:42.000Z",
+    "fingerprint": "323d93036fff37aeaaf5586ce9b4acdb31ee4b11",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "A CD that came with the purchase of a 1996 Cadillac Catera",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1utm6gd/a_cd_that_came_with_the_purchase_of_a_1996/",
+    "published_at": "2026-07-11T14:52:25.000Z",
+    "fingerprint": "1f67a43cfe1abf45f6e7c1c39e4a56cd869b7aba",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "I had 140 gallstones removed yesterday",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uthtuz/i_had_140_gallstones_removed_yesterday/",
+    "published_at": "2026-07-11T11:41:11.000Z",
+    "fingerprint": "1bed3eb748669edef9ce5c331f32a3095ca612cd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Watermelon solid/liquid ratio",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1utgfyx/watermelon_solidliquid_ratio/",
+    "published_at": "2026-07-11T10:26:48.000Z",
+    "fingerprint": "fdbd0394111d2ce1e45230859e4c310e7a9780f3",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · mildlyinteresting",
     "title": "Zucchini I just picked from my garden",
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1ut8xsi/zucchini_i_just_picked_from_my_garden/",
@@ -69,6 +205,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1usvr8s/my_girlfriend_sent_me_a_picture_of_shark_eggs/",
     "published_at": "2026-07-10T18:21:40.000Z",
     "fingerprint": "83a3774012962c7ea75c92f4069162d802e85e55",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Teddy Reno, l'unico centenario della canzone italiana",
+    "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/07/10/teddy-reno-lunico-centenario-della-canzone-italiana_fa436ed3-95a5-47c1-95bb-48f97db4719a.html",
+    "published_at": "2026-07-10T16:27:35.000Z",
+    "fingerprint": "5cf2a5994b4e74b43ee46af80f4158502b8ffcf7",
     "micro_judgment": null
   },
   {
@@ -429,6 +573,14 @@
     "link": "https://www.producthunt.com/products/aura-28",
     "published_at": "2026-07-07T19:23:07.000Z",
     "fingerprint": "b098181194263168f0f33b10c2db72694a019bcc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Juicy - Mac Battery App",
+    "link": "https://www.producthunt.com/products/juicy-battery-app",
+    "published_at": "2026-07-07T15:30:20.000Z",
+    "fingerprint": "37b8f3e380451673b300936c16ee912f13161eec",
     "micro_judgment": null
   },
   {
