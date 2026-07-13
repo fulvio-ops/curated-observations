@@ -1,5 +1,141 @@
 [
   {
+    "source": "ANSA",
+    "title": "Droni ucraini sulla regione di Mosca, '3 morti'. Raid russi su Zaporizhzhia e Odessa",
+    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/13/russia-3-morti-e-5-feriti-in-attacchi-di-droni-sulla-regione-di-mosca_57f56782-ebf3-486b-96e1-42cd9a7695aa.html",
+    "published_at": "2026-07-13T06:34:02.000Z",
+    "fingerprint": "36b080545c3b6c3951607ffcd83291237931228e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Backtrack-Free Cursive",
+    "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+    "published_at": "2026-07-13T06:08:12.000Z",
+    "fingerprint": "ddf2c041d5d35d3c861a9bba0b9998a2125c6289",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My freezer made a perfect axe.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uv2b6r/my_freezer_made_a_perfect_axe/",
+    "published_at": "2026-07-13T05:20:33.000Z",
+    "fingerprint": "cdb9fbac29de67286cedd00325fc98633d7d0929",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Found an iron chest under the floorboards at an open house",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uv0one/found_an_iron_chest_under_the_floorboards_at_an/",
+    "published_at": "2026-07-13T03:55:47.000Z",
+    "fingerprint": "6a43fe643ad48e15bdd1bf7df198641fe7ff9289",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My sock has a hole in it that looks like Australia",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uuy52z/my_sock_has_a_hole_in_it_that_looks_like_australia/",
+    "published_at": "2026-07-13T01:52:07.000Z",
+    "fingerprint": "92ac1ec6471464dc49881dd712aae72edcac5631",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Designing and assembling my first PCB",
+    "link": "https://vilkeliskis.com/b/2026/0711.html",
+    "published_at": "2026-07-12T22:56:56.000Z",
+    "fingerprint": "dce32f7930747733eff5f1fabae712dcc5bc7cf9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Why Vanilla JavaScript",
+    "link": "https://guseyn.com/html/posts/why-vanilla-js.html",
+    "published_at": "2026-07-12T22:53:51.000Z",
+    "fingerprint": "6dceb9db50b2a9f97a6381e73411027298000b87",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Cyberpunk Comics, Manga and Graphic Novels",
+    "link": "https://shellzine.net/cyberpunk-comics/",
+    "published_at": "2026-07-12T22:45:31.000Z",
+    "fingerprint": "7155cc90d726befd417740fcc83a42d0a21d2f5f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This 2x4 from my 1976 house was made from a ~70 year old tree (lost track while counting)",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uuplyf/this_2x4_from_my_1976_house_was_made_from_a_70/",
+    "published_at": "2026-07-12T19:51:06.000Z",
+    "fingerprint": "3f64598b2f1713b7fa4cbd436153c83c66b68992",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Mondiali: Infantino ribadisce, 'valuteremo una Coppa a 64 squadre'",
+    "link": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/12/mondiali-infantino-ribadisce-valuteremo-una-coppa-a-64-squadre_b20265e1-84d5-42bc-a590-bedddaadf042.html",
+    "published_at": "2026-07-12T19:44:24.000Z",
+    "fingerprint": "eefc012668fd008f811e419b2c8e8cd66b270ab6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My parents’ letters of congratulations for their first and fiftieth anniversaries from father and son Canadian PMs Pierre and Justin Trudeau",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uup21q/my_parents_letters_of_congratulations_for_their/",
+    "published_at": "2026-07-12T19:29:58.000Z",
+    "fingerprint": "211e5e8c0dc5b819dd6ec339c8ac26748b8f1253",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Pressing per l'intesa in maggioranza, mediazione al fotofinish sulle preferenze",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/07/12/pressing-per-lintesa-in-maggioranza-mediazione-al-fotofinish-sulle-preferenze_46649e4e-b67f-4975-a6f2-fe9cca798ff2.html",
+    "published_at": "2026-07-12T18:52:10.000Z",
+    "fingerprint": "3fa16751f189c7dfbb6749460ebfcf486bab1d9e",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Si accende lo scontro sulla Biennale, Lega e Borgonzoni contro l'Ue",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/12/si-accende-lo-scontro-sulla-biennale-lega-e-borgonzoni-contro-lue_6a9c41fb-d3ae-4a2b-b0ac-e46f9180de77.html",
+    "published_at": "2026-07-12T18:28:56.000Z",
+    "fingerprint": "dc074c67b1ba1f91290b210ce229edac5b7a0ff7",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "In finale a Wimbledon Zverev cade, fair play di Sinner che lo aiuta a rialzarsi LE FOTO",
+    "link": "https://www.ansa.it/sito/photogallery/sport/2026/07/12/wimbledon-zverev-cade-fair-play-sinner-che-lo-aiuta-a-rialzarsi_807e9860-1109-4759-8d6b-7edca9eacf05.html",
+    "published_at": "2026-07-12T18:16:58.000Z",
+    "fingerprint": "dc845f9b0c53d96a7337085b34de253f05bd8457",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "È morto Lindsey Graham, il senatore falco alleato di Trump",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/12/morto-il-senatore-usa-repubblicano-lindsey-graham-stretto-alleato-di-trump_d727ee09-3e67-4eef-b3f8-cfa11d0d17de.html",
+    "published_at": "2026-07-12T17:59:07.000Z",
+    "fingerprint": "d1c050ccb8b06e73e3b2de5052e28d6941883421",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "A Turnip on Top: London’s Most Unexpected Design Win",
+    "link": "https://www.yankodesign.com/2026/07/12/a-turnip-on-top-londons-most-unexpected-design-win/?utm_source=rss&utm_medium=rss&utm_campaign=a-turnip-on-top-londons-most-unexpected-design-win",
+    "published_at": "2026-07-12T13:20:08.000Z",
+    "fingerprint": "9da377fb86a62b1d5cc5c2f3d7e4b2cb1894e040",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "nicolas nielsen designs self-driving HYVE beehive to pollinate cities",
+    "link": "https://www.designboom.com/design/nicolas-nielsen-self-driving-hyve-beehive-pollinate-cities/",
+    "published_at": "2026-07-12T10:50:13.000Z",
+    "fingerprint": "2c1f278d83f7bd7f6d0e8031be57cbeba6392be3",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Unexpected Solidlike Fracture in Simple Liquids",
     "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
@@ -53,6 +189,14 @@
     "link": "https://github.com/Wren6991/RISCBoy",
     "published_at": "2026-07-11T21:58:00.000Z",
     "fingerprint": "4baf2916772d649657ce9d6e1b3d35de986edd7e",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Tramonti, eclissi e volta celeste, 5 rotte per vedere i più spettacolari dell'estate",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/tempo_libero/2026/07/11/tramonti-eclissi-e-volta-celeste-5-rotte-per-vedere-i-piu-spettacolari-dellestate_88c48c28-f02f-4d1e-b90d-b73c1ff6eda3.html",
+    "published_at": "2026-07-11T21:24:02.000Z",
+    "fingerprint": "ac1e97a5631538c5509b0504d08758e133426ff9",
     "micro_judgment": null
   },
   {
@@ -125,6 +269,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uthtuz/i_had_140_gallstones_removed_yesterday/",
     "published_at": "2026-07-11T11:41:11.000Z",
     "fingerprint": "1bed3eb748669edef9ce5c331f32a3095ca612cd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "‘break away from a functional approach to making’: absurdist basket maker lewis prosser",
+    "link": "https://www.designboom.com/art/interview-absurdist-basket-maker-lewis-prosser/",
+    "published_at": "2026-07-11T10:30:40.000Z",
+    "fingerprint": "a3d96231262053cf5f639825748975be82461ca9",
     "micro_judgment": null
   },
   {
@@ -1125,6 +1277,14 @@
     "link": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
     "published_at": "2026-07-03T22:46:18.000Z",
     "fingerprint": "162e0aa23c431c64732617f74d3fae3fa88fc8eb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "AI Media Buyer By Creatify",
+    "link": "https://www.producthunt.com/products/creatify",
+    "published_at": "2026-07-03T22:38:25.000Z",
+    "fingerprint": "77fefde8eb5e8936cf8ab22c406481d254d607b9",
     "micro_judgment": null
   },
   {
@@ -12349,6 +12509,14 @@
     "link": "https://www.producthunt.com/products/opticlear-storage-cleaner",
     "published_at": "2026-04-13T13:23:13.000Z",
     "fingerprint": "82c986416411ce5884e92e6a7b666b607f7600cc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "UnitPay",
+    "link": "https://www.producthunt.com/products/unitpay",
+    "published_at": "2026-04-13T12:36:20.000Z",
+    "fingerprint": "3ff7724df46ddb77eda44f0c70f5f1c2063ed37e",
     "micro_judgment": null
   },
   {
