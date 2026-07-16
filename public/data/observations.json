@@ -1,5 +1,205 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Making 768 servers look like 1",
+    "link": "https://planetscale.com/blog/making-768-servers-look-like-1",
+    "published_at": "2026-07-16T03:36:42.000Z",
+    "fingerprint": "0eeaf4073559f0a94c0c134b1496334ec6f90596",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "I found a hummingbird feather today. It was such a random little treasure",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uxo6dh/i_found_a_hummingbird_feather_today_it_was_such_a/",
+    "published_at": "2026-07-16T01:00:17.000Z",
+    "fingerprint": "27aef1bc0d1ca7cda33dbf87d2e634ad2452657d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The Open-Source Printer With No Ink Locks Now Has a Prototype",
+    "link": "https://www.yankodesign.com/2026/07/15/the-open-source-printer-with-no-ink-locks-now-has-a-prototype/?utm_source=rss&utm_medium=rss&utm_campaign=the-open-source-printer-with-no-ink-locks-now-has-a-prototype",
+    "published_at": "2026-07-16T00:30:53.000Z",
+    "fingerprint": "47cc61ff39318a5b27d3f5fd33cba0de34d090ec",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "The Eureka Database",
+    "link": "https://www.producthunt.com/products/the-eureka-database",
+    "published_at": "2026-07-16T00:20:11.000Z",
+    "fingerprint": "b26020f2356042bbfef4c088a53a8e0b7990b260",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Was Counting My Coins And Realized I Have A Penny That's Over 100 Years Old (1919)",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uxmyoy/was_counting_my_coins_and_realized_i_have_a_penny/",
+    "published_at": "2026-07-16T00:06:22.000Z",
+    "fingerprint": "4c3e1972a21a518dbabd9119acea8c13422dfd49",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: One More Letter",
+    "link": "https://playonemoreletter.com/",
+    "published_at": "2026-07-15T23:10:10.000Z",
+    "fingerprint": "74a75b969e07ec59d42f0b2cf2b6dc548253fabb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "SQLite should have (Rust-style) editions",
+    "link": "https://mort.coffee/home/sqlite-editions/",
+    "published_at": "2026-07-15T22:42:58.000Z",
+    "fingerprint": "a44b2974187387ba005e8b2bf995fa4f1f12d247",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This 4-Player LEGO Chessboard Turns The Game Into Strategic Chaos",
+    "link": "https://www.yankodesign.com/2026/07/15/this-4-player-lego-chessboard-turns-the-game-into-strategic-chaos/?utm_source=rss&utm_medium=rss&utm_campaign=this-4-player-lego-chessboard-turns-the-game-into-strategic-chaos",
+    "published_at": "2026-07-15T21:30:57.000Z",
+    "fingerprint": "fbc28e52659ba51088c5a096f0c7ed330c3a3b32",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "published_at": "2026-07-15T21:16:36.000Z",
+    "fingerprint": "6ef9fae5aabd6acb6948ee988ed12521b21376d6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My ring has the USSR hammer and sickle stamped into it",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uxh3q2/my_ring_has_the_ussr_hammer_and_sickle_stamped/",
+    "published_at": "2026-07-15T20:15:47.000Z",
+    "fingerprint": "bf577a854afc6146d2688752814981e947bdf3c9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This 205-HP handcrafted hyperbike looks like it rode straight out of a Sci-Fi movie",
+    "link": "https://www.yankodesign.com/2026/07/15/this-205-hp-handcrafted-hyperbike-looks-like-it-rode-straight-out-of-a-sci-fi-movie/?utm_source=rss&utm_medium=rss&utm_campaign=this-205-hp-handcrafted-hyperbike-looks-like-it-rode-straight-out-of-a-sci-fi-movie",
+    "published_at": "2026-07-15T19:15:56.000Z",
+    "fingerprint": "6e16ddcec9ffca47ed4fe9188584be95837c2b2c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Inkling: Our Open-Weights Model",
+    "link": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "published_at": "2026-07-15T18:12:45.000Z",
+    "fingerprint": "7418b90f573372c8f3504db2438ea09ca4ca86f5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Strangely Long Taco Bell Bathroom",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uxctcb/strangely_long_taco_bell_bathroom/",
+    "published_at": "2026-07-15T17:36:06.000Z",
+    "fingerprint": "17380647fbf2069a06f33af2fc440e4e12d99f31",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Graft AI",
+    "link": "https://www.producthunt.com/products/graft-ai",
+    "published_at": "2026-07-15T17:24:23.000Z",
+    "fingerprint": "69cbd43b01eaa29e486fbe51f7ced58faa4d4df3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Nobody Expected a $28 Folding Clipboard to Be This Well Thought Out",
+    "link": "https://www.yankodesign.com/2026/07/15/nobody-expected-a-28-folding-clipboard-to-be-this-well-thought-out/?utm_source=rss&utm_medium=rss&utm_campaign=nobody-expected-a-28-folding-clipboard-to-be-this-well-thought-out",
+    "published_at": "2026-07-15T17:20:45.000Z",
+    "fingerprint": "7420d1b98f3f68bce0d093152c44b22969ee89ec",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Mondiali: in Perù oltre 550 neonati chiamati Herling Haaland",
+    "link": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/15/mondiali-in-peru-oltre-550-neonati-chiamati-herling-haaland_00c8c868-e74b-4a81-abec-4581c9185d29.html",
+    "published_at": "2026-07-15T16:39:52.000Z",
+    "fingerprint": "9fe36bd189f6451832b7eda0200e7ca2f393b362",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Burying Your House Sounds Extreme. HiberTec Makes It Make Sense.",
+    "link": "https://www.yankodesign.com/2026/07/15/burying-your-house-sounds-extreme-hibertec-makes-it-make-sense/?utm_source=rss&utm_medium=rss&utm_campaign=burying-your-house-sounds-extreme-hibertec-makes-it-make-sense",
+    "published_at": "2026-07-15T16:20:06.000Z",
+    "fingerprint": "eec8c38d3901c301f8142bdd9aa760f124b90def",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Infrazione Ue all'Italia e altri 13 sulla direttiva contro le querele bavaglio",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/07/15/infrazione-ue-allitalia-e-altri-13-sulla-direttiva-contro-le-querele-bavaglio_79359e9f-f66b-4de4-87ec-88826579a436.html",
+    "published_at": "2026-07-15T12:00:43.000Z",
+    "fingerprint": "229904d3d6b1c665c182e46348169b12aa1f3219",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "390kg of peanut butter cover rotterdam gallery floor, celebrating humor and absurdity",
+    "link": "https://www.designboom.com/art/peanut-butter-tribute-wim-t-schippers-dutch-artist-love-humor/",
+    "published_at": "2026-07-15T10:50:14.000Z",
+    "fingerprint": "15616a1b474d58ea989ae95187afb25c7897793f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Gioielli 'leggeri' e boom dei 14 carati, i nuovi trend con il caro-oro",
+    "link": "https://www.ansa.it/sito/podcast/la_tendenza_della_settimana/2026/07/14/gioielli-leggeri-e-boom-dei-14-carati-i-nuovi-trend-con-il-caro-oro_004ddc1f-27da-476d-a9bf-9d20f223d967.html",
+    "published_at": "2026-07-15T10:48:21.000Z",
+    "fingerprint": "af6f8a6ef81e0fe9b05a3a84d34fc181b2776464",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Alert Grouping by DrDroid",
+    "link": "https://www.producthunt.com/products/alert-audit-by-doctor-droid",
+    "published_at": "2026-07-15T06:55:52.000Z",
+    "fingerprint": "9cbe43c9657d7759f0cb0842ceac17b28fb152cd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "nudge2.0",
+    "link": "https://www.producthunt.com/products/nudge-26",
+    "published_at": "2026-07-15T04:42:28.000Z",
+    "fingerprint": "67ef7efd42d233646f6dcfae94f7dc093ad2dee6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Nitrosend",
+    "link": "https://www.producthunt.com/products/nitrosend",
+    "published_at": "2026-07-15T01:41:49.000Z",
+    "fingerprint": "57e068d5aa2f59a6f482d0c7c538edd0d95d3070",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Cito",
+    "link": "https://www.producthunt.com/products/cito",
+    "published_at": "2026-07-13T20:26:53.000Z",
+    "fingerprint": "3ff12e3b6cd498b4944ec6cb416d98d3a9f8e383",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Review by Eddie AI",
+    "link": "https://www.producthunt.com/products/eddie-your-ai-video-editor",
+    "published_at": "2026-07-13T16:45:01.000Z",
+    "fingerprint": "51cc4c690aafc744995e7e93787896f80c44f9d5",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Droni ucraini sulla regione di Mosca, '3 morti'. Raid russi su Zaporizhzhia e Odessa",
     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/13/russia-3-morti-e-5-feriti-in-attacchi-di-droni-sulla-regione-di-mosca_57f56782-ebf3-486b-96e1-42cd9a7695aa.html",
@@ -221,6 +421,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1utttoj/a_small_cloud_casting_a_big_shadow_over_the_sky/",
     "published_at": "2026-07-11T19:50:20.000Z",
     "fingerprint": "14479a3df1470bb8c354d123cb750ad89fa2f28d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "CodeNearby 2.0",
+    "link": "https://www.producthunt.com/products/codenearby",
+    "published_at": "2026-07-11T18:43:04.000Z",
+    "fingerprint": "595edeb4108bf7285c17613a47786f09d3ed5432",
     "micro_judgment": null
   },
   {
@@ -829,6 +1037,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1up7e9e/my_cats_toe_beans/",
     "published_at": "2026-07-06T19:22:39.000Z",
     "fingerprint": "65413a1d9ae20a634d16e276ea464180c394529d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Flodesk Studio",
+    "link": "https://www.producthunt.com/products/flodesk-studio",
+    "published_at": "2026-07-06T17:55:45.000Z",
+    "fingerprint": "017e7d36112f8779fc7dbff114ea2f6479e9092f",
     "micro_judgment": null
   },
   {
@@ -8773,6 +8989,14 @@
     "link": "https://www.ansa.it/sito/notizie/economia/2026/05/05/fmi-caro-energia-pesera-450-euro-su-famiglie-italiane-2.270-con_e5083ad4-5271-4973-990a-b5daf4237265.html",
     "published_at": "2026-05-05T15:52:13.000Z",
     "fingerprint": "80139642a75d262eaad6fb59e943874d0b5a4203",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Clerk | AI Assistant for Cap Tables",
+    "link": "https://www.producthunt.com/products/withmantle",
+    "published_at": "2026-05-05T15:37:15.000Z",
+    "fingerprint": "cd3192fd685139ff06a2ba0012256eb39b63e24e",
     "micro_judgment": null
   },
   {
