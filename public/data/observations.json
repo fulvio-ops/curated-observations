@@ -1,6 +1,126 @@
 [
   {
     "source": "Designboom",
+    "title": "when care learns to play: how design is reshaping pediatric healthcare",
+    "link": "https://www.designboom.com/design/care-play-design-pediatric-healthcare/",
+    "published_at": "2026-07-21T06:00:05.000Z",
+    "fingerprint": "530ee6ef604a1f9bc267a4cc3e1f6cd021ccc110",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Found a rainbow",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v26fl9/found_a_rainbow/",
+    "published_at": "2026-07-21T03:07:38.000Z",
+    "fingerprint": "8bc382c9276e4800cebe0c99e31cae8e7e462b7e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "OpenChatCut",
+    "link": "https://www.producthunt.com/products/openchatcut",
+    "published_at": "2026-07-21T02:24:43.000Z",
+    "fingerprint": "e78ea24f54e48485195cf843af1b2b5ab0d63696",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "I got a full spectrum camera. Tree leaves are pink.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v23xa6/i_got_a_full_spectrum_camera_tree_leaves_are_pink/",
+    "published_at": "2026-07-21T01:12:48.000Z",
+    "fingerprint": "8fd13c27010bfb6bcf5dd6a46625930a9419241e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Topolines",
+    "link": "https://www.producthunt.com/products/topolines",
+    "published_at": "2026-07-21T00:32:06.000Z",
+    "fingerprint": "af71a9351ff5dec9d5dc4b910039cb9adab458fd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "A $33,700 Tiny Home That Finally Gets the Floor Plan Right",
+    "link": "https://www.yankodesign.com/2026/07/20/a-33700-tiny-home-that-finally-gets-the-floor-plan-right/?utm_source=rss&utm_medium=rss&utm_campaign=a-33700-tiny-home-that-finally-gets-the-floor-plan-right",
+    "published_at": "2026-07-20T23:30:31.000Z",
+    "fingerprint": "90637e0c0ff78c8a774d4d21c21556831fb5edc6",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Burnham in sella, 'con me stabilità e sollievo a chi sta peggio'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/20/starmer-si-e-dimesso-burnham-nuovo-premier-restituire-la-stabilita-al-paese_566f5999-9480-49f1-ac8e-185882608aca.html",
+    "published_at": "2026-07-20T22:35:17.000Z",
+    "fingerprint": "3e90bcc53d9c2fb7a71ad4a346b6c4d7b2c11caa",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "I saw a Quantum Computer today!",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v209mw/i_saw_a_quantum_computer_today/",
+    "published_at": "2026-07-20T22:34:28.000Z",
+    "fingerprint": "c2047167e4bb33cd5422a24df734124ea105e808",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Underneath college apartment couch after 5 years",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v1yz7e/underneath_college_apartment_couch_after_5_years/",
+    "published_at": "2026-07-20T21:42:27.000Z",
+    "fingerprint": "ca212b78f290c5822c00fc00c3bbe729cc58f8d6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Nativ: Run frontier open models locally on your Mac",
+    "link": "https://blaizzy.github.io/nativ/",
+    "published_at": "2026-07-20T18:16:08.000Z",
+    "fingerprint": "668a3da10b83dc7b93e69226dd34b9dbd9f93491",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La benzina sale ancora, in autostrada oltre i 2 euro",
+    "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/07/20/i-prezzi-dei-carburanti-avanzano-ancora-benzina-a-2025-euro-in-autostrada_5419df74-6d77-47d8-8ffe-42b4e8bf5643.html",
+    "published_at": "2026-07-20T17:54:28.000Z",
+    "fingerprint": "badb75fdc09818647bcd562eed4326d8a1a90a58",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La Rai avvia verifiche interne sul caso Ranucci: 'Un atto dovuto'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/rai-al-via-verifiche-interne-sulla-vicenda-ranucci-_9aca97c8-defe-44df-b23e-176dbafdd8ec.html",
+    "published_at": "2026-07-20T16:59:57.000Z",
+    "fingerprint": "00fe17d60b540890556db2672f58d66bf96f3b3d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+    "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+    "published_at": "2026-07-20T16:36:36.000Z",
+    "fingerprint": "032fecd4d08f3c82599adea674dc3e1997202b87",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "China’s open-weights AI strategy is winning",
+    "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+    "published_at": "2026-07-20T14:21:47.000Z",
+    "fingerprint": "030bcb0010f145094bbb7f25797fe0a8e3338141",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Cool pattern on a leaf",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v1gx8q/cool_pattern_on_a_leaf/",
+    "published_at": "2026-07-20T09:47:50.000Z",
+    "fingerprint": "8e66c7767b199f021aa3888ae4f5bfd61fe52947",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
     "title": "cork, canvas, and lunar rover cues shape this electric beach buggy ‘amble one’",
     "link": "https://www.designboom.com/technology/cork-canvas-lunar-rover-electric-beach-buggy-amble-one/",
     "published_at": "2026-07-20T07:30:16.000Z",
@@ -69,6 +189,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v17vcc/my_boyfriends_dad_cuts_watermelon_and_rearranges/",
     "published_at": "2026-07-20T01:32:33.000Z",
     "fingerprint": "dcb0a29d86d8df077c5adaab96536eef1276c6e0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Diffsmith",
+    "link": "https://www.producthunt.com/products/diffsmith-code-review-studio",
+    "published_at": "2026-07-20T00:34:13.000Z",
+    "fingerprint": "2bc97e43ea8e1896ab0b599c3b9598c76c6bc7ad",
     "micro_judgment": null
   },
   {
@@ -352,6 +480,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Universal Dictation on Stream",
+    "link": "https://www.producthunt.com/products/stream-stream-ring-by-sandbar",
+    "published_at": "2026-07-17T16:09:12.000Z",
+    "fingerprint": "c259d73ca40ebe53b39de763e27cc8710c105668",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · mildlyinteresting",
     "title": "full photo albums that my granny created for our family vs. how many pictures of her are in them",
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1uz41k6/full_photo_albums_that_my_granny_created_for_our/",
@@ -552,6 +688,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "MeetIsland",
+    "link": "https://www.producthunt.com/products/meetisland",
+    "published_at": "2026-07-16T14:54:17.000Z",
+    "fingerprint": "8b6d0afe778ca9665562fb4efda81656f56a47cd",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "carsten höller’s latest exhibition in beijing has two versions, but you’ll only see one",
     "link": "https://www.designboom.com/art/carsten-holler-exhibition-beijing-two-versions-ucca-center-for-contemporary-art/",
@@ -565,6 +709,14 @@
     "link": "https://www.designboom.com/architecture/urban-soul-project-hospitality-design-spatial-experience/",
     "published_at": "2026-07-16T10:30:47.000Z",
     "fingerprint": "4bf215583e31d04f0f7555a09565e5cb785dd4f8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Routine AI",
+    "link": "https://www.producthunt.com/products/routine",
+    "published_at": "2026-07-16T10:06:36.000Z",
+    "fingerprint": "c31814c591a1f16234806ba1843b99216fef7bec",
     "micro_judgment": null
   },
   {
@@ -757,6 +909,14 @@
     "link": "https://www.producthunt.com/products/alert-audit-by-doctor-droid",
     "published_at": "2026-07-15T06:55:52.000Z",
     "fingerprint": "9cbe43c9657d7759f0cb0842ceac17b28fb152cd",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Bolna Agent Studio",
+    "link": "https://www.producthunt.com/products/bolna-2",
+    "published_at": "2026-07-15T06:26:29.000Z",
+    "fingerprint": "e11d9905e5c38455838448a0c5e645a042f00f72",
     "micro_judgment": null
   },
   {
