@@ -1,5 +1,133 @@
 [
   {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Melted+froze my kids' broken crayons instead of tossing them",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v35ilb/meltedfroze_my_kids_broken_crayons_instead_of/",
+    "published_at": "2026-07-22T04:23:52.000Z",
+    "fingerprint": "9b91d7c71f1036b14d093a6ecd8ae825fdf9b721",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Late.sh – a command-line Clubhouse for computer people",
+    "link": "https://late.sh/",
+    "published_at": "2026-07-22T02:32:30.000Z",
+    "fingerprint": "30a4f28a881780c4c434f4aaf670dafa25e965f5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The 5 Details Every Great EDC Design Shares in 2026",
+    "link": "https://www.yankodesign.com/2026/07/21/the-5-details-every-great-edc-design-shares-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-5-details-every-great-edc-design-shares-in-2026",
+    "published_at": "2026-07-22T01:46:49.000Z",
+    "fingerprint": "5ff61faac7232b50aa142f73a651059d62a530ed",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Paper MacBook Pro: Apple’s Thinnest Redesign Now Targeting 2027, Not 2026",
+    "link": "https://www.yankodesign.com/2026/07/21/paper-macbook-pro-apples-thinnest-redesign-now-targeting-2027-not-2026/?utm_source=rss&utm_medium=rss&utm_campaign=paper-macbook-pro-apples-thinnest-redesign-now-targeting-2027-not-2026",
+    "published_at": "2026-07-22T00:30:22.000Z",
+    "fingerprint": "565183a0477bb61094ba3c3253113452a465d81f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "I slapped a mosquito so hard it left a silhouette on my hand",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v2zhjm/i_slapped_a_mosquito_so_hard_it_left_a_silhouette/",
+    "published_at": "2026-07-21T23:52:28.000Z",
+    "fingerprint": "0b9c4e85428ef2777e0aac48142f7b339f717d53",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "After a week of heavy rain, I was mowing my yard when I noticed this slime mold that appeared, in what seems like a perfect circle.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v2yaa1/after_a_week_of_heavy_rain_i_was_mowing_my_yard/",
+    "published_at": "2026-07-21T23:02:09.000Z",
+    "fingerprint": "10f47610d9587a1d0d756c9332575c57e1a43eb8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Tiny Home Is a Wine-On-Tap, Off-Grid Luxury Retreat in the Australian Bush",
+    "link": "https://www.yankodesign.com/2026/07/21/this-tiny-home-is-a-wine-on-tap-off-grid-luxury-retreat-in-the-australian-bush/?utm_source=rss&utm_medium=rss&utm_campaign=this-tiny-home-is-a-wine-on-tap-off-grid-luxury-retreat-in-the-australian-bush",
+    "published_at": "2026-07-21T22:30:31.000Z",
+    "fingerprint": "297ca2376eef1ad9b4dc39eacf7bce088a4ded7d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+    "link": "https://ai.google.dev/gemini-api/docs/latest-model",
+    "published_at": "2026-07-21T21:27:54.000Z",
+    "fingerprint": "abbb812351a17bed5d215f9f4bbecdb182701749",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "A digestion of the Jacobian conjecture counterexample",
+    "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+    "published_at": "2026-07-21T21:09:25.000Z",
+    "fingerprint": "07ef393d6e7a34a326d3dbe4ae1d95aa490eaf2f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Tesla Dropped a $225 Kids Bike That’s Already Worth $8,000",
+    "link": "https://www.yankodesign.com/2026/07/21/tesla-dropped-a-225-kids-bike-thats-already-worth-8000/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-dropped-a-225-kids-bike-thats-already-worth-8000",
+    "published_at": "2026-07-21T20:30:27.000Z",
+    "fingerprint": "0287f04fb82615a97254a4111a3477ecef1c5dd2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+    "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+    "published_at": "2026-07-21T19:04:39.000Z",
+    "fingerprint": "fadac5ad9fcdeb9e9cd114d28e01135f5e059f73",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Redential",
+    "link": "https://www.producthunt.com/products/redential",
+    "published_at": "2026-07-21T17:49:55.000Z",
+    "fingerprint": "41a5dcad0046b543e52d1a65b3aec1b3580bb6af",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Gemini 3.6 Flash Family",
+    "link": "https://www.producthunt.com/products/gemini-3-6-flash-family",
+    "published_at": "2026-07-21T17:36:22.000Z",
+    "fingerprint": "d51227f0514381d51dbb8a26858d5aedd68b24ef",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Aurore e comete, il cielo dà spettacolo sulle Dolomiti",
+    "link": "https://www.ansa.it/canale_scienza/notizie/scienza_arte/2026/07/21/aurore-e-comete-il-cielo-da-spettacolo-sulle-dolomiti-_e4c26e23-ecc8-4877-b0e0-ac04180dcf32.html",
+    "published_at": "2026-07-21T15:27:45.000Z",
+    "fingerprint": "7d27f2233f84ee279775605f4c641152df1bf715",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Light Flip",
+    "link": "https://www.producthunt.com/products/light-phone",
+    "published_at": "2026-07-21T15:27:43.000Z",
+    "fingerprint": "eef772e9ec9f74293082c4fb4521cafac60b8e21",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "box",
+    "link": "https://www.producthunt.com/products/box-4",
+    "published_at": "2026-07-21T09:59:26.000Z",
+    "fingerprint": "f8a4f7f32eca0669ff6172f77cf4ad85bf70622c",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "when care learns to play: how design is reshaping pediatric healthcare",
     "link": "https://www.designboom.com/design/care-play-design-pediatric-healthcare/",
@@ -109,6 +237,14 @@
     "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
     "published_at": "2026-07-20T14:21:47.000Z",
     "fingerprint": "030bcb0010f145094bbb7f25797fe0a8e3338141",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "ArachStudio",
+    "link": "https://www.producthunt.com/products/arachstudio",
+    "published_at": "2026-07-20T13:03:20.000Z",
+    "fingerprint": "2c050d60c88528978fa33557cc65bd8c88c156ee",
     "micro_judgment": null
   },
   {
