@@ -1,5 +1,125 @@
 [
   {
+    "source": "ANSA",
+    "title": "Da Garuda a Morten, ecco i film e i cortometraggi premiati al Giffoni",
+    "link": "https://www.ansa.it/sito/notizie/cultura/2026/07/25/da-garuda-a-morten-ecco-i-film-e-i-cortometraggi-premiati-a-giffoni_37fb23e3-8b43-4291-957d-15b7221e9115.html",
+    "published_at": "2026-07-26T07:28:31.000Z",
+    "fingerprint": "04601eedc9b80c3a6058f8b376de420605b28bcb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This bill from the Cook Islands",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v6wqgy/this_bill_from_the_cook_islands/",
+    "published_at": "2026-07-26T07:18:21.000Z",
+    "fingerprint": "636915ac328b5b476ffdaf9d4a76129040729c78",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Furgone contro la folla al Pride di Berlino, un morto e 16 feriti",
+    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/furgone-contro-la-folla-al-pride-di-berlino-un-morto-e-16-feriti_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
+    "published_at": "2026-07-26T06:58:44.000Z",
+    "fingerprint": "b3b6b6f9220067626457f67ced4f52406ef060ca",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+    "link": "https://github.com/mulfyx/w4me-station",
+    "published_at": "2026-07-26T04:19:59.000Z",
+    "fingerprint": "21e9215ca429778955b1b47340bbdad62eb7a5cc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "The transformation of our farm after just a few days of rain",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v6rqmb/the_transformation_of_our_farm_after_just_a_few/",
+    "published_at": "2026-07-26T02:57:58.000Z",
+    "fingerprint": "5a5d38bca296b4d972d850f14ed60db2976ffe4d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Systems and Delays",
+    "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+    "published_at": "2026-07-26T00:37:30.000Z",
+    "fingerprint": "fc6bfabc8629675f5227749c2867831f3f101b44",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+    "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
+    "published_at": "2026-07-26T00:36:30.000Z",
+    "fingerprint": "9133cb7f83401f963c37646e003b9883102be241",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Found this huge chunk of whale baleen by the shore",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v6o04a/found_this_huge_chunk_of_whale_baleen_by_the_shore/",
+    "published_at": "2026-07-26T00:00:15.000Z",
+    "fingerprint": "65b4d11495fa19a314177cec7479c2d9b7c2c90c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Number of parking tickets on this car.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v6l1t6/number_of_parking_tickets_on_this_car/",
+    "published_at": "2026-07-25T21:51:17.000Z",
+    "fingerprint": "39f51b6a80ed55697fc493508625b26487389a9a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Turn And Face The Strange",
+    "link": "https://fly.io/blog/kurt-scott-money-sprites/",
+    "published_at": "2026-07-25T20:43:11.000Z",
+    "fingerprint": "ace995e478d6a513263ce0a3b532492d70426972",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Mosca punge Crosetto: 'Un posto a Fedorov? Meglio Bin Laden'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/25/zakharova-crosetto-offre-un-posto-a-fedorov-meglio-bin-laden..._e7bc33b0-2bb6-4506-9549-2d10566f73c4.html",
+    "published_at": "2026-07-25T18:03:04.000Z",
+    "fingerprint": "3eda2cd0da014beb7621685ee31f35954c239c4f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Brolly, a plain-text weather forecast site",
+    "link": "https://brolly.sh/forecast/RWFP2qW8",
+    "published_at": "2026-07-25T17:34:34.000Z",
+    "fingerprint": "585f3ceace3397b60ab56269360d7b1b585716e2",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Istat, i caregiver sono oltre 12 milioni, le donne più impegnate",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/07/25/istat-i-caregiver-sono-oltre-12-milioni-le-donne-piu-impegnate_8a3ac910-ac47-40e1-a240-9971be4f9a77.html",
+    "published_at": "2026-07-25T15:50:15.000Z",
+    "fingerprint": "829c18bfe161f63853ef70b9df8985716cf45ce6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Japanese Designer Built Furniture With No Glue or Screws",
+    "link": "https://www.yankodesign.com/2026/07/25/japanese-designer-built-furniture-with-no-glue-or-screws/?utm_source=rss&utm_medium=rss&utm_campaign=japanese-designer-built-furniture-with-no-glue-or-screws",
+    "published_at": "2026-07-25T15:20:34.000Z",
+    "fingerprint": "d795ab5de549c0496c71b626f77fb272a830b168",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My dad's blood sugar pill is pink and heart-shaped",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v69g2v/my_dads_blood_sugar_pill_is_pink_and_heartshaped/",
+    "published_at": "2026-07-25T14:10:46.000Z",
+    "fingerprint": "7a8041e566c41fa6300489ce64225318cd8317e1",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "grid of arches wraps ODA’s newly completed POST tower in rotterdam",
     "link": "https://www.designboom.com/architecture/arches-oda-completed-post-tower-rotterdam-netherlands/",
@@ -2789,6 +2909,14 @@
     "link": "https://www.yankodesign.com/2026/07/03/alien-like-earphones-play-music-on-your-face-when-ears-cant-hear-it/?utm_source=rss&utm_medium=rss&utm_campaign=alien-like-earphones-play-music-on-your-face-when-ears-cant-hear-it",
     "published_at": "2026-07-03T14:20:31.000Z",
     "fingerprint": "84459d0e7d204bfc05139941e104d2e1eb2b2685",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Forgeon",
+    "link": "https://www.producthunt.com/products/forgeon-2",
+    "published_at": "2026-07-03T11:07:49.000Z",
+    "fingerprint": "448388ca99de5f9ab3a8f64d4aa0542e23874045",
     "micro_judgment": null
   },
   {
