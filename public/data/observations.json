@@ -1,10 +1,186 @@
 [
   {
     "source": "ANSA",
+    "title": "Cortina, Madonna di Campiglio e Courmayeur regine delle mete montane",
+    "link": "https://www.ansa.it/canale_viaggi/notizie/mare_monti/2026/07/28/cortina-madonna-di-campiglio-e-courmayeur-regine-delle-mete-montane_c78b2ad6-c2c2-49fc-afbb-feefe8fefae7.html",
+    "published_at": "2026-07-29T07:18:18.000Z",
+    "fingerprint": "9efa8ac315a366382df9b3a5a3b7b1dd98b8ecae",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Mahatma Gandhi writes to Hitler",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v9okm1/mahatma_gandhi_writes_to_hitler/",
+    "published_at": "2026-07-29T07:02:56.000Z",
+    "fingerprint": "63fd0e0531fea2f3b08f9885610fa765b9ff085f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Tajani annuncia il Safe poi si corregge, è scontro nella maggioranza",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/07/28/tajani-abbiamo-deciso-di-chiedere-safe-per-149-miliardi_14b82a80-5820-48e4-865f-082cdab8620b.html",
+    "published_at": "2026-07-29T06:54:52.000Z",
+    "fingerprint": "5ab719e1b88cff0e16470cc0e4ed079c7a0d873b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+    "link": "https://transformer-transformer.github.io/",
+    "published_at": "2026-07-29T03:52:29.000Z",
+    "fingerprint": "6490a689a864544daa1ec414983ee34f2911c52d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My black wisdom teeth",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v9k2oi/my_black_wisdom_teeth/",
+    "published_at": "2026-07-29T03:14:23.000Z",
+    "fingerprint": "b04fd5c998abc9b0f04900550ab08cdae7488ee6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Hooray for the Sockets Interface",
+    "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+    "published_at": "2026-07-29T02:25:29.000Z",
+    "fingerprint": "03d943a530ead2d2e95e3fc356698ba0a82d03cb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My family's bills in 1994. Our 2 bedroom home was $300 a month.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v9ixjw/my_familys_bills_in_1994_our_2_bedroom_home_was/",
+    "published_at": "2026-07-29T02:22:16.000Z",
+    "fingerprint": "6785aef33c5ed67bc77ed79ebc264843acdd0597",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "biohazard garbage can on the end of someone's driveway",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v9ixh7/biohazard_garbage_can_on_the_end_of_someones/",
+    "published_at": "2026-07-29T02:22:12.000Z",
+    "fingerprint": "16667e69c8249290910444d55fe3ce0b2bcef408",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Multiple Mouse Cursors in Wayland",
+    "link": "https://blinry.org/multi-seat-wayland/",
+    "published_at": "2026-07-29T00:59:37.000Z",
+    "fingerprint": "8cb3ab5900d0ea1358c3993b7d9ca9ba0512a6c2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "black asphalt and birch plywood shape compact retreat within czech barn",
+    "link": "https://www.designboom.com/architecture/black-asphalt-birch-plywood-compact-retreat-czech-barn-facha-architekti/",
+    "published_at": "2026-07-28T23:55:47.000Z",
+    "fingerprint": "260391ea76f840cfb8cda4a5db8980bdf6133bd5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Saw a baby turtle make it to the ocean this morning",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v9dgwq/saw_a_baby_turtle_make_it_to_the_ocean_this/",
+    "published_at": "2026-07-28T22:31:30.000Z",
+    "fingerprint": "d5ca5b276f0130f9f93f6825547ab9b475767223",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Task Monki",
+    "link": "https://www.producthunt.com/products/task-monki",
+    "published_at": "2026-07-28T21:38:08.000Z",
+    "fingerprint": "10767adaf238b257cc83d18b0c92a98968d36547",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Meet The Lamp That’s Actually Grown, Not Made",
+    "link": "https://www.yankodesign.com/2026/07/28/meet-the-lamp-thats-actually-grown-not-made/?utm_source=rss&utm_medium=rss&utm_campaign=meet-the-lamp-thats-actually-grown-not-made",
+    "published_at": "2026-07-28T21:30:24.000Z",
+    "fingerprint": "52163a5e64863d868a8096224d4e33461dc56759",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This ‘Liquid Metal’ Ducati 821 Was Built by Hand in Vietnam, and Only One Remains",
+    "link": "https://www.yankodesign.com/2026/07/28/this-liquid-metal-ducati-821-was-built-by-hand-in-vietnam-and-only-one-remains/?utm_source=rss&utm_medium=rss&utm_campaign=this-liquid-metal-ducati-821-was-built-by-hand-in-vietnam-and-only-one-remains",
+    "published_at": "2026-07-28T19:15:59.000Z",
+    "fingerprint": "e3838b0471b6a9b6f4b14b01b6658cdb25e6a958",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+    "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+    "published_at": "2026-07-28T17:37:12.000Z",
+    "fingerprint": "0bd2bcbcc3191ce267c76f0aa8e94cbcf6b85be7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Huion Note E Review: The Notebook That Never Runs Out of Pages",
+    "link": "https://www.yankodesign.com/2026/07/28/huion-note-e-review-the-notebook-that-never-runs-out-of-pages/?utm_source=rss&utm_medium=rss&utm_campaign=huion-note-e-review-the-notebook-that-never-runs-out-of-pages",
+    "published_at": "2026-07-28T16:20:01.000Z",
+    "fingerprint": "f9e53856c241761b1ac89af29830897b7d9a3f2b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Kimi K3 Architecture Overview and Notes",
+    "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+    "published_at": "2026-07-28T15:48:34.000Z",
+    "fingerprint": "f9e6dfc22c9530e48709a66a8a36a6cb2d2f0d2e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Nike launches Air Zoom Hyperslide, pair of slip-ons that heat and massage your feet",
+    "link": "https://www.yankodesign.com/2026/07/28/nike-launches-air-zoom-hyperslide-pair-of-slip-ons-that-heat-and-massage-your-feet/?utm_source=rss&utm_medium=rss&utm_campaign=nike-launches-air-zoom-hyperslide-pair-of-slip-ons-that-heat-and-massage-your-feet",
+    "published_at": "2026-07-28T15:20:45.000Z",
+    "fingerprint": "792c389adcc28f4d2605ebf8ffb9e8e444513fe0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Totem",
+    "link": "https://www.producthunt.com/products/totem-5",
+    "published_at": "2026-07-28T10:55:15.000Z",
+    "fingerprint": "de99a0c184d7d38d121249abec56ed8ebd6c10ed",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Lamoom",
+    "link": "https://www.producthunt.com/products/lamoom",
+    "published_at": "2026-07-28T05:45:04.000Z",
+    "fingerprint": "58f703d1fcd7157fdd1dd36f8b1aaf261d14c795",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Pinery Prose",
+    "link": "https://www.producthunt.com/products/pinery",
+    "published_at": "2026-07-27T16:04:39.000Z",
+    "fingerprint": "853e17c0839718a2cced6d7047c41d6d24eec82c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "La cittadina francese di Le Porge devastata dagli incendi",
     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/07/27/la-cittadina-francese-di-le-porge-devastata-dagli-incendi_3df513b9-1458-489b-b633-e4b41f007294.html",
     "published_at": "2026-07-27T08:20:46.000Z",
     "fingerprint": "d924f1944ab6fb6127504bd363f2379167a8c185",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Firstpass",
+    "link": "https://www.producthunt.com/products/glaze-4",
+    "published_at": "2026-07-27T07:00:19.000Z",
+    "fingerprint": "5d521565a90624b1abd47636eb504004352fde0a",
     "micro_judgment": null
   },
   {
@@ -432,6 +608,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Lottie Creator 2.0",
+    "link": "https://www.producthunt.com/products/lottiefiles",
+    "published_at": "2026-07-24T07:13:39.000Z",
+    "fingerprint": "4ccb9ae4e069c43eec7d6db29eaf61820c232535",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · mildlyinteresting",
     "title": "Cloud looks like a dinosaur",
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v4xiu8/cloud_looks_like_a_dinosaur/",
@@ -445,6 +629,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1v4x71m/a_lovely_snow_dirt_angel_left_on_my_car_by_a_baby/",
     "published_at": "2026-07-24T01:31:25.000Z",
     "fingerprint": "29fa9b132da5f628b91ac5cd2766151d2e18aac7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "MemoryCustodian",
+    "link": "https://www.producthunt.com/products/memorycustodian",
+    "published_at": "2026-07-23T21:50:32.000Z",
+    "fingerprint": "69fc5ee7648d2dbb1ae416d8db8aa30e1ffcdf5c",
     "micro_judgment": null
   },
   {
@@ -2453,6 +2645,14 @@
     "link": "https://www.producthunt.com/products/orbit-for-mac",
     "published_at": "2026-07-08T06:52:08.000Z",
     "fingerprint": "9c1f80b0e15d404b22ffb21520e4dc1b41bae5c9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Prefactor",
+    "link": "https://www.producthunt.com/products/prefactor",
+    "published_at": "2026-07-08T06:03:58.000Z",
+    "fingerprint": "138f0a9a7b3798834b32e7db08f273520c414178",
     "micro_judgment": null
   },
   {
@@ -8600,6 +8800,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Leaping AI",
+    "link": "https://www.producthunt.com/products/leaping-ai",
+    "published_at": "2026-05-19T00:44:30.000Z",
+    "fingerprint": "c01a22ecedcb8d54eb7024d2b164420d94e6374e",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
     "link": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
@@ -10709,6 +10917,14 @@
     "link": "https://www.designboom.com/design/elisava-master-applied-ai-artificial-intelligence/",
     "published_at": "2026-05-04T09:30:18.000Z",
     "fingerprint": "cba41e685409b1e3c715e12e508cb797176b0300",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Denovo",
+    "link": "https://www.producthunt.com/products/denovo-business-manager",
+    "published_at": "2026-05-04T09:24:38.000Z",
+    "fingerprint": "15b8d512e2960258dbd3184679a45c7fc970eafa",
     "micro_judgment": null
   },
   {
@@ -31669,6 +31885,14 @@
     "link": "https://www.producthunt.com/products/wandesk-ai",
     "published_at": "2025-12-06T03:15:50.000Z",
     "fingerprint": "341c02f069ef3a0c77f6e7b99bd543dafe8cf4f4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "ChatBeacon AIX",
+    "link": "https://www.producthunt.com/products/chatbeacon-2-0-live-chat",
+    "published_at": "2025-12-05T16:26:34.000Z",
+    "fingerprint": "b072c8f7496c89a26203b29837feebc0b903e350",
     "micro_judgment": null
   },
   {
