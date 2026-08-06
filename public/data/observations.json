@@ -1,5 +1,157 @@
 [
   {
+    "source": "ANSA",
+    "title": "Omicidio in carcere a Prato, la vittima è un detenuto 32enne",
+    "link": "https://www.ansa.it/sito/notizie/flash/2026/08/06/-omicidio-in-carcere-a-prato-vittima-detenuto-32enne-_4a69f4df-90f7-49e8-b28e-4d080805a237.html",
+    "published_at": "2026-08-06T07:31:57.000Z",
+    "fingerprint": "81384ab6cf8cafe362c0db73e825aa1c0785ac37",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Maxi frana in Alto Adige, Valle Aurina isolata",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/maxi-frana-in-alto-adige-valle-aurina-isolata_e4119983-fdda-462f-858d-ecb789abe860.html",
+    "published_at": "2026-08-06T07:25:41.000Z",
+    "fingerprint": "86cb0518569b3d69435044c54084e7821bf84dbb",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "PRIME PAGINE | Camera nega l'uso delle chat di Delmastro, l'Aula finisce in bagarre",
+    "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/06/prime-pagine-camera-nega-luso-delle-chat-di-delmastro-laula-finisce_a37d4c9b-572d-46ec-82b9-73a1dbbfffb1.html",
+    "published_at": "2026-08-06T05:38:19.000Z",
+    "fingerprint": "f031645ab7515b124626e401c574507ee55b22d3",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Caldo e afa non mollano, l'allerta fino a dopo ferragosto",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/06/caldo-e-afa-non-mollano-lallerta-fino-a-dopo-ferragosto_ff44348d-59a3-4e61-8200-a7cd8663c386.html",
+    "published_at": "2026-08-06T05:14:06.000Z",
+    "fingerprint": "19de31ce365000002d65ccc77e166e362c541f5f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Our new kitten (left) has an unusually long tail",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1vgty5k/our_new_kitten_left_has_an_unusually_long_tail/",
+    "published_at": "2026-08-06T04:21:49.000Z",
+    "fingerprint": "1d2e7a797429803eb65392939d5a6d8bcec40823",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The $195K Tiny Home That Finally Makes Sense for Families",
+    "link": "https://www.yankodesign.com/2026/08/05/the-195k-tiny-home-that-finally-makes-sense-for-families/?utm_source=rss&utm_medium=rss&utm_campaign=the-195k-tiny-home-that-finally-makes-sense-for-families",
+    "published_at": "2026-08-05T23:30:20.000Z",
+    "fingerprint": "b900b542366a55956e6f495c86645a8a22777c85",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The title cards in Blade Runner are amazing",
+    "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+    "published_at": "2026-08-05T21:29:23.000Z",
+    "fingerprint": "d368fc5854588170b1c3699a7ddc038f9a2ff219",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Prime Agent: A self-improving RLM agent",
+    "link": "https://www.primeintellect.ai/blog/prime-agent",
+    "published_at": "2026-08-05T21:11:57.000Z",
+    "fingerprint": "c9f4237655432df8d2112720e613269d2fc6359c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "when drawings take flight: the art and design of kites",
+    "link": "https://www.designboom.com/design/drawings-take-flight-art-kites-play/",
+    "published_at": "2026-08-05T20:35:23.000Z",
+    "fingerprint": "ab8e213d8d6701e40c06eaf287766d1e2416f66c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This 3D-printed modular sneaker ditches glue for repairable design inspired by Asian craftsmanship",
+    "link": "https://www.yankodesign.com/2026/08/05/this-3d-printed-modular-sneaker-ditches-glue-for-repairable-design-inspired-by-asian-craftsmanship/?utm_source=rss&utm_medium=rss&utm_campaign=this-3d-printed-modular-sneaker-ditches-glue-for-repairable-design-inspired-by-asian-craftsmanship",
+    "published_at": "2026-08-05T20:30:10.000Z",
+    "fingerprint": "82e0b5a2835a846a92701d8aa6ad8449e1e76676",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Muse Code and Muse Spark 1.2",
+    "link": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+    "published_at": "2026-08-05T19:15:52.000Z",
+    "fingerprint": "1f576edc7dcbcf09cb7b0db927a9e9b451e9072e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+    "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+    "published_at": "2026-08-05T18:18:56.000Z",
+    "fingerprint": "59abd28df08c23676d927e09ad07397de3635f11",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+    "link": "https://www.hyperprobe.co",
+    "published_at": "2026-08-05T16:47:15.000Z",
+    "fingerprint": "b54ec3ed67c03bc07705459425c183f78baa7baa",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Nobody Designed a Drum Kit for Beginners. Until Boxboom.",
+    "link": "https://www.yankodesign.com/2026/08/05/nobody-designed-a-drum-kit-for-beginners-until-boxboom/?utm_source=rss&utm_medium=rss&utm_campaign=nobody-designed-a-drum-kit-for-beginners-until-boxboom",
+    "published_at": "2026-08-05T16:20:36.000Z",
+    "fingerprint": "739b7ff7ed1065918a12f5e941d0f73bca835b9e",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Le mostre del weekend, da Dante Ferretti a Luigi Spina",
+    "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/08/05/le-mostre-del-weekend-da-dante-ferretti-a-luigi-spina_95cf1b93-b80b-4f42-b266-c8b3963aae30.html",
+    "published_at": "2026-08-05T15:32:14.000Z",
+    "fingerprint": "c19ad39e16e00d19530d24c66937dc3408114fbd",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'agricoltura tra erogazioni e legalità, ad ANSAIncontra il direttore di Agea",
+    "link": "https://www.ansa.it/sito/notizie/ansa_incontra/2026/08/05/lagricoltura-tra-erogazioni-e-legalita-ad-ansaincontra-il-direttore-di-agea_824e7024-5f9a-4889-bc11-d9a2599ccc66.html",
+    "published_at": "2026-08-05T15:24:48.000Z",
+    "fingerprint": "24e5a79ea08cad1ee9fc3da7a3be903f8ec0ebe2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The Entropy of a Markov Chain",
+    "link": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+    "published_at": "2026-08-05T14:00:10.000Z",
+    "fingerprint": "88c2e541c655ed6edb602adc338b1ce3cf3fb805",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Marte, sempre di più gli indizi che  possa avere ospitato la vita",
+    "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/05/marte-sempre-di-piu-gli-indizi-che-possa-avere-ospitato-la-vita_952aed05-a0a5-40f7-8481-80231fe88acd.html",
+    "published_at": "2026-08-05T07:49:03.000Z",
+    "fingerprint": "183af1801325b682524f88c0f745e9cf1951440d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Wispr Flow Notetaker",
+    "link": "https://www.producthunt.com/products/wisprflow",
+    "published_at": "2026-08-04T15:22:48.000Z",
+    "fingerprint": "aeca08e3697dd3c2a761aee4e39367c05e941c92",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · mildlyinteresting",
     "title": "Moss on this speed limit sign is growing in the pattern of the lights",
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1vf2b5v/moss_on_this_speed_limit_sign_is_growing_in_the/",
