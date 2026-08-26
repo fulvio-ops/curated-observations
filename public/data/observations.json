@@ -1,5 +1,109 @@
 [
   {
+    "source": "ANSA",
+    "title": "Raffica di sanzioni sul 'Made in Usa', schiaffo del Canada a Trump",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/25/il-canada-risponde-a-trump-dazi-dal-15-al-50-sui-prodotti-usa_3b7a36e4-edac-4f57-8c59-a2e2f9d851ca.html",
+    "published_at": "2026-08-26T05:31:03.000Z",
+    "fingerprint": "707c940cb927e643c506708c7f46057dbe9e8cc8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Friend poured hot bacon fat in a cold glass and it broke clean in half",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1vynw8f/friend_poured_hot_bacon_fat_in_a_cold_glass_and/",
+    "published_at": "2026-08-26T05:25:26.000Z",
+    "fingerprint": "a06db7f8e442bb7f092a98b7bd0fdd5a99ef7d4c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Incendio in un reparto di ginecologia, 14 neonati morti a Islamabad",
+    "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/incendio-in-un-reparto-di-ginecologia-14-neonati-morti-a-islamabad_30e501d9-0894-4ac2-b205-02412a01c11e.html",
+    "published_at": "2026-08-26T05:21:09.000Z",
+    "fingerprint": "868a9fd44bbb3871c34e72cd331f0d5b3f17e9cb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+    "link": "https://arxiv.org/abs/2607.21503",
+    "published_at": "2026-08-26T02:35:25.000Z",
+    "fingerprint": "8e16c1c9ea28aec8a42a20eadc00fdd8f83226a6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+    "link": "https://github.com/runetes/maiao",
+    "published_at": "2026-08-25T22:40:07.000Z",
+    "fingerprint": "279d611c1a4e3e2da8a6b528df99b41fce6b4740",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "A brief history of federal lift ticket regulation",
+    "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+    "published_at": "2026-08-25T19:25:43.000Z",
+    "fingerprint": "a5616c1abc063bfcf01a9c2b18fbcd119cd2be36",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Taglia Usa da 10 milioni di dollari sui vertici militari dei Pasdaran",
+    "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/25/taglia-usa-da-10-milioni-di-dollari-su-capo-e-vertici-pasdaran_72190e39-7350-4885-ad5e-c7a53b3fc689.html",
+    "published_at": "2026-08-25T19:08:33.000Z",
+    "fingerprint": "50b5e2a7a7fb5bd7896435e3401a99e56ffd86f8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Run OpenBSD on DigitalOcean for $4/month",
+    "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+    "published_at": "2026-08-25T17:23:07.000Z",
+    "fingerprint": "6169d57ae7c38653dfd9bafb0f60a996781dafcc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Black hole singularity is a surface not a point",
+    "link": "https://arxiv.org/abs/2608.21590",
+    "published_at": "2026-08-25T17:02:49.000Z",
+    "fingerprint": "85a9871642eb45dab42f720ddce27e6fd7bdb466",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "My Friend Aaron",
+    "link": "https://rorz.io/writing/my-friend-aaron",
+    "published_at": "2026-08-25T16:53:33.000Z",
+    "fingerprint": "599badb2372cfc040ced904513a5173b3091475f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "robert smithson’s entropy leads BEAR architects into the spaces architecture forgot",
+    "link": "https://www.designboom.com/architecture/robert-smithsons-entropy-bear-architects-spaces-architecture/",
+    "published_at": "2026-08-25T12:36:14.000Z",
+    "fingerprint": "d7b6c482c4f34788dd10e56d4a8c7fed393ce99b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Martin Scorsese accoglie la proposta di designazione alla presidenza onoraria dei David",
+    "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/08/25/martin-scorsese-accoglie-la-proposta-di-designazione-alla-presidenza-onoraria-dei-david_3a536e52-278f-423b-9a61-cf75709d0fa5.html",
+    "published_at": "2026-08-25T10:37:33.000Z",
+    "fingerprint": "8a3736aec4c59ed081ba3b95ae7e87b719efcd7b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "MADE: bush terminal by NYCEDC empowers creative ecosystem on brooklyn waterfront",
+    "link": "https://www.designboom.com/design/made-bush-terminal-nycedc-creative-ecosystem-brooklyn/",
+    "published_at": "2026-08-25T10:00:07.000Z",
+    "fingerprint": "5f48449d4687f857c902a85ae79621bd956fbe56",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · mildlyinteresting",
     "title": "Brewery doesn't use the numbers 67 and 69 for tables",
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1vxm5iu/brewery_doesnt_use_the_numbers_67_and_69_for/",
@@ -133,6 +237,22 @@
     "link": "https://www.yankodesign.com/2026/08/24/the-2500-clay-lamps-that-look-completely-different-after-dark/?utm_source=rss&utm_medium=rss&utm_campaign=the-2500-clay-lamps-that-look-completely-different-after-dark",
     "published_at": "2026-08-24T13:20:30.000Z",
     "fingerprint": "055e01f2d6fc1de55dbdc3d64e517c126e5fa2aa",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Altar II",
+    "link": "https://www.producthunt.com/products/electronic-materials-office-altar-i",
+    "published_at": "2026-08-24T12:11:14.000Z",
+    "fingerprint": "14c52d77a7d7821d0a660cd54ee8a3c7d14184bb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "session-indexer",
+    "link": "https://www.producthunt.com/products/session-indexer",
+    "published_at": "2026-08-24T09:32:05.000Z",
+    "fingerprint": "c6fa882e925816469db8cd20e6459e54fc58bea1",
     "micro_judgment": null
   },
   {
@@ -293,6 +413,14 @@
     "link": "https://malisper.me/jit-compiling-code-in-5-us/",
     "published_at": "2026-08-23T06:04:51.000Z",
     "fingerprint": "fe3213952db9a77ed7d7ff093fcd0f2f78207f22",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Agnost AI",
+    "link": "https://www.producthunt.com/products/agnost-ai",
+    "published_at": "2026-08-23T06:03:45.000Z",
+    "fingerprint": "17bb633b44fd97d971f74094a20b5213c21badbe",
     "micro_judgment": null
   },
   {
@@ -501,6 +629,14 @@
     "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/08/20/belen-rodriguez-cade-da-cavallo-sulla-spiaggia-rialzarsi-sempre_92567b2f-a80e-443d-85b9-40ac1e3f0ad2.html",
     "published_at": "2026-08-20T09:50:41.000Z",
     "fingerprint": "48b213d0b2a263d8d7ee69723c6e5a4befaae521",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Assistly",
+    "link": "https://www.producthunt.com/products/assistly-4",
+    "published_at": "2026-08-20T09:11:26.000Z",
+    "fingerprint": "70d17372f549883406c559551f4920eb75be8b18",
     "micro_judgment": null
   },
   {
@@ -3821,6 +3957,14 @@
     "link": "https://www.ansa.it/canale_scienza/notizie/fisica_matematica/2026/07/23/una-donna-tra-i-vincitori-della-medaglia-fields-il-nobel-della-matematica_d2609bcf-4a80-42f6-9c22-cc9787fb0e54.html",
     "published_at": "2026-07-23T17:27:06.000Z",
     "fingerprint": "eca744c2e7c4256cc0bf1ae90f039e453830ed03",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Memoria",
+    "link": "https://www.producthunt.com/products/memoria-5",
+    "published_at": "2026-07-23T17:25:12.000Z",
+    "fingerprint": "05d05df7152e8959eebf19236dd3849dfda5f57b",
     "micro_judgment": null
   },
   {
