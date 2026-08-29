@@ -1,6 +1,110 @@
 [
   {
     "source": "ANSA",
+    "title": "Report, Ranucci: \"Volevano distruggere il programma e ci sono riusciti\"",
+    "link": "https://www.ansa.it/sito/videogallery/italia/2026/08/29/report-ranucci-volevano-distruggere-il-programma-e-ci-sono-riusciti_412f0d2d-daf9-4f07-96b9-bd4cce534aef.html",
+    "published_at": "2026-08-29T09:44:57.000Z",
+    "fingerprint": "17a7f38ff205e42b5254bc3b8c3714b1955071ee",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Rubato il collier della regina Nazli. L'ultimo colpo nell'estate dei furti",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/28/rubato-il-collier-della-regina-nazli.-lultimo-colpo-nellestate-dei-furti_c8995e2b-1159-4afc-be5a-1426e21bc26b.html",
+    "published_at": "2026-08-29T09:31:58.000Z",
+    "fingerprint": "a91ecf3e225c09d435b792d0be13cc7faa3165d0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Tried to take a picture of my dog with a polaroid, got a demon instead",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1w1auid/tried_to_take_a_picture_of_my_dog_with_a_polaroid/",
+    "published_at": "2026-08-29T02:59:41.000Z",
+    "fingerprint": "cb22dce7b82f8fab96312142a7a0a8cd4d380d5a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Wife’s drink went from birthday kitty to demon",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1w19c8o/wifes_drink_went_from_birthday_kitty_to_demon/",
+    "published_at": "2026-08-29T01:46:21.000Z",
+    "fingerprint": "259c3cc40598491eae8dcbe8f14ef71b5f1d175b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "A 9-in-1 Blu-ray Drive + USB Hub That Turns Cheap DVDs into 100GB Storage You Own Forever",
+    "link": "https://www.yankodesign.com/2026/08/28/a-9-in-1-blu-ray-drive-usb-hub-that-turns-cheap-dvds-into-100gb-storage-you-own-forever/?utm_source=rss&utm_medium=rss&utm_campaign=a-9-in-1-blu-ray-drive-usb-hub-that-turns-cheap-dvds-into-100gb-storage-you-own-forever",
+    "published_at": "2026-08-29T01:45:08.000Z",
+    "fingerprint": "3f6638516c05c48812ea2d4ff6e0ea9d01ef62d8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "I accidentally turned LLM memory into program analysis",
+    "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "published_at": "2026-08-28T23:27:45.000Z",
+    "fingerprint": "e278c61d8210e2859ad4eddff1d82eec1363fda7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Tiny Home Packs a Full-Size Fridge, Loft Bedroom, & Sleeping for Four Into 128 Square Feet",
+    "link": "https://www.yankodesign.com/2026/08/28/this-tiny-home-packs-a-full-size-fridge-loft-bedroom-sleeping-for-four-into-128-square-feet/?utm_source=rss&utm_medium=rss&utm_campaign=this-tiny-home-packs-a-full-size-fridge-loft-bedroom-sleeping-for-four-into-128-square-feet",
+    "published_at": "2026-08-28T22:30:47.000Z",
+    "fingerprint": "1fd0e590a12e1009097712f78edfef655ce82231",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This LEGO Fan Rebuilt Linkin Park’s Meteora Cover In Bricks, Then Added the Whole Band Below Too",
+    "link": "https://www.yankodesign.com/2026/08/28/this-lego-fan-rebuilt-linkin-parks-meteora-cover-in-bricks-then-added-the-whole-band-below-too/?utm_source=rss&utm_medium=rss&utm_campaign=this-lego-fan-rebuilt-linkin-parks-meteora-cover-in-bricks-then-added-the-whole-band-below-too",
+    "published_at": "2026-08-28T21:30:22.000Z",
+    "fingerprint": "ab218240b4eeb378a4a44ae1196664fba521f26d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "ASUS ROG Spatha X 65K: The Heavy MMO Mouse That Comes With Its Own Museum Dock",
+    "link": "https://www.yankodesign.com/2026/08/28/asus-rog-spatha-x-65k-the-heavy-mmo-mouse-that-comes-with-its-own-museum-dock/?utm_source=rss&utm_medium=rss&utm_campaign=asus-rog-spatha-x-65k-the-heavy-mmo-mouse-that-comes-with-its-own-museum-dock",
+    "published_at": "2026-08-28T20:30:01.000Z",
+    "fingerprint": "3a0595a864529e28331b90e9fe97c3bbe2436de6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "God’s Eye View",
+    "link": "https://www.producthunt.com/products/god-s-eye-view",
+    "published_at": "2026-08-28T19:49:22.000Z",
+    "fingerprint": "f2fe47686e99d4cc3156cf738e63886b0ead9292",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Harley-Davidson’s $3,299 Turntable Is Shaped Like Their Logo",
+    "link": "https://www.yankodesign.com/2026/08/28/harley-davidsons-3299-turntable-is-shaped-like-their-logo/?utm_source=rss&utm_medium=rss&utm_campaign=harley-davidsons-3299-turntable-is-shaped-like-their-logo",
+    "published_at": "2026-08-28T19:20:00.000Z",
+    "fingerprint": "ea804cf0897a9a17d29e19d122a479aee5856c30",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Someone entered an official Lego set in a contest and won 3rd place.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1w0zpen/someone_entered_an_official_lego_set_in_a_contest/",
+    "published_at": "2026-08-28T19:07:36.000Z",
+    "fingerprint": "f148913126e6e68394dfa01bcde069544035dfc5",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Android 17 debutta sul nuovo Galaxy S26 Fe, in Italia dal 4 settembre",
+    "link": "https://www.ansa.it/canale_tecnologia/notizie/novita_recensioni/2026/08/28/android-17-debutta-sul-nuovo-galaxy-s27-fe-in-italia-dal-4-settembre_c0cd953b-1771-407a-b0ee-46164a2c5151.html",
+    "published_at": "2026-08-28T17:58:31.000Z",
+    "fingerprint": "5f8828ac3b77a2830d942adf537538849ad58242",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Addio ad Harald V, ora il figlio Haakon è il re più giovane d'Europa",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/28/addio-ad-harald-v-ora-il-figlio-haakon-e-il-re-piu-giovane-deuropa_486db9e2-6008-4411-8d94-054d6cd93598.html",
     "published_at": "2026-08-28T17:00:48.000Z",
@@ -13,6 +117,14 @@
     "link": "https://www.ansa.it/sito/notizie/cultura/2026/08/28/report-nuova-conduzione-a-due-con-giulia-presutti-e-daniele-piervincenzi_c2a3127b-258d-42d6-8435-47880a44bccb.html",
     "published_at": "2026-08-28T16:38:59.000Z",
     "fingerprint": "b1b2e90a04011aa549e2d101296126f82c42c721",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Cohere Parse 5",
+    "link": "https://www.producthunt.com/products/cohere-2",
+    "published_at": "2026-08-28T15:59:34.000Z",
+    "fingerprint": "38fe003c20795f4c56e3b30fcd7261bc68f69cca",
     "micro_judgment": null
   },
   {
@@ -53,6 +165,14 @@
     "link": "https://www.deadlanguagesociety.com/p/weird-is-a-weird-word",
     "published_at": "2026-08-28T13:51:17.000Z",
     "fingerprint": "eeecb35edafe9133bb63870bc85d70b3fd3e086c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Htmx 4.0",
+    "link": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+    "published_at": "2026-08-28T13:28:56.000Z",
+    "fingerprint": "c8843c27e8f4fbed17fca8462a03ffeadaef84ca",
     "micro_judgment": null
   },
   {
