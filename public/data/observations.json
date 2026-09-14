@@ -1,6 +1,182 @@
 [
   {
     "source": "ANSA",
+    "title": "Gli Oasis suoneranno a Roma",
+    "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/14/gli-oasis-suoneranno-a-roma_7a560151-aaa9-46b2-be25-87f6a23b837b.html",
+    "published_at": "2026-09-14T09:59:30.000Z",
+    "fingerprint": "33ab7321302b56ecb2f77564a3d7bd8f91350e45",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Scontro in laguna a Venezia, il marito muore, la moglie è dispersa",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/13/scontro-in-laguna-a-venezia-lui-muore-e-la-moglie-e-dispersa_d6d490b3-4021-4671-904b-7ff93dc695c3.html",
+    "published_at": "2026-09-14T09:48:07.000Z",
+    "fingerprint": "b2b6f1b8244803213c4ef15fe8566b0b43a1a251",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il centrosinistra in vantaggio in Svezia, ma è incognita per il governo",
+    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/leader-opposizione-svezia-pronti-a-governare-attendiamo-risultato-finale_942638ca-fb04-40e7-92c3-260c835b1f24.html",
+    "published_at": "2026-09-14T09:32:43.000Z",
+    "fingerprint": "89db48a3580e9a9f9b8cb65b2e229d9a0ccaa2ee",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ex Ilva: protesta dell'indotto, sciopero di 24 ore e blocco delle strade",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/14/ex-ilva-protesta-indotto-sciopero-di-24-ore-e-blocco-strade_a1e3deb6-72dc-4910-b9a1-6f2311b16cb3.html",
+    "published_at": "2026-09-14T09:26:21.000Z",
+    "fingerprint": "dbcc6e8a3d9324e4fd08c608b3c849e347d7498a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Phone Screens Are Too Busy for Notes, Verso Handles Them on the Back",
+    "link": "https://www.yankodesign.com/2026/09/14/phone-screens-are-too-busy-for-notes-verso-handles-them-on-the-back/?utm_source=rss&utm_medium=rss&utm_campaign=phone-screens-are-too-busy-for-notes-verso-handles-them-on-the-back",
+    "published_at": "2026-09-14T08:15:33.000Z",
+    "fingerprint": "dfb56f40c5f17d5d9c8797242154bb28d68c24b0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Found a penne noodle in my rotini dinner",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wfsgq6/found_a_penne_noodle_in_my_rotini_dinner/",
+    "published_at": "2026-09-14T03:41:07.000Z",
+    "fingerprint": "2203e457ade66378c884c298b1cd07859636b9e0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My shrimp had babies. Predictably, they are very small.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wfs8wb/my_shrimp_had_babies_predictably_they_are_very/",
+    "published_at": "2026-09-14T03:30:14.000Z",
+    "fingerprint": "e73aaa65830aec60568e9cc126a97cb940616dc2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+    "link": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+    "published_at": "2026-09-14T02:50:40.000Z",
+    "fingerprint": "d5f409a8ad7f5965b7fd0c8f95f3be2aad408ee1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "I found little smiley faces in the carrots I cut",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wfpdoh/i_found_little_smiley_faces_in_the_carrots_i_cut/",
+    "published_at": "2026-09-14T01:12:54.000Z",
+    "fingerprint": "8bf511c87c0cc8ffa77effa94e4186509259467d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "appdesigns",
+    "link": "https://www.producthunt.com/products/appdesigns",
+    "published_at": "2026-09-14T00:19:15.000Z",
+    "fingerprint": "fe7a50cf0f7abda02fbb6e5b6372b66f05cabe56",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This potato from my grocery store looks exactly like Homer Simpson",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wfmggz/this_potato_from_my_grocery_store_looks_exactly/",
+    "published_at": "2026-09-13T23:00:02.000Z",
+    "fingerprint": "248d98be86f7ad4932f42f9e1d6d8933ca4e20e1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "The sky after a brief rain storm when I was visiting Disney World last week",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wflvu6/the_sky_after_a_brief_rain_storm_when_i_was/",
+    "published_at": "2026-09-13T22:34:12.000Z",
+    "fingerprint": "2539a8c11dd9627ebdeaa3be70b247dd3ffba5e3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "A Designer turned Xiaomi’s Logo into a Multi-Utility Vehicle Concept",
+    "link": "https://www.yankodesign.com/2026/09/13/a-designer-turned-xiaomis-logo-into-a-multi-utility-vehicle-concept/?utm_source=rss&utm_medium=rss&utm_campaign=a-designer-turned-xiaomis-logo-into-a-multi-utility-vehicle-concept",
+    "published_at": "2026-09-13T22:30:06.000Z",
+    "fingerprint": "b42253a48fa33499b4e04c1b0ca0a4b24612a6a4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+    "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+    "published_at": "2026-09-13T21:47:04.000Z",
+    "fingerprint": "94d07c5b29a4bc3c998e40288ff5e7fee3ff7eaa",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "I randomly get raised lines on heavily tattooed parts of my body and I have no idea why.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wfjyd2/i_randomly_get_raised_lines_on_heavily_tattooed/",
+    "published_at": "2026-09-13T21:15:18.000Z",
+    "fingerprint": "47aaa55aeebe1928eac5446629d7987734d904da",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+    "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+    "published_at": "2026-09-13T21:06:13.000Z",
+    "fingerprint": "9f68293a6898b9117d87695811ab75c16ac5fa58",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Water caltrops in the bag. Its an edible aquatic plant",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wfislz/water_caltrops_in_the_bag_its_an_edible_aquatic/",
+    "published_at": "2026-09-13T20:29:28.000Z",
+    "fingerprint": "5514a792c677f607d9ebd8738138a3ff7d1190fe",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Trump contro il freno all'IA, 'in azione forze negative'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/13/trump-contro-il-freno-allia-in-azione-forze-negative-_3334a155-424f-4620-987f-e26b24d0c667.html",
+    "published_at": "2026-09-13T19:05:24.000Z",
+    "fingerprint": "59ff9267adf2726469f946db5d254c5aadc5e41d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Why is Google still serving dodgy ads?",
+    "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+    "published_at": "2026-09-13T17:37:44.000Z",
+    "fingerprint": "25aab0dba37f75c8d8f067044aab40612d2c0425",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Supercharged Grand Tourer Was Built Using a 90-Year-Old Metal-Shaping Tool",
+    "link": "https://www.yankodesign.com/2026/09/13/this-supercharged-grand-tourer-was-built-using-a-90-year-old-metal-shaping-tool/?utm_source=rss&utm_medium=rss&utm_campaign=this-supercharged-grand-tourer-was-built-using-a-90-year-old-metal-shaping-tool",
+    "published_at": "2026-09-13T17:20:49.000Z",
+    "fingerprint": "6d1249fde366417feb6c69ae5f37e005857b37b3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This gas pump takes cash",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wfapfw/this_gas_pump_takes_cash/",
+    "published_at": "2026-09-13T15:27:47.000Z",
+    "fingerprint": "c96545da6132d543f6646fc00415c176382ffcc3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "CUDA for AMD on Windows",
+    "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+    "published_at": "2026-09-13T14:25:13.000Z",
+    "fingerprint": "6b3dec8d38d4abffed0929ecb114f043f97dd999",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Us Open: Rybakina nuova regina di New York, 'sarà diverso svegliarmi da n.1'",
     "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/13/us-open-rybakina-batte-sabalenka-in-tre-set-e-vince-il-titolo_07cb0129-cf2f-46dd-a545-79a52276b3cb.html",
     "published_at": "2026-09-13T09:12:07.000Z",
@@ -440,6 +616,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Afterglow",
+    "link": "https://www.producthunt.com/products/afterglow-4",
+    "published_at": "2026-09-10T00:35:06.000Z",
+    "fingerprint": "b00d9275a54f919191de32a3b509fa026a292ca3",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · mildlyinteresting",
     "title": "Bathroom at work",
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wbfxoy/bathroom_at_work/",
@@ -781,6 +965,14 @@
     "link": "https://www.designboom.com/art/white-stainless-steel-cylinders-coral-like-swing-installation-chinese-coast-xbtw-office/",
     "published_at": "2026-09-07T14:15:41.000Z",
     "fingerprint": "5050cfe0c4148da19c4a24f27e8d5274f73a26be",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Elva",
+    "link": "https://www.producthunt.com/products/elva",
+    "published_at": "2026-09-07T13:45:06.000Z",
+    "fingerprint": "209802da391bfb9e199d455a0637b09f7f558c60",
     "micro_judgment": null
   },
   {
