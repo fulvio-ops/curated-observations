@@ -1,6 +1,198 @@
 [
   {
     "source": "ANSA",
+    "title": "Le rivelazioni del fratello di Diana non risparmiano Elisabetta, reali in imbarazzo",
+    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/le-rivelazioni-del-fratello-di-diana-non-risparmiano-elisabetta-reali-in-imbarazzo_2856effa-cb9d-4d67-9bb5-404f4e99439e.html",
+    "published_at": "2026-09-18T09:21:16.000Z",
+    "fingerprint": "c65d1a72614d908143a4733c5fd45d90d70f8ab8",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Studente spruzza dello spray urticante e accoltella un'insegnante a Roma",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/18/studente-spruzza-spray-urticante-e-accoltella-insegnante-a-roma_b2503db3-f84e-4e54-a32e-ea20c1f9cea7.html",
+    "published_at": "2026-09-18T09:13:15.000Z",
+    "fingerprint": "9def5838b49f05e916c2d5daf65d55839274040d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Arrestato il presunto assassino della studentessa spagnola in Messico",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/arrestato-il-presunto-assassino-della-studentessa-spagnola-in-messico_593cce7e-3b5d-4c26-a0fe-a3e5fd453f55.html",
+    "published_at": "2026-09-18T08:04:10.000Z",
+    "fingerprint": "79085f4cfb510753e1b4412b3040fc1b8e78e074",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "In Italia 6mila malati di Sla, palazzi illuminati di verde per la giornata nazionale di sensibilizzazione",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/09/18/in-italia-6mila-malati-di-sla-palazzi-illuminati-di-verde-per-la-giornata-nazionale_25721217-aa30-4778-bfbd-44a3bb118d3a.html",
+    "published_at": "2026-09-18T07:28:04.000Z",
+    "fingerprint": "83fa415b554b72eb05e64c5c85e5ac63b9279d6c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "WhaleRead",
+    "link": "https://www.producthunt.com/products/whaleread",
+    "published_at": "2026-09-18T03:40:20.000Z",
+    "fingerprint": "26777d3b85254c961e08dfc4033059b697be4682",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Stile.iD",
+    "link": "https://www.producthunt.com/products/stile-id",
+    "published_at": "2026-09-18T03:10:28.000Z",
+    "fingerprint": "dd4a5993ee92330e495a0500e7f9475351c4d7e4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Telstra outage: The night a network decided the year was 2006",
+    "link": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+    "published_at": "2026-09-18T01:05:03.000Z",
+    "fingerprint": "2efe3059ab816ed3845e8bfb63a921b1cefe8bfb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "These chairs at an airport bar are the perfect size to fit carryon luggage underneath.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wjbklb/these_chairs_at_an_airport_bar_are_the_perfect/",
+    "published_at": "2026-09-18T00:46:10.000Z",
+    "fingerprint": "7bf6ff725b7556dc0af15f49b6a9d1c967e9aa98",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My Gatorade is mislabeled",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wjav8g/my_gatorade_is_mislabeled/",
+    "published_at": "2026-09-18T00:13:44.000Z",
+    "fingerprint": "30943d6186162110401d506f8d2cff0d89b18198",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Asymmetrical pupils when I woke up this morning",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wj9c54/asymmetrical_pupils_when_i_woke_up_this_morning/",
+    "published_at": "2026-09-17T23:07:03.000Z",
+    "fingerprint": "f6dbe13e8a98cf88c682cb99ae6367018b346fd7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This leaf I saw on my walk at work going through all the stages of fall",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wj8cma/this_leaf_i_saw_on_my_walk_at_work_going_through/",
+    "published_at": "2026-09-17T22:26:03.000Z",
+    "fingerprint": "03045892d1f0b109dfd454e9444cf5b38dd931cb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "How Uber Protects Against Retry Storms",
+    "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+    "published_at": "2026-09-17T21:14:32.000Z",
+    "fingerprint": "f64f846a1f4b5182c1dee365fe7529c31d0ec4ff",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The most important product decision is what you don't build",
+    "link": "https://liamnugent.me/posts/what-you-dont-build/",
+    "published_at": "2026-09-17T20:52:36.000Z",
+    "fingerprint": "a457e3a3d59a62360e3ea1131c16b59fbb5324eb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+    "link": "https://bend-lang.com/",
+    "published_at": "2026-09-17T20:36:13.000Z",
+    "fingerprint": "f86491b7ad0ec6a2fc21ff4923ecfe746cd1974d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "UGREEN’s iPhone 18 Pro Case Packs An Extra Screen For That ‘iPhone Duo Effect’",
+    "link": "https://www.yankodesign.com/2026/09/17/ugreens-iphone-18-pro-case-packs-an-extra-screen-for-that-iphone-duo-effect/?utm_source=rss&utm_medium=rss&utm_campaign=ugreens-iphone-18-pro-case-packs-an-extra-screen-for-that-iphone-duo-effect",
+    "published_at": "2026-09-17T20:30:46.000Z",
+    "fingerprint": "2d7d0242f77c23357f7eb29555d4d0477320c5c2",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Siamo Serie: Etoile, Jovayork - La musica dell'anima, Xoftex",
+    "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/09/17/siamo-serie-etoile-jovayork-la-musica-dellanima-xoftex_81e470c8-c421-4830-a798-8712faa46065.html",
+    "published_at": "2026-09-17T20:06:49.000Z",
+    "fingerprint": "b9f88bd2d67ea956a92fea2ce6d96b9dc5c9f52f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Caccia italiani contro jet russi, Meloni: 'Putin provoca, non rispondiamo'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/jet-militari-russi-violano-spazio-aereo-lituania-caccia-italiani-in-volo_db794caf-bb8a-4ee2-8e35-012df8bf0d43.html",
+    "published_at": "2026-09-17T19:07:05.000Z",
+    "fingerprint": "6ccc9efaaba3a7b74dd4e2ac7191fcb9f766a073",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "SPECS standalone AR glasses could undercut VR headsets sans all the bulk",
+    "link": "https://www.yankodesign.com/2026/09/17/specs-standalone-ar-glasses-could-undercut-vr-headsets-sans-all-the-bulk/?utm_source=rss&utm_medium=rss&utm_campaign=specs-standalone-ar-glasses-could-undercut-vr-headsets-sans-all-the-bulk",
+    "published_at": "2026-09-17T18:20:01.000Z",
+    "fingerprint": "148c25245b97d145333ee6ad8c517810e45f6674",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Proto-Mind",
+    "link": "https://www.producthunt.com/products/proto-mind",
+    "published_at": "2026-09-17T16:57:25.000Z",
+    "fingerprint": "b74c3bcdf10ec6f5b2e76e0cd2148473a4a1402a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Walmart sells stickers that can test your drink for GHB, ketamine, and Rohypnol",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wizfmp/walmart_sells_stickers_that_can_test_your_drink/",
+    "published_at": "2026-09-17T16:51:42.000Z",
+    "fingerprint": "7a8d2ab13223c36b7a485cdcd17a5d8459d3877b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This ice cube tray I received after donating blood",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wiyuug/this_ice_cube_tray_i_received_after_donating_blood/",
+    "published_at": "2026-09-17T16:30:52.000Z",
+    "fingerprint": "beed0074620af1308731fc5c6af2b3349ae69ce0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "mushlume co-creates with living organisms to grow design objects at MADE: bush terminal",
+    "link": "https://www.designboom.com/design/mushlume-living-fungi-lighting-made-bush-terminal/",
+    "published_at": "2026-09-17T10:00:50.000Z",
+    "fingerprint": "bcd547a9b644a7190b29fc61195f30b468baa94f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Mela",
+    "link": "https://www.producthunt.com/products/mela-3",
+    "published_at": "2026-09-16T18:58:57.000Z",
+    "fingerprint": "12b1f41e88e224e2db3218facf12970bdba7879a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "GameToMac",
+    "link": "https://www.producthunt.com/products/gametomac",
+    "published_at": "2026-09-16T16:01:02.000Z",
+    "fingerprint": "bbcdb6e8292d69a0cadac7db35f77a9768ac6550",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "'Drone russo contro un bus, 5 morti'. Attaccato il treno Kiev-Mykolaiv",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/16/drone-russo-contro-un-bus-5-morti.-attaccato-il-treno-kiev-mykolaiv_29f6e757-018a-4aac-a6dc-da95a2ae3a97.html",
     "published_at": "2026-09-16T09:21:13.000Z",
@@ -29,6 +221,14 @@
     "link": "https://github.com/dbalsom/martypc",
     "published_at": "2026-09-16T05:56:02.000Z",
     "fingerprint": "ac9b0fb08795d66f940c38933310e97e55f15759",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "GameReverie",
+    "link": "https://www.producthunt.com/products/gamereverie",
+    "published_at": "2026-09-16T05:54:03.000Z",
+    "fingerprint": "2f3b013c348918a3fc1e3794a57c7af990259e7f",
     "micro_judgment": null
   },
   {
@@ -80,6 +280,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Holon",
+    "link": "https://www.producthunt.com/products/holon-2",
+    "published_at": "2026-09-15T16:51:29.000Z",
+    "fingerprint": "a96331380fd2c92c0d6d0259656aef5ec822bf88",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · mildlyinteresting",
     "title": "This symmetrical pattern left behind by the pencils being shaken",
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wh4hjw/this_symmetrical_pattern_left_behind_by_the/",
@@ -101,6 +309,14 @@
     "link": "https://www.designboom.com/editorials/the-hacienda-must-be-built-spectacle-wonder-disenchanted-world/",
     "published_at": "2026-09-15T10:49:11.000Z",
     "fingerprint": "70ca17d4e4677e63d5ee4667ebc61e57b9ae2b7b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "MosMos",
+    "link": "https://www.producthunt.com/products/mosmos",
+    "published_at": "2026-09-15T08:57:09.000Z",
+    "fingerprint": "e12120c5aaeac987a9b948373ff29708f2ff33bf",
     "micro_judgment": null
   },
   {
@@ -133,6 +349,14 @@
     "link": "https://www.producthunt.com/products/twigg",
     "published_at": "2026-09-14T16:29:15.000Z",
     "fingerprint": "fcd0f9aefc3567f14c2f83659df0aef50961f88e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Shall We Talk",
+    "link": "https://www.producthunt.com/products/shall-we-talk",
+    "published_at": "2026-09-14T15:13:47.000Z",
+    "fingerprint": "3592fb8b04922c67d88c3450852d3265be69933f",
     "micro_judgment": null
   },
   {
@@ -573,6 +797,14 @@
     "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
     "published_at": "2026-09-11T03:48:10.000Z",
     "fingerprint": "360ace94bd909c66407159991db8f6887b7fd5c0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Dictation API by AssemblyAI",
+    "link": "https://www.producthunt.com/products/assemblyai",
+    "published_at": "2026-09-11T03:11:22.000Z",
+    "fingerprint": "0fe57c731526f188fec7ac9e4b8bfb449f7d7389",
     "micro_judgment": null
   },
   {
@@ -1309,6 +1541,14 @@
     "link": "https://www.ansa.it/sito/notizie/cultura/2026/09/06/dilettevoli-inedite-eccedenze-di-mina-10-canzoni-e-10-foto-mai-viste-prima_5e2b860a-7f5f-49f4-8a84-104bba3ea0ba.html",
     "published_at": "2026-09-06T16:38:52.000Z",
     "fingerprint": "cc0e0854c6b16cde4f988e1b7fbdb5d0671c713f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "AINA",
+    "link": "https://www.producthunt.com/products/aina",
+    "published_at": "2026-09-06T13:31:06.000Z",
+    "fingerprint": "2872bf0a3010d866c249bf625e0aaef18aa54eb3",
     "micro_judgment": null
   },
   {
