@@ -1,6 +1,150 @@
 [
   {
     "source": "ANSA",
+    "title": "Giorgetti: 'Quando un Paese perde il controllo del debito subisce'",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/giorgetti-quando-un-paese-perde-il-controllo-del-debito-subisce_64b8e20d-34c8-4a44-b8b5-1dcfdc3bce08.html",
+    "published_at": "2026-09-21T09:39:38.000Z",
+    "fingerprint": "603d90c642d16690f267f60a52b43968ff4dac25",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Daniel Maldini è negativo alle sostanze stupefacenti",
+    "link": "https://www.ansa.it/sito/notizie/sport/2026/09/21/daniel-maldini-e-negativo-alle-sostanze-stupefacenti_92855fe4-e595-4c5b-8aaa-6ba6d7bbfb1d.html",
+    "published_at": "2026-09-21T09:16:32.000Z",
+    "fingerprint": "9e2bb3af7a9c7d65e9d91640a307b827ff58447d",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Prof. accoltellata: la psicologa, 'mix esplosivo da rete, frustrazione e aggressività'",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/09/18/prof.-accoltellata-la-psicologa-mix-esplosivo-da-rete-frustrazione-e-aggressivita_99701652-603b-4b77-8eb4-245cefff7c94.html",
+    "published_at": "2026-09-21T09:00:05.000Z",
+    "fingerprint": "f61a550c147cf41cffeace0e93386e7d2ec45236",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "zuckoff uses bluetooth to let you know when smart glasses are nearby",
+    "link": "https://www.designboom.com/technology/zuckoff-bluetooth-smart-glasses-nearby-pawel-szydlowski/",
+    "published_at": "2026-09-21T08:15:18.000Z",
+    "fingerprint": "1ea2ed9035a5f5833772b875f1f25cad4ffaeb38",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "50 anni sul palco, Gianna Nannini travolge Berlino e omaggia la nonna",
+    "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/20/50-anni-sul-palco-gianna-nannini-travolge-berlino-e-omaggia-la-nonna_4329eb1d-b7dc-4957-bcb1-0f81f4d136b1.html",
+    "published_at": "2026-09-21T08:04:15.000Z",
+    "fingerprint": "cf0261c3ef69b42ec8d655f08636d604bb715fc5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "patricia urquiola rewrites spa culture through effe’s bastion-inspired baluar collection",
+    "link": "https://www.designboom.com/design/patricia-urquiola-effe-baluar-collection/",
+    "published_at": "2026-09-21T07:00:51.000Z",
+    "fingerprint": "1fc73f33ece76120331d6505272cd63233754d62",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+    "link": "https://github.com/volotat/mini-AGI/",
+    "published_at": "2026-09-21T04:42:37.000Z",
+    "fingerprint": "dae6405e534ea1e567240ec396d452904f3af9d7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "NiubiGEO",
+    "link": "https://www.producthunt.com/products/niubigeo",
+    "published_at": "2026-09-21T02:04:19.000Z",
+    "fingerprint": "9e584006c7f321a6ce1d0a57238bc0fdf9f5f292",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Vet cut a growth off my dog’s back, now the fur grows darker in that spot",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wlx8xh/vet_cut_a_growth_off_my_dogs_back_now_the_fur/",
+    "published_at": "2026-09-21T00:08:25.000Z",
+    "fingerprint": "3f18073833af22015f63749c3f75359df9d0a88d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "What happened to the Snowden archive",
+    "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+    "published_at": "2026-09-20T22:35:49.000Z",
+    "fingerprint": "cf846e68efac2ce16a5f60065a05352375850e6c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "A Side Table That Actually Hides Books in Plain Sight",
+    "link": "https://www.yankodesign.com/2026/09/20/a-side-table-that-actually-hides-books-in-plain-sight/?utm_source=rss&utm_medium=rss&utm_campaign=a-side-table-that-actually-hides-books-in-plain-sight",
+    "published_at": "2026-09-20T22:30:36.000Z",
+    "fingerprint": "6f6a18a0ba7335f659798475682be06215b56034",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+    "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
+    "published_at": "2026-09-20T20:59:02.000Z",
+    "fingerprint": "eb83d70976820d04e2288c6fe07a2b035e8a978f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "A Necessary History of the Oddest Letter: W",
+    "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+    "published_at": "2026-09-20T17:55:57.000Z",
+    "fingerprint": "8139b4fcae9f990bc7bc15c940247ba3f148ee0b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "slop-grader",
+    "link": "https://www.producthunt.com/products/slop-grader",
+    "published_at": "2026-09-20T17:10:58.000Z",
+    "fingerprint": "d0ddd38d16021724e9b51998266e9f362bc0519f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "K-food alla milanese, quando il risotto e i mondeghili incontrano il Kimchi coreano",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/food/2026/09/19/k-food-alla-milanese-quando-il-risotto-e-i-mondeghili-incontrano-il-kimchi-coreano_f5031149-7d82-49d4-930f-f5f7d5c9f890.html",
+    "published_at": "2026-09-20T16:40:51.000Z",
+    "fingerprint": "117aa12ef1b8b0ca70d2f352b0d676a32f999e0a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Singapore’s National Library Board offers micropayments to build reading habits",
+    "link": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+    "published_at": "2026-09-20T15:18:05.000Z",
+    "fingerprint": "3bb40ddc965d42974f625fe99a330bdfed4b8522",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "nick cave’s soundsuits bring the stage into the crowd",
+    "link": "https://www.designboom.com/art/nick-cave-stage-crowd/",
+    "published_at": "2026-09-20T14:45:51.000Z",
+    "fingerprint": "573e491c1865a7f6efe7a8dc737398eee0c47c08",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My cactus started growing healthy after I quit smoking",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wldk3m/my_cactus_started_growing_healthy_after_i_quit/",
+    "published_at": "2026-09-20T10:31:05.000Z",
+    "fingerprint": "a1f8372582fef5e24288bc73b8281307f2e510d3",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Trump anticipa il rientro da Camp David e torna alla Casa Bianca",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/trump-anticipa-il-rientro-da-camp-david-e-torna-alla-casa-bianca_d85ac995-09c8-4380-8a2c-330e9dd7d8ba.html",
     "published_at": "2026-09-20T07:55:17.000Z",
@@ -377,6 +521,14 @@
   },
   {
     "source": "Product Hunt",
+    "title": "Simha Digital",
+    "link": "https://www.producthunt.com/products/simha-digital",
+    "published_at": "2026-09-17T08:56:00.000Z",
+    "fingerprint": "82454bb1611c41c476fc8811f87743c8a9197cb3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
     "title": "Mela",
     "link": "https://www.producthunt.com/products/mela-3",
     "published_at": "2026-09-16T18:58:57.000Z",
@@ -389,6 +541,14 @@
     "link": "https://www.producthunt.com/products/gametomac",
     "published_at": "2026-09-16T16:01:02.000Z",
     "fingerprint": "bbcdb6e8292d69a0cadac7db35f77a9768ac6550",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Refoid",
+    "link": "https://www.producthunt.com/products/refoid-decline-unreasonable-refunds",
+    "published_at": "2026-09-16T15:58:40.000Z",
+    "fingerprint": "57b7bcdeedf67456b375ff7e3fccfb89e084db68",
     "micro_judgment": null
   },
   {
