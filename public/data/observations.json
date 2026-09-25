@@ -1,6 +1,150 @@
 [
   {
     "source": "ANSA",
+    "title": "Papa Leone in Francia, accolto da Macron e Brigitte",
+    "link": "https://www.ansa.it/vaticano/notizie/2026/09/25/il-papa-in-francia-oggi-a-parigi-tra-leliseo-lunesco-e-notre-dame_ff8b8f8e-c0fd-4908-ab1e-1b748b91c76c.html",
+    "published_at": "2026-09-25T09:56:41.000Z",
+    "fingerprint": "413189caf10b0766059891e2524cd6859e9f2397",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Dal 19 a 23 ottobre primo collocamento 'doppio' Btp Valore e Btp Valore Insieme",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/dal-19-a-23-ottobre-primo-collocamento-doppio-btp-valore-e-btp-valore-insieme_c0f5300f-0195-406f-9fe7-87a396219366.html",
+    "published_at": "2026-09-25T09:11:55.000Z",
+    "fingerprint": "044a48048fd6faed79f9ed4d726f84ada039321d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Keyboards Work for Both Hands, the New Surface Mouse Finally Does Too",
+    "link": "https://www.yankodesign.com/2026/09/25/keyboards-work-for-both-hands-the-new-surface-mouse-finally-does-too/?utm_source=rss&utm_medium=rss&utm_campaign=keyboards-work-for-both-hands-the-new-surface-mouse-finally-does-too",
+    "published_at": "2026-09-25T08:15:07.000Z",
+    "fingerprint": "1734500db4670ee437ccdda2a8a00538da340968",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Meta lancia occhiali intelligenti senza fotocamera basati sull'IA VIDEO",
+    "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/09/24/meta-lancia-occhiali-intelligenti-senza-fotocamera-basati-sullia_59db0751-7e25-4bff-856d-1ecbb607ed19.html",
+    "published_at": "2026-09-25T08:02:03.000Z",
+    "fingerprint": "18b72963aa9d9335bf8ada45dd0e55147679ab20",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "traditional emirati patterns and craft frame al maktoum archives’ interiors in dubai",
+    "link": "https://www.designboom.com/readers/traditional-emirati-patterns-craft-al-maktoum-archives-interiors-dubai-kart-group/",
+    "published_at": "2026-09-25T06:15:47.000Z",
+    "fingerprint": "a23c1fe52a56e7205a01061c29f8737990ed5095",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My rice arranged itself into a pie chart",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wpmih0/my_rice_arranged_itself_into_a_pie_chart/",
+    "published_at": "2026-09-25T04:05:10.000Z",
+    "fingerprint": "f031d1f479c96399d1198ab67161b64f615dcbf3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Wand",
+    "link": "https://www.producthunt.com/products/wand-6",
+    "published_at": "2026-09-25T02:17:21.000Z",
+    "fingerprint": "7fa44dae83dcfaf4718c2da10fad5c57e9b333d4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Ebay seller hot glued a dime to my box of books",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wpjgdp/ebay_seller_hot_glued_a_dime_to_my_box_of_books/",
+    "published_at": "2026-09-25T01:29:49.000Z",
+    "fingerprint": "460716acb776657097079507701a5d66eb378d7e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Whirlpool Spent 60 Years in an Italian Engineering Lab Just to Make Its Ovens Quieter",
+    "link": "https://www.yankodesign.com/2026/09/24/whirlpool-spent-60-years-in-an-italian-engineering-lab-just-to-make-its-ovens-quieter/?utm_source=rss&utm_medium=rss&utm_campaign=whirlpool-spent-60-years-in-an-italian-engineering-lab-just-to-make-its-ovens-quieter",
+    "published_at": "2026-09-25T00:30:53.000Z",
+    "fingerprint": "7c0ec0f302d64b5c0fde74c8aae4e9b42e9fb4ed",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+    "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+    "published_at": "2026-09-24T19:54:21.000Z",
+    "fingerprint": "5f0c5eaa9901cd4db8f4bb9d20bcbc91aec96631",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Decktly",
+    "link": "https://www.producthunt.com/products/decktly",
+    "published_at": "2026-09-24T18:54:08.000Z",
+    "fingerprint": "0c1bb08747839759d59ab843dd4d663015f78bb0",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La locomotiva a vapore torna a sbuffare nella linea turistica Sardegna",
+    "link": "https://www.ansa.it/canale_viaggi/regione/sardegna/2026/09/24/la-locomotiva-a-vapore-torna-a-sbuffare-nella-linea-turistica-sardegna_3acebc60-19c0-4d03-a67e-ec2f270eb2e6.html",
+    "published_at": "2026-09-24T17:19:55.000Z",
+    "fingerprint": "9d98af9ba834b6259dc6c72c2779f4c4ed5f9c2b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "I found this muzak system in the back room of what is now a bar",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wp7b22/i_found_this_muzak_system_in_the_back_room_of/",
+    "published_at": "2026-09-24T17:04:56.000Z",
+    "fingerprint": "5a7a76d8f8fc850f17c2343ba8dc7e5863682c1f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Why is the liver so weirdly regenerative?",
+    "link": "https://dynomight.substack.com/p/liver",
+    "published_at": "2026-09-24T16:23:00.000Z",
+    "fingerprint": "125115fb7d8bcd09a69cbfdb826f764af791ab94",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Perfect Slice",
+    "link": "https://www.producthunt.com/products/perfect-slice",
+    "published_at": "2026-09-24T12:50:06.000Z",
+    "fingerprint": "58bac7a8f99874a78c62de94a3eaaf7c5d3dc434",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Pinky Promise",
+    "link": "https://www.producthunt.com/products/pinky-promise",
+    "published_at": "2026-09-24T10:33:59.000Z",
+    "fingerprint": "3a8bb5c9e9c2b3c50c32dc5e078d92d0b834448c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "layernote",
+    "link": "https://www.producthunt.com/products/layernote",
+    "published_at": "2026-09-24T10:00:44.000Z",
+    "fingerprint": "02249c1aacdcc332ffc5dfdc334aae813a3a70a8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Nokia Design Archive (2025)",
+    "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+    "published_at": "2026-09-24T09:49:33.000Z",
+    "fingerprint": "cffd81c72ffe206c2840c50630cd869b16efed4c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "El Mundo: 'Russia pronta ad attacchi con droni dal mare in Italia, Francia e Spagna'",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/el-mundo-russia-pronta-ad-attacchi-con-droni-dal-mare-in-italia-francia_f3970154-cd44-45da-9d7a-0f7ce91c9725.html",
     "published_at": "2026-09-24T09:47:05.000Z",
@@ -48,6 +192,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "JevForAgents",
+    "link": "https://www.producthunt.com/products/jevforagents",
+    "published_at": "2026-09-24T08:16:05.000Z",
+    "fingerprint": "393af372c837173a2ac405bba3e79f6ef0c70fb4",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Dalla più grande mappa del cervello indizi sull'invecchiamento",
     "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/09/24/dalla-piu-grande-mappa-del-cervello-indizi-sullinvecchiamento_f33c909d-00f9-4edc-9fd4-11e9001476ea.html",
@@ -72,6 +224,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Quiver GTM",
+    "link": "https://www.producthunt.com/products/quiver-gtm",
+    "published_at": "2026-09-24T01:50:08.000Z",
+    "fingerprint": "37ee8abd011a263d65abcd1ba300fe9edacaddee",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Meta VR Glasses",
     "link": "https://www.meta.com/vr-glasses/",
@@ -85,6 +245,14 @@
     "link": "https://www.yankodesign.com/2026/09/23/the-tiny-home-design-that-has-americans-rethinking-where-the-bedroom-should-go/?utm_source=rss&utm_medium=rss&utm_campaign=the-tiny-home-design-that-has-americans-rethinking-where-the-bedroom-should-go",
     "published_at": "2026-09-23T23:30:56.000Z",
     "fingerprint": "1452953335d51c5bd99a6ae42807a211bb2edaf0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Make cursed fonts like Times New Bastard",
+    "link": "https://bastardica.mitpit.com",
+    "published_at": "2026-09-23T22:53:28.000Z",
+    "fingerprint": "fbcf10746a91b41e50748802920c00982f28a513",
     "micro_judgment": null
   },
   {
@@ -152,6 +320,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Bleetz Network",
+    "link": "https://www.producthunt.com/products/bleetz-network",
+    "published_at": "2026-09-23T18:37:04.000Z",
+    "fingerprint": "a2fe3cefd700b41de15e715b39f76c05112f031f",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
     "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -192,11 +368,27 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Aks.ai",
+    "link": "https://www.producthunt.com/products/aks-ai",
+    "published_at": "2026-09-23T14:53:06.000Z",
+    "fingerprint": "5a50a86bee77a7a34a26f9d5e6c02ff7565915ae",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "curved mirrored steel walls multiply one tree into forest at infinite grove pavilion in shanghai",
     "link": "https://www.designboom.com/architecture/curved-mirrored-steel-walls-one-tree-forest-infinite-grove-pavilion-shanghai-chang-hao-studio/",
     "published_at": "2026-09-23T14:15:09.000Z",
     "fingerprint": "239586413b3b479d473ba3ef3bb7649457ab907b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "PixVerse R2",
+    "link": "https://www.producthunt.com/products/pixverse-r2",
+    "published_at": "2026-09-23T09:26:05.000Z",
+    "fingerprint": "f1299ba434adab04195b9bb6e32d77cf1048e78f",
     "micro_judgment": null
   },
   {
@@ -233,10 +425,34 @@
   },
   {
     "source": "Product Hunt",
+    "title": "Donna",
+    "link": "https://www.producthunt.com/products/donna-4",
+    "published_at": "2026-09-22T19:59:44.000Z",
+    "fingerprint": "a58cc66dad5da85854f5b1485c66c2cf74d207e1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
     "title": "Claude Opus 5.5",
     "link": "https://www.producthunt.com/products/claude-fable-5-1",
     "published_at": "2026-09-22T16:36:09.000Z",
     "fingerprint": "872c4ca24d1debcfcf15d1deb3a28f5bd14d811b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Kliva",
+    "link": "https://www.producthunt.com/products/kliva",
+    "published_at": "2026-09-22T11:18:56.000Z",
+    "fingerprint": "10d89841a8f3d4204ff8357dfa146f5d060ea17c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Relium",
+    "link": "https://www.producthunt.com/products/relium",
+    "published_at": "2026-09-21T19:07:19.000Z",
+    "fingerprint": "afa87326e07a1e6bf67f7aa3e77e205961c0ef59",
     "micro_judgment": null
   },
   {
@@ -349,6 +565,14 @@
     "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
     "published_at": "2026-09-20T20:59:02.000Z",
     "fingerprint": "eb83d70976820d04e2288c6fe07a2b035e8a978f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "OmniNotch",
+    "link": "https://www.producthunt.com/products/omninotch",
+    "published_at": "2026-09-20T20:50:25.000Z",
+    "fingerprint": "2b2dd43253213bd885b34d9e25221c894a3724a3",
     "micro_judgment": null
   },
   {
@@ -1501,6 +1725,14 @@
     "link": "https://www.producthunt.com/products/abrush-ai-2",
     "published_at": "2026-09-10T20:18:42.000Z",
     "fingerprint": "49eacf4374819eb4a29af59af0f5f1ee95c72abf",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Dictoterix",
+    "link": "https://www.producthunt.com/products/dictoterix",
+    "published_at": "2026-09-10T20:08:47.000Z",
+    "fingerprint": "8d3a7a566dcf0296387f7a839410de8cc2bf7484",
     "micro_judgment": null
   },
   {
@@ -3941,6 +4173,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1vw3yi6/lemon_slices_float_and_lime_slices_sink/",
     "published_at": "2026-08-23T10:46:42.000Z",
     "fingerprint": "b830d61e4d1cc2dec5696ce425cce011266db7e6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "shadow-planner",
+    "link": "https://www.producthunt.com/products/shadow-planner",
+    "published_at": "2026-08-23T10:08:25.000Z",
+    "fingerprint": "fce16acfd4bda5dec44a02552e226c9b7f7a3000",
     "micro_judgment": null
   },
   {
