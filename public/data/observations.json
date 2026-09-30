@@ -1,6 +1,166 @@
 [
   {
     "source": "ANSA",
+    "title": "Ustica, Lo Voi: \"Nuove prospettive per l'indagine\"",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/30/ustica-lo-voi-nuove-prospettive-per-lindagine_5f6a555c-269b-43ff-ad4d-c5f69b30998f.html",
+    "published_at": "2026-09-30T10:35:41.000Z",
+    "fingerprint": "c0c95e6b35a94c428c732eb92e8af0bb7ea90bf1",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Incidenti sul lavoro: un morto e un ferito gravissimo alla Fincantieri Ancona, una vittima a Milano",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/30/incidenti-sul-lavoro-un-morto-e-un-ferito-gravissimo-alla-fincantieri-ancona-una_9e828bbf-0deb-4489-88e2-12246eb45353.html",
+    "published_at": "2026-09-30T10:35:10.000Z",
+    "fingerprint": "39762c4493e779093de0f535fd36224d21134917",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Garlasco: Il legale di Sempio: 'Crediamo che ci sarà un rinvio a giudizio'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/30/garlasco-il-legale-di-sempio-crediamo-che-ci-sara-un-rinvio-a-giudizio_3619b8fb-596d-4ab3-bcb2-2e9be0e62c54.html",
+    "published_at": "2026-09-30T09:59:55.000Z",
+    "fingerprint": "017ddacd2b57cef66c9b4f93b55376b8486ba51e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "BUREAU uses color and translucency to reshape 44 sqm lilac apartment in lisbon",
+    "link": "https://www.designboom.com/architecture/bureau-color-translucency-44-sqm-lilac-apartment-lisbon/",
+    "published_at": "2026-09-30T09:25:54.000Z",
+    "fingerprint": "380e7e952a161273d87a1a9f96ef5da32a76eb34",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Burnham su Brexit: 'Tutte le opzioni sul tavolo, inclusa riadesione a Ue'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/30/burnham-su-brexit-tutte-le-opzioni-sul-tavolo-inclusa-riadesione-a-ue_9a6a420a-fb99-4f7a-93fc-14afa770121f.html",
+    "published_at": "2026-09-30T08:41:05.000Z",
+    "fingerprint": "7b90bb9283e3afe7207d3b97f4716a93b8507e99",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Strage Brandizzo, al via l'udienza preliminare per 24",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/30/strage-brandizzo-al-via-ludienza-preliminare-per-24_030fb1ad-3318-4867-ab62-7b91887cc24a.html",
+    "published_at": "2026-09-30T08:38:28.000Z",
+    "fingerprint": "7ef3abb8e04519c0d21b488d20a7222b21bbcd68",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "LACMA exhibition revisits the strange, utopian homes once built for the future",
+    "link": "https://www.designboom.com/architecture/lacma-exhibition-strange-optimistic-homes-future-domestic-utopian/",
+    "published_at": "2026-09-30T06:15:37.000Z",
+    "fingerprint": "6266245588f8039aecb5974eeb3363823223fb5f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Bevell",
+    "link": "https://www.producthunt.com/products/bevell",
+    "published_at": "2026-09-30T03:22:20.000Z",
+    "fingerprint": "b1fb1a37ddd64b956a19673eef53ce1dc7ce67b4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Upsolve Data Models",
+    "link": "https://www.producthunt.com/products/upsolve-ai",
+    "published_at": "2026-09-29T21:40:33.000Z",
+    "fingerprint": "d7c2cba3c075c54377c159d5becded3926e5669b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "I have a perfect little arrow-shaped scratch",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wtm1f5/i_have_a_perfect_little_arrowshaped_scratch/",
+    "published_at": "2026-09-29T21:01:37.000Z",
+    "fingerprint": "b0145d6cc020431d67173754171cec9fb44c7e37",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Local video game store made custom case designs.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wtk8v6/local_video_game_store_made_custom_case_designs/",
+    "published_at": "2026-09-29T19:52:58.000Z",
+    "fingerprint": "ee87e7ec1f08ae2ac8322c50865c229829de73b0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+    "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+    "published_at": "2026-09-29T19:30:17.000Z",
+    "fingerprint": "515f71a570e620e836407bfff693892f323eca36",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Scontro su Tajani per Regeni. Meloni: 'Chiudere i canali con l'Egitto non aiuta'",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/scontro-su-tajani-per-regeni.-meloni-chiudere-i-canali-con-legitto-non_f837010a-3cba-4fa7-90a0-da01db282440.html",
+    "published_at": "2026-09-29T19:18:10.000Z",
+    "fingerprint": "49c5135492beb736fa1954e4bd10f18d81307bf8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "WIKO’s $1,220 Hi MateBook 14 puts a gorgeous 3:2 OLED on a very practical laptop",
+    "link": "https://www.yankodesign.com/2026/09/29/wikos-1220-hi-matebook-14-puts-a-gorgeous-32-oled-on-a-very-practical-laptop/?utm_source=rss&utm_medium=rss&utm_campaign=wikos-1220-hi-matebook-14-puts-a-gorgeous-32-oled-on-a-very-practical-laptop",
+    "published_at": "2026-09-29T18:20:07.000Z",
+    "fingerprint": "393f38259a6ee598af5e06eae0709758ca618d35",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The 8kg Spider Chair That Refuses to Wobble on Any Floor",
+    "link": "https://www.yankodesign.com/2026/09/29/the-8kg-spider-chair-that-refuses-to-wobble-on-any-floor/?utm_source=rss&utm_medium=rss&utm_campaign=the-8kg-spider-chair-that-refuses-to-wobble-on-any-floor",
+    "published_at": "2026-09-29T17:20:31.000Z",
+    "fingerprint": "1c69a790fde2f947231250cf129d90814b12eb2a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "PS5 Relapse Exploit",
+    "link": "https://github.com/ntfargo/Relapse-Exploit",
+    "published_at": "2026-09-29T15:44:41.000Z",
+    "fingerprint": "0e3c77edd3ced504aeae87ff198a7cb24225664b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Meta Just Turned Its AI Into a Tamagotchi and It’s Pretty Cute",
+    "link": "https://www.yankodesign.com/2026/09/29/meta-just-turned-its-ai-into-a-tamagotchi-and-its-pretty-cute/?utm_source=rss&utm_medium=rss&utm_campaign=meta-just-turned-its-ai-into-a-tamagotchi-and-its-pretty-cute",
+    "published_at": "2026-09-29T13:20:43.000Z",
+    "fingerprint": "7734ae938bee22ecedd71f36cc82a89c988a7446",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The 8 Japanese-Designed Everyday Objects Worth Building a Habit Around",
+    "link": "https://www.yankodesign.com/2026/09/29/the-8-japanese-designed-everyday-objects-worth-building-a-habit-around/?utm_source=rss&utm_medium=rss&utm_campaign=the-8-japanese-designed-everyday-objects-worth-building-a-habit-around",
+    "published_at": "2026-09-29T11:43:57.000Z",
+    "fingerprint": "fd7f899668424902efdfe6b806ad35b8ba549fd0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Aktar",
+    "link": "https://www.producthunt.com/products/aktar",
+    "published_at": "2026-09-29T11:23:35.000Z",
+    "fingerprint": "ce434b3e1e774368ed04af6060db0258d5a25e59",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Language models for text classification: From bag-of-words to Jev",
+    "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "published_at": "2026-09-29T11:06:25.000Z",
+    "fingerprint": "846a5faf47b598c4f652ea080b6bb07bd73a132e",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "++ Regeni, difensori 007 pronti a fare ricorso in Appello ++",
     "link": "https://www.ansa.it/sito/notizie/flash/2026/09/29/-regeni-difensori-007-pronti-a-fare-ricorso-in-appello-_aef0da2c-9afd-4461-b064-accade565e51.html",
     "published_at": "2026-09-29T11:02:51.000Z",
@@ -80,6 +240,14 @@
     "micro_judgment": null
   },
   {
+    "source": "ANSA",
+    "title": "Un modello di IA 'legge' il diabete nella voce in 20 secondi",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/diabete/2026/09/29/un-modello-di-ia-legge-il-diabete-nella-voce-in-20-secondi_18c06ec6-7a68-4e1b-8360-68cb8b086386.html",
+    "published_at": "2026-09-29T04:54:36.000Z",
+    "fingerprint": "502cb6381c3a954c7b5628c524b10e0752a2b964",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · mildlyinteresting",
     "title": "Playing around with my 7x7 Rubik cube tonight",
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wsygxc/playing_around_with_my_7x7_rubik_cube_tonight/",
@@ -117,6 +285,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wsqd76/i_left_my_cup_of_black_coffee_out_overnight_and/",
     "published_at": "2026-09-28T20:45:27.000Z",
     "fingerprint": "ab59763ede5b0dc6861c25b4daeed41d08de4f69",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "SelfJev",
+    "link": "https://www.producthunt.com/products/selfjev-intelligence-decided",
+    "published_at": "2026-09-28T20:34:03.000Z",
+    "fingerprint": "d879cd925f156788729ce6cd5cfacd846b7ae61c",
     "micro_judgment": null
   },
   {
@@ -181,6 +357,14 @@
     "link": "https://www.producthunt.com/products/clink-custom-keyboards",
     "published_at": "2026-09-28T12:11:38.000Z",
     "fingerprint": "d3cd04c55d6e5d4e0a509b85f94f7f8ad4f3d1be",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Notely",
+    "link": "https://www.producthunt.com/products/notely-7",
+    "published_at": "2026-09-28T08:11:31.000Z",
+    "fingerprint": "0c680a12d6ae23dbec9eaab9e48758906de7e803",
     "micro_judgment": null
   },
   {
@@ -349,6 +533,14 @@
     "link": "https://sunilsadasivan.com/writing/first-principles-thinking/",
     "published_at": "2026-09-25T13:55:37.000Z",
     "fingerprint": "cf9278c27a8056a129e313e29a3f2ceeb7df0b5f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Bruto",
+    "link": "https://www.producthunt.com/products/bruto",
+    "published_at": "2026-09-25T12:54:37.000Z",
+    "fingerprint": "78ea673cf49abd3dc6c185abbac47a60f6d3ce4f",
     "micro_judgment": null
   },
   {
@@ -829,6 +1021,14 @@
     "link": "https://www.producthunt.com/products/hemory",
     "published_at": "2026-09-22T15:16:05.000Z",
     "fingerprint": "4a6cdf4227b6bc8667351db66d22649b4703fc20",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Macaly Cloud",
+    "link": "https://www.producthunt.com/products/macaly",
+    "published_at": "2026-09-22T11:55:53.000Z",
+    "fingerprint": "03f67880b091fa8bc5ab78908ef03b8cb977c829",
     "micro_judgment": null
   },
   {
@@ -2309,6 +2509,14 @@
     "link": "https://www.producthunt.com/products/voxelwall",
     "published_at": "2026-09-10T06:29:28.000Z",
     "fingerprint": "75721f57533635ef3a390788286b17f7f5f5f344",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "WhisperBrain",
+    "link": "https://www.producthunt.com/products/whisperbrain",
+    "published_at": "2026-09-10T05:39:42.000Z",
+    "fingerprint": "ef8d7d7fdea9e89935fc3ceed1206487794d0994",
     "micro_judgment": null
   },
   {
