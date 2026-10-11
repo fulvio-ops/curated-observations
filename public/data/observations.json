@@ -1,5 +1,117 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Nitter: Update Oct 10th seeking funding and legal help",
+    "link": "https://nitter.net",
+    "published_at": "2026-10-11T10:37:55.000Z",
+    "fingerprint": "15d59afb637e106f3633f438be772ec16b87dbd3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+    "link": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
+    "published_at": "2026-10-11T10:34:43.000Z",
+    "fingerprint": "1f114ff2f74a14e19e1e9cb4b0ab5831d3de7cf3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "IRCv3",
+    "link": "https://ircv3.net/",
+    "published_at": "2026-10-11T10:11:27.000Z",
+    "fingerprint": "12ee0cf6890acdc6d43811c9619da38c170e3347",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Rilasciati in India i leader del 'Partito delle blatte', appelli a nuove proteste",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/rilasciati-in-india-i-leader-del-partito-delle-blatte-appelli-a-nuove-proteste_15e72b07-c6b0-41ff-814e-8c5d70a4e7ed.html",
+    "published_at": "2026-10-11T09:53:30.000Z",
+    "fingerprint": "1f8787205fe20605a7571db78caa3092a47a7f01",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Incinta al settimo mese muore con il figlio, scatta l'inchiesta",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/incinta-al-settimo-mese-muore-col-figlio-scatta-linchiesta_3dd09c21-e60f-43c1-9d99-f520ca61885d.html",
+    "published_at": "2026-10-11T07:42:48.000Z",
+    "fingerprint": "6abcccb740b23506856967f45090ded2da0b2a78",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La barbarie della morte in streaming",
+    "link": "https://www.ansa.it/sito/podcast/la_scelta_del_direttore/2026/10/09/la-barbarie-della-morte-in-streaming_cfd4220c-748c-4efe-8a49-16035aff1da2.html",
+    "published_at": "2026-10-11T05:20:11.000Z",
+    "fingerprint": "0e987f9ca2c07722c151eb2e59a1fc8da9aa75ca",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Found a Black Widow spider in my grapes.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1x2xj3u/found_a_black_widow_spider_in_my_grapes/",
+    "published_at": "2026-10-11T03:14:34.000Z",
+    "fingerprint": "56123d3fab86559176833887ec7c922a719f117c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "An apple orchard I went to has physical terms and conditions displayed when you enter",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1x2vn47/an_apple_orchard_i_went_to_has_physical_terms_and/",
+    "published_at": "2026-10-11T01:34:34.000Z",
+    "fingerprint": "88a5f1dc3684661ae6eee44dc636e3d62a91f7cb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Build your own decision model",
+    "link": "https://nishtahir.com/build-your-own-decision-model/",
+    "published_at": "2026-10-10T22:50:10.000Z",
+    "fingerprint": "cc1f8a1ea012b31130fe8a596e8e51fb4e29210e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The Desk Lamp Designed for Desks That Have No Room Left for One",
+    "link": "https://www.yankodesign.com/2026/10/10/the-desk-lamp-designed-for-desks-that-have-no-room-left-for-one/?utm_source=rss&utm_medium=rss&utm_campaign=the-desk-lamp-designed-for-desks-that-have-no-room-left-for-one",
+    "published_at": "2026-10-10T20:45:59.000Z",
+    "fingerprint": "365c2e09ad0ed602748d38ad519ad0746b3a5bea",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Peacock joins local wild turkey flock. Turkeys are suspicious of weird burd.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1x2m9l2/peacock_joins_local_wild_turkey_flock_turkeys_are/",
+    "published_at": "2026-10-10T18:23:43.000Z",
+    "fingerprint": "41f4f8228b009e85076b2c4545f58e2150ce2bcd",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ragione e Sentimento, torna un classico dal cuore femminista",
+    "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/10/ragione-e-sentimento-torna-un-classico-dal-cuore-femminista_19b2ecc8-a866-48dc-a4cf-596799e3abd1.html",
+    "published_at": "2026-10-10T18:04:54.000Z",
+    "fingerprint": "80c60298e3d2a7e76bb8cbfaad692969df183a28",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Da Il diavolo veste Prada 2 a Barbarella, a Cinecittà in mostra i costumi di scena",
+    "link": "https://www.ansa.it/canale_viaggi/regione/lazio/2026/10/10/da-il-diavolo-veste-prada-2-a-barbarella-a-cinecitta-in-mostra-i-costumi-di-scena_d0bed006-c3ff-4497-a944-03da35385627.html",
+    "published_at": "2026-10-10T18:00:25.000Z",
+    "fingerprint": "00d2032132d8f82fc0497da7567b1b17bc12e8e8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Unikernels were hard. key word: were",
+    "link": "https://ghuntley.com/unikernels/",
+    "published_at": "2026-10-10T14:27:09.000Z",
+    "fingerprint": "1e7020774c15f4e6331e6390b71fd205ee892064",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Salute mentale, da ansia a disturbi più gravi, ne soffrono 8 milioni italiani. La giornata mondiale",
     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/10/10/salute-mentale-da-ansia-a-disturbi-piu-gravi-ne-soffrono-8-milioni-italiani.-la-giornata_6959ff84-1bea-4509-8364-f9812e91ca3c.html",
@@ -48,6 +160,22 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "EdgeVolume",
+    "link": "https://www.producthunt.com/products/edgevolume-volume-at-your-fingertips",
+    "published_at": "2026-10-10T07:58:12.000Z",
+    "fingerprint": "542d541984da765a4468d396c1bc9ab0051c0608",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Cyril Hilsum invented the flat-screen displays that hold us in thrall",
+    "link": "https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall",
+    "published_at": "2026-10-10T07:25:23.000Z",
+    "fingerprint": "f456cd96fca2f93ee9639961341b7558dfe4dedb",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Allude sui social a stragi e atti violenti a scuola, denunciato 14enne",
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/allude-sui-social-a-stragi-e-atti-violenti-a-scuola-denunciato-14enne_c3571ba9-7190-461b-adc5-b8cfe98178ab.html",
@@ -93,6 +221,14 @@
     "link": "https://www.producthunt.com/products/ej-jev-but-for-edge-devices",
     "published_at": "2026-10-09T18:42:37.000Z",
     "fingerprint": "af787b0e6ecf3aa160536e5cb01c827f579d8a2c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "FloorGen",
+    "link": "https://www.producthunt.com/products/floorgen",
+    "published_at": "2026-10-09T18:19:20.000Z",
+    "fingerprint": "c61c7e86851c44d8c677ada05f6f4ed15cfb7bab",
     "micro_judgment": null
   },
   {
@@ -512,6 +648,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Kooler",
+    "link": "https://www.producthunt.com/products/kooler-2",
+    "published_at": "2026-10-08T01:10:54.000Z",
+    "fingerprint": "2087f18845d728985d70d403fa9455e742eccfb4",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
     "link": "https://github.com/pingdotgg/ts-rust",
@@ -645,6 +789,14 @@
     "link": "https://www.producthunt.com/products/tide-simple-self-hostable-video-calls",
     "published_at": "2026-10-07T10:31:31.000Z",
     "fingerprint": "9ed88ddee989a77f1c17ca9e2b7cf6d0d55741ee",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "kōdlo",
+    "link": "https://www.producthunt.com/products/kodlo",
+    "published_at": "2026-10-07T09:46:27.000Z",
+    "fingerprint": "678c1375690eb552bfe140597d33b9499c014ef1",
     "micro_judgment": null
   },
   {
@@ -1909,6 +2061,14 @@
     "link": "https://www.producthunt.com/products/notely-7",
     "published_at": "2026-09-28T08:11:31.000Z",
     "fingerprint": "0c680a12d6ae23dbec9eaab9e48758906de7e803",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "OpenScreen 2",
+    "link": "https://www.producthunt.com/products/openscreen-2",
+    "published_at": "2026-09-28T08:10:44.000Z",
+    "fingerprint": "965a19ccd09061a7a72b66997337aa5aebc21a30",
     "micro_judgment": null
   },
   {
