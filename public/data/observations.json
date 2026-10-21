@@ -1,6 +1,254 @@
 [
   {
     "source": "Designboom",
+    "title": "boss design turns outdated furniture into timeless pieces with circular initiative",
+    "link": "https://www.designboom.com/design/boss-design-the-loop-lucy-chair-circular-initiative/",
+    "published_at": "2026-10-21T10:00:48.000Z",
+    "fingerprint": "dac2515eb5505b59da80004eb992c3b16908147f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Istat: nascite ancora in calo, 355 mila nel '25 e nel '26 nuova flessione",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/istat-nascite-ancora-in-calo-355-mila-nel-25-e-nel-26-nuova-flessione_b8ff3ecc-4471-464f-9787-fc25e56e71b7.html",
+    "published_at": "2026-10-21T09:53:52.000Z",
+    "fingerprint": "601e8019063266fa36758cdbbe8d514a212a9197",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+    "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+    "published_at": "2026-10-21T09:08:08.000Z",
+    "fingerprint": "8ef046bbc8d3a40750e510f1a17b292bf825d668",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Farouk Kassam, 'la serie sul mio rapimento un aiuto nell'affrontare il trauma'",
+    "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/20/farouk-kassam-la-serie-sul-mio-rapimento-un-aiuto-nellaffrontare-il-trauma_b76b462a-10ac-4020-afd2-2eee6bc811f9.html",
+    "published_at": "2026-10-21T07:32:22.000Z",
+    "fingerprint": "3e7af9f8efb7b0c4d8134495ff7490ed19540c65",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "temporary pleasure: john leo gillen on growing up in a nightclub",
+    "link": "https://www.designboom.com/design/temporary-pleasure-john-leo-gillen-nightclub-right-here-right-now/",
+    "published_at": "2026-10-21T06:15:34.000Z",
+    "fingerprint": "8636aade00567bb26a02d996dbd32a27cd350c46",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My friend found a Pork Rind that looks like it’s giving a Thumbs Up",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xbes87/my_friend_found_a_pork_rind_that_looks_like_its/",
+    "published_at": "2026-10-21T05:36:20.000Z",
+    "fingerprint": "7457d5b0690110c9b86c57a440c52fea081938a7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Really weird hair I lost today",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xbere4/really_weird_hair_i_lost_today/",
+    "published_at": "2026-10-21T05:34:56.000Z",
+    "fingerprint": "e77dbdff6207efa8f55c714ddcc36900e11a826b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Setting Up SSH Keys on macOS with Touch ID",
+    "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+    "published_at": "2026-10-21T03:51:25.000Z",
+    "fingerprint": "4a67266052a4b7e637fb1c9726840c72cbc18d3a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "C# now beats Rust on WASM size",
+    "link": "https://github.com/zion-sati/NetWasm",
+    "published_at": "2026-10-21T02:53:47.000Z",
+    "fingerprint": "fdcb1cacb500c2d8a466e1ec561011cbfdaeb293",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "red-and-white aluminum safety barriers convert into public seating at dutch design week",
+    "link": "https://www.designboom.com/design/red-white-aluminum-safety-barriers-public-seating-dutch-design-week-martins-mezulis-13_0663_tsx/",
+    "published_at": "2026-10-21T02:10:34.000Z",
+    "fingerprint": "82d78aeb537ba9bd00764a43e1ea579f218204eb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "In Hilbert space, all things are quantumly possible",
+    "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+    "published_at": "2026-10-21T02:04:15.000Z",
+    "fingerprint": "13072962eb1df53263ad52eeaa96cd66ceb09a11",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Good type against all odds",
+    "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
+    "published_at": "2026-10-21T01:45:07.000Z",
+    "fingerprint": "46fb1ca34b6ef352875f470b3f1c9906d794dc91",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My dried blood under a microscope looks kinda like another world",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xb9vvj/my_dried_blood_under_a_microscope_looks_kinda/",
+    "published_at": "2026-10-21T01:19:58.000Z",
+    "fingerprint": "35bdc21dc24574161e1074b4da5649eb0b20c070",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Triage by Chodeberg",
+    "link": "https://www.producthunt.com/products/triage-by-chodeberg",
+    "published_at": "2026-10-20T22:59:42.000Z",
+    "fingerprint": "3cc7c1f9376416e27be38fc38ac3c37e65e2e8e0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My mom still keeps a school drawing I made of candy, which includes an older wrapper design of KitKat from 2005.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xb522l/my_mom_still_keeps_a_school_drawing_i_made_of/",
+    "published_at": "2026-10-20T21:40:53.000Z",
+    "fingerprint": "4e13137f2fd0167eda59119685e0176f6507dce7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Espresso Without an Outlet or a Separate Cup",
+    "link": "https://www.yankodesign.com/2026/10/20/espresso-without-an-outlet-or-a-separate-cup/?utm_source=rss&utm_medium=rss&utm_campaign=espresso-without-an-outlet-or-a-separate-cup",
+    "published_at": "2026-10-20T21:30:42.000Z",
+    "fingerprint": "db01465adc8dea9dcfd474232bae7c3e04a84c62",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My neighbor's ~120-year old tree engulfed a fence post sometime within the past 30-years.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xb4p35/my_neighbors_120year_old_tree_engulfed_a_fence/",
+    "published_at": "2026-10-20T21:26:05.000Z",
+    "fingerprint": "1dd364b89cd91592cd32fed2225fc88e0d615b9e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Electric Superbike Wears Its Battery Like a Honeycomb",
+    "link": "https://www.yankodesign.com/2026/10/20/this-electric-superbike-wears-its-battery-like-a-honeycomb/?utm_source=rss&utm_medium=rss&utm_campaign=this-electric-superbike-wears-its-battery-like-a-honeycomb",
+    "published_at": "2026-10-20T19:35:04.000Z",
+    "fingerprint": "fc2b1b38bc053c400437d52c2624929df0564caf",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Da Ghali a Fedez, i rapper si schierano sugli scontri in piazza",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/marracash-e-le-proteste-con-le-buone-non-cambi-le-cose-e-solo-linizio_4f65e268-393f-48f7-b0f0-40a1218491d5.html",
+    "published_at": "2026-10-20T19:21:30.000Z",
+    "fingerprint": "a22c07b6c1f8a18c6891bd018af62bf9b756a6ee",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "cat only likes my left sandal",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xb0oge/cat_only_likes_my_left_sandal/",
+    "published_at": "2026-10-20T18:51:38.000Z",
+    "fingerprint": "ce7bc63f1c604c4bec2d29a699eaea25243a7437",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Tend",
+    "link": "https://www.producthunt.com/products/tend-5",
+    "published_at": "2026-10-20T18:30:09.000Z",
+    "fingerprint": "dce4e1793b962039ff2dc43b20a52e0234540b5a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: SimCity, but with Permits",
+    "link": "https://permit.petercai.com/",
+    "published_at": "2026-10-20T18:29:09.000Z",
+    "fingerprint": "d029167dbbb1dbf3f35fa138e469da06edcf02f6",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Modella fan di Bolsonaro diventa virale, ma è creata dall'IA",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/20/modella-fan-di-bolsonaro-diventa-virale-ma-e-creata-dallia_5253f172-2e4d-48b6-8b82-77acd6e96a8b.html",
+    "published_at": "2026-10-20T16:28:40.000Z",
+    "fingerprint": "1f12a01b88e1618651b0c6d00dbca8cf6bde0b79",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Huawei Watch D3 Review: A Game Changer for On-Wrist Blood Pressure Monitoring",
+    "link": "https://www.yankodesign.com/2026/10/20/huawei-watch-d3-review-a-game-changer-for-on-wrist-blood-pressure-monitoring/?utm_source=rss&utm_medium=rss&utm_campaign=huawei-watch-d3-review-a-game-changer-for-on-wrist-blood-pressure-monitoring",
+    "published_at": "2026-10-20T15:20:53.000Z",
+    "fingerprint": "eaeaba60159fd7f6361de7259c6347ab2d9033fc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "sandbag castle casts sustainable concrete alternatives into floating installation in eindhoven",
+    "link": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/",
+    "published_at": "2026-10-20T14:55:45.000Z",
+    "fingerprint": "573d9100e7bb6c57677fb15bc6ec4a0c9263a970",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "PrivOS",
+    "link": "https://www.producthunt.com/products/privos",
+    "published_at": "2026-10-20T10:54:16.000Z",
+    "fingerprint": "4c3401761a6608e12be0e5c563a3d8ba0bcddc10",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "LUMVIA Coffee Table Prototype Pairs a Customizable Mosaic With Hidden Drawers",
+    "link": "https://www.yankodesign.com/2026/10/20/lumvia-coffee-table-prototype-pairs-a-customizable-mosaic-with-hidden-drawers/?utm_source=rss&utm_medium=rss&utm_campaign=lumvia-coffee-table-prototype-pairs-a-customizable-mosaic-with-hidden-drawers",
+    "published_at": "2026-10-20T10:07:44.000Z",
+    "fingerprint": "f722a9aa190946d928f5101c4d5ca0d2419f67ea",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "LearnExcel",
+    "link": "https://www.producthunt.com/products/learnexcel",
+    "published_at": "2026-10-20T09:04:03.000Z",
+    "fingerprint": "018b339834331da34e72cee1ce84df5aab417576",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Intelli for ChatGPT & Claude",
+    "link": "https://www.producthunt.com/products/intelli",
+    "published_at": "2026-10-20T07:04:54.000Z",
+    "fingerprint": "c175ee495d01398a1b91758446cf01c5d700f704",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Rovalty",
+    "link": "https://www.producthunt.com/products/rovalty-creator-program-ugc",
+    "published_at": "2026-10-19T21:33:50.000Z",
+    "fingerprint": "a3afc294849ef3ffb9d71d37b2b96766b7cd50fc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Kling 4.0",
+    "link": "https://www.producthunt.com/products/kling-4-0-4",
+    "published_at": "2026-10-19T17:51:17.000Z",
+    "fingerprint": "bf81c589e3d3e23eeb7a5f765e8255de9158e869",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
     "title": "unified by honeycomb geometry, maxon one’s brand identity unfolds through motion design",
     "link": "https://www.designboom.com/readers/honeycomb-geometry-maxon-one-brand-identity-motion-design-casey-gu/",
     "published_at": "2026-10-19T10:17:47.000Z",
@@ -53,6 +301,14 @@
     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/10/19/allarme-crematori-in-giappone-entro-il-2040-rischio-carenza-in-9-citta-su-20_e299ca20-13bd-4392-ba01-44f2d670de1c.html",
     "published_at": "2026-10-19T07:11:05.000Z",
     "fingerprint": "25f726ecf51a73f5d4807e3dcb115e0e53901c2f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Stella",
+    "link": "https://www.producthunt.com/products/stella-5",
+    "published_at": "2026-10-19T03:42:11.000Z",
+    "fingerprint": "11164a27cffd578af23f9efd84f3180354c31c4c",
     "micro_judgment": null
   },
   {
@@ -489,10 +745,26 @@
   },
   {
     "source": "Product Hunt",
+    "title": "Yarite",
+    "link": "https://www.producthunt.com/products/yarite",
+    "published_at": "2026-10-14T17:21:37.000Z",
+    "fingerprint": "29b464039fcc5588b21452646e7be8d8d611936a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
     "title": "Ubuntu 26.10 (Stonking Stingray)",
     "link": "https://www.producthunt.com/products/ubuntu",
     "published_at": "2026-10-14T17:16:14.000Z",
     "fingerprint": "4c5e435cce3e50a8802c44cc40bdc41fc8ce383b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "UseIt Studio",
+    "link": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery",
+    "published_at": "2026-10-14T13:11:39.000Z",
+    "fingerprint": "1fe5a857778a60cf18b1c5a35b898c70e02c5f60",
     "micro_judgment": null
   },
   {
@@ -1785,10 +2057,26 @@
   },
   {
     "source": "Product Hunt",
+    "title": "The Library",
+    "link": "https://www.producthunt.com/products/querri",
+    "published_at": "2026-10-06T07:23:15.000Z",
+    "fingerprint": "58e8d27ba6cd381cc5a9f0ad387de2b1b4e2f775",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
     "title": "Beam",
     "link": "https://www.producthunt.com/products/beam-13",
     "published_at": "2026-10-06T00:17:47.000Z",
     "fingerprint": "67e199b8fcd7813c3d00f3322a4a8fb428863f47",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Animatica Marionette",
+    "link": "https://www.producthunt.com/products/animatica-autoposer-pro",
+    "published_at": "2026-10-05T22:09:35.000Z",
+    "fingerprint": "1160f3e71288ca7c303947ea48c5d9957eff90f7",
     "micro_judgment": null
   },
   {
@@ -4517,6 +4805,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1wgr0di/this_sweet_potato_has_a_pronounced_looking_vein/",
     "published_at": "2026-09-15T05:09:26.000Z",
     "fingerprint": "fec7dcbca7e7cf6074e60b84d29d60504c1a9da1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "ESP-Mosaico",
+    "link": "https://www.producthunt.com/products/esp-mosaico",
+    "published_at": "2026-09-15T02:00:38.000Z",
+    "fingerprint": "7aab57bef777455cbbc699350ca44f10008b4c38",
     "micro_judgment": null
   },
   {
