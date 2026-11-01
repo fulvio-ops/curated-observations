@@ -1,6 +1,94 @@
 [
   {
     "source": "ANSA",
+    "title": "Il Papa: \"Dopo la tregua per i civili a Oleshky, crescano le inizative di pace\"",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/01/il-papa-dopo-la-tregua-per-i-civili-a-oleshky-crescano-le-inizative-di-pace_a4b8879f-32bd-4dbf-8c3b-bdcf8beca6a5.html",
+    "published_at": "2026-11-01T11:41:45.000Z",
+    "fingerprint": "d4524f35b885b783e129bf7c8df76e0f72d89ba2",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il parto sull'autobus, la conducente racconta: 'Un abbraccio di umanità'",
+    "link": "https://www.ansa.it/sito/videogallery/italia/2026/10/31/bologna-partorisce-in-bus-con-laiuto-della-conducente-momento-emozionante_aa77610c-a65b-4a1a-a8b1-99a3dc5f8602.html",
+    "published_at": "2026-11-01T10:56:57.000Z",
+    "fingerprint": "80db264e7f056532baf81094f17b908963679bf6",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La parata di Halloween, New York 'invasa' da maschere e musica",
+    "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/01/la-parata-di-halloween-new-york-inavasa-da-maschere-e-musica_a41c541e-9d9a-446d-9d55-d2685becc6a8.html",
+    "published_at": "2026-11-01T09:06:12.000Z",
+    "fingerprint": "bdd54bc72f6c0b483f05fe7cd8d94e1be5d27d1a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "designboom radar: exhibitions to see around the world this november",
+    "link": "https://www.designboom.com/art/exhibition-radar-november-2026/",
+    "published_at": "2026-11-01T08:45:50.000Z",
+    "fingerprint": "23324e4d37636176ca4d7e73126833db54e66d51",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Behold! the trick-or-treaters’ least favorite playdoh colors 20/195 purchased",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xkt6aa/behold_the_trickortreaters_least_favorite_playdoh/",
+    "published_at": "2026-11-01T03:38:59.000Z",
+    "fingerprint": "7b83f2c858a71e6722b894cd711e3b3fb20883ef",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Ran out of ramen first",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xkqvff/ran_out_of_ramen_first/",
+    "published_at": "2026-11-01T01:31:47.000Z",
+    "fingerprint": "edd50bb4b540ed5816c1ff962d81df61736f76aa",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My neighbor was giving out fresh spun cotton candy for Halloween",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xkpiwo/my_neighbor_was_giving_out_fresh_spun_cotton/",
+    "published_at": "2026-11-01T00:21:21.000Z",
+    "fingerprint": "56c8b655f0bc831b0623cb37dc1db12123543a4c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Leaf that looks like a cat",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xkmx3l/leaf_that_looks_like_a_cat/",
+    "published_at": "2026-10-31T22:16:01.000Z",
+    "fingerprint": "c43d50c02fd78a73a41826affe71c58f6b493434",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The Duty of a Scholar",
+    "link": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+    "published_at": "2026-10-31T19:07:36.000Z",
+    "fingerprint": "1c7129cbecaf34f26ba5d9cbd3dfaf3700f27e9e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "The morning fog turned these lawn decorations into a horror movie (OC)",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xkbcli/the_morning_fog_turned_these_lawn_decorations/",
+    "published_at": "2026-10-31T14:15:51.000Z",
+    "fingerprint": "0cb816b226f91d680c4638cddf24a5ecaa526630",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Jepsen: ParticleDB 1.1.4",
+    "link": "https://jepsen.io/analyses/particledb-1.1.4",
+    "published_at": "2026-10-31T13:39:52.000Z",
+    "fingerprint": "7e7baca5df2b5ae7b4dad5a667c35a681565434c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Silvia Salis, un destino nel nome?",
     "link": "https://www.ansa.it/sito/podcast/impero_dei_segni/2026/10/31/silvia-salis-un-destino-nel-nome_de6da71f-1e9a-4ed2-bdbe-734bb1d8b0ea.html",
     "published_at": "2026-10-31T08:17:01.000Z",
@@ -112,6 +200,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Screen Studio 4.0",
+    "link": "https://www.producthunt.com/products/screen-studio",
+    "published_at": "2026-10-30T14:42:02.000Z",
+    "fingerprint": "abed3be9c605a4f8c8b72e6e6803eba7c22d5ffd",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
     "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
@@ -125,6 +221,14 @@
     "link": "https://www.designboom.com/architecture/thiss-studio-tamsin-hanke-radical-reuse-exhibition-design-interview/",
     "published_at": "2026-10-30T11:50:54.000Z",
     "fingerprint": "8fcf6d5d6ac17665a8258cca4355051042b0a1e4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Precise Edit by Ideogram",
+    "link": "https://www.producthunt.com/products/ideogram",
+    "published_at": "2026-10-29T17:04:25.000Z",
+    "fingerprint": "92653505fb3b982dbfd9c7bd88516d751e945493",
     "micro_judgment": null
   },
   {
@@ -637,6 +741,14 @@
     "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
     "published_at": "2026-10-26T18:14:49.000Z",
     "fingerprint": "a36cbdb2237bffca3663932efb8fc3cff3447ca9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Riverside Agents",
+    "link": "https://www.producthunt.com/products/riverside-fm",
+    "published_at": "2026-10-26T17:33:37.000Z",
+    "fingerprint": "406429d0ab3cd366137aee9a354e14404321a926",
     "micro_judgment": null
   },
   {
