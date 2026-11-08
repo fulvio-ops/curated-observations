@@ -1,6 +1,150 @@
 [
   {
     "source": "ANSA",
+    "title": "Serie A: in campo alle 12.30 Napoli-Lazio DIRETTA",
+    "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/serie-a-in-campo-alle-12.30-napoli-lazio-diretta-_ae79ac8e-1941-4fe3-8d95-d74ca4e44feb.html",
+    "published_at": "2026-11-08T11:24:05.000Z",
+    "fingerprint": "f76c6b3c5c2cc03cc224e971136f02e9cf679606",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Person of Interest",
+    "link": "https://krthr.co/person-of-interest/",
+    "published_at": "2026-11-08T11:23:28.000Z",
+    "fingerprint": "472627afbac294a413c13c3fbcad1acfce04abce",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "An ominous manhole cover.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xqvwdl/an_ominous_manhole_cover/",
+    "published_at": "2026-11-08T11:00:50.000Z",
+    "fingerprint": "15cc3cb2e36656c2a1281dff061d678c92f3b9bb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Petered (what happens after the Peter Principle)",
+    "link": "https://aworkinglibrary.com/writing/petered",
+    "published_at": "2026-11-08T10:56:43.000Z",
+    "fingerprint": "3c01cc9aa110932696e236d68ed5a2c333908aeb",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Atterrati a Venezia i due attivisti bresciani fermati in Cisgiordania",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/atterrati-a-venezia-i-due-attivisti-bresciani-fermati-in-cisgiordania_69744baf-36aa-4c26-aac8-3b3b45989e1b.html",
+    "published_at": "2026-11-08T09:32:49.000Z",
+    "fingerprint": "a8c72f32da95d6d89e77fe69a605e81fc6fc7309",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "WaveDudeNext 2D Wave Simulator",
+    "link": "https://github.com/graealex/WaveDudeNext",
+    "published_at": "2026-11-08T07:09:02.000Z",
+    "fingerprint": "6b628cfad2d00d3bb4d97133223d95f9768d86d9",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La rivincita di Toqueville",
+    "link": "https://www.ansa.it/sito/podcast/la_scelta_del_direttore/2026/11/06/la-rivincita-di-toqueville_93058cea-17c8-4101-9b30-7029c3a17f30.html",
+    "published_at": "2026-11-08T06:12:16.000Z",
+    "fingerprint": "d93269ccad04be0f658d6dff72dbdc89592e842c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Kirlian Photography: Building Your Own Equipment",
+    "link": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+    "published_at": "2026-11-08T04:14:12.000Z",
+    "fingerprint": "d5bb151463b7de5c6e6c3e22475b677b490d74cb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Light-Charging E Ink Frame Gives Your Photos a Home Beyond Your Phone",
+    "link": "https://www.yankodesign.com/2026/11/07/this-light-charging-e-ink-frame-gives-your-photos-a-home-beyond-your-phone/?utm_source=rss&utm_medium=rss&utm_campaign=this-light-charging-e-ink-frame-gives-your-photos-a-home-beyond-your-phone",
+    "published_at": "2026-11-08T02:45:00.000Z",
+    "fingerprint": "6d56c1a4a6efacda9071c31de303cc92ee31db00",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Consumer brain wave headsets threaten privacy",
+    "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+    "published_at": "2026-11-08T02:02:38.000Z",
+    "fingerprint": "4e9fd09839b1130994769ab40424d6661fc26bff",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Aina’s AI Ring Puts an OLED Screen and Joystick on Your Finger",
+    "link": "https://www.yankodesign.com/2026/11/07/ainas-ai-ring-puts-an-oled-screen-and-joystick-on-your-finger/?utm_source=rss&utm_medium=rss&utm_campaign=ainas-ai-ring-puts-an-oled-screen-and-joystick-on-your-finger",
+    "published_at": "2026-11-07T21:45:51.000Z",
+    "fingerprint": "fc12a7a1e391c9f745ecf08a2f9e3193de0a6f14",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "What I run on my $10 USD OpenStick homelab",
+    "link": "https://blog.bosscher.ch/posts/openstick/",
+    "published_at": "2026-11-07T18:12:12.000Z",
+    "fingerprint": "fda0c07fc7b847c453aae6cccee70daeaee0153f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Agent Clan",
+    "link": "https://www.producthunt.com/products/agent-clan",
+    "published_at": "2026-11-07T17:52:26.000Z",
+    "fingerprint": "ff948fe8f8c674ea2111ed1d079ce0b6f0796c7a",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "IA e lavoro, il rischio di un nuovo divario di genere a Women & the City",
+    "link": "https://www.ansa.it/donne/notizie/2026/11/07/ia-e-lavoro-il-rischio-di-un-nuovo-divario-di-genere-a-women-the-city_be39f6da-57e6-410f-bf94-b447d0c54306.html",
+    "published_at": "2026-11-07T17:28:44.000Z",
+    "fingerprint": "d17e9a576fb63daf1582581573383d2de9765530",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "'Spari da destra', una foto ANSA riscrive la strage di via Fani",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/a-via-fani-non-cerano-solo-le-br-lo-racconta-una-foto_a0ee617c-18e1-40ae-aadf-c29421662057.html",
+    "published_at": "2026-11-07T16:22:44.000Z",
+    "fingerprint": "9bda014a370ad66ac8993483d372d8722ab04caf",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Mug at a local diner is from Starbucks",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xq9i7e/mug_at_a_local_diner_is_from_starbucks/",
+    "published_at": "2026-11-07T15:49:44.000Z",
+    "fingerprint": "fe59f1bb24b200235e5797f27c3e60ef6d4befb5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "julia lohmann’s otherworldly kelp sculptures imagine a future beyond human-centered design",
+    "link": "https://www.designboom.com/design/julia-lohmann-otherworldly-kelp-sculptures-future-beyond-human/",
+    "published_at": "2026-11-07T15:15:00.000Z",
+    "fingerprint": "8fca2899d261cd2c2d703876d0073706895a7ebf",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "One of the dogs I walk likes to poop directly on tree trunks.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xq5wpy/one_of_the_dogs_i_walk_likes_to_poop_directly_on/",
+    "published_at": "2026-11-07T13:05:01.000Z",
+    "fingerprint": "430303b97d7c28788520c26690626d75dd4e2194",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
     "published_at": "2026-11-07T11:31:28.000Z",
@@ -61,6 +205,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xpqry4/this_tiny_hand_drawn_temporary_bike_lane_indicator/",
     "published_at": "2026-11-06T22:57:03.000Z",
     "fingerprint": "44bcc82d32f9afe829ead121774f8344dbb29247",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "concrete pairs with brushed metal for hybrid automotive gallery café in hong kong",
+    "link": "https://www.designboom.com/architecture/concrete-brushed-metal-hybrid-automotive-gallery-cafe-hong-kong-macchina-studio-ruei/",
+    "published_at": "2026-11-06T22:35:27.000Z",
+    "fingerprint": "6fa084d8f309a37e41f5b1d5536cfd1479c1d4ad",
     "micro_judgment": null
   },
   {
@@ -808,6 +960,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "NotchIsland",
+    "link": "https://www.producthunt.com/products/notchisland-2",
+    "published_at": "2026-11-02T11:00:48.000Z",
+    "fingerprint": "5a36953bc9f5baef59b4805ace22ac537c7f865a",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "La stampa estera esalta Antonelli: 'Peter Pan con riflessi da campione'",
     "link": "https://www.ansa.it/sito/notizie/sport/2026/11/02/la-stampa-estera-esalta-antonelli-peter-pan-con-riflessi-da-campione_da2bf412-8452-49a9-87f0-b6450ff2b7b2.html",
@@ -869,6 +1029,14 @@
     "link": "https://news.ycombinator.com/item?id=50328896",
     "published_at": "2026-11-01T19:35:27.000Z",
     "fingerprint": "e5c0585959a18929938338df19be26982864017b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Archie",
+    "link": "https://www.producthunt.com/products/archie-3",
+    "published_at": "2026-11-01T19:15:40.000Z",
+    "fingerprint": "d813c166cd39263a678c4cc158a91531c752b6a9",
     "micro_judgment": null
   },
   {
@@ -1029,6 +1197,14 @@
     "link": "https://www.yankodesign.com/2026/10/30/this-printer-shaped-chair-has-receipts-literally/?utm_source=rss&utm_medium=rss&utm_campaign=this-printer-shaped-chair-has-receipts-literally",
     "published_at": "2026-10-30T22:30:38.000Z",
     "fingerprint": "6b22f9c138dff85388b96ba7713304003b6c5d85",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "AXL",
+    "link": "https://www.producthunt.com/products/axl-2",
+    "published_at": "2026-10-30T21:17:40.000Z",
+    "fingerprint": "b3c47047c6e8bd8b2a7ff2a3b6ec00de28440159",
     "micro_judgment": null
   },
   {
