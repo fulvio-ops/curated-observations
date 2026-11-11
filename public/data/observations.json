@@ -1,6 +1,214 @@
 [
   {
     "source": "ANSA",
+    "title": "Nel pomeriggio il vertice di maggioranza sulla manovra",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/11/nel-pomeriggio-il-vertice-di-maggioranza-sulla-manovra-_64424a18-35dc-40ab-9e3a-9d7b0a2f6661.html",
+    "published_at": "2026-11-11T12:26:48.000Z",
+    "fingerprint": "a1c3ca79d12f27edbf6fa288741d2f5eb53bc2db",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Neonato sepolto vivo dal padre per 24 ore, è in salvo",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/11/neonato-sepolto-vivo-dal-padre-per-24-ore-e-in-salvo_69b81179-e94b-465c-9f83-842c0a171495.html",
+    "published_at": "2026-11-11T12:26:18.000Z",
+    "fingerprint": "b567aa07f26e0cb4daad64da49a9c0e27b512fea",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+    "link": "https://news.ycombinator.com/item?id=50452404",
+    "published_at": "2026-11-11T12:00:35.000Z",
+    "fingerprint": "4168e8aaf269734783f5164da0a5f85336ef32d5",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Frena la crescita dell'occupazione in Italia e accelera l'inflazione",
+    "link": "https://www.ansa.it/sito/notizie/economia/pmi/2026/11/11/istat-frena-la-crescita-delloccupazione-nel-2026-2027-giu-la-disoccupazione_c6c2b0c5-93d2-4ea9-99a9-84315413c5b2.html",
+    "published_at": "2026-11-11T11:59:31.000Z",
+    "fingerprint": "803f665e065e29bcb113715c971ab52cb0d0d6e0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "pedrali designs a gentle habitat where workplace demands and hospitality make peace at orgatec",
+    "link": "https://www.designboom.com/design/pedrali-gentle-habitat-orgatec/",
+    "published_at": "2026-11-11T11:25:35.000Z",
+    "fingerprint": "b1a3738223a1a1ca2f76d0cc2364602280bf26c9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "sumayya vally’s counterspace to design elie khouri art foundation in dubai",
+    "link": "https://www.designboom.com/architecture/sumayya-vally-counterspace-elie-khouri-art-foundation-ekaf-dubai/",
+    "published_at": "2026-11-11T11:06:45.000Z",
+    "fingerprint": "b32217ca89d7322c3c76a449f7b0d03014c6bbd4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Using voltage glitching to unleash the A100 in my mining card",
+    "link": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+    "published_at": "2026-11-11T10:48:40.000Z",
+    "fingerprint": "28cb4be82638f1d24000ce9de64d1058ea62a265",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La morte di Domenico, indagati due sanitari dell'ospedale di Bolzano",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/la-morte-di-domenico-indagati-due-sanitari-dellospedale-di-bolzano_d79d9729-4fd3-435f-a4ab-a1d62c74d8e0.html",
+    "published_at": "2026-11-11T10:21:43.000Z",
+    "fingerprint": "cf4fe3c57eb2c7a0b3f7e204dcc0b0a5918c5bd3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This flower bouquet vending machine",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xtde83/this_flower_bouquet_vending_machine/",
+    "published_at": "2026-11-11T09:23:51.000Z",
+    "fingerprint": "2cb7455f9ea2e028c55e7adb973d575b6e9dd7bd",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "F1: Hamilton in visita al confine egiziano con Gaza",
+    "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/11/f1-hamilton-in-visita-al-confine-egiziano-con-gaza_72a55b2a-2834-4c5c-afea-33fe988fe5da.html",
+    "published_at": "2026-11-11T09:01:29.000Z",
+    "fingerprint": "86d98ab23cc176995a345b7839e7be6fb56e44ae",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "JR assembles 2,500 portraits into a collective image of thailand’s creative scene",
+    "link": "https://www.designboom.com/art/jr-2500-portraits-collective-image-thailand-creative-scene-inside-out-cloud-11/",
+    "published_at": "2026-11-11T06:44:13.000Z",
+    "fingerprint": "63f1b5a0477a9dcadfd476a6a3a76ee116c737cc",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "Squirrels used our gutters to store walnuts from the neighbors tree.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xt9rgb/squirrels_used_our_gutters_to_store_walnuts_from/",
+    "published_at": "2026-11-11T05:41:31.000Z",
+    "fingerprint": "db7ce2d933acfa401e86c7069fb6469a2e7d921a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "This old pack of Wrigley gum I saw on the floor of a thrift store",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xt8icb/this_old_pack_of_wrigley_gum_i_saw_on_the_floor/",
+    "published_at": "2026-11-11T04:32:58.000Z",
+    "fingerprint": "30661887b6e7d1e186aa8e4b3240ef9fba35792e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "transparent surfboard uses carbon-fiber ribs and clear panels to reveal the ocean below",
+    "link": "https://www.designboom.com/design/transparent-surfboard-carbon-fiber-ribs-clear-panels-ocean-igor-dzukovski-tidal-wave/",
+    "published_at": "2026-11-11T02:55:11.000Z",
+    "fingerprint": "53042ca3f2b9bd9430cb6a642882ebf2ff8e6a6c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Arrowspace S1 Screwdriver Kit Scans Screws and Lights Up the Recommended Bit",
+    "link": "https://www.yankodesign.com/2026/11/10/arrowspace-s1-screwdriver-kit-scans-screws-and-lights-up-the-recommended-bit/?utm_source=rss&utm_medium=rss&utm_campaign=arrowspace-s1-screwdriver-kit-scans-screws-and-lights-up-the-recommended-bit",
+    "published_at": "2026-11-11T02:45:32.000Z",
+    "fingerprint": "c012a579da0fd239388ded1b749712ec810927ad",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "RigSpark",
+    "link": "https://www.producthunt.com/products/rigspark",
+    "published_at": "2026-11-11T01:26:24.000Z",
+    "fingerprint": "33fa7e55eb67a28c9c61bb14cd4ce453a61922e9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "the blood in my bruise is going around my mole",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xt4bgn/the_blood_in_my_bruise_is_going_around_my_mole/",
+    "published_at": "2026-11-11T01:05:46.000Z",
+    "fingerprint": "fb7dbdae5282015b7f78ff8d92068f1956417516",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My dad puts corn on his spaghetti",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xt234z/my_dad_puts_corn_on_his_spaghetti/",
+    "published_at": "2026-11-10T23:27:09.000Z",
+    "fingerprint": "e839457b2f13b3460a2202b76201a6400387475e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Earlybird",
+    "link": "https://www.producthunt.com/products/earlybird-5",
+    "published_at": "2026-11-10T23:11:21.000Z",
+    "fingerprint": "a56230c1aaccedc50e88947e2b37ca27d620def0",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il trapper Baby Gang non va in udienza, 'pestato in carcere'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/il-trapper-baby-gang-non-va-in-udienza-pestato-in-carcere_cfb6958b-b204-460d-9239-bc8794c5087d.html",
+    "published_at": "2026-11-10T22:15:46.000Z",
+    "fingerprint": "cb4f88bd7f2e0fa67611387c10f09faf79829a5e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Xolace",
+    "link": "https://www.producthunt.com/products/xolace",
+    "published_at": "2026-11-10T22:07:24.000Z",
+    "fingerprint": "8b61bd57747a8d84cf398f93e83a7dde36f1fb95",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "a giant circle frames NIKO’s timber guesthouse and tiny curved sauna in japan",
+    "link": "https://www.designboom.com/architecture/giant-circle-niko-timber-guesthouse-tiny-curved-sauna-japan-marumi/",
+    "published_at": "2026-11-10T19:25:57.000Z",
+    "fingerprint": "398107d02beb5533fd502eaac9165aa094188261",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Starlink Mini 2",
+    "link": "https://starlink.com/mini-2",
+    "published_at": "2026-11-10T18:22:32.000Z",
+    "fingerprint": "8c8a5c107cc102cd593119a9e17c5894adb43aef",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "link": "https://github.com/GoogleChrome/modern-web-guidance",
+    "published_at": "2026-11-10T18:01:15.000Z",
+    "fingerprint": "369c792103bace77f841c9bdf75cb2a22821d8d0",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Avventure inaspettate e complicità di coppia, 'l'Italia per due' di Caressa e Parodi",
+    "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/10/avventure-inaspettate-e-complicita-di-coppia-litalia-per-due-di-caressa-e-parodi_c64f6d27-9d3f-4e42-b15d-01369930a1cb.html",
+    "published_at": "2026-11-10T17:50:15.000Z",
+    "fingerprint": "e93b7a53bc2e83c9f24d850eccdba0abf0da7a39",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This wearable heat patch is designed to bring relief to menstrual cramps and muscle pain",
+    "link": "https://www.yankodesign.com/2026/11/10/this-wearable-heat-patch-is-designed-to-bring-relief-to-menstrual-cramps-and-muscle-pain/?utm_source=rss&utm_medium=rss&utm_campaign=this-wearable-heat-patch-is-designed-to-bring-relief-to-menstrual-cramps-and-muscle-pain",
+    "published_at": "2026-11-10T16:20:38.000Z",
+    "fingerprint": "fd6c9972617ba981d9f36f07af3622cd6569aee4",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Portavoce Ue: 'Presto per negoziati diretti Russia-Europa'. Rubio 'la strada è ancora lunga'",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/10/rubio-plaude-ai-colloqui-di-pace-ad-abu-dhabi-sullucraina-ma-la-strada-e-ancora-lunga_22e143a9-4f98-46fe-97f9-b037c9f33370.html",
     "published_at": "2026-11-10T12:47:18.000Z",
@@ -157,6 +365,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xrwov3/my_12yearold_niece_handcrocheted_a_doll_out_of/",
     "published_at": "2026-11-09T16:45:38.000Z",
     "fingerprint": "759055f6b3ddfb2386b6ed53c9ac99248c57be9b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Seedream 5.5 by ByteDance",
+    "link": "https://www.producthunt.com/products/seedream-4-0",
+    "published_at": "2026-11-09T13:57:21.000Z",
+    "fingerprint": "02aa7df35c0da368e23e6013ed03d3e7e8c05bac",
     "micro_judgment": null
   },
   {
