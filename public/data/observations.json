@@ -1,6 +1,182 @@
 [
   {
     "source": "ANSA",
+    "title": "Zelensky: 'Gli Usa propongono l'adesione alla Nato in cambio della cessione di territori ucraini'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/zelensky-gli-usa-propongono-ladesione-alla-nato-in-cambio-della-cessione_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
+    "published_at": "2026-11-14T11:52:05.000Z",
+    "fingerprint": "e955dff2468ed468b528024c810b608b6ce73154",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Nelle case italiane 100 milioni di dispositivi connessi, 1 su 3 a rischio hacker",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/nelle-case-italiane-100-milioni-di-dispositivi-connessi-1-su-3-a-rischio-hacker_b9486b33-f971-4f17-821b-97f048a3bcb8.html",
+    "published_at": "2026-11-14T10:40:09.000Z",
+    "fingerprint": "1b37df67cc6d95081f1cc209cd4892b807d8371b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Come funziona il bonus mamme",
+    "link": "https://www.ansa.it/donne/notizie/2026/11/11/come-funziona-il-bonus-mamme_4375a31e-07de-438c-ae16-43a604a22ef0.html",
+    "published_at": "2026-11-14T09:07:19.000Z",
+    "fingerprint": "246c75463d66318d58e6170d6f1df117dbff2499",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Ciro Grillo: 'nessuna concessione, piuttosto in galera da innocente'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/ciro-grillo-nessuna-concessione-piuttosto-in-galera-da-innocente-_493a185c-4b7b-4e27-b548-0e8ddd2c6acf.html",
+    "published_at": "2026-11-14T07:47:14.000Z",
+    "fingerprint": "527f476bfcf6a78748f35c730e2eaf97c63b2c5f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Microsoft, ripristinati tutti i servizi dopo il blackout globale",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/microsoft-ripristinati-tutti-i-servizi-dopo-il-blackout-globale-_fcbd3697-9a41-4805-9a00-5c1a6949b294.html",
+    "published_at": "2026-11-14T07:24:13.000Z",
+    "fingerprint": "8f63d46ec90448bc34c8fae7940dada77cca7e26",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il Papa torna Padre Rob nella sua ex diocesi, bagno di folla a Chiclayo",
+    "link": "https://www.ansa.it/vaticano/notizie/2026/11/13/il-papa-a-chiclayo-una-benedizione-per-me-essere-di-nuovo-qui_989723f9-9cc6-414d-b526-71f5586301fc.html",
+    "published_at": "2026-11-14T06:16:51.000Z",
+    "fingerprint": "0ec7bca05de74b6623fc8d06301e6ea71c064e4e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "I almost stepped on this little unknown creature at night",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xvtr52/i_almost_stepped_on_this_little_unknown_creature/",
+    "published_at": "2026-11-14T04:58:49.000Z",
+    "fingerprint": "d88aaa80d1b80f7ff822a4223d2fd5669b99ab4d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My wife fried something in oil and sugar. Once cooled and drained I saw that the hardened sugar had formed these weird mushrooms.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xvr4vu/my_wife_fried_something_in_oil_and_sugar_once/",
+    "published_at": "2026-11-14T02:39:23.000Z",
+    "fingerprint": "b2d111d2f75e734d4709996d9db333c6ca4babd1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Ggml v1.0.0",
+    "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+    "published_at": "2026-11-14T02:28:29.000Z",
+    "fingerprint": "b42153efce536d9f197f2d4056d4d36c1383f873",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My rearview mirror is growing some kind of crystals",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xvql1c/my_rearview_mirror_is_growing_some_kind_of/",
+    "published_at": "2026-11-14T02:11:54.000Z",
+    "fingerprint": "dddcba9be47d2f18585ca706498d4b246515cc29",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+    "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+    "published_at": "2026-11-14T00:52:29.000Z",
+    "fingerprint": "355acb29bee0db22aa45f43ebc9af12ede93f177",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "What happened to 3Com?",
+    "link": "https://dfarq.homeip.net/what-happened-to-3com/",
+    "published_at": "2026-11-13T23:48:59.000Z",
+    "fingerprint": "de5db8b9c4d289b0994b11867819d0f9a5b5618e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Terminal borders that don't cost a cell",
+    "link": "https://www.joshka.net/cell-borders/",
+    "published_at": "2026-11-13T23:06:40.000Z",
+    "fingerprint": "61bf25c5a3d5c0aec3ddc6f021b35e579e6c36cb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "How Not to Build a Music Player",
+    "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+    "published_at": "2026-11-13T23:04:30.000Z",
+    "fingerprint": "998eb019dcff9ad65803b8ede4163f17e609c0ac",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+    "link": "https://orcasairband.com/",
+    "published_at": "2026-11-13T22:04:24.000Z",
+    "fingerprint": "e1e487abd94db4bd634572a4c289b322df34df13",
+    "micro_judgment": null
+  },
+  {
+    "source": "Reddit · mildlyinteresting",
+    "title": "My bf has a box of hands.",
+    "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xvkuj4/my_bf_has_a_box_of_hands/",
+    "published_at": "2026-11-13T21:50:32.000Z",
+    "fingerprint": "50a22f8573e748f6ae3133dd8434c869727d2beb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "All I want for Christmas is this unnecessarily delightful Lego snow globe",
+    "link": "https://www.yankodesign.com/2026/11/13/all-i-want-for-christmas-is-this-unnecessarily-delightful-lego-snow-globe/?utm_source=rss&utm_medium=rss&utm_campaign=all-i-want-for-christmas-is-this-unnecessarily-delightful-lego-snow-globe",
+    "published_at": "2026-11-13T19:20:55.000Z",
+    "fingerprint": "fc5455837af4d7d338f1cf5be0bed413241340a2",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Kimi Antonelli al Quirinale regala il suo casco a Mattarella",
+    "link": "https://www.ansa.it/sito/videogallery/italia/2026/11/13/kimi-antonelli-al-quirinale-regala-il-suo-casco-a-mattarella_2054772c-9e64-4f77-b664-b15c81e7e36e.html",
+    "published_at": "2026-11-13T19:06:41.000Z",
+    "fingerprint": "236a33184a31cd6108015e02307b59112a882da6",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Dipendenza tecnologica e rischio truffe, i nodi del caso Microsoft",
+    "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/dipendenza-tecnologica-e-rischio-truffe-i-nodi-del-caso-microsoft_d66d6be9-e87e-4070-9b69-0dc9ca7bf0ec.html",
+    "published_at": "2026-11-13T18:46:27.000Z",
+    "fingerprint": "7bb38fb735e7993d15336e90543a3befd57f7a4a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Tidal Wave Surfboard Prototype: Underwater Views Without Diving",
+    "link": "https://www.yankodesign.com/2026/11/13/tidal-wave-surfboard-prototype-underwater-views-without-diving/?utm_source=rss&utm_medium=rss&utm_campaign=tidal-wave-surfboard-prototype-underwater-views-without-diving",
+    "published_at": "2026-11-13T17:20:00.000Z",
+    "fingerprint": "f781172e450c6b45861dade66f2a5fcbfc996ed1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Volkswagen Caddy gets a compact campervan makeover with a pop-up roof and clever interior",
+    "link": "https://www.yankodesign.com/2026/11/13/volkswagen-caddy-gets-a-compact-campervan-makeover-with-a-pop-up-roof-and-clever-interior/?utm_source=rss&utm_medium=rss&utm_campaign=volkswagen-caddy-gets-a-compact-campervan-makeover-with-a-pop-up-roof-and-clever-interior",
+    "published_at": "2026-11-13T15:20:24.000Z",
+    "fingerprint": "e3973be5e247ab1dac30c71e664b9c00bfaf18a6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "arnaud behzadi on designing beyond beauty, from paris’ doobie’s to pavyllon lyon",
+    "link": "https://www.designboom.com/architecture/arnaud-behzadi-doobies-paris-pavyllon-lyon/",
+    "published_at": "2026-11-13T13:28:59.000Z",
+    "fingerprint": "4d60d2cc94a05e9857bd6d910582c9bc747cc0dd",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "Il Papa ai giovani: 'Pensate ai vostri sogni per cui siete disposti a lottare'",
     "link": "https://www.ansa.it/vaticano/notizie/2026/11/13/il-papa-ai-giovani-pensate-ai-vostri-sogni-per-cui-siete-disposti-a-lottare_989723f9-9cc6-414d-b526-71f5586301fc.html",
     "published_at": "2026-11-13T12:48:13.000Z",
@@ -944,6 +1120,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Horef Rings",
+    "link": "https://www.producthunt.com/products/horef-rings",
+    "published_at": "2026-11-07T20:20:27.000Z",
+    "fingerprint": "e6be48078daa621f5438da246da5c57cb3b2ae1c",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "What I run on my $10 USD OpenStick homelab",
     "link": "https://blog.bosscher.ch/posts/openstick/",
@@ -1136,6 +1320,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Replay",
+    "link": "https://www.producthunt.com/products/replay-11",
+    "published_at": "2026-11-06T18:10:59.000Z",
+    "fingerprint": "79fe0511458b48daea19d0097d46122e702bb195",
+    "micro_judgment": null
+  },
+  {
     "source": "Reddit · mildlyinteresting",
     "title": "McDonald’s makes me feel like Andre the giant with their new water cups.",
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xpijs1/mcdonalds_makes_me_feel_like_andre_the_giant_with/",
@@ -1181,6 +1373,14 @@
     "link": "https://www.producthunt.com/products/superlogical",
     "published_at": "2026-11-06T14:50:09.000Z",
     "fingerprint": "20df8f3a056378f75a091c092d5e43fc73e52af9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Nexus",
+    "link": "https://www.producthunt.com/products/project-nexus-2",
+    "published_at": "2026-11-06T13:40:07.000Z",
+    "fingerprint": "6b57630dab97f51348f81935512b46882ad8b9a4",
     "micro_judgment": null
   },
   {
@@ -3445,6 +3645,14 @@
     "link": "https://www.producthunt.com/products/bits-4",
     "published_at": "2026-10-21T20:59:15.000Z",
     "fingerprint": "438fa1a511643932b633eb5a9a14576d02007369",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "MAP & GO!",
+    "link": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
+    "published_at": "2026-10-21T20:14:51.000Z",
+    "fingerprint": "156aed4ad62d76ed7863bb13e84f1fa45ca83ec9",
     "micro_judgment": null
   },
   {
