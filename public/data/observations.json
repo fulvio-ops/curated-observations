@@ -1,5 +1,109 @@
 [
   {
+    "source": "ANSA",
+    "title": "MotoGp in Portogallo, l'Aprilia di Bezzecchi in pole, secondo Marc Marquez",
+    "link": "https://www.ansa.it/sito/notizie/sport/moto/2026/11/21/motogp-portogallo-aprilia-bezzecchi-in-pole-secondo-marc-marquez_d09ee16d-281c-4e91-85c1-25a172386184.html",
+    "published_at": "2026-11-21T12:53:50.000Z",
+    "fingerprint": "9b519ec5646a10840e7b121b34f8405eb22157f8",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Mps: 'L'Opas di Intesa congrua dopo il rilancio e le garanzie su Siena'",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/mps-lopas-di-intesa-congrua-dopo-il-rilancio-e-le-garanzie-su-siena_02968d27-bddb-4349-a9f5-be183321f9c3.html",
+    "published_at": "2026-11-21T08:04:08.000Z",
+    "fingerprint": "c5c76294be4c014fb46a03d0653f29c1a3332c51",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La Cnn: 'Nuovo attacco hacker all'Fbi, violato l'archivio criminale'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/la-cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_38f6033c-fb4e-4c0c-8cb1-c64f4c15b671.html",
+    "published_at": "2026-11-21T07:47:38.000Z",
+    "fingerprint": "8f16f8cb8c7a70bd89da590bbf3834acc3da6514",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "ClawDOS – An AI coding agent for DOS",
+    "link": "http://ricapar.net/ClawDOS/",
+    "published_at": "2026-11-21T05:38:01.000Z",
+    "fingerprint": "6bed968227c776c0dde8f317b5a66b6be8bba5f6",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "NINLIVE: The Nine Inch Nails live archive",
+    "link": "https://ninlive.com/",
+    "published_at": "2026-11-20T22:30:47.000Z",
+    "fingerprint": "07699fd75715394633af25dfc286818a0bf1eb07",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This tiny Damascus steel knife is the size of a car key and weighs 1.4 ounces",
+    "link": "https://www.yankodesign.com/2026/11/20/this-tiny-damascus-steel-knife-is-the-size-of-a-car-key-and-weighs-1-4-ounces/?utm_source=rss&utm_medium=rss&utm_campaign=this-tiny-damascus-steel-knife-is-the-size-of-a-car-key-and-weighs-1-4-ounces",
+    "published_at": "2026-11-20T21:30:24.000Z",
+    "fingerprint": "33d308e1b95d7d88043889c1a333c48542783327",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Al ReWriters Fest si parla di donne pioniere e inventrici, linguaggio e mascolinità tossica",
+    "link": "https://www.ansa.it/donne/notizie/2026/11/20/al-rewriters-fest-donne-pioniere-e-inventrici-linguaggio-e-mascolinita-tossica_d628dd3d-8409-4158-8962-16e79c4a6ed1.html",
+    "published_at": "2026-11-20T20:57:31.000Z",
+    "fingerprint": "e120b4154c7162540b3490453c50613a094cf539",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Smorza",
+    "link": "https://www.producthunt.com/products/smorza",
+    "published_at": "2026-11-20T19:28:10.000Z",
+    "fingerprint": "d9e84a6695e82ff34a65e057a7fd6d43b08ac4aa",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Vibecoding an inference chip",
+    "link": "https://ankitg.me/blog/vibecoding-inference-chip/",
+    "published_at": "2026-11-20T18:15:16.000Z",
+    "fingerprint": "dfc53901d0381a9c6024925eae0f618dd358b7e5",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Come funziona l’impeachment negli Usa",
+    "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/20/come-funziona-limpeachment-negli-usa_54c68670-2450-4c88-a7ea-acb51d2b3243.html",
+    "published_at": "2026-11-20T09:57:44.000Z",
+    "fingerprint": "0edb170acee9f2bc23457e7423999674c2e02d32",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Lumyna Community Challenge",
+    "link": "https://www.producthunt.com/products/lumyna-community-challenge",
+    "published_at": "2026-11-20T04:55:57.000Z",
+    "fingerprint": "0eb688c02df5d42bc9f0f0b700ec9d73d1dd43a9",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Veryfi Thinking Mode",
+    "link": "https://www.producthunt.com/products/veryfi",
+    "published_at": "2026-11-19T21:30:01.000Z",
+    "fingerprint": "0c4a5321f24f13cf4f19e7ad9962cd1b4bb0609e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "UndoGuard",
+    "link": "https://www.producthunt.com/products/undoguard",
+    "published_at": "2026-11-19T19:15:42.000Z",
+    "fingerprint": "c9be8540703bfa43bcf45b20a3f1f24a6831c069",
+    "micro_judgment": null
+  },
+  {
     "source": "Yanko Design",
     "title": "Leica M-A and M11-P Get a New Textured Hammertone Finish",
     "link": "https://www.yankodesign.com/2026/11/19/leica-m-a-and-m11-p-get-a-new-textured-hammertone-finish/?utm_source=rss&utm_medium=rss&utm_campaign=leica-m-a-and-m11-p-get-a-new-textured-hammertone-finish",
@@ -29,6 +133,14 @@
     "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/11/19/matt-damon-difficile-lasciarsi-alle-spalle-ulisse_f3a205ec-df51-41ce-ba16-2488775edbfd.html",
     "published_at": "2026-11-19T12:40:22.000Z",
     "fingerprint": "b1ffe4edbe1a96bb8c45492d6963413cc282df46",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Andromon",
+    "link": "https://www.producthunt.com/products/andromon",
+    "published_at": "2026-11-19T12:20:09.000Z",
+    "fingerprint": "07de532146d14b6aaeaddb4b2f46a6f8aeeb5dbb",
     "micro_judgment": null
   },
   {
@@ -120,6 +232,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "Doddle",
+    "link": "https://www.producthunt.com/products/doddle-3",
+    "published_at": "2026-11-19T03:30:17.000Z",
+    "fingerprint": "69c4a7ab84818e2e9c717bd51bab0448b1f66951",
+    "micro_judgment": null
+  },
+  {
     "source": "Designboom",
     "title": "inside GTA VI’s vice city, from florida field trips to the design of its streets",
     "link": "https://www.designboom.com/technology/gta-vi-vice-city-florida-field-trips-design-streets-miami-architecture-grand-theft-auto/",
@@ -165,6 +285,14 @@
     "link": "https://www.designboom.com/technology/translucent-y2k-electronics-iridescent-skin-cadillac-formula-1-race-car-livery-las-vegas-grand-prix/",
     "published_at": "2026-11-18T19:10:41.000Z",
     "fingerprint": "437d960ccb312080d3e1492e65fe2867a10c0b8c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Exa Websets V2",
+    "link": "https://www.producthunt.com/products/exa-ai",
+    "published_at": "2026-11-18T17:15:13.000Z",
+    "fingerprint": "92b3ca2cb36f4ddcc4e9efc0af549700ee4bf192",
     "micro_judgment": null
   },
   {
@@ -389,6 +517,14 @@
     "link": "https://www.designboom.com/art/designboom-listens-sounds-alastair-philip-wiper-industrial-visions-interview/",
     "published_at": "2026-11-17T10:25:45.000Z",
     "fingerprint": "5a5b83a40bed07ed8ebaf3ac4f1b58e45a833c37",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "AlterContacts",
+    "link": "https://www.producthunt.com/products/alter-contacts-ai-client-relationships",
+    "published_at": "2026-11-17T10:25:12.000Z",
+    "fingerprint": "9051900a90d52f3cd986bc5618084b993030e15e",
     "micro_judgment": null
   },
   {
@@ -745,6 +881,14 @@
   },
   {
     "source": "Product Hunt",
+    "title": "Codemany",
+    "link": "https://www.producthunt.com/products/codemany",
+    "published_at": "2026-11-14T20:12:52.000Z",
+    "fingerprint": "e4a8a15f0afc7cc0648d1c1afd0b14f7185a7333",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
     "title": "ICONS",
     "link": "https://www.producthunt.com/products/icons-2",
     "published_at": "2026-11-14T17:43:08.000Z",
@@ -797,6 +941,14 @@
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/zelensky-gli-usa-propongono-ladesione-alla-nato-in-cambio-della-cessione_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
     "published_at": "2026-11-14T11:52:05.000Z",
     "fingerprint": "e955dff2468ed468b528024c810b608b6ce73154",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "SuperMailbox",
+    "link": "https://www.producthunt.com/products/supermailbox",
+    "published_at": "2026-11-14T11:45:31.000Z",
+    "fingerprint": "0e9815e617402c2aa63276a5c34b671331a2bbc2",
     "micro_judgment": null
   },
   {
@@ -1421,6 +1573,14 @@
     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/11/f1-hamilton-in-visita-al-confine-egiziano-con-gaza_72a55b2a-2834-4c5c-afea-33fe988fe5da.html",
     "published_at": "2026-11-11T09:01:29.000Z",
     "fingerprint": "86d98ab23cc176995a345b7839e7be6fb56e44ae",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "tinytldr",
+    "link": "https://www.producthunt.com/products/tinytldr",
+    "published_at": "2026-11-11T07:15:57.000Z",
+    "fingerprint": "7f241246918d0628bb84ba7df113dd22b3a99b50",
     "micro_judgment": null
   },
   {
