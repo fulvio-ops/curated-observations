@@ -1,10 +1,98 @@
 [
   {
     "source": "ANSA",
+    "title": "Un neurologo salva un vigneto centenario e diventa produttore di vino",
+    "link": "https://www.ansa.it/toscana/notizie/2026/11/22/neurologo-salva-vigneto-centenario-e-diventa-produttore-di-vino_e36069ab-32f9-49e9-85a9-193c75e4e8fd.html",
+    "published_at": "2026-11-22T12:57:15.000Z",
+    "fingerprint": "f8b8d1383e99285f70bae4ec4ed20e2b6069c573",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Le ultime ore di Gianni De Gennaro da solo, la pistola trovata accanto al corpo",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/le-ultime-ore-di-gianni-de-gennaro-da-solo-la-pistola-trovata-accanto-al-corpo_62566f21-e7ca-4243-a0b3-26a71e01c4ea.html",
+    "published_at": "2026-11-22T12:34:08.000Z",
+    "fingerprint": "9b68e5ccc3fa903caf79e0cf02e7ceb6e8e35521",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Paura per Paredes, sviene in diretta alla festa del Boca",
+    "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/22/paura-per-paredes-sviene-in-diretta-alla-festa-del-boca_011bd688-dfe2-4ead-96d2-8e3239a6e689.html",
+    "published_at": "2026-11-22T11:56:28.000Z",
+    "fingerprint": "a1f001c0470402ae5c0b762265628981390fcebe",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+    "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "published_at": "2026-11-22T08:57:34.000Z",
+    "fingerprint": "9085006fc0a66767f442611dec2641211986cc7a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: The Riemann Proof Handbook",
+    "link": "https://github.com/tamnd/riemann-handbook",
+    "published_at": "2026-11-22T05:46:30.000Z",
+    "fingerprint": "c2781116d3bd392d3b5949c912c3adfb7c60ec80",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+    "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+    "published_at": "2026-11-22T04:04:56.000Z",
+    "fingerprint": "f213c59690c94fc2e2031aac90e1533eddad84ba",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The Mythology of Conscious AI",
+    "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+    "published_at": "2026-11-22T02:10:02.000Z",
+    "fingerprint": "f28d7bf1104579e770b5daffa7eb5ee980ae5b84",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "NC Band 2 Tracks Your Cycle Overnight Without a Screen",
+    "link": "https://www.yankodesign.com/2026/11/21/nc-band-2-tracks-your-cycle-overnight-without-a-screen/?utm_source=rss&utm_medium=rss&utm_campaign=nc-band-2-tracks-your-cycle-overnight-without-a-screen",
+    "published_at": "2026-11-21T21:45:19.000Z",
+    "fingerprint": "e6039eb45e488cb80130508c292b2f7a4c816bbe",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Lean verification of the Riemann Hypothesis",
+    "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "published_at": "2026-11-21T14:36:45.000Z",
+    "fingerprint": "c16231f4b1edbd3a1d383bdb76fdbdea1e21abeb",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
     "title": "MotoGp in Portogallo, l'Aprilia di Bezzecchi in pole, secondo Marc Marquez",
     "link": "https://www.ansa.it/sito/notizie/sport/moto/2026/11/21/motogp-portogallo-aprilia-bezzecchi-in-pole-secondo-marc-marquez_d09ee16d-281c-4e91-85c1-25a172386184.html",
     "published_at": "2026-11-21T12:53:50.000Z",
     "fingerprint": "9b519ec5646a10840e7b121b34f8405eb22157f8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "GnuPG Security Advisory for GPGME",
+    "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+    "published_at": "2026-11-21T08:32:58.000Z",
+    "fingerprint": "f30d8396210634a76be3ff934d18f873063ec970",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Omi CLI",
+    "link": "https://www.producthunt.com/products/omi-cli",
+    "published_at": "2026-11-21T08:05:31.000Z",
+    "fingerprint": "419322cb69d2122cdf05006ab4086051e5f32692",
     "micro_judgment": null
   },
   {
@@ -37,6 +125,14 @@
     "link": "https://ninlive.com/",
     "published_at": "2026-11-20T22:30:47.000Z",
     "fingerprint": "07699fd75715394633af25dfc286818a0bf1eb07",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Getting the mind to steer the body to steer you",
+    "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+    "published_at": "2026-11-20T22:11:05.000Z",
+    "fingerprint": "869bee85da9cb9cc8bb8c8aa94d8c45c9135fd23",
     "micro_judgment": null
   },
   {
@@ -525,6 +621,14 @@
     "link": "https://www.producthunt.com/products/alter-contacts-ai-client-relationships",
     "published_at": "2026-11-17T10:25:12.000Z",
     "fingerprint": "9051900a90d52f3cd986bc5618084b993030e15e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Zapyso",
+    "link": "https://www.producthunt.com/products/zapyso",
+    "published_at": "2026-11-17T09:59:16.000Z",
+    "fingerprint": "f9bf8a67db600259f8d203f1998c9d0c920d1441",
     "micro_judgment": null
   },
   {
@@ -2469,6 +2573,14 @@
     "link": "https://www.reddit.com/r/mildlyinteresting/comments/1xp3hfc/this_psychic_on_wheels/",
     "published_at": "2026-11-06T04:12:31.000Z",
     "fingerprint": "3b2f842c8a691e302fa266dd05ffa8d698ce38af",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Yoroll",
+    "link": "https://www.producthunt.com/products/yoroll",
+    "published_at": "2026-11-06T03:24:04.000Z",
+    "fingerprint": "8eb10355657cb173bdd971e99b1689a4e6cc208b",
     "micro_judgment": null
   },
   {
