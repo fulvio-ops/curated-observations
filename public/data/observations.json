@@ -1,5 +1,117 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Building a wireless network adapter for the Super Nintendo",
+    "link": "https://boland.dev/snet/",
+    "published_at": "2026-11-23T14:16:37.000Z",
+    "fingerprint": "ccfd2c25ba2a7e42da212e534f80be5d577e2ef4",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Accoltella la convivente durante una lite, lei è grave",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/23/accoltella-la-convivente-durante-una-lite-lei-e-grave_d6df3c24-0cce-4a07-bf4f-62f6e838ee73.html",
+    "published_at": "2026-11-23T12:56:47.000Z",
+    "fingerprint": "79901c94d940efe25d357b7c0b585adae67cdf55",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Zelensky rivendica gli attacchi alle navi russe in Libia e lancia un appello alla Nato: 'Arriva l'inverno, aiutateci'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/zelensky-rivendica-gli-attacchi-alle-navi-russe-in-libia-operazione-esemplare_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
+    "published_at": "2026-11-23T11:41:25.000Z",
+    "fingerprint": "6bdc3cd34421f7d376a6041793b08eb8d7513e31",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Mattarella: 'I bambini nel mondo soffrono, situazione sconfortante. Serve più impegno'",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/mattarella-i-bambini-nel-mondo-soffrono-situazione-sconfortante.-serve-piu-impegno_adf5489d-4564-4a25-86af-6310f95b7bd7.html",
+    "published_at": "2026-11-23T10:32:13.000Z",
+    "fingerprint": "aa10cb5bc10af73fbd07e899694aa6aa115ac288",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "La delusione di Pechino per il mancato accordo alla Cop31: 'Ma la transizione verde è irreversibile'",
+    "link": "https://www.ansa.it/ansa2030/notizie/green_blue/2026/11/23/la-delusione-di-pechino-per-il-mancato-accordo-alla-cop31-ma-la-transizione-verde-e-irreversibile_12f4492d-7ced-4afa-adff-6a39744369bf.html",
+    "published_at": "2026-11-23T10:28:22.000Z",
+    "fingerprint": "073c1475f24f9ed81340d71bac01a4d5dbcbcb14",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "anđela zora brnas explores how design can nurture interspecies care",
+    "link": "https://www.designboom.com/design/andela-zora-brnas-design-interspecies-care-guest-essay/",
+    "published_at": "2026-11-23T10:26:50.000Z",
+    "fingerprint": "e714ba2992d83e4c643573257da807988c42f82c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Teknion’s Quick Shift Standing Desk Adjusts Without a Power Cord",
+    "link": "https://www.yankodesign.com/2026/11/23/teknions-quick-shift-standing-desk-adjusts-without-a-power-cord/?utm_source=rss&utm_medium=rss&utm_campaign=teknions-quick-shift-standing-desk-adjusts-without-a-power-cord",
+    "published_at": "2026-11-23T09:15:58.000Z",
+    "fingerprint": "7e57385d50daaa7de756e0530abc9c839e026ab2",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "florim stone broadens design possibilities with full-body technology and expressive material finishes",
+    "link": "https://www.designboom.com/design/florim-stone-full-body-technology-material-finishes/",
+    "published_at": "2026-11-23T08:00:43.000Z",
+    "fingerprint": "8bc68c2c4f23c3f9f6c055d618e575b58f480386",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "The New Docker: Built to Run on Trust",
+    "link": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
+    "published_at": "2026-11-23T03:34:29.000Z",
+    "fingerprint": "074c5426556d7c22357ca39685ee76372a17679b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Treemap of the Riemann Hypothesis Lean Proof",
+    "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+    "published_at": "2026-11-23T01:50:23.000Z",
+    "fingerprint": "32e67865cff2d20c3dfe0269cee7282edfdc6320",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Forgotten Lampshades Become Playful Chandeliers in This Romanian Designer’s Lighting Collection",
+    "link": "https://www.yankodesign.com/2026/11/22/forgotten-lampshades-become-playful-chandeliers-in-this-romanian-designers-lighting-collection/?utm_source=rss&utm_medium=rss&utm_campaign=forgotten-lampshades-become-playful-chandeliers-in-this-romanian-designers-lighting-collection",
+    "published_at": "2026-11-22T23:30:26.000Z",
+    "fingerprint": "c338ad894ab66dabf329059d5b6f0dafe3576094",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "GL.iNet Security Notice 2026-11-20",
+    "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+    "published_at": "2026-11-22T23:06:37.000Z",
+    "fingerprint": "b520180ee66018057b7d27fa01b9193669dc20cb",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Open Source Solana Wallet",
+    "link": "https://www.producthunt.com/products/open-source-solana-wallet",
+    "published_at": "2026-11-22T22:44:38.000Z",
+    "fingerprint": "f0b2814df3bc7ec11ec0be0bead095d3645e28cc",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Paura per Paredes, sviene in diretta alla festa del Boca",
+    "link": "https://www.ansa.it/sito/notizie/sport/2026/11/22/paura-per-paredes-sviene-in-diretta-alla-festa-del-boca_eb20b37f-b59e-4bad-8b9b-43371151d4d0.html",
+    "published_at": "2026-11-22T17:35:13.000Z",
+    "fingerprint": "e5665ddb244ae698f999e483fc24947b080f1a1e",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Un neurologo salva un vigneto centenario e diventa produttore di vino",
     "link": "https://www.ansa.it/toscana/notizie/2026/11/22/neurologo-salva-vigneto-centenario-e-diventa-produttore-di-vino_e36069ab-32f9-49e9-85a9-193c75e4e8fd.html",
@@ -16,6 +128,14 @@
     "micro_judgment": null
   },
   {
+    "source": "Product Hunt",
+    "title": "LeanTake",
+    "link": "https://www.producthunt.com/products/leantake",
+    "published_at": "2026-11-22T12:14:55.000Z",
+    "fingerprint": "9a7e21123657a4d1c7b06458500dfe387f016872",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Paura per Paredes, sviene in diretta alla festa del Boca",
     "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/22/paura-per-paredes-sviene-in-diretta-alla-festa-del-boca_011bd688-dfe2-4ead-96d2-8e3239a6e689.html",
@@ -29,6 +149,14 @@
     "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
     "published_at": "2026-11-22T08:57:34.000Z",
     "fingerprint": "9085006fc0a66767f442611dec2641211986cc7a",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Letter Visitors",
+    "link": "https://www.producthunt.com/products/visitors",
+    "published_at": "2026-11-22T07:39:42.000Z",
+    "fingerprint": "e3e69e886a9b352ecb5b556833853472fa948ac3",
     "micro_judgment": null
   },
   {
@@ -77,6 +205,14 @@
     "link": "https://www.ansa.it/sito/notizie/sport/moto/2026/11/21/motogp-portogallo-aprilia-bezzecchi-in-pole-secondo-marc-marquez_d09ee16d-281c-4e91-85c1-25a172386184.html",
     "published_at": "2026-11-21T12:53:50.000Z",
     "fingerprint": "9b519ec5646a10840e7b121b34f8405eb22157f8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Spikely",
+    "link": "https://www.producthunt.com/products/spikely",
+    "published_at": "2026-11-21T10:04:50.000Z",
+    "fingerprint": "3858412022bd4873374b5ac3f26bd7d610635d2f",
     "micro_judgment": null
   },
   {
@@ -437,6 +573,14 @@
     "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/11/18/prime-pagine-record-di-emendamenti-alla-manovra-la-maggioranza-vuole-il-condono_8787aec4-1fcb-42e1-b926-7f7d946acdff.html",
     "published_at": "2026-11-18T07:14:38.000Z",
     "fingerprint": "2f265261557373c267d4d11b5b0e6f6914e551e7",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Snowly",
+    "link": "https://www.producthunt.com/products/snowly-2",
+    "published_at": "2026-11-18T02:11:19.000Z",
+    "fingerprint": "5f19b0687a278845497a76c227497ecfab53d52b",
     "micro_judgment": null
   },
   {
@@ -36245,6 +36389,14 @@
     "link": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
     "published_at": "2026-03-12T16:38:51.000Z",
     "fingerprint": "09a29f6113973fc3bbb0c1b3403522ab73b6af6c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Hydrilla",
+    "link": "https://www.producthunt.com/products/hydrilla",
+    "published_at": "2026-03-12T16:31:13.000Z",
+    "fingerprint": "6c67b846b916f84e134a7922d5b7d16baf2b85b3",
     "micro_judgment": null
   },
   {
