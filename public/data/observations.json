@@ -1,10 +1,162 @@
 [
   {
+    "source": "ANSA",
+    "title": "L'alert dell'Agenzia cyber: 'Gravi rischi dall'IA agentica'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/24/lalert-dellagenzia-cyber-gravi-rischi-dallia-agentica-_205a7b8c-3301-4aea-8773-273b7ab0ec10.html",
+    "published_at": "2026-11-24T14:58:47.000Z",
+    "fingerprint": "699ba3cca48e8361db3e31da031468ff6fbd0efd",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il principe William per la prima volta a Downing Street da Burnham",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/il-principe-william-per-la-prima-volta-a-downing-street-da-burnham_3e6be9ed-f8ae-491b-9407-18affb66a042.html",
+    "published_at": "2026-11-24T14:54:11.000Z",
+    "fingerprint": "e1e27ed74aa25632ac8ed82b2b7624dc2ea970b5",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Lo studente trovato senza vita in tenda scriveva: 'Morirò per l'indifferenza'",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/24/lo-studente-trovato-senza-vita-in-tenda-scriveva-moriro-per-lindifferenza_42e0bff2-d6df-4ea9-9197-eba185aac4e1.html",
+    "published_at": "2026-11-24T13:46:45.000Z",
+    "fingerprint": "45216d72be997602dec640dfbacd58d09197996b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il Ft: 'Hegseth blocca la consegna di 60 missili per Patriot all'Ucraina'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/il-ft-hegseth-blocca-la-consegna-di-60-missili-per-patriot-allucraina_2d8d9336-6bc5-4470-a273-9eaa8cf9c91c.html",
+    "published_at": "2026-11-24T12:33:00.000Z",
+    "fingerprint": "70124c019a897f1a33739a5453f977c7c6daf16b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Black friday 2026, oltre 6 italiani su 10 pronti. Cosa viene cercato di più, i consigli contro le truffe",
+    "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/black-friday-oltre-il-60-degli-italiani-pronto-agli-acquisti.-spesa-media_08d772bb-f4a5-4ee9-acba-b9dd8fab9c72.html",
+    "published_at": "2026-11-24T12:06:53.000Z",
+    "fingerprint": "f6b2b3ee825a8c0728e278bcb3aa83fec26e4a0e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Worshipping at the altar of Brendan Gregg",
+    "link": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+    "published_at": "2026-11-24T10:50:14.000Z",
+    "fingerprint": "b36735bf526d59311c3a797e9b6f03a6f1a9d18c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "before the digital age, artists were already making color move",
+    "link": "https://www.designboom.com/art/before-digital-age-artists-already-making-color-movement-optical/",
+    "published_at": "2026-11-24T08:55:42.000Z",
+    "fingerprint": "397ed20106124bbd81b40b1df291771dd8db48d7",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "L'approfondimento ANSA sull'accordo UE-Mercosur",
+    "link": "https://www.ansa.it/native/ansacom/2026/11/24/lapprofondimento-ansa-sullaccordo-ue-mercosur_4ad9ef5f-511d-4551-98f1-44ad92aa593f.html",
+    "published_at": "2026-11-24T07:55:55.000Z",
+    "fingerprint": "f2023e8b4512bff5f7ba6e6371318b163bc4cd8f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "inside the graphic design history of the world’s underground networks",
+    "link": "https://www.designboom.com/design/graphic-design-world-underground-networks-fonts-maps/",
+    "published_at": "2026-11-24T07:15:28.000Z",
+    "fingerprint": "19587a68dae3feb325e49f59854fd82a51dca9a1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Hourly Journal",
+    "link": "https://www.producthunt.com/products/hourly-journal",
+    "published_at": "2026-11-24T04:54:41.000Z",
+    "fingerprint": "7d150c03b2f41e4f412e13e5e43537354a42b90d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Declare is a UI language for you and your AI",
+    "link": "https://davidtemkin.github.io/declarelang/",
+    "published_at": "2026-11-24T02:36:56.000Z",
+    "fingerprint": "e6cb171b4ce8ab989d69fde83ad0f01f174a283f",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "An Ultralight Tent That Actually Makes Room for Tall Hikers",
+    "link": "https://www.yankodesign.com/2026/11/23/an-ultralight-tent-that-actually-makes-room-for-tall-hikers/?utm_source=rss&utm_medium=rss&utm_campaign=an-ultralight-tent-that-actually-makes-room-for-tall-hikers",
+    "published_at": "2026-11-23T21:30:32.000Z",
+    "fingerprint": "735a1415e99f4825e1d8f52e7c2d2b519ce48dd5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "tday.com",
+    "link": "https://www.producthunt.com/products/tday",
+    "published_at": "2026-11-23T21:22:27.000Z",
+    "fingerprint": "792929f6f5579afc899313a9c90d8676f60f8be1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+    "link": "https://www.bored.com/",
+    "published_at": "2026-11-23T21:01:16.000Z",
+    "fingerprint": "f3d76ad0ee466f881eccf4a87e23a083bb675197",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Nike Ovolo 2.0 “Black/Stealth” reworks the shox-inspired silhouette with a gravity defying heel design",
+    "link": "https://www.yankodesign.com/2026/11/23/nike-ovolo-2-0-black-stealth-reworks-the-shox-inspired-silhouette-with-a-gravity-defying-heel-design/?utm_source=rss&utm_medium=rss&utm_campaign=nike-ovolo-2-0-black-stealth-reworks-the-shox-inspired-silhouette-with-a-gravity-defying-heel-design",
+    "published_at": "2026-11-23T20:20:30.000Z",
+    "fingerprint": "efa5c19f8c624360afc4e3847c14677f3bd662b4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Fancii’s Mica Compact Mirror Tops Up Your Phone Between Touch-ups",
+    "link": "https://www.yankodesign.com/2026/11/23/fanciis-mica-compact-mirror-tops-up-your-phone-between-touch-ups/?utm_source=rss&utm_medium=rss&utm_campaign=fanciis-mica-compact-mirror-tops-up-your-phone-between-touch-ups",
+    "published_at": "2026-11-23T17:20:12.000Z",
+    "fingerprint": "589384df8876f699f7b214348f57391ac3ded776",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Ladybird is now in alpha",
+    "link": "https://ladybird.org/posts/alpha/",
+    "published_at": "2026-11-23T16:13:12.000Z",
+    "fingerprint": "d71d7e52f59befebc8df1f1a948aa9cb449cf544",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "LayAuto 4",
+    "link": "https://www.producthunt.com/products/layauto-for-mac",
+    "published_at": "2026-11-23T15:51:28.000Z",
+    "fingerprint": "907cd00f3b677fa9032726c4f38b37ab821bca66",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Building a wireless network adapter for the Super Nintendo",
     "link": "https://boland.dev/snet/",
     "published_at": "2026-11-23T14:16:37.000Z",
     "fingerprint": "ccfd2c25ba2a7e42da212e534f80be5d577e2ef4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Nvidia Reinstates Jensen Huang as CEO",
+    "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "published_at": "2026-11-23T14:00:18.000Z",
+    "fingerprint": "3ec3de16e2f1b86e2046ce3725da253958b00ded",
     "micro_judgment": null
   },
   {
@@ -313,6 +465,14 @@
   },
   {
     "source": "Product Hunt",
+    "title": "DeskMagic",
+    "link": "https://www.producthunt.com/products/deskmagic",
+    "published_at": "2026-11-20T07:02:09.000Z",
+    "fingerprint": "fe06af276f7db65c4fab3eb9ca99328284e576b0",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
     "title": "Lumyna Community Challenge",
     "link": "https://www.producthunt.com/products/lumyna-community-challenge",
     "published_at": "2026-11-20T04:55:57.000Z",
@@ -453,6 +613,14 @@
     "link": "https://www.designboom.com/design/engraved-stainless-steel-magnetic-leather-pieces-wall-mounted-chess-set-play-forms-somaforma/",
     "published_at": "2026-11-19T07:15:11.000Z",
     "fingerprint": "210e59c256009dc61ff8bdb49e27efc12e5dd59c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Cullman",
+    "link": "https://www.producthunt.com/products/cullman",
+    "published_at": "2026-11-19T05:59:36.000Z",
+    "fingerprint": "02cb487a81e3b1d92f4604b8c051a7448918ab4e",
     "micro_judgment": null
   },
   {
@@ -1077,6 +1245,14 @@
     "link": "https://www.producthunt.com/products/agentgrid-io",
     "published_at": "2026-11-15T06:22:09.000Z",
     "fingerprint": "759ecc7f3b586e5b27ed2677dccf67ad3d9130ec",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "TouchDeck",
+    "link": "https://www.producthunt.com/products/touchdeck",
+    "published_at": "2026-11-15T05:49:41.000Z",
+    "fingerprint": "75fb56a2722e47ee7ecd6e2ea8a835c4a8df8f23",
     "micro_judgment": null
   },
   {
