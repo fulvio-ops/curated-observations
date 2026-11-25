@@ -1,5 +1,141 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "The year the web industry gave up",
+    "link": "https://dbushell.com/2026/11/25/web-industry/",
+    "published_at": "2026-11-25T14:43:41.000Z",
+    "fingerprint": "a711b1340d622c892a86b28ce2df2894abb881e6",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Attentato a Ranucci, il giornalista in Procura per essere ascoltato",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/25/attentato-a-ranucci-il-giornalista-in-procura-per-essere-ascoltato_7c894a9f-65f3-4154-b575-535161bd902c.html",
+    "published_at": "2026-11-25T14:36:19.000Z",
+    "fingerprint": "2880cdb4241dc4c4e57a73eadca5fd63a949ad29",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Zuppi: 'Gli abusi sono crimine atroce, non nascondiamo la vergogna'",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/25/zuppi-gli-abusi-sono-crimine-atroce-non-nascondiamo-la-vergogna_c6342c19-fe06-46da-b63b-f028725612b4.html",
+    "published_at": "2026-11-25T14:27:06.000Z",
+    "fingerprint": "d476e2c479d8a3e3465e9670711289cb34c9953b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Amazon S3 Files",
+    "link": "https://aws.amazon.com/s3/features/files/",
+    "published_at": "2026-11-25T14:19:21.000Z",
+    "fingerprint": "2ef1e4a8ccad314b149266d98893fc4666c595e5",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "25 Novembre, camminata in rosso a Torino contro la violenza sulle donne",
+    "link": "https://www.ansa.it/sito/notizie/speciali/25-novembre/2026/11/25/violenza-sulle-donne-camminata-in-rosso-a-torino_affca421-42bf-40c1-aa3f-8f071ca4a2ab.html",
+    "published_at": "2026-11-25T14:07:19.000Z",
+    "fingerprint": "83ea16d7b5dadaafc616b3b74e7710ba326297c3",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Lorena Isceri, panchine rosse sul tratto della A1 dove è stata uccisa la 45enne",
+    "link": "https://www.ansa.it/sito/videogallery/italia/2026/11/25/lorena-isceri-panchine-rosse-sul-tratto-della-a1-dove-e-stata-uccisa_984db1fe-5080-4c7e-8501-1eac609341e6.html",
+    "published_at": "2026-11-25T13:29:17.000Z",
+    "fingerprint": "03db6dc29a7af705bc887c6d290c713309b48e26",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Capotreno ucciso, Marin Jelenic condannato all'ergastolo",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/25/capotreno-ucciso-condannato-allergastolo-marin-jelenic_f03c0c0a-5dec-448a-bec0-b52f5d273371.html",
+    "published_at": "2026-11-25T12:48:27.000Z",
+    "fingerprint": "656681fc57278b9ac5e717bd1163c4c3662e6cd3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Hazel (YC W24) Is Hiring a Product Designer",
+    "link": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+    "published_at": "2026-11-25T12:00:34.000Z",
+    "fingerprint": "5024ac052df398ac47d44c12a6b4f6fe62eb0a64",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "designboom listens: yuri suzuki explores the many dimensions of sound",
+    "link": "https://www.designboom.com/art/designboom-listens-yuri-suzuki-many-dimensions-sound-interview/",
+    "published_at": "2026-11-25T10:25:53.000Z",
+    "fingerprint": "5ca01cb5395f3ab3cd39d304ae3ba791ed967094",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Una donna su 3 non conosce la tecnica dell'autopalpazione mammaria",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/24/una-donna-su-3-non-conosce-la-tecnica-dellautopalpazione-mammaria_2a87d840-f0dc-4735-b761-8916bb60e9d8.html",
+    "published_at": "2026-11-25T07:56:48.000Z",
+    "fingerprint": "95ae4cc70683cef60f6a53a2d8f4ccea4294b80e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "resembling a geometric flower, 10-meter aluminum lookout frames views in australia’s victorian alps",
+    "link": "https://www.designboom.com/art/geometric-flower-10-meter-aluminum-lookout-views-australia-victorian-alps-gio-veronesi/",
+    "published_at": "2026-11-25T04:05:56.000Z",
+    "fingerprint": "ac4933d965be27d17a6b54ae6171a1cecf298a33",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Genspark built a five-button remote for your AI agents, and it has Cherry mechanical switches",
+    "link": "https://www.yankodesign.com/2026/11/24/genspark-built-a-five-button-remote-for-your-ai-agents-and-it-has-cherry-mechanical-switches/?utm_source=rss&utm_medium=rss&utm_campaign=genspark-built-a-five-button-remote-for-your-ai-agents-and-it-has-cherry-mechanical-switches",
+    "published_at": "2026-11-25T00:30:06.000Z",
+    "fingerprint": "c4e6566184889c68aeb8540a0ffc16a0d6360925",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Falcon by Vybe",
+    "link": "https://www.producthunt.com/products/vybe-4",
+    "published_at": "2026-11-24T23:52:06.000Z",
+    "fingerprint": "bb93ee2b86c5021957f7378fe85826f2e8636967",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "published_at": "2026-11-24T21:02:22.000Z",
+    "fingerprint": "4f22597c3d7374e9aa822ab58452abaf7e255362",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "terminal design solutions cuts through urban clutter with vivid aluminum street furniture",
+    "link": "https://www.designboom.com/design/terminal-design-solutions-urban-clutter-vivid-aluminum-street-furniture/",
+    "published_at": "2026-11-24T18:55:16.000Z",
+    "fingerprint": "145588b3f01ce3cccf87840c06a42684520e1a15",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Eight-Sided HUIT Pitcher Concept Leaves Out the Spout",
+    "link": "https://www.yankodesign.com/2026/11/24/this-eight-sided-huit-pitcher-concept-leaves-out-the-spout/?utm_source=rss&utm_medium=rss&utm_campaign=this-eight-sided-huit-pitcher-concept-leaves-out-the-spout",
+    "published_at": "2026-11-24T17:20:53.000Z",
+    "fingerprint": "2023bac683be2ae64b360e7cdf753804f38eea6b",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "MyClaw 3.0",
+    "link": "https://www.producthunt.com/products/myclaw-3-0",
+    "published_at": "2026-11-24T15:39:09.000Z",
+    "fingerprint": "9fc4351518910eaa5f1d2fa3d3066569e01bf68e",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "L'alert dell'Agenzia cyber: 'Gravi rischi dall'IA agentica'",
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/24/lalert-dellagenzia-cyber-gravi-rischi-dallia-agentica-_205a7b8c-3301-4aea-8773-273b7ab0ec10.html",
@@ -357,6 +493,14 @@
     "link": "https://www.ansa.it/sito/notizie/sport/moto/2026/11/21/motogp-portogallo-aprilia-bezzecchi-in-pole-secondo-marc-marquez_d09ee16d-281c-4e91-85c1-25a172386184.html",
     "published_at": "2026-11-21T12:53:50.000Z",
     "fingerprint": "9b519ec5646a10840e7b121b34f8405eb22157f8",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "VibeCode.surf",
+    "link": "https://www.producthunt.com/products/vibecode-surf",
+    "published_at": "2026-11-21T12:32:45.000Z",
+    "fingerprint": "1596cb46124814e18502c3e2d670500319ef74ad",
     "micro_judgment": null
   },
   {
