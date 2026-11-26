@@ -1,5 +1,141 @@
 [
   {
+    "source": "ANSA",
+    "title": "Due tecnici italiani della Rheinmetall morti in un attacco in Kuwait",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/26/due-tecnici-italiani-della-rheinmetall-morti-in-un-attacco-in-kuwait_060489c8-4e35-4f04-9c6a-ade4a80acda4.html",
+    "published_at": "2026-11-26T14:36:17.000Z",
+    "fingerprint": "0c17e513221b74cd8041a6e6f179c6e92a330b90",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Via libera alla mega-costellazione Starmind di Musk, fino a 1 milione di satelliti",
+    "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/11/26/via-libera-alla-mega-costellazione-starmind-di-musk-fino-a-1-milione-di-satelliti_33756ef2-b8ec-457a-96fb-5c147cb96539.html",
+    "published_at": "2026-11-26T13:17:41.000Z",
+    "fingerprint": "2e2bce37570afab49a85df738e6a1c056574d29c",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "È vero che questo inverno potremmo risparmiare il gas di un milione di case?",
+    "link": "https://www.ansa.it/sito/podcast/ansa_verified/2026/11/26/e-vero-che-questo-inverno-potremmo-risparmiare-il-gas-di-un-milione-di-case_9fe3c01b-c6c7-4370-8462-0113ac2228ec.html",
+    "published_at": "2026-11-26T12:56:35.000Z",
+    "fingerprint": "45d133d229e1e4f58b342ad7715d3b8a6e2f2dec",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "10 Japanese Stocking Stuffers So Clever, Everyone Will Ask Where You Got Them",
+    "link": "https://www.yankodesign.com/2026/11/26/10-japanese-stocking-stuffers-so-clever-everyone-will-ask-where-you-got-them-2/?utm_source=rss&utm_medium=rss&utm_campaign=10-japanese-stocking-stuffers-so-clever-everyone-will-ask-where-you-got-them-2",
+    "published_at": "2026-11-26T12:43:58.000Z",
+    "fingerprint": "6a58ff828575824581dfb0c214727fd078eab173",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "nendo on bringing the river-inspired design of france’s TGV INOUI into motion",
+    "link": "https://www.designboom.com/design/nendo-river-inspired-design-france-tgv-inoui-motion-interview/",
+    "published_at": "2026-11-26T11:50:24.000Z",
+    "fingerprint": "73c7a25c83e91595757dd6b7256c23dee7269d9b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Cuba, l’isola che (manca poco) non c’è",
+    "link": "https://www.ansa.it/sito/notizie/magazine/numeri/2026/11/24/cuba-lisola-che-manca-poco-non-ce_04688075-5dd6-4e69-84f0-674adfd20ad7.html",
+    "published_at": "2026-11-26T11:47:29.000Z",
+    "fingerprint": "20ede021f867b2fc43e01ddae2739546e4525082",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Gb chiede a 100 mila riservisti di tenersi pronti in caso di guerra",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/26/gb-chiede-a-100-mila-riservisti-di-tenersi-pronti-in-caso-di-guerra_4e4aae73-a28f-4ae1-aab9-4016fcf8b2fb.html",
+    "published_at": "2026-11-26T11:17:22.000Z",
+    "fingerprint": "cc09daf806b74e07dc533d898e0dfdaade6a49de",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "The Moove On Suitcase Prototype Brings Its Own Perch to the Airport",
+    "link": "https://www.yankodesign.com/2026/11/26/the-moove-on-suitcase-prototype-brings-its-own-perch-to-the-airport/?utm_source=rss&utm_medium=rss&utm_campaign=the-moove-on-suitcase-prototype-brings-its-own-perch-to-the-airport",
+    "published_at": "2026-11-26T10:15:11.000Z",
+    "fingerprint": "ede29e486bd8acb3d611840c34668515054481de",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "ZSA’s Wireless Voyager Split Keyboard Makes Room for Replaceable Batteries",
+    "link": "https://www.yankodesign.com/2026/11/26/zsas-wireless-voyager-split-keyboard-makes-room-for-replaceable-batteries/?utm_source=rss&utm_medium=rss&utm_campaign=zsas-wireless-voyager-split-keyboard-makes-room-for-replaceable-batteries",
+    "published_at": "2026-11-26T09:15:41.000Z",
+    "fingerprint": "1bdce1fc7de927d37288fb829f271e69c49b88b5",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+    "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+    "published_at": "2026-11-26T05:12:59.000Z",
+    "fingerprint": "118c9e630c50f6165bf182e8b000f067838d9b77",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Minipg: PostgreSQL as a Single Executable",
+    "link": "https://progrium.github.io/minipg/",
+    "published_at": "2026-11-26T03:00:48.000Z",
+    "fingerprint": "be388198d5afa0bb4aac4a1f2f5510a9a8559eac",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This smart ring tracks your sleep and becomes your AI note-taker when you’re awake",
+    "link": "https://www.yankodesign.com/2026/11/25/this-smart-ring-tracks-your-sleep-and-becomes-your-ai-note-taker-when-youre-awake/?utm_source=rss&utm_medium=rss&utm_campaign=this-smart-ring-tracks-your-sleep-and-becomes-your-ai-note-taker-when-youre-awake",
+    "published_at": "2026-11-26T02:45:40.000Z",
+    "fingerprint": "d133be8f253aa712245a812d2934dbd5ded60d97",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+    "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+    "published_at": "2026-11-25T22:12:25.000Z",
+    "fingerprint": "fee27af8991e4c709615db8c7ebf3d69a0940f93",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "the spectacle of entry: how concept car designers set entire bodies in motion",
+    "link": "https://www.designboom.com/technology/car-open-architecture-automotive-entry-doorless-wedge-experimental-concept/",
+    "published_at": "2026-11-25T21:35:48.000Z",
+    "fingerprint": "79fbfd813eff35125761b891ce3c70b88112aa9e",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Remora",
+    "link": "https://www.producthunt.com/products/remora-6",
+    "published_at": "2026-11-25T18:28:50.000Z",
+    "fingerprint": "d96dbcc2d884b07d5d8d426f7c9d090a80d66802",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "living heather roof and poplar bark cladding anchor timber office in dutch heathland",
+    "link": "https://www.designboom.com/architecture/living-heather-roof-poplar-bark-cladding-timber-office-dutch-heathland-studio-massimo/",
+    "published_at": "2026-11-25T16:55:00.000Z",
+    "fingerprint": "314c84f556dc1ecb3bcd6ede03d2ab0c8723d357",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Le mostre del weekend, da Guttuso e Vedova a Frida e Marilyn",
+    "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/11/25/le-mostre-del-weekend-da-guttuso-e-vedova-a-frida-e-marilyn_25293a56-0f0e-4351-a882-39903747c433.html",
+    "published_at": "2026-11-25T16:42:28.000Z",
+    "fingerprint": "3afbbcda05c6f651360409abd3c8f0aa1dfbde03",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "The year the web industry gave up",
     "link": "https://dbushell.com/2026/11/25/web-industry/",
@@ -53,6 +189,22 @@
     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/25/capotreno-ucciso-condannato-allergastolo-marin-jelenic_f03c0c0a-5dec-448a-bec0-b52f5d273371.html",
     "published_at": "2026-11-25T12:48:27.000Z",
     "fingerprint": "656681fc57278b9ac5e717bd1163c4c3662e6cd3",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Hello Transcribe 5",
+    "link": "https://www.producthunt.com/products/hello-transcribe",
+    "published_at": "2026-11-25T12:43:11.000Z",
+    "fingerprint": "241fd1147ec73c2496667c60c6e5d0e89f296fd1",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "InfraThrone DevOps Park",
+    "link": "https://www.producthunt.com/products/infrathrone-devops-park",
+    "published_at": "2026-11-25T12:07:17.000Z",
+    "fingerprint": "6d4e378c58640bfe76980b605101602fa6d5f4db",
     "micro_judgment": null
   },
   {
@@ -3541,6 +3693,14 @@
     "link": "https://www.producthunt.com/products/deployed-yet",
     "published_at": "2026-11-03T16:01:13.000Z",
     "fingerprint": "1aea8785c776e65948461a2daa29c543463eb49d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "ExtraOrbital",
+    "link": "https://www.producthunt.com/products/extraorbital-deleted-1365752",
+    "published_at": "2026-11-03T15:25:43.000Z",
+    "fingerprint": "52f39c385141407ee8156fe652510858ca9849bf",
     "micro_judgment": null
   },
   {
