@@ -1,10 +1,114 @@
 [
   {
+    "source": "Hacker News · frontpage",
+    "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+    "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+    "published_at": "2026-11-27T11:41:11.000Z",
+    "fingerprint": "cc76adbcb7158fe18f4e4ecc080d4439dfe32e86",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "singapore’s artscience museum shows design beyond the human realm",
+    "link": "https://www.designboom.com/design/artscience-museum-singapore-more-than-human-exhibition/",
+    "published_at": "2026-11-27T11:00:57.000Z",
+    "fingerprint": "b5c52676c6a0dd6dfc88af322079fa7fd4315a4d",
+    "micro_judgment": null
+  },
+  {
+    "source": "Designboom",
+    "title": "1960s grand touring car design shapes acte deux’s paris apartment renovation",
+    "link": "https://www.designboom.com/architecture/1960s-grand-touring-car-design-acte-deux-renovation-paris-apartment/",
+    "published_at": "2026-11-27T08:45:23.000Z",
+    "fingerprint": "777d24b7c09a7d32080f9c5558b7a0f37cebce57",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Buy Nothing Day – Friday November 27th 2026",
+    "link": "https://www.buynothingday.co.uk/",
+    "published_at": "2026-11-27T05:52:42.000Z",
+    "fingerprint": "331a52501d92e03ab8288284c609d3cc5384d3f4",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+    "link": "https://kendell.dev/blog/arkwrapper/",
+    "published_at": "2026-11-26T21:59:19.000Z",
+    "fingerprint": "6027f33db055968ba545bfe27e92a1baa89e65ae",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "HMD’s new $113 phone has one real feature: A Non-English AI Assistant",
+    "link": "https://www.yankodesign.com/2026/11/26/hmds-new-113-phone-has-one-real-feature-a-non-english-ai-assistant/?utm_source=rss&utm_medium=rss&utm_campaign=hmds-new-113-phone-has-one-real-feature-a-non-english-ai-assistant",
+    "published_at": "2026-11-26T21:30:10.000Z",
+    "fingerprint": "fa6dbef46a53ca448a79df252ca0ac631454dad3",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il cda di Rcs designa Stefano Barigelli per la direzione del Corriere",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/26/il-cda-di-rcs-designa-stefano-barigelli-per-la-direzione-del-corriere_fb40f7d3-e251-4706-b202-ebdf33314802.html",
+    "published_at": "2026-11-26T21:10:00.000Z",
+    "fingerprint": "7794b03d57c28efb70137f56d5751946ad539d7b",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Uccide la compagna 23enne poi si dà fuoco e si getta dal viadotto",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/26/uccide-compagna-poi-si-getta-dal-viadotto-lo-stesso-cavalcavia-di-lorena-isceri_6f905f2b-8704-4a58-90da-00838cbf4689.html",
+    "published_at": "2026-11-26T19:18:56.000Z",
+    "fingerprint": "142d1dcc1baeca4fec7e42c886b8c18459aecaef",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Rvoip: VoIP stack in Rust",
+    "link": "https://github.com/eisenzopf/rvoip",
+    "published_at": "2026-11-26T19:18:09.000Z",
+    "fingerprint": "b7a8428998da48f14219076018f19faff829c8ff",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "An introduction to uncertainty in machine learning",
+    "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+    "published_at": "2026-11-26T19:04:50.000Z",
+    "fingerprint": "eafba0e6235b864ab86dfc0987a6b44a110dfb12",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Il fascino del Black Friday spiegato bene",
+    "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/11/26/il-fascino-del-black-friday-spiegato-bene_063f6e1f-6a47-4581-b0f3-aece26378144.html",
+    "published_at": "2026-11-26T17:20:21.000Z",
+    "fingerprint": "fc5573c604dbf0a19b865996a8e8a100db54da60",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "This Alarm Clock Concept Trades the Snooze Button for a Morning Puzzle",
+    "link": "https://www.yankodesign.com/2026/11/26/this-alarm-clock-concept-trades-the-snooze-button-for-a-morning-puzzle/?utm_source=rss&utm_medium=rss&utm_campaign=this-alarm-clock-concept-trades-the-snooze-button-for-a-morning-puzzle",
+    "published_at": "2026-11-26T17:20:10.000Z",
+    "fingerprint": "80a2a32a5bbd00b588bcb8615c1f1835e3dd5f11",
+    "micro_judgment": null
+  },
+  {
     "source": "ANSA",
     "title": "Due tecnici italiani della Rheinmetall morti in un attacco in Kuwait",
     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/26/due-tecnici-italiani-della-rheinmetall-morti-in-un-attacco-in-kuwait_060489c8-4e35-4f04-9c6a-ade4a80acda4.html",
     "published_at": "2026-11-26T14:36:17.000Z",
     "fingerprint": "0c17e513221b74cd8041a6e6f179c6e92a330b90",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Fino a un infarto su 10 non dipende da arterie ostruite, terapie mirate",
+    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/26/fino-a-un-infarto-su-10-non-dipende-da-arterie-ostruite-terapie-mirate_0657827f-385f-4247-b337-0cd3b36cfd93.html",
+    "published_at": "2026-11-26T13:59:27.000Z",
+    "fingerprint": "647af25cecb141985c108b5d751eac5cef9dae36",
     "micro_judgment": null
   },
   {
@@ -93,6 +197,14 @@
     "link": "https://www.yankodesign.com/2026/11/25/this-smart-ring-tracks-your-sleep-and-becomes-your-ai-note-taker-when-youre-awake/?utm_source=rss&utm_medium=rss&utm_campaign=this-smart-ring-tracks-your-sleep-and-becomes-your-ai-note-taker-when-youre-awake",
     "published_at": "2026-11-26T02:45:40.000Z",
     "fingerprint": "d133be8f253aa712245a812d2934dbd5ded60d97",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Remove Silence",
+    "link": "https://www.producthunt.com/products/remove-silence",
+    "published_at": "2026-11-26T01:07:23.000Z",
+    "fingerprint": "a2382354b301d37602c0762643298712786262ba",
     "micro_judgment": null
   },
   {
@@ -221,6 +333,14 @@
     "link": "https://www.designboom.com/art/designboom-listens-yuri-suzuki-many-dimensions-sound-interview/",
     "published_at": "2026-11-25T10:25:53.000Z",
     "fingerprint": "5ca01cb5395f3ab3cd39d304ae3ba791ed967094",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Espresso 27",
+    "link": "https://www.producthunt.com/products/espresso-27",
+    "published_at": "2026-11-25T09:08:04.000Z",
+    "fingerprint": "e8683fb287e8de5dd9b49463c6d912c7fcabe47c",
     "micro_judgment": null
   },
   {
