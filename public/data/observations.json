@@ -1,5 +1,125 @@
 [
   {
+    "source": "ANSA",
+    "title": "Albanese verso l'Italia: 'Grazie al popolo di Costa Rica, tornerò quando sarà libera'",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/28/albanese-trattenuta-in-costa-rica-finalmente-fuori-dallaeroporto_595b3245-2da6-4c1f-879b-14d9dda01a6c.html",
+    "published_at": "2026-11-28T13:55:08.000Z",
+    "fingerprint": "f58d5fde72bc44737b435c3e87eba57d1962df27",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Un uomo in fuga dopo una sparatoria, un morto e un fermato nel Veneziano",
+    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/un-uomo-in-fuga-dopo-sparatoria-con-un-morto-e-un-fermato-nel-veneziano_8d897e50-5b28-47dc-b85d-f5779ae4f8ee.html",
+    "published_at": "2026-11-28T13:51:55.000Z",
+    "fingerprint": "899382d595b013d2442d29bf703d63f688a7c4d8",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Raid su un matrimonio in Myanmar, 21 i morti, anche cinque bambini",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/28/raid-su-un-matrimonio-in-myanmar-21-i-morti-anche-cinque-bambini_6108f7bc-78f0-4a86-b9fa-8f989482a7d6.html",
+    "published_at": "2026-11-28T13:20:08.000Z",
+    "fingerprint": "d4ae3198dd96d6bedd488dc0a875f157760102d6",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Legge elettorale, Schlein: 'Inaccettabile l'intimidazione di La Russa, piantatela con gli attacchi ai giudici'",
+    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/schlein-inaccettabile-intimidazione-la-russa-piantatela-con-attacchi-ai-giudici_e6901f62-1455-4688-8e67-f225f4840ba2.html",
+    "published_at": "2026-11-28T13:17:31.000Z",
+    "fingerprint": "028fe53c2f1eadc51b02c41cada741e6baddbe12",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+    "link": "https://scriptor-pro.github.io/luciole-mono/",
+    "published_at": "2026-11-28T12:50:15.000Z",
+    "fingerprint": "3605a60bc40554fd829bdfa7aad8652a0a6c12ee",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "A Roma il convegno 'Emma Bonino nelle istituzioni europee. Una presenza eccezionale'",
+    "link": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/11/28/a-roma-il-convegno-emma-bonino-nelle-istituzioni-europee.-una-presenza-eccezionale_f0b1563a-4f4f-4f22-8799-f04d1c70a64f.html",
+    "published_at": "2026-11-28T10:42:30.000Z",
+    "fingerprint": "fd4c9d797b98d5192d38f488ec549a1fdd489318",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Almeno 14 migranti morti e sei feriti gravi sbarcati da un caicco a El Hierro",
+    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/28/almeno-14-migranti-morti-e-sei-feriti-gravi-sbarcati-da-un-caicco-a-el-hierro_bce18c30-5ea6-4521-ba5f-c739279c9b1d.html",
+    "published_at": "2026-11-28T10:26:44.000Z",
+    "fingerprint": "79d0d3197bac492bf2a9fb27693092003f5990a9",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Mistero",
+    "link": "https://www.ansa.it/sito/podcast/la_parola_della_settimana/2026/11/28/mistero_db765f96-4486-49d8-93a8-d35e53acf366.html",
+    "published_at": "2026-11-28T07:56:32.000Z",
+    "fingerprint": "99285843a5dbb9a21bd51a061eafbd1eb0f63d9f",
+    "micro_judgment": null
+  },
+  {
+    "source": "ANSA",
+    "title": "Più satelliti che stelle nel cielo notturno di molte città",
+    "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/11/28/piu-satelliti-che-stelle-nel-cielo-notturno-di-molte-citta_6c95c2c1-f28e-4269-94e8-24e9cc6a2172.html",
+    "published_at": "2026-11-28T07:18:11.000Z",
+    "fingerprint": "f69af8b5e3d5857df377e5c78366e2e93fa28405",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Cork Puzzle Lamps Refuse to Hide Their Joinery",
+    "link": "https://www.yankodesign.com/2026/11/27/cork-puzzle-lamps-refuse-to-hide-their-joinery/?utm_source=rss&utm_medium=rss&utm_campaign=cork-puzzle-lamps-refuse-to-hide-their-joinery",
+    "published_at": "2026-11-27T22:30:10.000Z",
+    "fingerprint": "d0d799aa858a72f41e8c5584ae8e8d5e2c332235",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Nosiboo Zigg Is a Bat Night Light That Quietly Tucks Itself In",
+    "link": "https://www.yankodesign.com/2026/11/27/nosiboo-zigg-is-a-bat-night-light-that-quietly-tucks-itself-in/?utm_source=rss&utm_medium=rss&utm_campaign=nosiboo-zigg-is-a-bat-night-light-that-quietly-tucks-itself-in",
+    "published_at": "2026-11-27T21:30:14.000Z",
+    "fingerprint": "96476da3129b147710ae2f35626aa690860a3f32",
+    "micro_judgment": null
+  },
+  {
+    "source": "Yanko Design",
+    "title": "Segway’s parent company designed a TRON Light Cycle with a roof and a recliner",
+    "link": "https://www.yankodesign.com/2026/11/27/segways-parent-company-designed-a-tron-light-cycle-with-a-roof-and-a-recliner/?utm_source=rss&utm_medium=rss&utm_campaign=segways-parent-company-designed-a-tron-light-cycle-with-a-roof-and-a-recliner",
+    "published_at": "2026-11-27T20:20:20.000Z",
+    "fingerprint": "54645b5788f8ed2d99ced044c8a6ca3718dfbe88",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Wender Desktop",
+    "link": "https://www.producthunt.com/products/wender",
+    "published_at": "2026-11-27T17:15:03.000Z",
+    "fingerprint": "fd273442a8b90ba6040911f8200bc552a9e0ac54",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+    "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+    "published_at": "2026-11-27T15:40:31.000Z",
+    "fingerprint": "978bfd733576a34d4a4c15cd572e9e2af579d666",
+    "micro_judgment": null
+  },
+  {
+    "source": "Hacker News · frontpage",
+    "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "link": "https://bouncemarket.minhanhday.com/",
+    "published_at": "2026-11-27T15:01:50.000Z",
+    "fingerprint": "2c2ad033ace9efd154dcd0cd2d365a4b10d8260e",
+    "micro_judgment": null
+  },
+  {
     "source": "Hacker News · frontpage",
     "title": "Pizza history: AI agent's cardless purchase is a first for UK",
     "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
@@ -229,6 +349,14 @@
     "link": "https://www.producthunt.com/products/remora-6",
     "published_at": "2026-11-25T18:28:50.000Z",
     "fingerprint": "d96dbcc2d884b07d5d8d426f7c9d090a80d66802",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Bento",
+    "link": "https://www.producthunt.com/products/bento-11",
+    "published_at": "2026-11-25T18:11:07.000Z",
+    "fingerprint": "992ff3087ed0c24a9203997120d0613c205bb872",
     "micro_judgment": null
   },
   {
@@ -2909,6 +3037,14 @@
     "link": "https://www.ansa.it/sito/podcast/la_scelta_del_direttore/2026/11/06/la-rivincita-di-toqueville_93058cea-17c8-4101-9b30-7029c3a17f30.html",
     "published_at": "2026-11-08T06:12:16.000Z",
     "fingerprint": "d93269ccad04be0f658d6dff72dbdc89592e842c",
+    "micro_judgment": null
+  },
+  {
+    "source": "Product Hunt",
+    "title": "DearDarling",
+    "link": "https://www.producthunt.com/products/deardarling",
+    "published_at": "2026-11-08T05:39:19.000Z",
+    "fingerprint": "f54c36f4be7026edee9bc9df7487516e98c5abd2",
     "micro_judgment": null
   },
   {
